@@ -1,0 +1,19 @@
+# Copyrighted game data (never commit)
+original/
+work/
+*.iso
+*.bin
+*.img
+*.mdf
+
+# Generated patches and reports
+build/
+
+# Publish only the current audited ISO-free workflow archive.
+release/*
+!release/dai2-alpha-english-editable-patch.zip
+
+# Local tooling state
+__pycache__/
+*.pyc
+.venv/

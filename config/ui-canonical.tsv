@@ -1,0 +1,34 @@
+japanese	english	notes
+主人公設定	Hero Setup	Screenshot-verified compact UI label
+主人公設定の変更	Change Protagonist	Compact UI label
+タイプ	Type	UI label
+名前	Name	UI label
+愛称	Alias	Compact UI label
+誕生日	Birth	Compact UI label
+血液型	B.Type	Compact UI label
+スーパーロボット系男性	Super Robot - Male	Protagonist type
+ゼンガー・ゾンボルト	Sanger Zonvolt	Established character name
+ゼンガー	Sanger	Established character name
+武器性能	Weapon Stats	Screenshot-verified tab
+パイロット能力	Pilot Skills	Screenshot-verified compact tab
+機体能力	Unit Stats	Screenshot-verified tab
+ユニット能力	Unit Abilities	Screenshot-verified tab
+詳細	Info	Compact UI label
+武器名	Weapon	Screenshot-verified heading
+属性	Attr.	Compact UI heading
+種別	Type	UI heading
+攻撃力	Power	UI heading
+射程	Range	UI heading
+命中	Hit	Compact UI heading
+アイソリッド・レーザー	Eye Solid Laser	Weapon name
+ドリル・ブーストナックル	Drill Boost Knuckle	Weapon name
+オメガ・ブラスター	Omega Blaster	Weapon name
+弾数	Ammo	UI label
+消費ＥＮ	EN Cost	UI label
+必要気力	Morale	Compact UI label
+クリティカル補正	Critical Bonus	UI label
+地形適応	Terrain	Compact UI label
+必要技能	Req. Skill	UI label
+能力	Stats	Command menu label
+設定項目を変更する	Change Settings	Protagonist prompt
+これでいい	Confirm	Protagonist prompt

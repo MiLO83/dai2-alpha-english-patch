@@ -1,0 +1,4 @@
+member_offset	allocation	translation	notes
+0x4210	0x40	「Lady Kukuru,\nGate surfaced!」	Existing Haniwa record; dialogue delimiters required
+0x4250	0x40	「A final,\ndesperate struggle.」	Existing Kukuru record; dialogue delimiters required
+0x4290	0x20	「Got the item?」	Existing Haniwa record reused as continuation page; dialogue delimiters required

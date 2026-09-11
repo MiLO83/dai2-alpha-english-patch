@@ -1,0 +1,4114 @@
+﻿kind	Japanese glyph	Japanese bytes	English glyph	English bytes	atlas index
+Japanese/retail	"	"	09			
+Japanese/retail	"
+"	0A			
+Japanese/retail	 	20			
+Japanese/retail	$	24			
+Japanese/retail	%	25			
+Japanese/retail	'	27			
+Japanese/retail	(	28			
+Japanese/retail	)	29			
+Japanese/retail	,	2C			
+Japanese/retail	1	31			
+Japanese/retail	3	33			
+Japanese/retail	8	38			
+Japanese/retail	9	39			
+Japanese/retail	:	3A			
+Japanese/retail	<	3C			
+Japanese/retail	>	3E			
+Japanese/retail	?	3F			
+Japanese/retail	@	40			
+Japanese/retail	C	43			
+Japanese/retail	F	46			
+Japanese/retail	M	4D			
+Japanese/retail	P	50			
+Japanese/retail	T	54			
+Japanese/retail	V	56			
+Japanese/retail	Z	5A			
+Japanese/retail	_	5F			
+Japanese/retail	a	61			
+Japanese/retail	c	63			
+Japanese/retail	d	64			
+Japanese/retail	e	65			
+Japanese/retail	f	66			
+Japanese/retail	g	67			
+Japanese/retail	i	69			
+Japanese/retail	l	6C			
+Japanese/retail	n	6E			
+Japanese/retail	o	6F			
+Japanese/retail	p	70			
+Japanese/retail	r	72			
+Japanese/retail	s	73			
+Japanese/retail	t	74			
+Japanese/retail	u	75			
+Japanese/retail	v	76			
+Japanese/retail	w	77			
+Japanese/retail	x	78			
+Japanese/retail	y	79			
+Japanese/retail	z	7A			
+Japanese/retail	{	7B			
+Japanese/retail	|	7C			
+Japanese/retail	×	817E			0x003E
+Japanese/retail	α	83BF			0x01FF
+Japanese/retail	β	83C0			0x0200
+Japanese/retail	ν	83CB			0x020B
+Japanese/retail	υ	83D2			0x0212
+Japanese/retail	п	8481			0x0281
+Japanese/retail	‐	815D			0x001D
+Japanese/retail	’	8166			0x0026
+Japanese/retail	…	8163			0x0023
+Japanese/retail	Ⅱ	8755			0x0495
+Japanese/retail	Ⅲ	8756			0x0496
+Japanese/retail	Ⅳ	8757			0x0497
+Japanese/retail	Ⅴ	8758			0x0498
+Japanese/retail	△	81A2			0x0062
+Japanese/retail	○	819B			0x005B
+Japanese/retail	♪	81F4			0x00B4
+Japanese/retail	　	8140			0x0000
+Japanese/retail	、	8141			0x0001
+Japanese/retail	。	8142			0x0002
+Japanese/retail	々	8158			0x0018
+Japanese/retail	「	8175			0x0035
+Japanese/retail	」	8176			0x0036
+Japanese/retail	『	8177			0x0037
+Japanese/retail	』	8178			0x0038
+Japanese/retail	ぁ	829F			0x011F
+Japanese/retail	あ	82A0			0x0120
+Japanese/retail	ぃ	82A1			0x0121
+Japanese/retail	い	82A2			0x0122
+Japanese/retail	ぅ	82A3			0x0123
+Japanese/retail	う	82A4			0x0124
+Japanese/retail	ぇ	82A5			0x0125
+Japanese/retail	え	82A6			0x0126
+Japanese/retail	ぉ	82A7			0x0127
+Japanese/retail	お	82A8			0x0128
+Japanese/retail	か	82A9			0x0129
+Japanese/retail	が	82AA			0x012A
+Japanese/retail	き	82AB			0x012B
+Japanese/retail	ぎ	82AC			0x012C
+Japanese/retail	く	82AD			0x012D
+Japanese/retail	ぐ	82AE			0x012E
+Japanese/retail	け	82AF			0x012F
+Japanese/retail	げ	82B0			0x0130
+Japanese/retail	こ	82B1			0x0131
+Japanese/retail	ご	82B2			0x0132
+Japanese/retail	さ	82B3			0x0133
+Japanese/retail	ざ	82B4			0x0134
+Japanese/retail	し	82B5			0x0135
+Japanese/retail	じ	82B6			0x0136
+Japanese/retail	す	82B7			0x0137
+Japanese/retail	ず	82B8			0x0138
+Japanese/retail	せ	82B9			0x0139
+Japanese/retail	ぜ	82BA			0x013A
+Japanese/retail	そ	82BB			0x013B
+Japanese/retail	ぞ	82BC			0x013C
+Japanese/retail	た	82BD			0x013D
+Japanese/retail	だ	82BE			0x013E
+Japanese/retail	ち	82BF			0x013F
+Japanese/retail	っ	82C1			0x0141
+Japanese/retail	つ	82C2			0x0142
+Japanese/retail	づ	82C3			0x0143
+Japanese/retail	て	82C4			0x0144
+Japanese/retail	で	82C5			0x0145
+Japanese/retail	と	82C6			0x0146
+Japanese/retail	ど	82C7			0x0147
+Japanese/retail	な	82C8			0x0148
+Japanese/retail	に	82C9			0x0149
+Japanese/retail	ぬ	82CA			0x014A
+Japanese/retail	ね	82CB			0x014B
+Japanese/retail	の	82CC			0x014C
+Japanese/retail	は	82CD			0x014D
+Japanese/retail	ば	82CE			0x014E
+Japanese/retail	ぱ	82CF			0x014F
+Japanese/retail	ひ	82D0			0x0150
+Japanese/retail	び	82D1			0x0151
+Japanese/retail	ぴ	82D2			0x0152
+Japanese/retail	ふ	82D3			0x0153
+Japanese/retail	ぶ	82D4			0x0154
+Japanese/retail	ぷ	82D5			0x0155
+Japanese/retail	へ	82D6			0x0156
+Japanese/retail	べ	82D7			0x0157
+Japanese/retail	ぺ	82D8			0x0158
+Japanese/retail	ほ	82D9			0x0159
+Japanese/retail	ぼ	82DA			0x015A
+Japanese/retail	ぽ	82DB			0x015B
+Japanese/retail	ま	82DC			0x015C
+Japanese/retail	み	82DD			0x015D
+Japanese/retail	む	82DE			0x015E
+Japanese/retail	め	82DF			0x015F
+Japanese/retail	も	82E0			0x0160
+Japanese/retail	ゃ	82E1			0x0161
+Japanese/retail	や	82E2			0x0162
+Japanese/retail	ゅ	82E3			0x0163
+Japanese/retail	ゆ	82E4			0x0164
+Japanese/retail	ょ	82E5			0x0165
+Japanese/retail	よ	82E6			0x0166
+Japanese/retail	ら	82E7			0x0167
+Japanese/retail	り	82E8			0x0168
+Japanese/retail	る	82E9			0x0169
+Japanese/retail	れ	82EA			0x016A
+Japanese/retail	ろ	82EB			0x016B
+Japanese/retail	わ	82ED			0x016D
+Japanese/retail	を	82F0			0x0170
+Japanese/retail	ん	82F1			0x0171
+Japanese/retail	ァ	8340			0x0180
+Japanese/retail	ア	8341			0x0181
+Japanese/retail	ィ	8342			0x0182
+Japanese/retail	イ	8343			0x0183
+Japanese/retail	ゥ	8344			0x0184
+Japanese/retail	ウ	8345			0x0185
+Japanese/retail	ェ	8346			0x0186
+Japanese/retail	エ	8347			0x0187
+Japanese/retail	ォ	8348			0x0188
+Japanese/retail	オ	8349			0x0189
+Japanese/retail	カ	834A			0x018A
+Japanese/retail	ガ	834B			0x018B
+Japanese/retail	キ	834C			0x018C
+Japanese/retail	ギ	834D			0x018D
+Japanese/retail	ク	834E			0x018E
+Japanese/retail	グ	834F			0x018F
+Japanese/retail	ケ	8350			0x0190
+Japanese/retail	ゲ	8351			0x0191
+Japanese/retail	コ	8352			0x0192
+Japanese/retail	ゴ	8353			0x0193
+Japanese/retail	サ	8354			0x0194
+Japanese/retail	ザ	8355			0x0195
+Japanese/retail	シ	8356			0x0196
+Japanese/retail	ジ	8357			0x0197
+Japanese/retail	ス	8358			0x0198
+Japanese/retail	ズ	8359			0x0199
+Japanese/retail	セ	835A			0x019A
+Japanese/retail	ゼ	835B			0x019B
+Japanese/retail	ソ	835C			0x019C
+Japanese/retail	ゾ	835D			0x019D
+Japanese/retail	タ	835E			0x019E
+Japanese/retail	ダ	835F			0x019F
+Japanese/retail	チ	8360			0x01A0
+Japanese/retail	ッ	8362			0x01A2
+Japanese/retail	ツ	8363			0x01A3
+Japanese/retail	ヅ	8364			0x01A4
+Japanese/retail	テ	8365			0x01A5
+Japanese/retail	デ	8366			0x01A6
+Japanese/retail	ト	8367			0x01A7
+Japanese/retail	ド	8368			0x01A8
+Japanese/retail	ナ	8369			0x01A9
+Japanese/retail	ニ	836A			0x01AA
+Japanese/retail	ヌ	836B			0x01AB
+Japanese/retail	ネ	836C			0x01AC
+Japanese/retail	ノ	836D			0x01AD
+Japanese/retail	ハ	836E			0x01AE
+Japanese/retail	バ	836F			0x01AF
+Japanese/retail	パ	8370			0x01B0
+Japanese/retail	ヒ	8371			0x01B1
+Japanese/retail	ビ	8372			0x01B2
+Japanese/retail	ピ	8373			0x01B3
+Japanese/retail	フ	8374			0x01B4
+Japanese/retail	ブ	8375			0x01B5
+Japanese/retail	プ	8376			0x01B6
+Japanese/retail	ヘ	8377			0x01B7
+Japanese/retail	ベ	8378			0x01B8
+Japanese/retail	ペ	8379			0x01B9
+Japanese/retail	ホ	837A			0x01BA
+Japanese/retail	ボ	837B			0x01BB
+Japanese/retail	ポ	837C			0x01BC
+Japanese/retail	マ	837D			0x01BD
+Japanese/retail	ミ	837E			0x01BE
+Japanese/retail	ム	8380			0x01C0
+Japanese/retail	メ	8381			0x01C1
+Japanese/retail	モ	8382			0x01C2
+Japanese/retail	ャ	8383			0x01C3
+Japanese/retail	ヤ	8384			0x01C4
+Japanese/retail	ュ	8385			0x01C5
+Japanese/retail	ユ	8386			0x01C6
+Japanese/retail	ョ	8387			0x01C7
+Japanese/retail	ヨ	8388			0x01C8
+Japanese/retail	ラ	8389			0x01C9
+Japanese/retail	リ	838A			0x01CA
+Japanese/retail	ル	838B			0x01CB
+Japanese/retail	レ	838C			0x01CC
+Japanese/retail	ロ	838D			0x01CD
+Japanese/retail	ワ	838F			0x01CF
+Japanese/retail	ヲ	8392			0x01D2
+Japanese/retail	ン	8393			0x01D3
+Japanese/retail	ヴ	8394			0x01D4
+Japanese/retail	ヶ	8396			0x01D6
+Japanese/retail	・	8145			0x0005
+Japanese/retail	ー	815B			0x001B
+Japanese/retail	㈹	878C			0x04CC
+Japanese/retail	㊧	8788			0x04C8
+Japanese/retail	一	88EA			0x05EA
+Japanese/retail	丁	929A			0x0D1A
+Japanese/retail	七	8EB5			0x0A35
+Japanese/retail	万	969C			0x101C
+Japanese/retail	丈	8FE4			0x0B24
+Japanese/retail	三	8E4F			0x09CF
+Japanese/retail	上	8FE3			0x0B23
+Japanese/retail	下	89BA			0x067A
+Japanese/retail	不	9573			0x0F33
+Japanese/retail	与	975E			0x109E
+Japanese/retail	世	90A2			0x0BA2
+Japanese/retail	丘	8B75			0x07B5
+Japanese/retail	両	97BC			0x10FC
+Japanese/retail	並	95C0			0x0F80
+Japanese/retail	中	9286			0x0D06
+Japanese/retail	串	8BF8			0x0838
+Japanese/retail	丸	8ADB			0x075B
+Japanese/retail	主	8EE5			0x0A65
+Japanese/retail	丼	98A5			
+Japanese/retail	久	8B76			0x07B6
+Japanese/retail	乏	9652			0x0FD2
+Japanese/retail	乗	8FE6			0x0B26
+Japanese/retail	乙	89B3			0x0673
+Japanese/retail	九	8BE3			0x0823
+Japanese/retail	乞	8CEE			0x08EE
+Japanese/retail	也	96E7			0x1067
+Japanese/retail	乱	9790			0x10D0
+Japanese/retail	乳	93FB			0x0E3B
+Japanese/retail	乾	8AA3			0x0723
+Japanese/retail	亀	8B54			0x0794
+Japanese/retail	了	97B9			0x10F9
+Japanese/retail	予	975C			0x109C
+Japanese/retail	争	9188			0x0C48
+Japanese/retail	事	8E96			0x0A16
+Japanese/retail	二	93F1			0x0E31
+Japanese/retail	互	8CDD			0x08DD
+Japanese/retail	五	8CDC			0x08DC
+Japanese/retail	些	8DB1			0x0971
+Japanese/retail	亜	889F			0x059F
+Japanese/retail	亡	9653			0x0FD3
+Japanese/retail	交	8CF0			0x08F0
+Japanese/retail	享	8B9D			0x07DD
+Japanese/retail	京	8B9E			0x07DE
+Japanese/retail	人	906C			0x0B6C
+Japanese/retail	仁	906D			0x0B6D
+Japanese/retail	仇	8B77			0x07B7
+Japanese/retail	今	8DA1			0x0961
+Japanese/retail	介	89EE			0x06AE
+Japanese/retail	仏	95A7			0x0F67
+Japanese/retail	仕	8E64			0x09E4
+Japanese/retail	他	91BC			0x0C7C
+Japanese/retail	付	9574			0x0F34
+Japanese/retail	代	91E3			0x0CA3
+Japanese/retail	令	97DF			0x111F
+Japanese/retail	以	88C8			0x05C8
+Japanese/retail	仮	89BC			0x067C
+Japanese/retail	仰	8BC2			0x0802
+Japanese/retail	仲	9287			0x0D07
+Japanese/retail	件	8C8F			0x088F
+Japanese/retail	任	9443			0x0E43
+Japanese/retail	企	8AE9			0x0769
+Japanese/retail	伊	88C9			0x05C9
+Japanese/retail	伍	8CDE			0x08DE
+Japanese/retail	伏	959A			0x0F5A
+Japanese/retail	伐	94B0			0x0EB0
+Japanese/retail	休	8B78			0x07B8
+Japanese/retail	会	89EF			0x06AF
+Japanese/retail	伝	9360			0x0DA0
+Japanese/retail	伯	948C			0x0E8C
+Japanese/retail	伴	94BA			0x0EBA
+Japanese/retail	伸	904C			0x0B4C
+Japanese/retail	似	8E97			0x0A17
+Japanese/retail	位	88CA			0x05CA
+Japanese/retail	低	92E1			0x0D61
+Japanese/retail	住	8F5A			0x0A9A
+Japanese/retail	佐	8DB2			0x0972
+Japanese/retail	体	91CC			0x0C8C
+Japanese/retail	何	89BD			0x067D
+Japanese/retail	余	975D			0x109D
+Japanese/retail	作	8DEC			0x09AC
+Japanese/retail	併	95B9			0x0F79
+Japanese/retail	使	8E67			0x09E7
+Japanese/retail	例	97E1			0x1121
+Japanese/retail	侍	8E98			0x0A18
+Japanese/retail	供	8B9F			0x07DF
+Japanese/retail	依	88CB			0x05CB
+Japanese/retail	価	89BF			0x067F
+Japanese/retail	侮	958E			0x0F4E
+Japanese/retail	侵	904E			0x0B4E
+Japanese/retail	便	95D6			0x0F96
+Japanese/retail	係	8C57			0x0857
+Japanese/retail	促	91A3			0x0C63
+Japanese/retail	俄	89E2			0x06A2
+Japanese/retail	俗	91AD			0x0C6D
+Japanese/retail	保	95DB			0x0F9B
+Japanese/retail	信	904D			0x0B4D
+Japanese/retail	修	8F43			0x0A83
+Japanese/retail	俵	9555			0x0F15
+Japanese/retail	俺	89B4			0x0674
+Japanese/retail	倉	9171			0x0C31
+Japanese/retail	個	8CC2			0x08C2
+Japanese/retail	倍	947B			0x0E7B
+Japanese/retail	倒	937C			0x0DBC
+Japanese/retail	候	8CF3			0x08F3
+Japanese/retail	借	8ED8			0x0A58
+Japanese/retail	値	926C			0x0CEC
+Japanese/retail	偉	88CC			0x05CC
+Japanese/retail	偏	95CE			0x0F8E
+Japanese/retail	停	92E2			0x0D62
+Japanese/retail	健	8C92			0x0892
+Japanese/retail	側	91A4			0x0C64
+Japanese/retail	偵	92E3			0x0D63
+Japanese/retail	偶	8BF4			0x0834
+Japanese/retail	偽	8B55			0x0795
+Japanese/retail	傍	9654			0x0FD4
+Japanese/retail	傑	8C86			0x0886
+Japanese/retail	備	94F5			0x0EF5
+Japanese/retail	催	8DC3			0x0983
+Japanese/retail	傲	98FC			
+Japanese/retail	傷	8F9D			0x0ADD
+Japanese/retail	傾	8C58			0x0858
+Japanese/retail	働	93AD			0x0DED
+Japanese/retail	像	919C			0x0C5C
+Japanese/retail	僕	966C			0x0FEC
+Japanese/retail	僚	97BB			0x10FB
+Japanese/retail	僧	916D			0x0C2D
+Japanese/retail	僭	9947			
+Japanese/retail	儀	8B56			0x0796
+Japanese/retail	億	89AD			0x066D
+Japanese/retail	儚	9952			
+Japanese/retail	償	8F9E			0x0ADE
+Japanese/retail	優	9744			0x1084
+Japanese/retail	儲	96D7			0x1057
+Japanese/retail	元	8CB3			0x08B3
+Japanese/retail	兄	8C5A			0x085A
+Japanese/retail	充	8F5B			0x0A9B
+Japanese/retail	兆	929B			0x0D1B
+Japanese/retail	先	90E6			0x0BE6
+Japanese/retail	光	8CF5			0x08F5
+Japanese/retail	克	8D8E			0x094E
+Japanese/retail	免	96C6			0x1046
+Japanese/retail	兎	9365			0x0DA5
+Japanese/retail	児	8E99			0x0A19
+Japanese/retail	党	937D			0x0DBD
+Japanese/retail	兜	8A95			0x0715
+Japanese/retail	入	93FC			0x0E3C
+Japanese/retail	全	9153			0x0C13
+Japanese/retail	八	94AA			0x0EAA
+Japanese/retail	公	8CF6			0x08F6
+Japanese/retail	六	985A			0x115A
+Japanese/retail	共	8BA4			0x07E4
+Japanese/retail	兵	95BA			0x0F7A
+Japanese/retail	具	8BEF			0x082F
+Japanese/retail	典	9354			0x0D94
+Japanese/retail	兼	8C93			0x0893
+Japanese/retail	内	93E0			0x0E20
+Japanese/retail	円	897E			0x063E
+Japanese/retail	再	8DC4			0x0984
+Japanese/retail	冒	9660			0x0FE0
+Japanese/retail	冗	8FE7			0x0B27
+Japanese/retail	写	8ECA			0x0A4A
+Japanese/retail	冠	8AA5			0x0725
+Japanese/retail	冥	96BB			0x103B
+Japanese/retail	冬	937E			0x0DBE
+Japanese/retail	冷	97E2			0x1122
+Japanese/retail	凄	90A6			0x0BA6
+Japanese/retail	凌	97BD			0x10FD
+Japanese/retail	凍	9380			0x0DC0
+Japanese/retail	凝	8BC3			0x0803
+Japanese/retail	処	8F88			0x0AC8
+Japanese/retail	凱	8A4D			0x06CD
+Japanese/retail	凶	8BA5			0x07E5
+Japanese/retail	出	8F6F			0x0AAF
+Japanese/retail	刀	9381			0x0DC1
+Japanese/retail	刃	906E			0x0B6E
+Japanese/retail	分	95AA			0x0F6A
+Japanese/retail	切	90D8			0x0BD8
+Japanese/retail	刑	8C59			0x0859
+Japanese/retail	列	97F1			0x1131
+Japanese/retail	初	8F89			0x0AC9
+Japanese/retail	判	94BB			0x0EBB
+Japanese/retail	別	95CA			0x0F8A
+Japanese/retail	利	9798			0x10D8
+Japanese/retail	刮	9989			
+Japanese/retail	到	939E			0x0DDE
+Japanese/retail	制	90A7			0x0BA7
+Japanese/retail	刷	8DFC			0x09BC
+Japanese/retail	刺	8E68			0x09E8
+Japanese/retail	刻	8D8F			0x094F
+Japanese/retail	則	91A5			0x0C65
+Japanese/retail	削	8DED			0x09AD
+Japanese/retail	前	914F			0x0C0F
+Japanese/retail	剛	8D84			0x0944
+Japanese/retail	剣	8C95			0x0895
+Japanese/retail	剤	8DDC			0x099C
+Japanese/retail	副	959B			0x0F5B
+Japanese/retail	剰	8FE8			0x0B28
+Japanese/retail	割	8A84			0x0704
+Japanese/retail	創	916E			0x0C2E
+Japanese/retail	劇	8C80			0x0880
+Japanese/retail	劔	9999			
+Japanese/retail	力	97CD			0x110D
+Japanese/retail	功	8CF7			0x08F7
+Japanese/retail	加	89C1			0x0681
+Japanese/retail	劣	97F2			0x1132
+Japanese/retail	助	8F95			0x0AD5
+Japanese/retail	努	9377			0x0DB7
+Japanese/retail	劫	8D85			0x0945
+Japanese/retail	励	97E3			0x1123
+Japanese/retail	労	984A			0x114A
+Japanese/retail	効	8CF8			0x08F8
+Japanese/retail	勃	9675			0x0FF5
+Japanese/retail	勇	9745			0x1085
+Japanese/retail	勉	95D7			0x0F97
+Japanese/retail	動	93AE			0x0DEE
+Japanese/retail	勘	8AA8			0x0728
+Japanese/retail	務	96B1			0x1031
+Japanese/retail	勝	8F9F			0x0ADF
+Japanese/retail	募	95E5			0x0FA5
+Japanese/retail	勢	90A8			0x0BA8
+Japanese/retail	勤	8BCE			0x080E
+Japanese/retail	勧	8AA9			0x0729
+Japanese/retail	勲	8C4D			0x084D
+Japanese/retail	匂	93F5			0x0E35
+Japanese/retail	包	95EF			0x0FAF
+Japanese/retail	化	89BB			0x067B
+Japanese/retail	北	966B			0x0FEB
+Japanese/retail	匯	99B9			
+Japanese/retail	匹	9543			0x0F03
+Japanese/retail	区	8BE6			0x0826
+Japanese/retail	医	88E3			0x05E3
+Japanese/retail	十	8F5C			0x0A9C
+Japanese/retail	千	90E7			0x0BE7
+Japanese/retail	午	8CDF			0x08DF
+Japanese/retail	半	94BC			0x0EBC
+Japanese/retail	卑	94DA			0x0EDA
+Japanese/retail	卒	91B2			0x0C72
+Japanese/retail	協	8BA6			0x07E6
+Japanese/retail	南	93EC			0x0E2C
+Japanese/retail	単	9250			0x0CD0
+Japanese/retail	博	948E			0x0E8E
+Japanese/retail	占	90E8			0x0BE8
+Japanese/retail	卯	894B			0x060B
+Japanese/retail	印	88F3			0x05F3
+Japanese/retail	危	8AEB			0x076B
+Japanese/retail	即	91A6			0x0C66
+Japanese/retail	却	8B70			0x07B0
+Japanese/retail	卵	9791			0x10D1
+Japanese/retail	厄	96EF			0x106F
+Japanese/retail	厚	8CFA			0x08FA
+Japanese/retail	原	8CB4			0x08B4
+Japanese/retail	厨	907E			0x0B7E
+Japanese/retail	厭	897D			0x063D
+Japanese/retail	厳	8CB5			0x08B5
+Japanese/retail	去	8B8E			0x07CE
+Japanese/retail	参	8E51			0x09D1
+Japanese/retail	及	8B79			0x07B9
+Japanese/retail	友	9746			0x1086
+Japanese/retail	双	916F			0x0C2F
+Japanese/retail	反	94BD			0x0EBD
+Japanese/retail	収	8EFB			0x0A7B
+Japanese/retail	叔	8F66			0x0AA6
+Japanese/retail	取	8EE6			0x0A66
+Japanese/retail	受	8EF3			0x0A73
+Japanese/retail	叛	94BE			0x0EBE
+Japanese/retail	口	8CFB			0x08FB
+Japanese/retail	古	8CC3			0x08C3
+Japanese/retail	句	8BE5			0x0825
+Japanese/retail	叩	9240			0x0CC0
+Japanese/retail	只	91FC			0x0CBC
+Japanese/retail	叫	8BA9			0x07E9
+Japanese/retail	召	8FA2			0x0AE2
+Japanese/retail	可	89C2			0x0682
+Japanese/retail	台	91E4			0x0CA4
+Japanese/retail	叱	8EB6			0x0A36
+Japanese/retail	史	8E6A			0x09EA
+Japanese/retail	右	8945			0x0605
+Japanese/retail	叶	8A90			0x0710
+Japanese/retail	号	8D86			0x0946
+Japanese/retail	司	8E69			0x09E9
+Japanese/retail	各	8A65			0x06E5
+Japanese/retail	合	8D87			0x0947
+Japanese/retail	吉	8B67			0x07A7
+Japanese/retail	吊	92DD			0x0D5D
+Japanese/retail	同	93AF			0x0DEF
+Japanese/retail	名	96BC			0x103C
+Japanese/retail	吐	9366			0x0DA6
+Japanese/retail	向	8CFC			0x08FC
+Japanese/retail	君	8C4E			0x084E
+Japanese/retail	吠	9669			0x0FE9
+Japanese/retail	否	94DB			0x0EDB
+Japanese/retail	含	8ADC			0x075C
+Japanese/retail	吸	8B7A			0x07BA
+Japanese/retail	吹	9081			0x0B81
+Japanese/retail	吾	8CE1			0x08E1
+Japanese/retail	呂	9843			0x1143
+Japanese/retail	呈	92E6			0x0D66
+Japanese/retail	告	8D90			0x0950
+Japanese/retail	呑	93DB			0x0E1B
+Japanese/retail	周	8EFC			0x0A7C
+Japanese/retail	呪	8EF4			0x0A74
+Japanese/retail	味	96A1			0x1021
+Japanese/retail	呼	8CC4			0x08C4
+Japanese/retail	命	96BD			0x103D
+Japanese/retail	和	9861			0x1161
+Japanese/retail	咩	ED76			
+Japanese/retail	咲	8DE7			0x09A7
+Japanese/retail	哀	88A3			0x05A3
+Japanese/retail	品	9569			0x0F29
+Japanese/retail	員	88F5			0x05F5
+Japanese/retail	哨	8FA3			0x0AE3
+Japanese/retail	唐	9382			0x0DC2
+Japanese/retail	唯	9742			0x1082
+Japanese/retail	唱	8FA5			0x0AE5
+Japanese/retail	唾	91C1			0x0C81
+Japanese/retail	商	8FA4			0x0AE4
+Japanese/retail	問	96E2			0x1062
+Japanese/retail	啓	8C5B			0x085B
+Japanese/retail	善	9150			0x0C10
+Japanese/retail	喋	929D			0x0D1D
+Japanese/retail	喚	8AAB			0x072B
+Japanese/retail	喜	8AEC			0x076C
+Japanese/retail	喝	8A85			0x0705
+Japanese/retail	喧	8C96			0x0896
+Japanese/retail	喪	9172			0x0C32
+Japanese/retail	喫	8B69			0x07A9
+Japanese/retail	営	8963			0x0623
+Japanese/retail	嗟	9A6C			
+Japanese/retail	嘆	9251			0x0CD1
+Japanese/retail	嘘	8952			0x0612
+Japanese/retail	嘩	89DC			0x069C
+Japanese/retail	噂	895C			0x061C
+Japanese/retail	器	8AED			0x076D
+Japanese/retail	噴	95AC			0x0F6C
+Japanese/retail	嚇	8A64			0x06E4
+Japanese/retail	囚	8EFA			0x0A7A
+Japanese/retail	四	8E6C			0x09EC
+Japanese/retail	回	89F1			0x06B1
+Japanese/retail	因	88F6			0x05F6
+Japanese/retail	団	9263			0x0CE3
+Japanese/retail	囮	9A99			
+Japanese/retail	困	8DA2			0x0962
+Japanese/retail	囲	88CD			0x05CD
+Japanese/retail	図	907D			0x0B7D
+Japanese/retail	固	8CC5			0x08C5
+Japanese/retail	国	8D91			0x0951
+Japanese/retail	圏	8C97			0x0897
+Japanese/retail	園	8980			0x0640
+Japanese/retail	土	9379			0x0DB9
+Japanese/retail	圧	88B3			0x05B3
+Japanese/retail	在	8DDD			0x099D
+Japanese/retail	地	926E			0x0CEE
+Japanese/retail	坂	8DE2			0x09A2
+Japanese/retail	坊	9656			0x0FD6
+Japanese/retail	坑	8D42			0x0902
+Japanese/retail	坤	8DA3			0x0963
+Japanese/retail	型	8C5E			0x085E
+Japanese/retail	垣	8A5F			0x06DF
+Japanese/retail	埋	9684			0x1004
+Japanese/retail	城	8FE9			0x0B29
+Japanese/retail	域	88E6			0x05E6
+Japanese/retail	執	8EB7			0x0A37
+Japanese/retail	培	947C			0x0E7C
+Japanese/retail	基	8AEE			0x076E
+Japanese/retail	堂	93B0			0x0DF0
+Japanese/retail	堅	8C98			0x0898
+Japanese/retail	堕	91C2			0x0C82
+Japanese/retail	堪	8AAC			0x072C
+Japanese/retail	報	95F1			0x0FB1
+Japanese/retail	場	8FEA			0x0B2A
+Japanese/retail	塊	89F2			0x06B2
+Japanese/retail	塔	9383			0x0DC3
+Japanese/retail	塗	9368			0x0DA8
+Japanese/retail	塞	8DC7			0x0987
+Japanese/retail	填	9355			0x0D95
+Japanese/retail	塵	906F			0x0B6F
+Japanese/retail	境	8BAB			0x07EB
+Japanese/retail	墓	95E6			0x0FA6
+Japanese/retail	増	919D			0x0C5D
+Japanese/retail	墜	92C4			0x0D44
+Japanese/retail	墨	966E			0x0FEE
+Japanese/retail	墳	95AD			0x0F6D
+Japanese/retail	壁	95C7			0x0F87
+Japanese/retail	壇	9264			0x0CE4
+Japanese/retail	壊	89F3			0x06B3
+Japanese/retail	士	8E6D			0x09ED
+Japanese/retail	壮	9173			0x0C33
+Japanese/retail	声	90BA			0x0BBA
+Japanese/retail	売	9484			0x0E84
+Japanese/retail	変	95CF			0x0F8F
+Japanese/retail	夏	89C4			0x0684
+Japanese/retail	夕	975B			0x109B
+Japanese/retail	外	8A4F			0x06CF
+Japanese/retail	多	91BD			0x0C7D
+Japanese/retail	夜	96E9			0x1069
+Japanese/retail	夢	96B2			0x1032
+Japanese/retail	大	91E5			0x0CA5
+Japanese/retail	天	9356			0x0D96
+Japanese/retail	太	91BE			0x0C7E
+Japanese/retail	夫	9576			0x0F36
+Japanese/retail	央	899B			0x065B
+Japanese/retail	失	8EB8			0x0A38
+Japanese/retail	奇	8AEF			0x076F
+Japanese/retail	奈	93DE			0x0E1E
+Japanese/retail	奉	95F2			0x0FB2
+Japanese/retail	奏	9174			0x0C34
+Japanese/retail	契	8C5F			0x085F
+Japanese/retail	套	9385			0x0DC5
+Japanese/retail	奢	9AF8			
+Japanese/retail	奥	899C			0x065C
+Japanese/retail	奪	9244			0x0CC4
+Japanese/retail	奮	95B1			0x0F71
+Japanese/retail	女	8F97			0x0AD7
+Japanese/retail	奴	937A			0x0DBA
+Japanese/retail	奸	9B40			
+Japanese/retail	好	8D44			0x0904
+Japanese/retail	如	9440			0x0E40
+Japanese/retail	妄	96CF			0x104F
+Japanese/retail	妖	9764			0x10A4
+Japanese/retail	妙	96AD			0x102D
+Japanese/retail	妥	91C3			0x0C83
+Japanese/retail	妨	9657			0x0FD7
+Japanese/retail	妬	9369			0x0DA9
+Japanese/retail	妹	9685			0x1005
+Japanese/retail	妻	8DC8			0x0988
+Japanese/retail	姉	8E6F			0x09EF
+Japanese/retail	始	8E6E			0x09EE
+Japanese/retail	姑	8CC6			0x08C6
+Japanese/retail	姓	90A9			0x0BA9
+Japanese/retail	委	88CF			0x05CF
+Japanese/retail	姫	9550			0x0F10
+Japanese/retail	姿	8E70			0x09F0
+Japanese/retail	威	88D0			0x05D0
+Japanese/retail	娘	96BA			0x103A
+Japanese/retail	娯	8CE2			0x08E2
+Japanese/retail	婚	8DA5			0x0965
+Japanese/retail	婦	9577			0x0F37
+Japanese/retail	嫁	89C5			0x0685
+Japanese/retail	嫉	8EB9			0x0A39
+Japanese/retail	嫌	8C99			0x0899
+Japanese/retail	嬉	8AF0			0x0770
+Japanese/retail	嬢	8FEC			0x0B2C
+Japanese/retail	子	8E71			0x09F1
+Japanese/retail	孕	9B73			
+Japanese/retail	字	8E9A			0x0A1A
+Japanese/retail	存	91B6			0x0C76
+Japanese/retail	孝	8D46			0x0906
+Japanese/retail	孤	8CC7			0x08C7
+Japanese/retail	学	8A77			0x06F7
+Japanese/retail	孩	9B77			
+Japanese/retail	孫	91B7			0x0C77
+Japanese/retail	宅	91EE			0x0CAE
+Japanese/retail	宇	8946			0x0606
+Japanese/retail	守	8EE7			0x0A67
+Japanese/retail	安	88C0			0x05C0
+Japanese/retail	完	8AAE			0x072E
+Japanese/retail	官	8AAF			0x072F
+Japanese/retail	宙	9288			0x0D08
+Japanese/retail	定	92E8			0x0D68
+Japanese/retail	宛	88B6			0x05B6
+Japanese/retail	宝	95F3			0x0FB3
+Japanese/retail	実	8EC0			0x0A40
+Japanese/retail	客	8B71			0x07B1
+Japanese/retail	宣	90E9			0x0BE9
+Japanese/retail	室	8EBA			0x0A3A
+Japanese/retail	宮	8B7B			0x07BB
+Japanese/retail	害	8A51			0x06D1
+Japanese/retail	家	89C6			0x0686
+Japanese/retail	容	9765			0x10A5
+Japanese/retail	宿	8F68			0x0AA8
+Japanese/retail	寂	8EE2			0x0A62
+Japanese/retail	寄	8AF1			0x0771
+Japanese/retail	密	96A7			0x1027
+Japanese/retail	富	9578			0x0F38
+Japanese/retail	寒	8AA6			0x0726
+Japanese/retail	寛	8AB0			0x0730
+Japanese/retail	寝	9051			0x0B51
+Japanese/retail	察	8E40			0x09C0
+Japanese/retail	寧	944A			0x0E4A
+Japanese/retail	審	9052			0x0B52
+Japanese/retail	寮	97BE			0x10FE
+Japanese/retail	寸	90A1			0x0BA1
+Japanese/retail	寺	8E9B			0x0A1B
+Japanese/retail	対	91CE			0x0C8E
+Japanese/retail	寿	8EF5			0x0A75
+Japanese/retail	封	9595			0x0F55
+Japanese/retail	専	90EA			0x0BEA
+Japanese/retail	射	8ECB			0x0A4B
+Japanese/retail	将	8FAB			0x0AEB
+Japanese/retail	尉	88D1			0x05D1
+Japanese/retail	尊	91B8			0x0C78
+Japanese/retail	尋	9071			0x0B71
+Japanese/retail	導	93B1			0x0DF1
+Japanese/retail	小	8FAC			0x0AEC
+Japanese/retail	少	8FAD			0x0AED
+Japanese/retail	尚	8FAE			0x0AEE
+Japanese/retail	就	8F41			0x0A81
+Japanese/retail	尺	8EDA			0x0A5A
+Japanese/retail	尻	904B			0x0B4B
+Japanese/retail	尽	9073			0x0B73
+Japanese/retail	尾	94F6			0x0EF6
+Japanese/retail	局	8BC7			0x0807
+Japanese/retail	屁	9B9B			
+Japanese/retail	居	8B8F			0x07CF
+Japanese/retail	屈	8BFC			0x083C
+Japanese/retail	届	93CD			0x0E0D
+Japanese/retail	屋	89AE			0x066E
+Japanese/retail	屍	8E72			0x09F2
+Japanese/retail	屑	8BFB			0x083B
+Japanese/retail	展	9357			0x0D97
+Japanese/retail	属	91AE			0x0C6E
+Japanese/retail	層	9177			0x0C37
+Japanese/retail	山	8E52			0x09D2
+Japanese/retail	岐	8AF2			0x0772
+Japanese/retail	岡	89AA			0x066A
+Japanese/retail	岩	8AE2			0x0762
+Japanese/retail	岸	8ADD			0x075D
+Japanese/retail	島	9387			0x0DC7
+Japanese/retail	崇	9092			0x0B92
+Japanese/retail	崎	8DE8			0x09A8
+Japanese/retail	崩	95F6			0x0FB6
+Japanese/retail	嵐	9792			0x10D2
+Japanese/retail	川	90EC			0x0BEC
+Japanese/retail	州	8F42			0x0A82
+Japanese/retail	巡	8F84			0x0AC4
+Japanese/retail	巣	9183			0x0C43
+Japanese/retail	工	8D48			0x0908
+Japanese/retail	左	8DB6			0x0976
+Japanese/retail	巧	8D49			0x0909
+Japanese/retail	巨	8B90			0x07D0
+Japanese/retail	巫	9BDE			
+Japanese/retail	差	8DB7			0x0977
+Japanese/retail	己	8CC8			0x08C8
+Japanese/retail	巴	9462			0x0E62
+Japanese/retail	巻	8AAA			0x072A
+Japanese/retail	市	8E73			0x09F3
+Japanese/retail	布	957A			0x0F3A
+Japanese/retail	希	8AF3			0x0773
+Japanese/retail	帝	92E9			0x0D69
+Japanese/retail	帥	9083			0x0B83
+Japanese/retail	師	8E74			0x09F4
+Japanese/retail	席	90C8			0x0BC8
+Japanese/retail	帯	91D1			0x0C91
+Japanese/retail	帰	8B41			0x0781
+Japanese/retail	帳	92A0			0x0D20
+Japanese/retail	常	8FED			0x0B2D
+Japanese/retail	帽	9658			0x0FD8
+Japanese/retail	幅	959D			0x0F5D
+Japanese/retail	幕	968B			0x100B
+Japanese/retail	干	8AB1			0x0731
+Japanese/retail	平	95BD			0x0F7D
+Japanese/retail	年	944E			0x0E4E
+Japanese/retail	幸	8D4B			0x090B
+Japanese/retail	幹	8AB2			0x0732
+Japanese/retail	幻	8CB6			0x08B6
+Japanese/retail	幼	9763			0x10A3
+Japanese/retail	幾	8AF4			0x0774
+Japanese/retail	庁	92A1			0x0D21
+Japanese/retail	広	8D4C			0x090C
+Japanese/retail	床	8FB0			0x0AF0
+Japanese/retail	序	8F98			0x0AD8
+Japanese/retail	底	92EA			0x0D6A
+Japanese/retail	店	9358			0x0D98
+Japanese/retail	府	957B			0x0F3B
+Japanese/retail	度	9378			0x0DB8
+Japanese/retail	座	8DC0			0x0980
+Japanese/retail	庫	8CC9			0x08C9
+Japanese/retail	庭	92EB			0x0D6B
+Japanese/retail	康	8D4E			0x090E
+Japanese/retail	廃	9470			0x0E70
+Japanese/retail	廉	97F5			0x1135
+Japanese/retail	延	8984			0x0644
+Japanese/retail	廷	92EC			0x0D6C
+Japanese/retail	建	8C9A			0x089A
+Japanese/retail	弁	95D9			0x0F99
+Japanese/retail	弄	984D			0x114D
+Japanese/retail	式	8EAE			0x0A2E
+Japanese/retail	弐	93F3			0x0E33
+Japanese/retail	弓	8B7C			0x07BC
+Japanese/retail	弔	92A2			0x0D22
+Japanese/retail	引	88F8			0x05F8
+Japanese/retail	弟	92ED			0x0D6D
+Japanese/retail	弱	8EE3			0x0A63
+Japanese/retail	張	92A3			0x0D23
+Japanese/retail	強	8BAD			0x07ED
+Japanese/retail	弾	9265			0x0CE5
+Japanese/retail	当	9396			0x0DD6
+Japanese/retail	彗	9C61			
+Japanese/retail	形	8C60			0x0860
+Japanese/retail	彩	8DCA			0x098A
+Japanese/retail	影	8965			0x0625
+Japanese/retail	役	96F0			0x1070
+Japanese/retail	彼	94DE			0x0EDE
+Japanese/retail	往	899D			0x065D
+Japanese/retail	征	90AA			0x0BAA
+Japanese/retail	径	8C61			0x0861
+Japanese/retail	待	91D2			0x0C92
+Japanese/retail	律	97A5			0x10E5
+Japanese/retail	後	8CE3			0x08E3
+Japanese/retail	徐	8F99			0x0AD9
+Japanese/retail	徒	936B			0x0DAB
+Japanese/retail	従	8F5D			0x0A9D
+Japanese/retail	得	93BE			0x0DFE
+Japanese/retail	御	8CE4			0x08E4
+Japanese/retail	復	959C			0x0F5C
+Japanese/retail	微	94F7			0x0EF7
+Japanese/retail	徴	92A5			0x0D25
+Japanese/retail	徹	934F			0x0D8F
+Japanese/retail	心	9053			0x0B53
+Japanese/retail	必	954B			0x0F0B
+Japanese/retail	忌	8AF5			0x0775
+Japanese/retail	忍	9445			0x0E45
+Japanese/retail	志	8E75			0x09F5
+Japanese/retail	忘	9659			0x0FD9
+Japanese/retail	忙	965A			0x0FDA
+Japanese/retail	応	899E			0x065E
+Japanese/retail	忠	9289			0x0D09
+Japanese/retail	忤	9C77			
+Japanese/retail	快	89F5			0x06B5
+Japanese/retail	念	944F			0x0E4F
+Japanese/retail	忽	8D9A			0x095A
+Japanese/retail	怐	9C81			
+Japanese/retail	怒	937B			0x0DBB
+Japanese/retail	怖	957C			0x0F3C
+Japanese/retail	思	8E76			0x09F6
+Japanese/retail	怠	91D3			0x0C93
+Japanese/retail	急	8B7D			0x07BD
+Japanese/retail	性	90AB			0x0BAB
+Japanese/retail	怨	8985			0x0645
+Japanese/retail	怪	89F6			0x06B6
+Japanese/retail	怯	8BAF			0x07EF
+Japanese/retail	恋	97F6			0x1136
+Japanese/retail	恐	8BB0			0x07F0
+Japanese/retail	恒	8D50			0x0910
+Japanese/retail	恥	9270			0x0CF0
+Japanese/retail	恨	8DA6			0x0966
+Japanese/retail	恩	89B6			0x0676
+Japanese/retail	息	91A7			0x0C67
+Japanese/retail	恵	8C62			0x0862
+Japanese/retail	悔	89F7			0x06B7
+Japanese/retail	悟	8CE5			0x08E5
+Japanese/retail	悠	9749			0x1089
+Japanese/retail	悩	9459			0x0E59
+Japanese/retail	悪	88AB			0x05AB
+Japanese/retail	悲	94DF			0x0EDF
+Japanese/retail	悼	9389			0x0DC9
+Japanese/retail	情	8FEE			0x0B2E
+Japanese/retail	惑	9866			0x1166
+Japanese/retail	惚	8D9B			0x095B
+Japanese/retail	惜	90C9			0x0BC9
+Japanese/retail	惣	9179			0x0C39
+Japanese/retail	惨	8E53			0x09D3
+Japanese/retail	惰	91C4			0x0C84
+Japanese/retail	想	917A			0x0C3A
+Japanese/retail	惹	8EE4			0x0A64
+Japanese/retail	愁	8F44			0x0A84
+Japanese/retail	愉	96F9			0x1079
+Japanese/retail	意	88D3			0x05D3
+Japanese/retail	愚	8BF0			0x0830
+Japanese/retail	愛	88A4			0x05A4
+Japanese/retail	感	8AB4			0x0734
+Japanese/retail	愴	9CC6			
+Japanese/retail	慈	8E9C			0x0A1C
+Japanese/retail	態	91D4			0x0C94
+Japanese/retail	慌	8D51			0x0911
+Japanese/retail	慎	9054			0x0B54
+Japanese/retail	慕	95E7			0x0FA7
+Japanese/retail	慢	969D			0x101D
+Japanese/retail	慣	8AB5			0x0735
+Japanese/retail	慨	8A53			0x06D3
+Japanese/retail	慮	97B6			0x10F6
+Japanese/retail	慰	88D4			0x05D4
+Japanese/retail	慶	8C63			0x0863
+Japanese/retail	憂	974A			0x108A
+Japanese/retail	憎	919E			0x0C5E
+Japanese/retail	憐	97F7			0x1137
+Japanese/retail	憑	9CDF			
+Japanese/retail	憧	93B2			0x0DF2
+Japanese/retail	憩	8C65			0x0865
+Japanese/retail	憶	89AF			0x066F
+Japanese/retail	憾	8AB6			0x0736
+Japanese/retail	懐	89F9			0x06B9
+Japanese/retail	懲	92A6			0x0D26
+Japanese/retail	懸	8C9C			0x089C
+Japanese/retail	成	90AC			0x0BAC
+Japanese/retail	我	89E4			0x06A4
+Japanese/retail	戒	89FA			0x06BA
+Japanese/retail	戦	90ED			0x0BED
+Japanese/retail	戯	8B59			0x0799
+Japanese/retail	戴	91D5			0x0C95
+Japanese/retail	戸	8CCB			0x08CB
+Japanese/retail	戻	96DF			0x105F
+Japanese/retail	房	965B			0x0FDB
+Japanese/retail	所	8F8A			0x0ACA
+Japanese/retail	扇	90EE			0x0BEE
+Japanese/retail	扉	94E0			0x0EE0
+Japanese/retail	手	8EE8			0x0A68
+Japanese/retail	才	8DCB			0x098B
+Japanese/retail	打	91C5			0x0C85
+Japanese/retail	払	95A5			0x0F65
+Japanese/retail	托	91EF			0x0CAF
+Japanese/retail	扱	88B5			0x05B5
+Japanese/retail	承	8FB3			0x0AF3
+Japanese/retail	技	8B5A			0x079A
+Japanese/retail	把	9463			0x0E63
+Japanese/retail	抑	977D			0x10BD
+Japanese/retail	投	938A			0x0DCA
+Japanese/retail	抗	8D52			0x0912
+Japanese/retail	折	90DC			0x0BDC
+Japanese/retail	抜	94B2			0x0EB2
+Japanese/retail	択	91F0			0x0CB0
+Japanese/retail	抱	95F8			0x0FB8
+Japanese/retail	抵	92EF			0x0D6F
+Japanese/retail	抹	9695			0x1015
+Japanese/retail	押	899F			0x065F
+Japanese/retail	担	9253			0x0CD3
+Japanese/retail	拉	9D66			
+Japanese/retail	拍	948F			0x0E8F
+Japanese/retail	拒	8B91			0x07D1
+Japanese/retail	拓	91F1			0x0CB1
+Japanese/retail	拘	8D53			0x0913
+Japanese/retail	招	8FB5			0x0AF5
+Japanese/retail	拝	9471			0x0E71
+Japanese/retail	拠	8B92			0x07D2
+Japanese/retail	拡	8A67			0x06E7
+Japanese/retail	括	8A87			0x0707
+Japanese/retail	拭	9040			0x0B40
+Japanese/retail	拮	9D68			
+Japanese/retail	拳	8C9D			0x089D
+Japanese/retail	拶	8E41			0x09C1
+Japanese/retail	拷	8D89			0x0949
+Japanese/retail	拾	8F45			0x0A85
+Japanese/retail	持	8E9D			0x0A1D
+Japanese/retail	指	8E77			0x09F7
+Japanese/retail	挑	92A7			0x0D27
+Japanese/retail	挙	8B93			0x07D3
+Japanese/retail	挟	8BB2			0x07F2
+Japanese/retail	挨	88A5			0x05A5
+Japanese/retail	挫	8DC1			0x0981
+Japanese/retail	振	9055			0x0B55
+Japanese/retail	挺	92F0			0x0D70
+Japanese/retail	挽	94D2			0x0ED2
+Japanese/retail	挿	917D			0x0C3D
+Japanese/retail	捉	91A8			0x0C68
+Japanese/retail	捕	95DF			0x0F9F
+Japanese/retail	捜	917B			0x0C3B
+Japanese/retail	捧	95F9			0x0FB9
+Japanese/retail	捨	8ECC			0x0A4C
+Japanese/retail	据	9098			0x0B98
+Japanese/retail	捻	9450			0x0E50
+Japanese/retail	掃	917C			0x0C3C
+Japanese/retail	授	8EF6			0x0A76
+Japanese/retail	掌	8FB6			0x0AF6
+Japanese/retail	排	9472			0x0E72
+Japanese/retail	掘	8C40			0x0840
+Japanese/retail	掛	8A7C			0x06FC
+Japanese/retail	掟	9D7C			
+Japanese/retail	採	8DCC			0x098C
+Japanese/retail	探	9254			0x0CD4
+Japanese/retail	接	90DA			0x0BDA
+Japanese/retail	控	8D54			0x0914
+Japanese/retail	推	9084			0x0B84
+Japanese/retail	措	915B			0x0C1B
+Japanese/retail	掲	8C66			0x0866
+Japanese/retail	揃	91B5			0x0C75
+Japanese/retail	描	9560			0x0F20
+Japanese/retail	提	92F1			0x0D71
+Japanese/retail	揚	9767			0x10A7
+Japanese/retail	換	8AB7			0x0737
+Japanese/retail	握	88AC			0x05AC
+Japanese/retail	揮	8AF6			0x0776
+Japanese/retail	援	8987			0x0647
+Japanese/retail	揺	9768			0x10A8
+Japanese/retail	損	91B9			0x0C79
+Japanese/retail	搬	94C0			0x0EC0
+Japanese/retail	搭	938B			0x0DCB
+Japanese/retail	携	8C67			0x0867
+Japanese/retail	摂	90DB			0x0BDB
+Japanese/retail	摘	9345			0x0D85
+Japanese/retail	摩	9680			0x1000
+Japanese/retail	撃	8C82			0x0882
+Japanese/retail	撒	8E54			0x09D4
+Japanese/retail	撤	9350			0x0D90
+Japanese/retail	撮	8E42			0x09C2
+Japanese/retail	撰	90EF			0x0BEF
+Japanese/retail	撲	966F			0x0FEF
+Japanese/retail	操	9180			0x0C40
+Japanese/retail	擦	8E43			0x09C3
+Japanese/retail	擬	8B5B			0x079B
+Japanese/retail	擲	9DB1			
+Japanese/retail	支	8E78			0x09F8
+Japanese/retail	改	89FC			0x06BC
+Japanese/retail	攻	8D55			0x0915
+Japanese/retail	放	95FA			0x0FBA
+Japanese/retail	政	90AD			0x0BAD
+Japanese/retail	故	8CCC			0x08CC
+Japanese/retail	敏	9571			0x0F31
+Japanese/retail	救	8B7E			0x07BE
+Japanese/retail	敗	9473			0x0E73
+Japanese/retail	教	8BB3			0x07F3
+Japanese/retail	敢	8AB8			0x0738
+Japanese/retail	散	8E55			0x09D5
+Japanese/retail	敬	8C68			0x0868
+Japanese/retail	数	9094			0x0B94
+Japanese/retail	整	90AE			0x0BAE
+Japanese/retail	敵	9347			0x0D87
+Japanese/retail	敷	957E			0x0F3E
+Japanese/retail	文	95B6			0x0F76
+Japanese/retail	斉	90C4			0x0BC4
+Japanese/retail	斐	94E3			0x0EE3
+Japanese/retail	斗	936C			0x0DAC
+Japanese/retail	料	97BF			0x10FF
+Japanese/retail	斡	88B4			0x05B4
+Japanese/retail	斬	8E61			0x09E1
+Japanese/retail	断	9266			0x0CE6
+Japanese/retail	新	9056			0x0B56
+Japanese/retail	方	95FB			0x0FBB
+Japanese/retail	施	8E7B			0x09FB
+Japanese/retail	旅	97B7			0x10F7
+Japanese/retail	旋	90F9			0x0BF9
+Japanese/retail	族	91B0			0x0C70
+Japanese/retail	旗	8AF8			0x0778
+Japanese/retail	无	9DD9			
+Japanese/retail	既	8AF9			0x0779
+Japanese/retail	日	93FA			0x0E3A
+Japanese/retail	旦	9255			0x0CD5
+Japanese/retail	旧	8B8C			0x07CC
+Japanese/retail	旨	8E7C			0x09FC
+Japanese/retail	早	9181			0x0C41
+Japanese/retail	旺	89A0			0x0660
+Japanese/retail	昆	8DA9			0x0969
+Japanese/retail	昇	8FB8			0x0AF8
+Japanese/retail	明	96BE			0x103E
+Japanese/retail	易	88D5			0x05D5
+Japanese/retail	昔	90CC			0x0BCC
+Japanese/retail	星	90AF			0x0BAF
+Japanese/retail	映	8966			0x0626
+Japanese/retail	春	8F74			0x0AB4
+Japanese/retail	昨	8DF0			0x09B0
+Japanese/retail	昭	8FBA			0x0AFA
+Japanese/retail	是	90A5			0x0BA5
+Japanese/retail	昼	928B			0x0D0B
+Japanese/retail	時	8E9E			0x0A1E
+Japanese/retail	晩	94D3			0x0ED3
+Japanese/retail	普	9581			0x0F41
+Japanese/retail	景	8C69			0x0869
+Japanese/retail	晴	90B0			0x0BB0
+Japanese/retail	晶	8FBB			0x0AFB
+Japanese/retail	暁	8BC5			0x0805
+Japanese/retail	暇	89C9			0x0689
+Japanese/retail	暑	8F8B			0x0ACB
+Japanese/retail	暖	9267			0x0CE7
+Japanese/retail	暗	88C3			0x05C3
+Japanese/retail	暦	97EF			0x112F
+Japanese/retail	暫	8E62			0x09E2
+Japanese/retail	暮	95E9			0x0FA9
+Japanese/retail	暴	965C			0x0FDC
+Japanese/retail	曇	93DC			0x0E1C
+Japanese/retail	曰	9E48			
+Japanese/retail	曲	8BC8			0x0808
+Japanese/retail	更	8D58			0x0918
+Japanese/retail	書	8F91			0x0AD1
+Japanese/retail	曹	9182			0x0C42
+Japanese/retail	替	91D6			0x0C96
+Japanese/retail	最	8DC5			0x0985
+Japanese/retail	月	8C8E			0x088E
+Japanese/retail	有	974C			0x108C
+Japanese/retail	服	959E			0x0F5E
+Japanese/retail	望	965D			0x0FDD
+Japanese/retail	朝	92A9			0x0D29
+Japanese/retail	期	8AFA			0x077A
+Japanese/retail	木	96D8			0x1058
+Japanese/retail	未	96A2			0x1022
+Japanese/retail	末	9696			0x1016
+Japanese/retail	本	967B			0x0FFB
+Japanese/retail	札	8E44			0x09C4
+Japanese/retail	朴	9670			0x0FF0
+Japanese/retail	机	8AF7			0x0777
+Japanese/retail	杉	9099			0x0B99
+Japanese/retail	材	8DDE			0x099E
+Japanese/retail	村	91BA			0x0C7A
+Japanese/retail	杜	936D			0x0DAD
+Japanese/retail	杞	9E58			
+Japanese/retail	束	91A9			0x0C69
+Japanese/retail	条	8FF0			0x0B30
+Japanese/retail	来	9788			0x10C8
+Japanese/retail	杯	9474			0x0E74
+Japanese/retail	東	938C			0x0DCC
+Japanese/retail	板	94C2			0x0EC2
+Japanese/retail	析	90CD			0x0BCD
+Japanese/retail	枚	9687			0x1007
+Japanese/retail	果	89CA			0x068A
+Japanese/retail	枝	8E7D			0x09FD
+Japanese/retail	枢	9095			0x0B95
+Japanese/retail	枯	8CCD			0x08CD
+Japanese/retail	架	89CB			0x068B
+Japanese/retail	柄	95BF			0x0F7F
+Japanese/retail	染	90F5			0x0BF5
+Japanese/retail	柔	8F5F			0x0A9F
+Japanese/retail	柱	928C			0x0D0C
+Japanese/retail	査	8DB8			0x0978
+Japanese/retail	栄	8968			0x0628
+Japanese/retail	校	8D5A			0x091A
+Japanese/retail	核	8A6A			0x06EA
+Japanese/retail	根	8DAA			0x096A
+Japanese/retail	格	8A69			0x06E9
+Japanese/retail	桁	8C85			0x0885
+Japanese/retail	案	88C4			0x05C4
+Japanese/retail	桑	8C4B			0x084B
+Japanese/retail	桜	8DF7			0x09B7
+Japanese/retail	梁	97C0			0x1100
+Japanese/retail	梅	947E			0x0E7E
+Japanese/retail	械	8A42			0x06C2
+Japanese/retail	棄	8AFC			0x077C
+Japanese/retail	棒	965F			0x0FDF
+Japanese/retail	棚	9249			0x0CC9
+Japanese/retail	森	9058			0x0B58
+Japanese/retail	椅	88D6			0x05D6
+Japanese/retail	植	9041			0x0B41
+Japanese/retail	検	8C9F			0x089F
+Japanese/retail	楚	915E			0x0C1E
+Japanese/retail	業	8BC6			0x0806
+Japanese/retail	極	8BC9			0x0809
+Japanese/retail	楽	8A79			0x06F9
+Japanese/retail	概	8A54			0x06D4
+Japanese/retail	構	8D5C			0x091C
+Japanese/retail	槌	92C6			0x0D46
+Japanese/retail	槍	9184			0x0C44
+Japanese/retail	様	976C			0x10AC
+Japanese/retail	槽	9185			0x0C45
+Japanese/retail	標	9557			0x0F17
+Japanese/retail	模	96CD			0x104D
+Japanese/retail	権	8CA0			0x08A0
+Japanese/retail	横	89A1			0x0661
+Japanese/retail	樹	8EF7			0x0A77
+Japanese/retail	橋	8BB4			0x07F4
+Japanese/retail	機	8B40			0x0780
+Japanese/retail	檄	9EFA			
+Japanese/retail	欠	8C87			0x0887
+Japanese/retail	次	8E9F			0x0A1F
+Japanese/retail	欧	89A2			0x0662
+Japanese/retail	欲	977E			0x10BE
+Japanese/retail	欺	8B5C			0x079C
+Japanese/retail	歌	89CC			0x068C
+Japanese/retail	歓	8ABD			0x073D
+Japanese/retail	止	8E7E			0x09FE
+Japanese/retail	正	90B3			0x0BB3
+Japanese/retail	武	9590			0x0F50
+Japanese/retail	歩	95E0			0x0FA0
+Japanese/retail	歪	9863			0x1163
+Japanese/retail	歯	8E95			0x0A15
+Japanese/retail	歳	8DCE			0x098E
+Japanese/retail	歴	97F0			0x1130
+Japanese/retail	死	8E80			0x0A00
+Japanese/retail	殉	8F7D			0x0ABD
+Japanese/retail	殊	8EEA			0x0A6A
+Japanese/retail	残	8E63			0x09E3
+Japanese/retail	殖	9042			0x0B42
+Japanese/retail	殲	9F72			
+Japanese/retail	殴	89A3			0x0663
+Japanese/retail	段	9269			0x0CE9
+Japanese/retail	殺	8E45			0x09C5
+Japanese/retail	殻	8A6B			0x06EB
+Japanese/retail	殿	9361			0x0DA1
+Japanese/retail	母	95EA			0x0FAA
+Japanese/retail	毎	9688			0x1008
+Japanese/retail	毒	93C5			0x0E05
+Japanese/retail	比	94E4			0x0EE4
+Japanese/retail	毛	96D1			0x1051
+Japanese/retail	氏	8E81			0x0A01
+Japanese/retail	民	96AF			0x102F
+Japanese/retail	気	8B43			0x0783
+Japanese/retail	水	9085			0x0B85
+Japanese/retail	氷	9558			0x0F18
+Japanese/retail	永	8969			0x0629
+Japanese/retail	汁	8F60			0x0AA0
+Japanese/retail	求	8B81			0x07C1
+Japanese/retail	汎	94C4			0x0EC4
+Japanese/retail	汗	8ABE			0x073E
+Japanese/retail	汚	8998			0x0658
+Japanese/retail	汝	93F0			0x0E30
+Japanese/retail	江	8D5D			0x091D
+Japanese/retail	汰	91BF			0x0C7F
+Japanese/retail	汲	8B82			0x07C2
+Japanese/retail	決	8C88			0x0888
+Japanese/retail	沈	92BE			0x0D3E
+Japanese/retail	沌	93D7			0x0E17
+Japanese/retail	沙	8DB9			0x0979
+Japanese/retail	没	9676			0x0FF6
+Japanese/retail	沢	91F2			0x0CB2
+Japanese/retail	河	89CD			0x068D
+Japanese/retail	油	96FB			0x107B
+Japanese/retail	治	8EA1			0x0A21
+Japanese/retail	沼	8FC0			0x0B00
+Japanese/retail	沿	8988			0x0648
+Japanese/retail	況	8BB5			0x07F5
+Japanese/retail	泉	90F2			0x0BF2
+Japanese/retail	泊	9491			0x0E91
+Japanese/retail	泌	94E5			0x0EE5
+Japanese/retail	法	9640			0x0FC0
+Japanese/retail	泡	9641			0x0FC1
+Japanese/retail	波	9467			0x0E67
+Japanese/retail	泣	8B83			0x07C3
+Japanese/retail	泥	9344			0x0D84
+Japanese/retail	注	928D			0x0D0D
+Japanese/retail	泳	896A			0x062A
+Japanese/retail	洋	976D			0x10AD
+Japanese/retail	洗	90F4			0x0BF4
+Japanese/retail	洞	93B4			0x0DF4
+Japanese/retail	津	92C3			0x0D43
+Japanese/retail	活	8A88			0x0708
+Japanese/retail	派	9468			0x0E68
+Japanese/retail	流	97AC			0x10EC
+Japanese/retail	浄	8FF2			0x0B32
+Japanese/retail	浅	90F3			0x0BF3
+Japanese/retail	浜	956C			0x0F2C
+Japanese/retail	浪	9851			0x1151
+Japanese/retail	浮	9582			0x0F42
+Japanese/retail	浴	9781			0x10C1
+Japanese/retail	海	8A43			0x06C3
+Japanese/retail	浸	905A			0x0B5A
+Japanese/retail	消	8FC1			0x0B01
+Japanese/retail	涙	97DC			0x111C
+Japanese/retail	涯	8A55			0x06D5
+Japanese/retail	液	8974			0x0634
+Japanese/retail	涼	97C1			0x1101
+Japanese/retail	淘	9391			0x0DD1
+Japanese/retail	深	905B			0x0B5B
+Japanese/retail	混	8DAC			0x096C
+Japanese/retail	添	9359			0x0D99
+Japanese/retail	清	90B4			0x0BB4
+Japanese/retail	済	8DCF			0x098F
+Japanese/retail	渉	8FC2			0x0B02
+Japanese/retail	渋	8F61			0x0AA1
+Japanese/retail	渓	8C6B			0x086B
+Japanese/retail	減	8CB8			0x08B8
+Japanese/retail	渡	936E			0x0DAE
+Japanese/retail	渦	8951			0x0611
+Japanese/retail	温	89B7			0x0677
+Japanese/retail	測	91AA			0x0C6A
+Japanese/retail	港	8D60			0x0920
+Japanese/retail	湖	8CCE			0x08CE
+Japanese/retail	湧	974E			0x108E
+Japanese/retail	湯	9392			0x0DD2
+Japanese/retail	湾	9870			0x1170
+Japanese/retail	湿	8EBC			0x0A3C
+Japanese/retail	満	969E			0x101E
+Japanese/retail	源	8CB9			0x08B9
+Japanese/retail	準	8F80			0x0AC0
+Japanese/retail	溝	8D61			0x0921
+Japanese/retail	溢	88EC			0x05EC
+Japanese/retail	溶	976E			0x10AE
+Japanese/retail	溺	934D			0x0D8D
+Japanese/retail	滅	96C5			0x1045
+Japanese/retail	滞	91D8			0x0C98
+Japanese/retail	滴	9348			0x0D88
+Japanese/retail	漁	8B99			0x07D9
+Japanese/retail	漂	9559			0x0F19
+Japanese/retail	漏	9852			0x1152
+Japanese/retail	演	8989			0x0649
+Japanese/retail	漠	9499			0x0E99
+Japanese/retail	漢	8ABF			0x073F
+Japanese/retail	潔	8C89			0x0889
+Japanese/retail	潜	90F6			0x0BF6
+Japanese/retail	潮	92AA			0x0D2A
+Japanese/retail	潰	92D7			0x0D57
+Japanese/retail	澄	909F			0x0B9F
+Japanese/retail	激	8C83			0x0883
+Japanese/retail	濁	91F7			0x0CB7
+Japanese/retail	濃	945A			0x0E5A
+Japanese/retail	濯	91F3			0x0CB3
+Japanese/retail	瀕	956D			0x0F2D
+Japanese/retail	火	89CE			0x068E
+Japanese/retail	灯	9394			0x0DD4
+Japanese/retail	灰	8A44			0x06C4
+Japanese/retail	災	8DD0			0x0990
+Japanese/retail	炉	9846			0x1146
+Japanese/retail	炊	9086			0x0B86
+Japanese/retail	炎	898A			0x064A
+Japanese/retail	炭	9259			0x0CD9
+Japanese/retail	点	935F			0x0D9F
+Japanese/retail	為	88D7			0x05D7
+Japanese/retail	烈	97F3			0x1133
+Japanese/retail	烙	E080			
+Japanese/retail	烹	9642			0x0FC2
+Japanese/retail	焉	E081			
+Japanese/retail	無	96B3			0x1033
+Japanese/retail	焦	8FC5			0x0B05
+Japanese/retail	然	9152			0x0C12
+Japanese/retail	焼	8FC4			0x0B04
+Japanese/retail	煎	90F7			0x0BF7
+Japanese/retail	煙	898C			0x064C
+Japanese/retail	照	8FC6			0x0B06
+Japanese/retail	煩	94CF			0x0ECF
+Japanese/retail	煮	8ECF			0x0A4F
+Japanese/retail	熟	8F6E			0x0AAE
+Japanese/retail	熱	944D			0x0E4D
+Japanese/retail	燃	9452			0x0E52
+Japanese/retail	燿	E0A0			
+Japanese/retail	爆	949A			0x0E9A
+Japanese/retail	爵	8EDD			0x0A5D
+Japanese/retail	父	9583			0x0F43
+Japanese/retail	片	95D0			0x0F90
+Japanese/retail	版	94C5			0x0EC5
+Japanese/retail	牙	89E5			0x06A5
+Japanese/retail	牛	8B8D			0x07CD
+Japanese/retail	牢	9853			0x1153
+Japanese/retail	牧	9671			0x0FF1
+Japanese/retail	物	95A8			0x0F68
+Japanese/retail	牲	90B5			0x0BB5
+Japanese/retail	特	93C1			0x0E01
+Japanese/retail	牽	8CA1			0x08A1
+Japanese/retail	犠	8B5D			0x079D
+Japanese/retail	犬	8CA2			0x08A2
+Japanese/retail	犯	94C6			0x0EC6
+Japanese/retail	状	8FF3			0x0B33
+Japanese/retail	狂	8BB6			0x07F6
+Japanese/retail	狐	8CCF			0x08CF
+Japanese/retail	狗	8BE7			0x0827
+Japanese/retail	狙	915F			0x0C1F
+Japanese/retail	狡	E0C2			
+Japanese/retail	狩	8EEB			0x0A6B
+Japanese/retail	独	93C6			0x0E06
+Japanese/retail	狭	8BB7			0x07F7
+Japanese/retail	狸	924B			0x0CCB
+Japanese/retail	狼	9854			0x1154
+Japanese/retail	猛	96D2			0x1052
+Japanese/retail	猫	944C			0x0E4C
+Japanese/retail	献	8CA3			0x08A3
+Japanese/retail	猶	9750			0x1090
+Japanese/retail	猿	898E			0x064E
+Japanese/retail	獄	8D96			0x0956
+Japanese/retail	獅	8E82			0x0A02
+Japanese/retail	獣	8F62			0x0AA2
+Japanese/retail	獲	8A6C			0x06EC
+Japanese/retail	玄	8CBA			0x08BA
+Japanese/retail	率	97A6			0x10E6
+Japanese/retail	玉	8BCA			0x080A
+Japanese/retail	王	89A4			0x0664
+Japanese/retail	珍	92BF			0x0D3F
+Japanese/retail	珠	8EEC			0x0A6C
+Japanese/retail	班	94C7			0x0EC7
+Japanese/retail	現	8CBB			0x08BB
+Japanese/retail	球	8B85			0x07C5
+Japanese/retail	理	979D			0x10DD
+Japanese/retail	瑪	E0F3			
+Japanese/retail	璧	E0F8			
+Japanese/retail	環	8AC2			0x0742
+Japanese/retail	瓦	8AA2			0x0722
+Japanese/retail	甘	8AC3			0x0743
+Japanese/retail	甚	9072			0x0B72
+Japanese/retail	生	90B6			0x0BB6
+Japanese/retail	産	8E59			0x09D9
+Japanese/retail	甥	8999			0x0659
+Japanese/retail	甦	E153			
+Japanese/retail	用	9770			0x10B0
+Japanese/retail	田	9363			0x0DA3
+Japanese/retail	由	9752			0x1092
+Japanese/retail	甲	8D62			0x0922
+Japanese/retail	申	905C			0x0B5C
+Japanese/retail	男	926A			0x0CEA
+Japanese/retail	画	89E6			0x06A6
+Japanese/retail	界	8A45			0x06C5
+Japanese/retail	畏	88D8			0x05D8
+Japanese/retail	畑	94A8			0x0EA8
+Japanese/retail	留	97AF			0x10EF
+Japanese/retail	略	97AA			0x10EA
+Japanese/retail	番	94D4			0x0ED4
+Japanese/retail	異	88D9			0x05D9
+Japanese/retail	疎	9161			0x0C21
+Japanese/retail	疑	8B5E			0x079E
+Japanese/retail	疫	8975			0x0635
+Japanese/retail	疲	94E6			0x0EE6
+Japanese/retail	病	9561			0x0F21
+Japanese/retail	症	8FC7			0x0B07
+Japanese/retail	痕	8DAD			0x096D
+Japanese/retail	痛	92C9			0x0D49
+Japanese/retail	痴	9273			0x0CF3
+Japanese/retail	瘍	E187			
+Japanese/retail	療	97C3			0x1103
+Japanese/retail	癇	E192			
+Japanese/retail	癒	96FC			0x107C
+Japanese/retail	癪	E19B			
+Japanese/retail	発	94AD			0x0EAD
+Japanese/retail	登	936F			0x0DAF
+Japanese/retail	白	9492			0x0E92
+Japanese/retail	百	9553			0x0F13
+Japanese/retail	的	9349			0x0D89
+Japanese/retail	皆	8A46			0x06C6
+Japanese/retail	皇	8D63			0x0923
+Japanese/retail	皮	94E7			0x0EE7
+Japanese/retail	益	8976			0x0636
+Japanese/retail	盗	9390			0x0DD0
+Japanese/retail	盛	90B7			0x0BB7
+Japanese/retail	盟	96BF			0x103F
+Japanese/retail	監	8AC4			0x0744
+Japanese/retail	盤	94D5			0x0ED5
+Japanese/retail	目	96DA			0x105A
+Japanese/retail	盲	96D3			0x1053
+Japanese/retail	直	92BC			0x0D3C
+Japanese/retail	相	918A			0x0C4A
+Japanese/retail	盾	8F82			0x0AC2
+Japanese/retail	省	8FC8			0x0B08
+Japanese/retail	眉	94FB			0x0EFB
+Japanese/retail	真	905E			0x0B5E
+Japanese/retail	眠	96B0			0x1030
+Japanese/retail	眺	92AD			0x0D2D
+Japanese/retail	眼	8AE1			0x0761
+Japanese/retail	着	9285			0x0D05
+Japanese/retail	睡	9087			0x0B87
+Japanese/retail	督	93C2			0x0E02
+Japanese/retail	睨	E1C9			
+Japanese/retail	瞬	8F75			0x0AB5
+Japanese/retail	瞭	97C4			0x1104
+Japanese/retail	瞳	93B5			0x0DF5
+Japanese/retail	矛	96B5			0x1035
+Japanese/retail	矢	96EE			0x106E
+Japanese/retail	知	926D			0x0CED
+Japanese/retail	短	925A			0x0CDA
+Japanese/retail	矯	8BB8			0x07F8
+Japanese/retail	石	90CE			0x0BCE
+Japanese/retail	砂	8DBB			0x097B
+Japanese/retail	研	8CA4			0x08A4
+Japanese/retail	砕	8DD3			0x0993
+Japanese/retail	砦	8DD4			0x0994
+Japanese/retail	砲	9643			0x0FC3
+Japanese/retail	破	946A			0x0E6A
+Japanese/retail	硬	8D64			0x0924
+Japanese/retail	確	8A6D			0x06ED
+Japanese/retail	磁	8EA5			0x0A25
+Japanese/retail	磨	9681			0x1001
+Japanese/retail	磯	88E9			0x05E9
+Japanese/retail	礁	8FCA			0x0B0A
+Japanese/retail	礎	9162			0x0C22
+Japanese/retail	示	8EA6			0x0A26
+Japanese/retail	礼	97E7			0x1127
+Japanese/retail	社	8ED0			0x0A50
+Japanese/retail	祈	8B46			0x0786
+Japanese/retail	祉	8E83			0x0A03
+Japanese/retail	祖	9163			0x0C23
+Japanese/retail	祝	8F6A			0x0AAA
+Japanese/retail	神	905F			0x0B5F
+Japanese/retail	祥	8FCB			0x0B0B
+Japanese/retail	票	955B			0x0F1B
+Japanese/retail	祭	8DD5			0x0995
+Japanese/retail	禁	8BD6			0x0816
+Japanese/retail	禄	985C			0x115C
+Japanese/retail	禍	89D0			0x0690
+Japanese/retail	福	959F			0x0F5F
+Japanese/retail	禽	8BD7			0x0817
+Japanese/retail	秀	8F47			0x0A87
+Japanese/retail	私	8E84			0x0A04
+Japanese/retail	科	89C8			0x0688
+Japanese/retail	秒	9562			0x0F22
+Japanese/retail	秘	94E9			0x0EE9
+Japanese/retail	秩	9281			0x0D01
+Japanese/retail	称	8FCC			0x0B0C
+Japanese/retail	移	88DA			0x05DA
+Japanese/retail	程	92F6			0x0D76
+Japanese/retail	税	90C5			0x0BC5
+Japanese/retail	種	8EED			0x0A6D
+Japanese/retail	稼	89D2			0x0692
+Japanese/retail	積	90CF			0x0BCF
+Japanese/retail	穏	89B8			0x0678
+Japanese/retail	穫	8A6E			0x06EE
+Japanese/retail	穴	8C8A			0x088A
+Japanese/retail	究	8B86			0x07C6
+Japanese/retail	空	8BF3			0x0833
+Japanese/retail	突	93CB			0x0E0B
+Japanese/retail	窒	9282			0x0D02
+Japanese/retail	窓	918B			0x0C4B
+Japanese/retail	窟	8C41			0x0841
+Japanese/retail	窮	8B87			0x07C7
+Japanese/retail	窺	894D			0x060D
+Japanese/retail	立	97A7			0x10E7
+Japanese/retail	竜	97B3			0x10F3
+Japanese/retail	章	8FCD			0x0B0D
+Japanese/retail	童	93B6			0x0DF6
+Japanese/retail	端	925B			0x0CDB
+Japanese/retail	競	8BA3			0x07E3
+Japanese/retail	竹	927C			0x0CFC
+Japanese/retail	笑	8FCE			0x0B0E
+Japanese/retail	符	9584			0x0F44
+Japanese/retail	第	91E6			0x0CA6
+Japanese/retail	筆	954D			0x0F0D
+Japanese/retail	等	9399			0x0DD9
+Japanese/retail	筋	8BD8			0x0818
+Japanese/retail	答	939A			0x0DDA
+Japanese/retail	策	8DF4			0x09B4
+Japanese/retail	箍	E2B0			
+Japanese/retail	箔	9493			0x0E93
+Japanese/retail	算	8E5A			0x09DA
+Japanese/retail	管	8AC7			0x0747
+Japanese/retail	箱	94A0			0x0EA0
+Japanese/retail	節	90DF			0x0BDF
+Japanese/retail	範	94CD			0x0ECD
+Japanese/retail	築	927A			0x0CFA
+Japanese/retail	簡	8AC8			0x0748
+Japanese/retail	籍	90D0			0x0BD0
+Japanese/retail	米	95C4			0x0F84
+Japanese/retail	粉	95B2			0x0F72
+Japanese/retail	粋	9088			0x0B88
+Japanese/retail	粒	97B1			0x10F1
+Japanese/retail	粗	9165			0x0C25
+Japanese/retail	粘	9453			0x0E53
+Japanese/retail	粛	8F6C			0x0AAC
+Japanese/retail	精	90B8			0x0BB8
+Japanese/retail	糧	97C6			0x1106
+Japanese/retail	糸	8E85			0x0A05
+Japanese/retail	系	8C6E			0x086E
+Japanese/retail	紀	8B49			0x0789
+Japanese/retail	約	96F1			0x1071
+Japanese/retail	紅	8D67			0x0927
+Japanese/retail	紋	96E4			0x1064
+Japanese/retail	納	945B			0x0E5B
+Japanese/retail	純	8F83			0x0AC3
+Japanese/retail	紙	8E86			0x0A06
+Japanese/retail	級	8B89			0x07C9
+Japanese/retail	紛	95B4			0x0F74
+Japanese/retail	素	9166			0x0C26
+Japanese/retail	紡	9661			0x0FE1
+Japanese/retail	索	8DF5			0x09B5
+Japanese/retail	紫	8E87			0x0A07
+Japanese/retail	累	97DD			0x111D
+Japanese/retail	細	8DD7			0x0997
+Japanese/retail	紳	9061			0x0B61
+Japanese/retail	紹	8FD0			0x0B10
+Japanese/retail	終	8F49			0x0A89
+Japanese/retail	組	9167			0x0C27
+Japanese/retail	絆	E34A			
+Japanese/retail	経	8C6F			0x086F
+Japanese/retail	結	8C8B			0x088B
+Japanese/retail	絞	8D69			0x0929
+Japanese/retail	絡	978D			0x10CD
+Japanese/retail	給	8B8B			0x07CB
+Japanese/retail	統	939D			0x0DDD
+Japanese/retail	絵	8A47			0x06C7
+Japanese/retail	絶	90E2			0x0BE2
+Japanese/retail	継	8C70			0x0870
+Japanese/retail	続	91B1			0x0C71
+Japanese/retail	維	88DB			0x05DB
+Japanese/retail	綱	8D6A			0x092A
+Japanese/retail	網	96D4			0x1054
+Japanese/retail	緊	8BD9			0x0819
+Japanese/retail	緋	94EA			0x0EEA
+Japanese/retail	総	918D			0x0C4D
+Japanese/retail	緑	97CE			0x110E
+Japanese/retail	緒	8F8F			0x0ACF
+Japanese/retail	線	90FC			0x0BFC
+Japanese/retail	締	92F7			0x0D77
+Japanese/retail	編	95D2			0x0F92
+Japanese/retail	緩	8AC9			0x0749
+Japanese/retail	緯	88DC			0x05DC
+Japanese/retail	練	97FB			0x113B
+Japanese/retail	縁	898F			0x064F
+Japanese/retail	縄	93EA			0x0E2A
+Japanese/retail	縛	949B			0x0E9B
+Japanese/retail	縦	8F63			0x0AA3
+Japanese/retail	縮	8F6B			0x0AAB
+Japanese/retail	縷	E37E			
+Japanese/retail	績	90D1			0x0BD1
+Japanese/retail	繁	94C9			0x0EC9
+Japanese/retail	繊	9140			0x0C00
+Japanese/retail	織	9044			0x0B44
+Japanese/retail	繰	8C4A			0x084A
+Japanese/retail	罠	E3A9			
+Japanese/retail	罪	8DDF			0x099F
+Japanese/retail	置	9275			0x0CF5
+Japanese/retail	罰	94B1			0x0EB1
+Japanese/retail	署	8F90			0x0AD0
+Japanese/retail	羅	9785			0x10C5
+Japanese/retail	美	94FC			0x0EFC
+Japanese/retail	群	8C51			0x0851
+Japanese/retail	羨	9141			0x0C01
+Japanese/retail	義	8B60			0x07A0
+Japanese/retail	羽	8948			0x0608
+Japanese/retail	習	8F4B			0x0A8B
+Japanese/retail	翔	E3C4			
+Japanese/retail	翠	9089			0x0B89
+Japanese/retail	翼	9783			0x10C3
+Japanese/retail	老	9856			0x1156
+Japanese/retail	考	8D6C			0x092C
+Japanese/retail	者	8ED2			0x0A52
+Japanese/retail	耐	91CF			0x0C8F
+Japanese/retail	耗	96D5			0x1055
+Japanese/retail	耳	8EA8			0x0A28
+Japanese/retail	聖	90B9			0x0BB9
+Japanese/retail	聞	95B7			0x0F77
+Japanese/retail	聡	918F			0x0C4F
+Japanese/retail	聴	92AE			0x0D2E
+Japanese/retail	職	9045			0x0B45
+Japanese/retail	肉	93F7			0x0E37
+Japanese/retail	肌	94A7			0x0EA7
+Japanese/retail	肘	9549			0x0F09
+Japanese/retail	肝	8ACC			0x074C
+Japanese/retail	肢	8E88			0x0A08
+Japanese/retail	肥	94EC			0x0EEC
+Japanese/retail	肩	8CA8			0x08A8
+Japanese/retail	肯	8D6D			0x092D
+Japanese/retail	育	88E7			0x05E7
+Japanese/retail	胃	88DD			0x05DD
+Japanese/retail	胆	925F			0x0CDF
+Japanese/retail	背	9477			0x0E77
+Japanese/retail	胞	9645			0x0FC5
+Japanese/retail	胡	8CD3			0x08D3
+Japanese/retail	胴	93B7			0x0DF7
+Japanese/retail	胸	8BB9			0x07F9
+Japanese/retail	能	945C			0x0E5C
+Japanese/retail	脅	8BBA			0x07FA
+Japanese/retail	脆	90C6			0x0BC6
+Japanese/retail	脚	8B72			0x07B2
+Japanese/retail	脱	9245			0x0CC5
+Japanese/retail	脳	945D			0x0E5D
+Japanese/retail	腐	9585			0x0F45
+Japanese/retail	腑	E444			
+Japanese/retail	腕	9872			0x1172
+Japanese/retail	腰	8D98			0x0958
+Japanese/retail	腹	95A0			0x0F60
+Japanese/retail	膠	E450			
+Japanese/retail	膨	9663			0x0FE3
+Japanese/retail	膳	9156			0x0C16
+Japanese/retail	臆	89B0			0x0670
+Japanese/retail	臓	919F			0x0C5F
+Japanese/retail	臣	9062			0x0B62
+Japanese/retail	臨	97D5			0x1115
+Japanese/retail	自	8EA9			0x0A29
+Japanese/retail	臭	8F4C			0x0A8C
+Japanese/retail	至	8E8A			0x0A0A
+Japanese/retail	致	9276			0x0CF6
+Japanese/retail	興	8BBB			0x07FB
+Japanese/retail	舌	90E3			0x0BE3
+Japanese/retail	舐	E472			
+Japanese/retail	舞	9591			0x0F51
+Japanese/retail	舟	8F4D			0x0A8D
+Japanese/retail	航	8D71			0x0931
+Japanese/retail	般	94CA			0x0ECA
+Japanese/retail	舷	8CBD			0x08BD
+Japanese/retail	船	9144			0x0C04
+Japanese/retail	艇	92F8			0x0D78
+Japanese/retail	艦	8ACD			0x074D
+Japanese/retail	艨	E481			
+Japanese/retail	良	97C7			0x1107
+Japanese/retail	色	9046			0x0B46
+Japanese/retail	艶	8990			0x0650
+Japanese/retail	芝	8EC5			0x0A45
+Japanese/retail	芯	9063			0x0B63
+Japanese/retail	花	89D4			0x0694
+Japanese/retail	芸	8C7C			0x087C
+Japanese/retail	苗	9563			0x0F23
+Japanese/retail	苛	89D5			0x0695
+Japanese/retail	若	8EE1			0x0A61
+Japanese/retail	苦	8BEA			0x082A
+Japanese/retail	苫	93CF			0x0E0F
+Japanese/retail	英	8970			0x0630
+Japanese/retail	茎	8C73			0x0873
+Japanese/retail	茶	9283			0x0D03
+Japanese/retail	草	9190			0x0C50
+Japanese/retail	荒	8D72			0x0932
+Japanese/retail	荷	89D7			0x0697
+Japanese/retail	莫	949C			0x0E9C
+Japanese/retail	菊	8B65			0x07A5
+Japanese/retail	菌	8BDB			0x081B
+Japanese/retail	菓	89D9			0x0699
+Japanese/retail	華	89D8			0x0698
+Japanese/retail	落	978E			0x10CE
+Japanese/retail	葉	9774			0x10B4
+Japanese/retail	著	9298			0x0D18
+Japanese/retail	葬	9192			0x0C52
+Japanese/retail	葵	88A8			0x05A8
+Japanese/retail	蒼	9193			0x0C53
+Japanese/retail	蓄	927E			0x0CFE
+Japanese/retail	蓮	9840			0x1140
+Japanese/retail	蔵	91A0			0x0C60
+Japanese/retail	薄	9496			0x0E96
+Japanese/retail	薬	96F2			0x1072
+Japanese/retail	藤	93A1			0x0DE1
+Japanese/retail	蘇	9168			0x0C28
+Japanese/retail	虎	8CD5			0x08D5
+Japanese/retail	虐	8B73			0x07B3
+Japanese/retail	虚	8B95			0x07D5
+Japanese/retail	虜	97B8			0x10F8
+Japanese/retail	虫	928E			0x0D0E
+Japanese/retail	蛇	8ED6			0x0A56
+Japanese/retail	蛮	94D8			0x0ED8
+Japanese/retail	蜂	9649			0x0FC9
+Japanese/retail	蜉	E58A			
+Japanese/retail	蝕	9049			0x0B49
+Japanese/retail	蝣	E5A0			
+Japanese/retail	融	975A			0x109A
+Japanese/retail	血	8C8C			0x088C
+Japanese/retail	衆	8F4F			0x0A8F
+Japanese/retail	行	8D73			0x0933
+Japanese/retail	術	8F70			0x0AB0
+Japanese/retail	街	8A58			0x06D8
+Japanese/retail	衛	8971			0x0631
+Japanese/retail	衝	8FD5			0x0B15
+Japanese/retail	衣	88DF			0x05DF
+Japanese/retail	表	955C			0x0F1C
+Japanese/retail	衰	908A			0x0B8A
+Japanese/retail	袋	91DC			0x0C9C
+Japanese/retail	袖	91B3			0x0C73
+Japanese/retail	被	94ED			0x0EED
+Japanese/retail	裁	8DD9			0x0999
+Japanese/retail	裂	97F4			0x1134
+Japanese/retail	装	9195			0x0C55
+Japanese/retail	裏	97A0			0x10E0
+Japanese/retail	裔	E5E1			
+Japanese/retail	裕	9754			0x1094
+Japanese/retail	補	95E2			0x0FA2
+Japanese/retail	裸	9787			0x10C7
+Japanese/retail	製	90BB			0x0BBB
+Japanese/retail	複	95A1			0x0F61
+Japanese/retail	褒	964A			0x0FCA
+Japanese/retail	襲	8F50			0x0A90
+Japanese/retail	西	90BC			0x0BBC
+Japanese/retail	要	9776			0x10B6
+Japanese/retail	覆	95A2			0x0F62
+Japanese/retail	覇	9465			0x0E65
+Japanese/retail	見	8CA9			0x08A9
+Japanese/retail	規	8B4B			0x078B
+Japanese/retail	視	8E8B			0x0A0B
+Japanese/retail	覗	9460			0x0E60
+Japanese/retail	覚	8A6F			0x06EF
+Japanese/retail	覧	9797			0x10D7
+Japanese/retail	親	9065			0x0B65
+Japanese/retail	観	8ACF			0x074F
+Japanese/retail	角	8A70			0x06F0
+Japanese/retail	解	89F0			0x06B0
+Japanese/retail	触	9047			0x0B47
+Japanese/retail	言	8CBE			0x08BE
+Japanese/retail	訂	92F9			0x0D79
+Japanese/retail	計	8C76			0x0876
+Japanese/retail	訊	9075			0x0B75
+Japanese/retail	討	93A2			0x0DE2
+Japanese/retail	訓	8C50			0x0850
+Japanese/retail	託	91F5			0x0CB5
+Japanese/retail	記	8B4C			0x078C
+Japanese/retail	訪	964B			0x0FCB
+Japanese/retail	設	90DD			0x0BDD
+Japanese/retail	許	8B96			0x07D6
+Japanese/retail	訳	96F3			0x1073
+Japanese/retail	診	9066			0x0B66
+Japanese/retail	証	8FD8			0x0B18
+Japanese/retail	評	955D			0x0F1D
+Japanese/retail	詞	8E8C			0x0A0C
+Japanese/retail	試	8E8E			0x0A0E
+Japanese/retail	詫	986C			0x116C
+Japanese/retail	詮	9146			0x0C06
+Japanese/retail	詰	8B6C			0x07AC
+Japanese/retail	話	9862			0x1162
+Japanese/retail	該	8A59			0x06D9
+Japanese/retail	詳	8FDA			0x0B1A
+Japanese/retail	誇	8CD6			0x08D6
+Japanese/retail	誉	975F			0x109F
+Japanese/retail	誌	8E8F			0x0A0F
+Japanese/retail	認	9446			0x0E46
+Japanese/retail	誓	90BE			0x0BBE
+Japanese/retail	誕	9261			0x0CE1
+Japanese/retail	誘	9755			0x1095
+Japanese/retail	語	8CEA			0x08EA
+Japanese/retail	誠	90BD			0x0BBD
+Japanese/retail	誤	8CEB			0x08EB
+Japanese/retail	説	90E0			0x0BE0
+Japanese/retail	読	93C7			0x0E07
+Japanese/retail	誰	924E			0x0CCE
+Japanese/retail	課	89DB			0x069B
+Japanese/retail	調	92B2			0x0D32
+Japanese/retail	談	926B			0x0CEB
+Japanese/retail	請	90BF			0x0BBF
+Japanese/retail	論	985F			0x115F
+Japanese/retail	諜	92B3			0x0D33
+Japanese/retail	諦	92FA			0x0D7A
+Japanese/retail	諸	8F94			0x0AD4
+Japanese/retail	諾	91F8			0x0CB8
+Japanese/retail	謀	9664			0x0FE4
+Japanese/retail	謎	93E4			0x0E24
+Japanese/retail	謙	8CAA			0x08AA
+Japanese/retail	講	8D75			0x0935
+Japanese/retail	謝	8ED3			0x0A53
+Japanese/retail	謹	8BDE			0x081E
+Japanese/retail	識	8EAF			0x0A2F
+Japanese/retail	警	8C78			0x0878
+Japanese/retail	議	8B63			0x07A3
+Japanese/retail	譲	8FF7			0x0B37
+Japanese/retail	護	8CEC			0x08EC
+Japanese/retail	讐	8F51			0x0A91
+Japanese/retail	谷	924A			0x0CCA
+Japanese/retail	豆	93A4			0x0DE4
+Japanese/retail	豊	964C			0x0FCC
+Japanese/retail	象	8FDB			0x0B1B
+Japanese/retail	豪	8D8B			0x094B
+Japanese/retail	豹	955E			0x0F1E
+Japanese/retail	貌	9665			0x0FE5
+Japanese/retail	貝	8A4C			0x06CC
+Japanese/retail	負	9589			0x0F49
+Japanese/retail	財	8DE0			0x09A0
+Japanese/retail	貢	8D76			0x0936
+Japanese/retail	貧	956E			0x0F2E
+Japanese/retail	販	94CC			0x0ECC
+Japanese/retail	貫	8AD1			0x0751
+Japanese/retail	責	90D3			0x0BD3
+Japanese/retail	貯	9299			0x0D19
+Japanese/retail	貴	8B4D			0x078D
+Japanese/retail	貶	E6C8			
+Japanese/retail	買	9483			0x0E83
+Japanese/retail	貸	91DD			0x0C9D
+Japanese/retail	費	94EF			0x0EEF
+Japanese/retail	賀	89EA			0x06AA
+Japanese/retail	賃	92C0			0x0D40
+Japanese/retail	賄	9864			0x1164
+Japanese/retail	資	8E91			0x0A11
+Japanese/retail	賊	91AF			0x0C6F
+Japanese/retail	賑	93F6			0x0E36
+Japanese/retail	賛	8E5E			0x09DE
+Japanese/retail	賞	8FDC			0x0B1C
+Japanese/retail	賢	8CAB			0x08AB
+Japanese/retail	質	8EBF			0x0A3F
+Japanese/retail	賭	9371			0x0DB1
+Japanese/retail	贅	E6D2			
+Japanese/retail	贈	91A1			0x0C61
+Japanese/retail	贖	E6DC			
+Japanese/retail	赤	90D4			0x0BD4
+Japanese/retail	赦	8ECD			0x0A4D
+Japanese/retail	走	9196			0x0C56
+Japanese/retail	赴	958B			0x0F4B
+Japanese/retail	起	8B4E			0x078E
+Japanese/retail	超	92B4			0x0D34
+Japanese/retail	越	897A			0x063A
+Japanese/retail	趣	8EEF			0x0A6F
+Japanese/retail	足	91AB			0x0C6B
+Japanese/retail	距	8B97			0x07D7
+Japanese/retail	跡	90D5			0x0BD5
+Japanese/retail	路	9848			0x1148
+Japanese/retail	跳	92B5			0x0D35
+Japanese/retail	践	9148			0x0C08
+Japanese/retail	踊	9778			0x10B8
+Japanese/retail	踏	93A5			0x0DE5
+Japanese/retail	蹂	E6F8			
+Japanese/retail	蹴	8F52			0x0A92
+Japanese/retail	躍	96F4			0x1074
+Japanese/retail	躙	E757			
+Japanese/retail	身	9067			0x0B67
+Japanese/retail	車	8ED4			0x0A54
+Japanese/retail	軌	8B4F			0x078F
+Japanese/retail	軍	8C52			0x0852
+Japanese/retail	軟	93EE			0x0E2E
+Japanese/retail	転	935D			0x0D9D
+Japanese/retail	軸	8EB2			0x0A32
+Japanese/retail	軽	8C79			0x0879
+Japanese/retail	較	8A72			0x06F2
+Japanese/retail	載	8DDA			0x099A
+Japanese/retail	輝	8B50			0x0790
+Japanese/retail	輩	9479			0x0E79
+Japanese/retail	輪	97D6			0x1116
+Japanese/retail	輸	9741			0x1081
+Japanese/retail	轄	8A8D			0x070D
+Japanese/retail	辛	9068			0x0B68
+Japanese/retail	辞	8EAB			0x0A2B
+Japanese/retail	辱	904A			0x0B4A
+Japanese/retail	辺	95D3			0x0F93
+Japanese/retail	込	8D9E			0x095E
+Japanese/retail	迅	9076			0x0B76
+Japanese/retail	迎	8C7D			0x087D
+Japanese/retail	近	8BDF			0x081F
+Japanese/retail	返	95D4			0x0F94
+Japanese/retail	迫	9497			0x0E97
+Japanese/retail	迭	9352			0x0D92
+Japanese/retail	述	8F71			0x0AB1
+Japanese/retail	迷	96C0			0x1040
+Japanese/retail	追	92C7			0x0D47
+Japanese/retail	退	91DE			0x0C9E
+Japanese/retail	送	9197			0x0C57
+Japanese/retail	逃	93A6			0x0DE6
+Japanese/retail	逆	8B74			0x07B4
+Japanese/retail	透	93A7			0x0DE7
+Japanese/retail	逐	9280			0x0D00
+Japanese/retail	途	9372			0x0DB2
+Japanese/retail	這	9487			0x0E87
+Japanese/retail	通	92CA			0x0D4A
+Japanese/retail	逝	90C0			0x0BC0
+Japanese/retail	速	91AC			0x0C6C
+Japanese/retail	造	91A2			0x0C62
+Japanese/retail	逢	88A7			0x05A7
+Japanese/retail	連	9841			0x1141
+Japanese/retail	逮	91DF			0x0C9F
+Japanese/retail	週	8F54			0x0A94
+Japanese/retail	進	9069			0x0B69
+Japanese/retail	逸	88ED			0x05ED
+Japanese/retail	遂	908B			0x0B8B
+Japanese/retail	遅	9278			0x0CF8
+Japanese/retail	遇	8BF6			0x0836
+Japanese/retail	遊	9756			0x1096
+Japanese/retail	運	895E			0x061E
+Japanese/retail	過	89DF			0x069F
+Japanese/retail	道	93B9			0x0DF9
+Japanese/retail	達	9242			0x0CC2
+Japanese/retail	違	88E1			0x05E1
+Japanese/retail	遜	91BB			0x0C7B
+Japanese/retail	遠	8993			0x0653
+Japanese/retail	遣	8CAD			0x08AD
+Japanese/retail	遥	9779			0x10B9
+Japanese/retail	適	934B			0x0D8B
+Japanese/retail	遭	9198			0x0C58
+Japanese/retail	遮	8ED5			0x0A55
+Japanese/retail	遷	914A			0x0C0A
+Japanese/retail	選	9149			0x0C09
+Japanese/retail	遺	88E2			0x05E2
+Japanese/retail	避	94F0			0x0EF0
+Japanese/retail	還	8AD2			0x0752
+Japanese/retail	那	93DF			0x0E1F
+Japanese/retail	邦	964D			0x0FCD
+Japanese/retail	邪	8ED7			0x0A57
+Japanese/retail	郎	9859			0x1159
+Japanese/retail	部	9594			0x0F54
+Japanese/retail	郷	8BBD			0x07FD
+Japanese/retail	都	9373			0x0DB3
+Japanese/retail	酌	8EDE			0x0A5E
+Japanese/retail	配	947A			0x0E7A
+Japanese/retail	酒	8EF0			0x0A70
+Japanese/retail	酔	908C			0x0B8C
+Japanese/retail	酢	907C			0x0B7C
+Japanese/retail	酬	8F56			0x0A96
+Japanese/retail	酷	8D93			0x0953
+Japanese/retail	酸	8E5F			0x09DF
+Japanese/retail	醒	90C1			0x0BC1
+Japanese/retail	醜	8F58			0x0A98
+Japanese/retail	采	8DD1			0x0991
+Japanese/retail	釈	8EDF			0x0A5F
+Japanese/retail	重	8F64			0x0AA4
+Japanese/retail	野	96EC			0x106C
+Japanese/retail	量	97CA			0x110A
+Japanese/retail	金	8BE0			0x0820
+Japanese/retail	釘	9342			0x0D82
+Japanese/retail	釜	8A98			0x0718
+Japanese/retail	針	906A			0x0B6A
+Japanese/retail	釣	92DE			0x0D5E
+Japanese/retail	鈍	93DD			0x0E1D
+Japanese/retail	鉄	9353			0x0D93
+Japanese/retail	鉢	94AB			0x0EAB
+Japanese/retail	銀	8BE2			0x0822
+Japanese/retail	銃	8F65			0x0AA5
+Japanese/retail	銅	93BA			0x0DFA
+Japanese/retail	銘	96C1			0x1041
+Japanese/retail	銭	914B			0x0C0B
+Japanese/retail	鋭	8973			0x0633
+Japanese/retail	鋼	8D7C			0x093C
+Japanese/retail	錬	9842			0x1142
+Japanese/retail	錯	8DF6			0x09B6
+Japanese/retail	録	985E			0x115E
+Japanese/retail	錺	E844			
+Japanese/retail	鍛	9262			0x0CE2
+Japanese/retail	鍵	8CAE			0x08AE
+Japanese/retail	鎌	8A99			0x0719
+Japanese/retail	鎖	8DBD			0x097D
+Japanese/retail	鎧	8A5A			0x06DA
+Japanese/retail	鎭	E84E			
+Japanese/retail	鎮	92C1			0x0D41
+Japanese/retail	鏐	E858			
+Japanese/retail	鏡	8BBE			0x07FE
+Japanese/retail	鐫	E862			
+Japanese/retail	鐸	91F6			0x0CB6
+Japanese/retail	鑑	8AD3			0x0753
+Japanese/retail	鑞	E86C			
+Japanese/retail	長	92B7			0x0D37
+Japanese/retail	門	96E5			0x1065
+Japanese/retail	閃	914D			0x0C0D
+Japanese/retail	閉	95C2			0x0F82
+Japanese/retail	開	8A4A			0x06CA
+Japanese/retail	間	8AD4			0x0754
+Japanese/retail	関	8AD6			0x0756
+Japanese/retail	閣	8A74			0x06F4
+Japanese/retail	閥	94B4			0x0EB4
+Japanese/retail	閲	897B			0x063B
+Japanese/retail	闇	88C5			0x05C5
+Japanese/retail	闘	93AC			0x0DEC
+Japanese/retail	阪	8DE3			0x09A3
+Japanese/retail	防	9668			0x0FE8
+Japanese/retail	阻	916A			0x0C2A
+Japanese/retail	阿	88A2			0x05A2
+Japanese/retail	降	8D7E			0x093E
+Japanese/retail	限	8CC0			0x08C0
+Japanese/retail	院	8940			0x0600
+Japanese/retail	陣	9077			0x0B77
+Japanese/retail	除	8F9C			0x0ADC
+Japanese/retail	陥	8AD7			0x0757
+Japanese/retail	陰	8941			0x0601
+Japanese/retail	陳	92C2			0x0D42
+Japanese/retail	陸	97A4			0x10E4
+Japanese/retail	険	8CAF			0x08AF
+Japanese/retail	陽	977A			0x10BA
+Japanese/retail	隆	97B2			0x10F2
+Japanese/retail	隊	91E0			0x0CA0
+Japanese/retail	階	8A4B			0x06CB
+Japanese/retail	随	908F			0x0B8F
+Japanese/retail	隔	8A75			0x06F5
+Japanese/retail	隕	E8A6			
+Japanese/retail	隙	8C84			0x0884
+Japanese/retail	際	8DDB			0x099B
+Japanese/retail	障	8FE1			0x0B21
+Japanese/retail	隠	8942			0x0602
+Japanese/retail	隣	97D7			0x1117
+Japanese/retail	隻	90C7			0x0BC7
+Japanese/retail	隼	94B9			0x0EB9
+Japanese/retail	雀	909D			0x0B9D
+Japanese/retail	雁	8AE5			0x0765
+Japanese/retail	雄	9759			0x1099
+Japanese/retail	雅	89EB			0x06AB
+Japanese/retail	集	8F57			0x0A97
+Japanese/retail	雇	8CD9			0x08D9
+Japanese/retail	雌	8E93			0x0A13
+Japanese/retail	雑	8E47			0x09C7
+Japanese/retail	離	97A3			0x10E3
+Japanese/retail	難	93EF			0x0E2F
+Japanese/retail	雨	894A			0x060A
+Japanese/retail	雪	90E1			0x0BE1
+Japanese/retail	雰	95B5			0x0F75
+Japanese/retail	雲	895F			0x061F
+Japanese/retail	雷	978B			0x10CB
+Japanese/retail	電	9364			0x0DA4
+Japanese/retail	震	906B			0x0B6B
+Japanese/retail	霊	97EC			0x112C
+Japanese/retail	露	9849			0x1149
+Japanese/retail	青	90C2			0x0BC2
+Japanese/retail	静	90C3			0x0BC3
+Japanese/retail	非	94F1			0x0EF1
+Japanese/retail	面	96CA			0x104A
+Japanese/retail	革	8A76			0x06F6
+Japanese/retail	靭	9078			0x0B78
+Japanese/retail	音	89B9			0x0679
+Japanese/retail	響	8BBF			0x07FF
+Japanese/retail	頁	95C5			0x0F85
+Japanese/retail	頂	92B8			0x0D38
+Japanese/retail	頃	8DA0			0x0960
+Japanese/retail	項	8D80			0x0940
+Japanese/retail	順	8F87			0x0AC7
+Japanese/retail	預	9761			0x10A1
+Japanese/retail	頑	8AE6			0x0766
+Japanese/retail	領	97CC			0x110C
+Japanese/retail	頭	93AA			0x0DEA
+Japanese/retail	頻	9570			0x0F30
+Japanese/retail	頼	978A			0x10CA
+Japanese/retail	題	91E8			0x0CA8
+Japanese/retail	額	8A7A			0x06FA
+Japanese/retail	顔	8AE7			0x0767
+Japanese/retail	願	8AE8			0x0768
+Japanese/retail	類	97DE			0x111E
+Japanese/retail	顧	8CDA			0x08DA
+Japanese/retail	風	9597			0x0F57
+Japanese/retail	飛	94F2			0x0EF2
+Japanese/retail	食	9048			0x0B48
+Japanese/retail	飢	8B51			0x0791
+Japanese/retail	飯	94D1			0x0ED1
+Japanese/retail	飲	88F9			0x05F9
+Japanese/retail	飼	8E94			0x0A14
+Japanese/retail	飽	964F			0x0FCF
+Japanese/retail	飾	8FFC			0x0B3C
+Japanese/retail	養	977B			0x10BB
+Japanese/retail	餐	8E60			0x09E0
+Japanese/retail	餞	E953			
+Japanese/retail	館	8AD9			0x0759
+Japanese/retail	首	8EF1			0x0A71
+Japanese/retail	香	8D81			0x0941
+Japanese/retail	馬	946E			0x0E6E
+Japanese/retail	馳	9279			0x0CF9
+Japanese/retail	馴	93E9			0x0E29
+Japanese/retail	駄	91CA			0x0C8A
+Japanese/retail	駅	8977			0x0637
+Japanese/retail	駆	8BEC			0x082C
+Japanese/retail	駐	9293			0x0D13
+Japanese/retail	駒	8BEE			0x082E
+Japanese/retail	駕	89ED			0x06AD
+Japanese/retail	騎	8B52			0x0792
+Japanese/retail	騒	919B			0x0C5B
+Japanese/retail	験	8CB1			0x08B1
+Japanese/retail	騙	E978			
+Japanese/retail	驚	8BC1			0x0801
+Japanese/retail	骨	8D9C			0x095C
+Japanese/retail	骸	8A5B			0x06DB
+Japanese/retail	高	8D82			0x0942
+Japanese/retail	髪	94AF			0x0EAF
+Japanese/retail	鬼	8B53			0x0793
+Japanese/retail	魂	8DB0			0x0970
+Japanese/retail	魅	96A3			0x1023
+Japanese/retail	魔	9682			0x1002
+Japanese/retail	魚	8B9B			0x07DB
+Japanese/retail	鱗	97D8			0x1118
+Japanese/retail	鳥	92B9			0x0D39
+Japanese/retail	鳴	96C2			0x1042
+Japanese/retail	鵐	EA44			
+Japanese/retail	鷹	91E9			0x0CA9
+Japanese/retail	鹿	8EAD			0x0A2D
+Japanese/retail	麗	97ED			0x112D
+Japanese/retail	麻	9683			0x1003
+Japanese/retail	黄	89A9			0x0669
+Japanese/retail	黒	8D95			0x0955
+Japanese/retail	黙	96D9			0x1059
+Japanese/retail	鼻	9540			0x0F00
+Japanese/retail	齢	97EE			0x112E
+Japanese/retail	龍	97B4			0x10F4
+Japanese/retail	！	8149			0x0009
+Japanese/retail	％	8193			0x0053
+Japanese/retail	＆	8195			0x0055
+Japanese/retail	（	8169			0x0029
+Japanese/retail	）	816A			0x002A
+Japanese/retail	＋	817B			0x003B
+Japanese/retail	－	817C			0x003C
+Japanese/retail	．	8144			0x0004
+Japanese/retail	／	815E			0x001E
+Japanese/retail	０	824F			0x00CF
+Japanese/retail	１	8250			0x00D0
+Japanese/retail	２	8251			0x00D1
+Japanese/retail	３	8252			0x00D2
+Japanese/retail	４	8253			0x00D3
+Japanese/retail	５	8254			0x00D4
+Japanese/retail	６	8255			0x00D5
+Japanese/retail	７	8256			0x00D6
+Japanese/retail	８	8257			0x00D7
+Japanese/retail	９	8258			0x00D8
+Japanese/retail	：	8146			0x0006
+Japanese/retail	＜	8183			0x0043
+Japanese/retail	＝	8181			0x0041
+Japanese/retail	＞	8184			0x0044
+Japanese/retail	？	8148			0x0008
+Japanese/retail	Ａ	8260			0x00E0
+Japanese/retail	Ｂ	8261			0x00E1
+Japanese/retail	Ｃ	8262			0x00E2
+Japanese/retail	Ｄ	8263			0x00E3
+Japanese/retail	Ｅ	8264			0x00E4
+Japanese/retail	Ｆ	8265			0x00E5
+Japanese/retail	Ｇ	8266			0x00E6
+Japanese/retail	Ｈ	8267			0x00E7
+Japanese/retail	Ｉ	8268			0x00E8
+Japanese/retail	Ｊ	8269			0x00E9
+Japanese/retail	Ｋ	826A			0x00EA
+Japanese/retail	Ｌ	826B			0x00EB
+Japanese/retail	Ｍ	826C			0x00EC
+Japanese/retail	Ｎ	826D			0x00ED
+Japanese/retail	Ｏ	826E			0x00EE
+Japanese/retail	Ｐ	826F			0x00EF
+Japanese/retail	Ｑ	8270			0x00F0
+Japanese/retail	Ｒ	8271			0x00F1
+Japanese/retail	Ｓ	8272			0x00F2
+Japanese/retail	Ｔ	8273			0x00F3
+Japanese/retail	Ｕ	8274			0x00F4
+Japanese/retail	Ｖ	8275			0x00F5
+Japanese/retail	Ｗ	8276			0x00F6
+Japanese/retail	Ｘ	8277			0x00F7
+Japanese/retail	Ｙ	8278			0x00F8
+Japanese/retail	Ｚ	8279			0x00F9
+Japanese/retail	＿	8151			0x0011
+Japanese/retail	ａ	8281			0x0101
+Japanese/retail	ｂ	8282			0x0102
+Japanese/retail	ｃ	8283			0x0103
+Japanese/retail	ｄ	8284			0x0104
+Japanese/retail	ｅ	8285			0x0105
+Japanese/retail	ｈ	8288			0x0108
+Japanese/retail	ｉ	8289			0x0109
+Japanese/retail	ｋ	828B			0x010B
+Japanese/retail	ｌ	828C			0x010C
+Japanese/retail	ｍ	828D			0x010D
+Japanese/retail	ｏ	828F			0x010F
+Japanese/retail	ｐ	8290			0x0110
+Japanese/retail	ｑ	8291			0x0111
+Japanese/retail	ｒ	8292			0x0112
+Japanese/retail	ｓ	8293			0x0113
+Japanese/retail	ｔ	8294			0x0114
+Japanese/retail	ｖ	8296			0x0116
+Japanese/retail	ｚ	829A			0x011A
+Japanese/retail	～	8160			0x0020
+Japanese/retail	ｬ	AC			
+Japanese/retail	ｹ	B9			
+Japanese/retail	ｼ	BC			
+Japanese/retail	ｽ	BD			
+Japanese/retail	ﾈ	C8			
+Japanese/retail	ﾒ	D2			
+Japanese/retail	ﾘ	D8			
+Japanese/retail	ﾞ	DE			
+English DTE		8240	  	8240	0x00C0
+English DTE		8241	 !	8241	0x00C1
+English DTE		8242	" """	8242	0x00C2
+English DTE		8243	 %	8243	0x00C3
+English DTE		8244	 &	8244	0x00C4
+English DTE		8245	 '	8245	0x00C5
+English DTE		8246	 (	8246	0x00C6
+English DTE		8247	 +	8247	0x00C7
+English DTE		8248	 ,	8248	0x00C8
+English DTE		8249	 -	8249	0x00C9
+English DTE		824A	 .	824A	0x00CA
+English DTE		824B	 /	824B	0x00CB
+English DTE		824C	 0	824C	0x00CC
+English DTE		824D	 1	824D	0x00CD
+English DTE		824E	 2	824E	0x00CE
+English DTE		8259	 3	8259	0x00D9
+English DTE		825B	 4	825B	0x00DB
+English DTE		825C	 5	825C	0x00DC
+English DTE		825D	 6	825D	0x00DD
+English DTE		825E	 7	825E	0x00DE
+English DTE		825F	 8	825F	0x00DF
+English DTE		827A	 9	827A	0x00FA
+English DTE		827B	 :	827B	0x00FB
+English DTE		827C	 <	827C	0x00FC
+English DTE		827D	 ?	827D	0x00FD
+English DTE		827E	 A	827E	0x00FE
+English DTE		8280	 B	8280	0x0100
+English DTE		829B	 C	829B	0x011B
+English DTE		829C	 D	829C	0x011C
+English DTE		829D	 E	829D	0x011D
+English DTE		829E	 F	829E	0x011E
+English DTE		82F2	 G	82F2	0x0172
+English DTE		82F3	 H	82F3	0x0173
+English DTE		82F4	 I	82F4	0x0174
+English DTE		82F5	 J	82F5	0x0175
+English DTE		82F6	 K	82F6	0x0176
+English DTE		82F7	 L	82F7	0x0177
+English DTE		82F8	 M	82F8	0x0178
+English DTE		82F9	 N	82F9	0x0179
+English DTE		82FA	 O	82FA	0x017A
+English DTE		82FB	 P	82FB	0x017B
+English DTE		82FC	 Q	82FC	0x017C
+English DTE		8398	 R	8398	0x01D8
+English DTE		8399	 S	8399	0x01D9
+English DTE		839A	 T	839A	0x01DA
+English DTE		839B	 U	839B	0x01DB
+English DTE		839C	 V	839C	0x01DC
+English DTE		839D	 W	839D	0x01DD
+English DTE		839E	 X	839E	0x01DE
+English DTE	Α	839F	 Y	839F	0x01DF
+English DTE	Β	83A0	 Z	83A0	0x01E0
+English DTE	Γ	83A1	 a	83A1	0x01E1
+English DTE	Δ	83A2	 b	83A2	0x01E2
+English DTE	Ε	83A3	 c	83A3	0x01E3
+English DTE	Ζ	83A4	 d	83A4	0x01E4
+English DTE	Η	83A5	 e	83A5	0x01E5
+English DTE	Θ	83A6	 f	83A6	0x01E6
+English DTE	Ι	83A7	 g	83A7	0x01E7
+English DTE	Κ	83A8	 h	83A8	0x01E8
+English DTE	Λ	83A9	 i	83A9	0x01E9
+English DTE	Μ	83AA	 j	83AA	0x01EA
+English DTE	Ν	83AB	 k	83AB	0x01EB
+English DTE	Ξ	83AC	 l	83AC	0x01EC
+English DTE	Ο	83AD	 m	83AD	0x01ED
+English DTE	Π	83AE	 n	83AE	0x01EE
+English DTE	Ρ	83AF	 o	83AF	0x01EF
+English DTE	Σ	83B0	 p	83B0	0x01F0
+English DTE	Τ	83B1	 q	83B1	0x01F1
+English DTE	Υ	83B2	 r	83B2	0x01F2
+English DTE	Φ	83B3	 s	83B3	0x01F3
+English DTE	Χ	83B4	 t	83B4	0x01F4
+English DTE	Ψ	83B5	 u	83B5	0x01F5
+English DTE	Ω	83B6	 v	83B6	0x01F6
+English DTE		83B7	 w	83B7	0x01F7
+English DTE		83B8	 y	83B8	0x01F8
+English DTE		83B9	 z	83B9	0x01F9
+English DTE		83BA	! 	83BA	0x01FA
+English DTE		83BB	!!	83BB	0x01FB
+English DTE		83BC	!'	83BC	0x01FC
+English DTE		83BD	!)	83BD	0x01FD
+English DTE		83BE	!-	83BE	0x01FE
+English DTE	β	83C0	!.	83C0	0x0200
+English DTE	γ	83C1	!?	83C1	0x0201
+English DTE	δ	83C2	""" "	83C2	0x0202
+English DTE	ε	83C3	"""!"	83C3	0x0203
+English DTE	ζ	83C4	"""%"	83C4	0x0204
+English DTE	η	83C5	""","	83C5	0x0205
+English DTE	θ	83C6	"""."	83C6	0x0206
+English DTE	ι	83C7	"""1"	83C7	0x0207
+English DTE	κ	83C8	"""?"	83C8	0x0208
+English DTE	λ	83C9	"""A"	83C9	0x0209
+English DTE	μ	83CA	"""B"	83CA	0x020A
+English DTE	ξ	83CC	"""C"	83CC	0x020C
+English DTE	ο	83CD	"""D"	83CD	0x020D
+English DTE	π	83CE	"""E"	83CE	0x020E
+English DTE	ρ	83CF	"""H"	83CF	0x020F
+English DTE	σ	83D0	"""I"	83D0	0x0210
+English DTE	τ	83D1	"""J"	83D1	0x0211
+English DTE	υ	83D2	"""K"	83D2	0x0212
+English DTE	φ	83D3	"""L"	83D3	0x0213
+English DTE	χ	83D4	"""M"	83D4	0x0214
+English DTE	ψ	83D5	"""N"	83D5	0x0215
+English DTE	ω	83D6	"""P"	83D6	0x0216
+English DTE		83D7	"""S"	83D7	0x0217
+English DTE		83D8	"""T"	83D8	0x0218
+English DTE		83D9	"""V"	83D9	0x0219
+English DTE		83DA	"""Z"	83DA	0x021A
+English DTE		83DB	"""i"	83DB	0x021B
+English DTE		83DC	"""k"	83DC	0x021C
+English DTE		83DD	% 	83DD	0x021D
+English DTE		83DE	%!	83DE	0x021E
+English DTE		83DF	%,	83DF	0x021F
+English DTE		83E0	%.	83E0	0x0220
+English DTE		83E1	%d	83E1	0x0221
+English DTE		83E2	%s	83E2	0x0222
+English DTE		83E3	& 	83E3	0x0223
+English DTE		83E4	&E	83E4	0x0224
+English DTE		83E5	&I	83E5	0x0225
+English DTE		83E6	' 	83E6	0x0226
+English DTE		83E7	'.	83E7	0x0227
+English DTE		83E8	'R	83E8	0x0228
+English DTE		83E9	'a	83E9	0x0229
+English DTE		83EA	'c	83EA	0x022A
+English DTE		83EB	'd	83EB	0x022B
+English DTE		83EC	'e	83EC	0x022C
+English DTE		83ED	'f	83ED	0x022D
+English DTE		83EE	'g	83EE	0x022E
+English DTE		83EF	'i	83EF	0x022F
+English DTE		83F0	'j	83F0	0x0230
+English DTE		83F1	'l	83F1	0x0231
+English DTE		83F2	'm	83F2	0x0232
+English DTE		83F3	'o	83F3	0x0233
+English DTE		83F4	'r	83F4	0x0234
+English DTE		83F5	's	83F5	0x0235
+English DTE		83F6	't	83F6	0x0236
+English DTE		83F7	'v	83F7	0x0237
+English DTE		83F8	'y	83F8	0x0238
+English DTE		83F9	( 	83F9	0x0239
+English DTE		83FA	(!	83FA	0x023A
+English DTE		83FB	(%	83FB	0x023B
+English DTE		83FC	(-	83FC	0x023C
+English DTE	А	8440	(.	8440	0x0240
+English DTE	Б	8441	(2	8441	0x0241
+English DTE	В	8442	(=	8442	0x0242
+English DTE	Г	8443	(A	8443	0x0243
+English DTE	Д	8444	(B	8444	0x0244
+English DTE	Е	8445	(C	8445	0x0245
+English DTE	Ё	8446	(D	8446	0x0246
+English DTE	Ж	8447	(E	8447	0x0247
+English DTE	З	8448	(F	8448	0x0248
+English DTE	И	8449	(G	8449	0x0249
+English DTE	Й	844A	(H	844A	0x024A
+English DTE	К	844B	(I	844B	0x024B
+English DTE	Л	844C	(J	844C	0x024C
+English DTE	М	844D	(K	844D	0x024D
+English DTE	Н	844E	(L	844E	0x024E
+English DTE	О	844F	(M	844F	0x024F
+English DTE	П	8450	(N	8450	0x0250
+English DTE	Р	8451	(O	8451	0x0251
+English DTE	С	8452	(P	8452	0x0252
+English DTE	Т	8453	(R	8453	0x0253
+English DTE	У	8454	(S	8454	0x0254
+English DTE	Ф	8455	(T	8455	0x0255
+English DTE	Х	8456	(U	8456	0x0256
+English DTE	Ц	8457	(W	8457	0x0257
+English DTE	Ч	8458	(X	8458	0x0258
+English DTE	Ш	8459	(Y	8459	0x0259
+English DTE	Щ	845A	(Z	845A	0x025A
+English DTE	Ъ	845B	(a	845B	0x025B
+English DTE	Ы	845C	(b	845C	0x025C
+English DTE	Ь	845D	(c	845D	0x025D
+English DTE	Э	845E	(h	845E	0x025E
+English DTE	Ю	845F	(m	845F	0x025F
+English DTE	Я	8460	(s	8460	0x0260
+English DTE		8461	(t	8461	0x0261
+English DTE		8462	) 	8462	0x0262
+English DTE		8463	")"""	8463	0x0263
+English DTE		8464	),	8464	0x0264
+English DTE		8465	).	8465	0x0265
+English DTE		8466	):	8466	0x0266
+English DTE		8467	+ 	8467	0x0267
+English DTE		8468	+%	8468	0x0268
+English DTE		8469	+1	8469	0x0269
+English DTE		846A	+2	846A	0x026A
+English DTE		846B	+3	846B	0x026B
+English DTE		846C	+4	846C	0x026C
+English DTE		846D	+5	846D	0x026D
+English DTE		846E	, 	846E	0x026E
+English DTE		846F	","""	846F	0x026F
+English DTE	а	8470	,.	8470	0x0270
+English DTE	б	8471	,1	8471	0x0271
+English DTE	в	8472	- 	8472	0x0272
+English DTE	г	8473	-!	8473	0x0273
+English DTE	д	8474	--	8474	0x0274
+English DTE	е	8475	-0	8475	0x0275
+English DTE	ё	8476	-1	8476	0x0276
+English DTE	ж	8477	-2	8477	0x0277
+English DTE	з	8478	-3	8478	0x0278
+English DTE	и	8479	-7	8479	0x0279
+English DTE	й	847A	-8	847A	0x027A
+English DTE	к	847B	-:	847B	0x027B
+English DTE	л	847C	-?	847C	0x027C
+English DTE	м	847D	-A	847D	0x027D
+English DTE	н	847E	-B	847E	0x027E
+English DTE	о	8480	-C	8480	0x0280
+English DTE	т	8484	-D	8484	0x0284
+English DTE	у	8485	-E	8485	0x0285
+English DTE	ф	8486	-F	8486	0x0286
+English DTE	х	8487	-G	8487	0x0287
+English DTE	ц	8488	-H	8488	0x0288
+English DTE	ч	8489	-I	8489	0x0289
+English DTE	ш	848A	-K	848A	0x028A
+English DTE	щ	848B	-L	848B	0x028B
+English DTE	ь	848E	-N	848E	0x028E
+English DTE	ю	8490	-O	8490	0x0290
+English DTE	я	8491	-P	8491	0x0291
+English DTE		8493	-R	8493	0x0293
+English DTE		8495	-S	8495	0x0295
+English DTE		8496	-T	8496	0x0296
+English DTE		8498	-W	8498	0x0298
+English DTE		8499	-Y	8499	0x0299
+English DTE		849A	-Z	849A	0x029A
+English DTE		849B	-a	849B	0x029B
+English DTE		849C	-b	849C	0x029C
+English DTE		849D	-c	849D	0x029D
+English DTE		849E	-d	849E	0x029E
+English DTE	─	849F	-e	849F	0x029F
+English DTE	│	84A0	-f	84A0	0x02A0
+English DTE	┌	84A1	-g	84A1	0x02A1
+English DTE	┐	84A2	-h	84A2	0x02A2
+English DTE	┘	84A3	-i	84A3	0x02A3
+English DTE	└	84A4	-j	84A4	0x02A4
+English DTE	├	84A5	-k	84A5	0x02A5
+English DTE	┬	84A6	-l	84A6	0x02A6
+English DTE	┤	84A7	-m	84A7	0x02A7
+English DTE	┴	84A8	-n	84A8	0x02A8
+English DTE	┼	84A9	-o	84A9	0x02A9
+English DTE	━	84AA	-p	84AA	0x02AA
+English DTE	┃	84AB	-r	84AB	0x02AB
+English DTE	┏	84AC	-s	84AC	0x02AC
+English DTE	┓	84AD	-t	84AD	0x02AD
+English DTE	┛	84AE	-u	84AE	0x02AE
+English DTE	┗	84AF	-w	84AF	0x02AF
+English DTE	┣	84B0	-y	84B0	0x02B0
+English DTE	┳	84B1	-z	84B1	0x02B1
+English DTE	┫	84B2	. 	84B2	0x02B2
+English DTE	┻	84B3	.!	84B3	0x02B3
+English DTE	╋	84B4	"."""	84B4	0x02B4
+English DTE	┠	84B5	.)	84B5	0x02B5
+English DTE	┯	84B6	.,	84B6	0x02B6
+English DTE	┨	84B7	..	84B7	0x02B7
+English DTE	┷	84B8	.1	84B8	0x02B8
+English DTE	┿	84B9	.2	84B9	0x02B9
+English DTE	┝	84BA	.3	84BA	0x02BA
+English DTE	┰	84BB	.4	84BB	0x02BB
+English DTE	┥	84BC	.5	84BC	0x02BC
+English DTE	┸	84BD	.6	84BD	0x02BD
+English DTE	╂	84BE	.9	84BE	0x02BE
+English DTE		84BF	.:	84BF	0x02BF
+English DTE		84C0	.?	84C0	0x02C0
+English DTE		84C1	.A	84C1	0x02C1
+English DTE		84C2	.B	84C2	0x02C2
+English DTE		84C3	.C	84C3	0x02C3
+English DTE		84C4	.D	84C4	0x02C4
+English DTE		84C5	.E	84C5	0x02C5
+English DTE		84C6	.F	84C6	0x02C6
+English DTE		84C7	.G	84C7	0x02C7
+English DTE		84C8	.H	84C8	0x02C8
+English DTE		84C9	.I	84C9	0x02C9
+English DTE		84CA	.J	84CA	0x02CA
+English DTE		84CB	.K	84CB	0x02CB
+English DTE		84CC	.L	84CC	0x02CC
+English DTE		84CD	.M	84CD	0x02CD
+English DTE		84CE	.N	84CE	0x02CE
+English DTE		84CF	.O	84CF	0x02CF
+English DTE		84D0	.P	84D0	0x02D0
+English DTE		84D1	.Q	84D1	0x02D1
+English DTE		84D2	.R	84D2	0x02D2
+English DTE		84D3	.S	84D3	0x02D3
+English DTE		84D4	.T	84D4	0x02D4
+English DTE		84D5	.U	84D5	0x02D5
+English DTE		84D6	.V	84D6	0x02D6
+English DTE		84D8	.W	84D8	0x02D8
+English DTE		84D9	.X	84D9	0x02D9
+English DTE		84DA	.Y	84DA	0x02DA
+English DTE		84DB	.Z	84DB	0x02DB
+English DTE		84DC	.a	84DC	0x02DC
+English DTE		84DD	.b	84DD	0x02DD
+English DTE		84DE	.c	84DE	0x02DE
+English DTE		84DF	.d	84DF	0x02DF
+English DTE		84E0	.e	84E0	0x02E0
+English DTE		84E1	.f	84E1	0x02E1
+English DTE		84E2	.g	84E2	0x02E2
+English DTE		84E3	.h	84E3	0x02E3
+English DTE		84E4	.i	84E4	0x02E4
+English DTE		84E5	.j	84E5	0x02E5
+English DTE		84E6	.k	84E6	0x02E6
+English DTE		84E7	.l	84E7	0x02E7
+English DTE		84E8	.m	84E8	0x02E8
+English DTE		84E9	.n	84E9	0x02E9
+English DTE		84EA	.o	84EA	0x02EA
+English DTE		84EB	.p	84EB	0x02EB
+English DTE		84EC	.q	84EC	0x02EC
+English DTE		84ED	.r	84ED	0x02ED
+English DTE		84EE	.s	84EE	0x02EE
+English DTE		84EF	.t	84EF	0x02EF
+English DTE		84F0	.u	84F0	0x02F0
+English DTE		84F1	.w	84F1	0x02F1
+English DTE		84F2	.y	84F2	0x02F2
+English DTE		84F3	/ 	84F3	0x02F3
+English DTE		84F4	/-	84F4	0x02F4
+English DTE		84F5	/E	84F5	0x02F5
+English DTE		84F6	/M	84F6	0x02F6
+English DTE		84F7	/O	84F7	0x02F7
+English DTE		84F8	/S	84F8	0x02F8
+English DTE		84F9	/V	84F9	0x02F9
+English DTE		84FA	/f	84FA	0x02FA
+English DTE		84FB	/l	84FB	0x02FB
+English DTE		84FC	/s	84FC	0x02FC
+English DTE	①	8740	0 	8740	0x0480
+English DTE	②	8741	0!	8741	0x0481
+English DTE	③	8742	0%	8742	0x0482
+English DTE	④	8743	0)	8743	0x0483
+English DTE	⑤	8744	0+	8744	0x0484
+English DTE	⑥	8745	0,	8745	0x0485
+English DTE	⑦	8746	0-	8746	0x0486
+English DTE	⑧	8747	0.	8747	0x0487
+English DTE	⑨	8748	00	8748	0x0488
+English DTE	⑩	8749	01	8749	0x0489
+English DTE	⑪	874A	02	874A	0x048A
+English DTE	⑬	874C	03	874C	0x048C
+English DTE	⑭	874D	04	874D	0x048D
+English DTE	⑮	874E	05	874E	0x048E
+English DTE	⑯	874F	06	874F	0x048F
+English DTE	⑰	8750	07	8750	0x0490
+English DTE	⑱	8751	08	8751	0x0491
+English DTE	⑲	8752	09	8752	0x0492
+English DTE	⑳	8753	0a	8753	0x0493
+English DTE	Ⅰ	8754	0b	8754	0x0494
+English DTE	Ⅳ	8757	0c	8757	0x0497
+English DTE	Ⅵ	8759	0m	8759	0x0499
+English DTE	Ⅶ	875A	0s	875A	0x049A
+English DTE	Ⅷ	875B	1 	875B	0x049B
+English DTE	Ⅸ	875C	1!	875C	0x049C
+English DTE	Ⅹ	875D	1'	875D	0x049D
+English DTE		875E	1)	875E	0x049E
+English DTE	㍉	875F	1,	875F	0x049F
+English DTE	㌔	8760	1.	8760	0x04A0
+English DTE	㌢	8761	1/	8761	0x04A1
+English DTE	㍍	8762	10	8762	0x04A2
+English DTE	㌘	8763	11	8763	0x04A3
+English DTE	㌧	8764	12	8764	0x04A4
+English DTE	㌃	8765	13	8765	0x04A5
+English DTE	㌶	8766	14	8766	0x04A6
+English DTE	㍑	8767	15	8767	0x04A7
+English DTE	㍗	8768	16	8768	0x04A8
+English DTE	㌍	8769	17	8769	0x04A9
+English DTE	㌦	876A	18	876A	0x04AA
+English DTE	㌣	876B	19	876B	0x04AB
+English DTE	㌫	876C	1a	876C	0x04AC
+English DTE	㍊	876D	1b	876D	0x04AD
+English DTE	㌻	876E	1c	876E	0x04AE
+English DTE	㎜	876F	1s	876F	0x04AF
+English DTE	㎝	8770	2 	8770	0x04B0
+English DTE	㎞	8771	2!	8771	0x04B1
+English DTE	㎎	8772	2%	8772	0x04B2
+English DTE	㎏	8773	2'	8773	0x04B3
+English DTE	㏄	8774	2)	8774	0x04B4
+English DTE	㎡	8775	2,	8775	0x04B5
+English DTE		8776	2-	8776	0x04B6
+English DTE		8777	2.	8777	0x04B7
+English DTE		8778	20	8778	0x04B8
+English DTE		8779	21	8779	0x04B9
+English DTE		877A	22	877A	0x04BA
+English DTE		877B	23	877B	0x04BB
+English DTE		877D	24	877D	0x04BD
+English DTE	㍻	877E	25	877E	0x04BE
+English DTE	〝	8780	26	8780	0x04C0
+English DTE	℡	8784	27	8784	0x04C4
+English DTE	㊤	8785	28	8785	0x04C5
+English DTE	㊥	8786	29	8786	0x04C6
+English DTE	㊦	8787	2?	8787	0x04C7
+English DTE	㍽	878E	2W	878E	0x04CE
+English DTE	√	8795	2a	8795	0x04D5
+English DTE	∟	8798	2b	8798	0x04D8
+English DTE	⊿	8799	2c	8799	0x04D9
+English DTE	∵	879A	2n	879A	0x04DA
+English DTE	∩	879B	2x	879B	0x04DB
+English DTE	∪	879C	3 	879C	0x04DC
+English DTE		879D	3!	879D	0x04DD
+English DTE		879E	3'	879E	0x04DE
+English DTE		879F	3,	879F	0x04DF
+English DTE		87A0	3-	87A0	0x04E0
+English DTE		87A1	3.	87A1	0x04E1
+English DTE		87A2	30	87A2	0x04E2
+English DTE		87A3	31	87A3	0x04E3
+English DTE		87A4	32	87A4	0x04E4
+English DTE		87A5	33	87A5	0x04E5
+English DTE		87A6	34	87A6	0x04E6
+English DTE		87A7	35	87A7	0x04E7
+English DTE		87A8	36	87A8	0x04E8
+English DTE		87A9	37	87A9	0x04E9
+English DTE		87AA	38	87AA	0x04EA
+English DTE		87AB	39	87AB	0x04EB
+English DTE		87AC	3:	87AC	0x04EC
+English DTE		87AD	3?	87AD	0x04ED
+English DTE		87AE	3G	87AE	0x04EE
+English DTE		87AF	3a	87AF	0x04EF
+English DTE		87B0	3b	87B0	0x04F0
+English DTE		87B1	3c	87B1	0x04F1
+English DTE		87B2	3r	87B2	0x04F2
+English DTE		87B3	3t	87B3	0x04F3
+English DTE		87B4	4 	87B4	0x04F4
+English DTE		87B5	4!	87B5	0x04F5
+English DTE		87B6	4,	87B6	0x04F6
+English DTE		87B7	4.	87B7	0x04F7
+English DTE		87B8	40	87B8	0x04F8
+English DTE		87B9	41	87B9	0x04F9
+English DTE		87BA	42	87BA	0x04FA
+English DTE		87BB	43	87BB	0x04FB
+English DTE		87BC	44	87BC	0x04FC
+English DTE		87BE	45	87BE	0x04FE
+English DTE		87BF	46	87BF	0x04FF
+English DTE		87C0	47	87C0	0x0500
+English DTE		87C1	48	87C1	0x0501
+English DTE		87C2	49	87C2	0x0502
+English DTE		87C3	4a	87C3	0x0503
+English DTE		87C4	4b	87C4	0x0504
+English DTE		87C5	4c	87C5	0x0505
+English DTE		87C6	4t	87C6	0x0506
+English DTE		87C7	5 	87C7	0x0507
+English DTE		87C8	5%	87C8	0x0508
+English DTE		87C9	5-	87C9	0x0509
+English DTE		87CA	5.	87CA	0x050A
+English DTE		87CB	50	87CB	0x050B
+English DTE		87CC	51	87CC	0x050C
+English DTE		87CD	52	87CD	0x050D
+English DTE		87CE	53	87CE	0x050E
+English DTE		87CF	54	87CF	0x050F
+English DTE		87D0	55	87D0	0x0510
+English DTE		87D1	56	87D1	0x0511
+English DTE		87D3	57	87D3	0x0513
+English DTE		87D4	58	87D4	0x0514
+English DTE		87D5	59	87D5	0x0515
+English DTE		87D6	5:	87D6	0x0516
+English DTE		87D7	5a	87D7	0x0517
+English DTE		87D8	5b	87D8	0x0518
+English DTE		87D9	5c	87D9	0x0519
+English DTE		87DA	5t	87DA	0x051A
+English DTE		87DB	5x	87DB	0x051B
+English DTE		87DC	6 	87DC	0x051C
+English DTE		87DD	60	87DD	0x051D
+English DTE		87DE	61	87DE	0x051E
+English DTE		87DF	62	87DF	0x051F
+English DTE		87E0	63	87E0	0x0520
+English DTE		87E1	64	87E1	0x0521
+English DTE		87E2	65	87E2	0x0522
+English DTE		87E4	66	87E4	0x0524
+English DTE		87E5	67	87E5	0x0525
+English DTE		87E6	68	87E6	0x0526
+English DTE		87E7	69	87E7	0x0527
+English DTE		87E8	6a	87E8	0x0528
+English DTE		87E9	6b	87E9	0x0529
+English DTE		87EA	6c	87EA	0x052A
+English DTE		87EB	6t	87EB	0x052B
+English DTE		87EC	7 	87EC	0x052C
+English DTE		87ED	7-	87ED	0x052D
+English DTE		87EE	7.	87EE	0x052E
+English DTE		87EF	70	87EF	0x052F
+English DTE		87F0	71	87F0	0x0530
+English DTE		87F1	72	87F1	0x0531
+English DTE		87F2	73	87F2	0x0532
+English DTE		87F3	74	87F3	0x0533
+English DTE		87F4	75	87F4	0x0534
+English DTE		87F5	76	87F5	0x0535
+English DTE		87F6	77	87F6	0x0536
+English DTE		87F7	78	87F7	0x0537
+English DTE		87F8	79	87F8	0x0538
+English DTE		87F9	7?	87F9	0x0539
+English DTE		87FA	7X	87FA	0x053A
+English DTE		87FB	7a	87FB	0x053B
+English DTE		87FC	7b	87FC	0x053C
+English DTE		8840	7c	8840	0x0540
+English DTE		8841	7d	8841	0x0541
+English DTE		8842	7s	8842	0x0542
+English DTE		8843	7t	8843	0x0543
+English DTE		8844	8 	8844	0x0544
+English DTE		8845	8,	8845	0x0545
+English DTE		8847	8.	8847	0x0547
+English DTE		8848	80	8848	0x0548
+English DTE		8849	81	8849	0x0549
+English DTE		884A	82	884A	0x054A
+English DTE		884B	83	884B	0x054B
+English DTE		884C	84	884C	0x054C
+English DTE		884D	85	884D	0x054D
+English DTE		884E	86	884E	0x054E
+English DTE		8850	87	8850	0x0550
+English DTE		8851	88	8851	0x0551
+English DTE		8852	89	8852	0x0552
+English DTE		8853	8a	8853	0x0553
+English DTE		8854	8b	8854	0x0554
+English DTE		8855	8c	8855	0x0555
+English DTE		8856	9 	8856	0x0556
+English DTE		8857	9!	8857	0x0557
+English DTE		8858	9,	8858	0x0558
+English DTE		8859	9.	8859	0x0559
+English DTE		885A	90	885A	0x055A
+English DTE		885B	91	885B	0x055B
+English DTE		885D	92	885D	0x055D
+English DTE		885E	93	885E	0x055E
+English DTE		885F	94	885F	0x055F
+English DTE		8860	95	8860	0x0560
+English DTE		8862	96	8862	0x0562
+English DTE		8863	97	8863	0x0563
+English DTE		8864	98	8864	0x0564
+English DTE		8866	99	8866	0x0566
+English DTE		8867	9?	8867	0x0567
+English DTE		8868	9a	8868	0x0568
+English DTE		8869	9b	8869	0x0569
+English DTE		886A	9c	886A	0x056A
+English DTE		886B	9t	886B	0x056B
+English DTE		886C	: 	886C	0x056C
+English DTE		886D	:%	886D	0x056D
+English DTE		886E	:.	886E	0x056E
+English DTE		8870	:0	8870	0x0570
+English DTE		8871	:B	8871	0x0571
+English DTE		8872	:C	8872	0x0572
+English DTE		8873	:I	8873	0x0573
+English DTE		8874	:P	8874	0x0574
+English DTE		8875	:S	8875	0x0575
+English DTE		8876	:T	8876	0x0576
+English DTE		8877	; 	8877	0x0577
+English DTE		8879	<%	8879	0x0579
+English DTE		887A	<=	887A	0x057A
+English DTE		887B	<B	887B	0x057B
+English DTE		887D	<K	887D	0x057D
+English DTE		8880	<U	8880	0x0580
+English DTE		8885	<e	8885	0x0585
+English DTE		8886	= 	8886	0x0586
+English DTE		8895	=3	8895	0x0595
+English DTE		8898	=5	8898	0x0598
+English DTE		8899	=7	8899	0x0599
+English DTE		889B	> 	889B	0x059B
+English DTE		889C	>.	889C	0x059C
+English DTE		889E	? 	889E	0x059E
+English DTE	挨	88A5	?!	88A5	0x05A5
+English DTE	姶	88A6	?(	88A6	0x05A6
+English DTE	葵	88A8	?)	88A8	0x05A8
+English DTE	穐	88AA	?.	88AA	0x05AA
+English DTE	鯵	88B1	??	88B1	0x05B1
+English DTE	梓	88B2	@V	88B2	0x05B2
+English DTE	宛	88B6	A 	88B6	0x05B6
+English DTE	虻	88B8	A!	88B8	0x05B8
+English DTE	飴	88B9	A'	88B9	0x05B9
+English DTE	絢	88BA	A(	88BA	0x05BA
+English DTE	或	88BD	A,	88BD	0x05BD
+English DTE	粟	88BE	A-	88BE	0x05BE
+English DTE	袷	88BF	A.	88BF	0x05BF
+English DTE	按	88C2	A2	88C2	0x05C2
+English DTE	鞍	88C6	A?	88C6	0x05C6
+English DTE	杏	88C7	AA	88C7	0x05C7
+English DTE	偉	88CC	AB	88CC	0x05CC
+English DTE	夷	88CE	AI	88CE	0x05CE
+English DTE	委	88CF	AL	88CF	0x05CF
+English DTE	惟	88D2	AP	88D2	0x05D2
+English DTE	慰	88D4	AR	88D4	0x05D4
+English DTE	畏	88D8	AT	88D8	0x05D8
+English DTE	維	88DB	AX	88DB	0x05DB
+English DTE	緯	88DC	Aa	88DC	0x05DC
+English DTE	胃	88DD	Ab	88DD	0x05DD
+English DTE	萎	88DE	Ac	88DE	0x05DE
+English DTE	衣	88DF	Ad	88DF	0x05DF
+English DTE	謂	88E0	Ae	88E0	0x05E0
+English DTE	医	88E3	Af	88E3	0x05E3
+English DTE	亥	88E5	Ag	88E5	0x05E5
+English DTE	育	88E7	Ah	88E7	0x05E7
+English DTE	郁	88E8	Ai	88E8	0x05E8
+English DTE	磯	88E9	Ak	88E9	0x05E9
+English DTE	壱	88EB	Al	88EB	0x05EB
+English DTE	溢	88EC	Am	88EC	0x05EC
+English DTE	稲	88EE	An	88EE	0x05EE
+English DTE	芋	88F0	Ap	88F0	0x05F0
+English DTE	院	8940	Ar	8940	0x0600
+English DTE	陰	8941	As	8941	0x0601
+English DTE	韻	8943	At	8943	0x0603
+English DTE	吋	8944	Au	8944	0x0604
+English DTE	烏	8947	Av	8947	0x0607
+English DTE	羽	8948	Aw	8948	0x0608
+English DTE	迂	8949	Ax	8949	0x0609
+English DTE	鵜	894C	Az	894C	0x060C
+English DTE	窺	894D	B 	894D	0x060D
+English DTE	丑	894E	B,	894E	0x060E
+English DTE	碓	894F	B-	894F	0x060F
+English DTE	臼	8950	B.	8950	0x0610
+English DTE	渦	8951	B?	8951	0x0611
+English DTE	嘘	8952	BC	8952	0x0612
+English DTE	唄	8953	BG	8953	0x0613
+English DTE	欝	8954	BI	8954	0x0614
+English DTE	蔚	8955	BR	8955	0x0615
+English DTE	鰻	8956	BS	8956	0x0616
+English DTE	姥	8957	BU	8957	0x0617
+English DTE	厩	8958	Ba	8958	0x0618
+English DTE	浦	8959	Be	8959	0x0619
+English DTE	瓜	895A	Bi	895A	0x061A
+English DTE	閏	895B	Bl	895B	0x061B
+English DTE	云	895D	Bo	895D	0x061D
+English DTE	荏	8960	Br	8960	0x0620
+English DTE	餌	8961	Bu	8961	0x0621
+English DTE	叡	8962	By	8962	0x0622
+English DTE	営	8963	C 	8963	0x0623
+English DTE	嬰	8964	C'	8964	0x0624
+English DTE	映	8966	C,	8966	0x0626
+English DTE	曳	8967	C-	8967	0x0627
+English DTE	泳	896A	C.	896A	0x062A
+English DTE	瑛	896C	C?	896C	0x062C
+English DTE	盈	896D	CA	896D	0x062D
+English DTE	穎	896E	CB	896E	0x062E
+English DTE	頴	896F	CC	896F	0x062F
+English DTE	詠	8972	CE	8972	0x0632
+English DTE	鋭	8973	CF	8973	0x0633
+English DTE	疫	8975	CG	8975	0x0635
+English DTE	駅	8977	CH	8977	0x0637
+English DTE	悦	8978	CK	8978	0x0638
+English DTE	謁	8979	CO	8979	0x0639
+English DTE	閲	897B	CT	897B	0x063B
+English DTE	榎	897C	CU	897C	0x063C
+English DTE	厭	897D	Ca	897D	0x063D
+English DTE	掩	8986	Ce	8986	0x0646
+English DTE	焔	898B	Ch	898B	0x064B
+English DTE	燕	898D	Ci	898D	0x064D
+English DTE	苑	8991	Cl	8991	0x0651
+English DTE	薗	8992	Co	8992	0x0652
+English DTE	鉛	8994	Cr	8994	0x0654
+English DTE	鴛	8995	Cu	8995	0x0655
+English DTE	甥	8999	Cy	8999	0x0659
+English DTE	凹	899A	D 	899A	0x065A
+English DTE	旺	89A0	D'	89A0	0x0660
+English DTE	翁	89A5	D,	89A5	0x0665
+English DTE	襖	89A6	D-	89A6	0x0666
+English DTE	鴬	89A7	D.	89A7	0x0667
+English DTE	鴎	89A8	DA	89A8	0x0668
+English DTE	沖	89AB	DC	89AB	0x066B
+English DTE	荻	89AC	DD	89AC	0x066C
+English DTE	臆	89B0	DE	89B0	0x0670
+English DTE	桶	89B1	DF	89B1	0x0671
+English DTE	牡	89B2	DM	89B2	0x0672
+English DTE	卸	89B5	DN	89B5	0x0675
+English DTE	伽	89BE	DR	89BE	0x067E
+English DTE	価	89BF	Da	89BF	0x067F
+English DTE	佳	89C0	De	89C0	0x0680
+English DTE	嘉	89C3	Di	89C3	0x0683
+English DTE	夏	89C4	Do	89C4	0x0684
+English DTE	嫁	89C5	Dr	89C5	0x0685
+English DTE	寡	89C7	Du	89C7	0x0687
+English DTE	架	89CB	Dw	89CB	0x068B
+English DTE	珂	89CF	Dy	89CF	0x068F
+English DTE	禍	89D0	E 	89D0	0x0690
+English DTE	禾	89D1	E!	89D1	0x0691
+English DTE	箇	89D3	"E"""	89D3	0x0693
+English DTE	茄	89D6	E,	89D6	0x0696
+English DTE	菓	89D9	E-	89D9	0x0699
+English DTE	蝦	89DA	E.	89DA	0x069A
+English DTE	貨	89DD	E?	89DD	0x069D
+English DTE	迦	89DE	EA	89DE	0x069E
+English DTE	霞	89E0	EC	89E0	0x06A0
+English DTE	蚊	89E1	EE	89E1	0x06A1
+English DTE	俄	89E2	EI	89E2	0x06A2
+English DTE	峨	89E3	EM	89E3	0x06A3
+English DTE	牙	89E5	EN	89E5	0x06A5
+English DTE	臥	89E7	EQ	89E7	0x06A7
+English DTE	芽	89E8	ER	89E8	0x06A8
+English DTE	蛾	89E9	ES	89E9	0x06A9
+English DTE	賀	89EA	EV	89EA	0x06AA
+English DTE	雅	89EB	EX	89EB	0x06AB
+English DTE	餓	89EC	Ea	89EC	0x06AC
+English DTE	駕	89ED	Ed	89ED	0x06AD
+English DTE	廻	89F4	Ee	89F4	0x06B4
+English DTE	悔	89F7	Ef	89F7	0x06B7
+English DTE	恢	89F8	Eg	89F8	0x06B8
+English DTE	懐	89F9	Eh	89F9	0x06B9
+English DTE	戒	89FA	Ei	89FA	0x06BA
+English DTE	拐	89FB	Ej	89FB	0x06BB
+English DTE	魁	8A40	El	8A40	0x06C0
+English DTE	晦	8A41	Em	8A41	0x06C1
+English DTE	灰	8A44	En	8A44	0x06C4
+English DTE	絵	8A47	Eo	8A47	0x06C7
+English DTE	芥	8A48	Ep	8A48	0x06C8
+English DTE	蟹	8A49	Eq	8A49	0x06C9
+English DTE	劾	8A4E	Er	8A4E	0x06CE
+English DTE	咳	8A50	Es	8A50	0x06D0
+English DTE	崖	8A52	Et	8A52	0x06D2
+English DTE	慨	8A53	Eu	8A53	0x06D3
+English DTE	概	8A54	Ev	8A54	0x06D4
+English DTE	涯	8A55	Ex	8A55	0x06D5
+English DTE	碍	8A56	Ey	8A56	0x06D6
+English DTE	蓋	8A57	F 	8A57	0x06D7
+English DTE	該	8A59	F)	8A59	0x06D9
+English DTE	鎧	8A5A	F,	8A5A	0x06DA
+English DTE	骸	8A5B	F-	8A5B	0x06DB
+English DTE	浬	8A5C	F.	8A5C	0x06DC
+English DTE	馨	8A5D	F2	8A5D	0x06DD
+English DTE	蛙	8A5E	F9	8A5E	0x06DE
+English DTE	垣	8A5F	FE	8A5F	0x06DF
+English DTE	柿	8A60	FF	8A60	0x06E0
+English DTE	蛎	8A61	FL	8A61	0x06E1
+English DTE	鈎	8A62	FO	8A62	0x06E2
+English DTE	劃	8A63	FR	8A63	0x06E3
+English DTE	嚇	8A64	Fa	8A64	0x06E4
+English DTE	廓	8A66	Fe	8A66	0x06E6
+English DTE	撹	8A68	Ff	8A68	0x06E8
+English DTE	穫	8A6E	Fh	8A6E	0x06EE
+English DTE	赫	8A71	Fi	8A71	0x06F1
+English DTE	郭	8A73	Fl	8A73	0x06F3
+English DTE	隔	8A75	Fo	8A75	0x06F5
+English DTE	岳	8A78	Fr	8A78	0x06F8
+English DTE	顎	8A7B	Fu	8A7B	0x06FB
+English DTE	笠	8A7D	Fy	8A7D	0x06FD
+English DTE	樫	8A7E	F~	8A7E	0x06FE
+English DTE	橿	8A80	G 	8A80	0x0700
+English DTE	喝	8A85	G!	8A85	0x0705
+English DTE	恰	8A86	"G"""	8A86	0x0706
+English DTE	括	8A87	G'	8A87	0x0707
+English DTE	滑	8A8A	G,	8A8A	0x070A
+English DTE	鞄	8A93	G-	8A93	0x0713
+English DTE	竃	8A96	G.	8A96	0x0716
+English DTE	鎌	8A99	G1	8A99	0x0719
+English DTE	噛	8A9A	G2	8A9A	0x071A
+English DTE	鴨	8A9B	G?	8A9B	0x071B
+English DTE	栢	8A9C	GG	8A9C	0x071C
+English DTE	茅	8A9D	GM	8A9D	0x071D
+English DTE	萱	8A9E	GR	8A9E	0x071E
+English DTE	粥	8A9F	GS	8A9F	0x071F
+English DTE	刈	8AA0	GU	8AA0	0x0720
+English DTE	苅	8AA1	Ga	8AA1	0x0721
+English DTE	瓦	8AA2	Ge	8AA2	0x0722
+English DTE	乾	8AA3	Gh	8AA3	0x0723
+English DTE	侃	8AA4	Gi	8AA4	0x0724
+English DTE	冠	8AA5	Gl	8AA5	0x0725
+English DTE	寒	8AA6	Gn	8AA6	0x0726
+English DTE	刊	8AA7	Go	8AA7	0x0727
+English DTE	喚	8AAB	Gr	8AAB	0x072B
+English DTE	堪	8AAC	Gu	8AAC	0x072C
+English DTE	姦	8AAD	Gw	8AAD	0x072D
+English DTE	寛	8AB0	Gy	8AB0	0x0730
+English DTE	患	8AB3	H 	8AB3	0x0733
+English DTE	慣	8AB5	H!	8AB5	0x0735
+English DTE	憾	8AB6	H,	8AB6	0x0736
+English DTE	敢	8AB8	H-	8AB8	0x0738
+English DTE	柑	8AB9	H.	8AB9	0x0739
+English DTE	桓	8ABA	HE	8ABA	0x073A
+English DTE	棺	8ABB	HI	8ABB	0x073B
+English DTE	款	8ABC	HL	8ABC	0x073C
+English DTE	汗	8ABE	HP	8ABE	0x073E
+English DTE	澗	8AC0	HQ	8AC0	0x0740
+English DTE	潅	8AC1	HW	8AC1	0x0741
+English DTE	看	8AC5	HY	8AC5	0x0745
+English DTE	緩	8AC9	Ha	8AC9	0x0749
+English DTE	缶	8ACA	He	8ACA	0x074A
+English DTE	翰	8ACB	Hi	8ACB	0x074B
+English DTE	莞	8ACE	Hm	8ACE	0x074E
+English DTE	観	8ACF	Ho	8ACF	0x074F
+English DTE	諌	8AD0	Hu	8AD0	0x0750
+English DTE	閑	8AD5	Hy	8AD5	0x0755
+English DTE	陥	8AD7	I 	8AD7	0x0757
+English DTE	韓	8AD8	I!	8AD8	0x0758
+English DTE	舘	8ADA	I'	8ADA	0x075A
+English DTE	丸	8ADB	I(	8ADB	0x075B
+English DTE	岸	8ADD	I,	8ADD	0x075D
+English DTE	巌	8ADE	I-	8ADE	0x075E
+English DTE	玩	8ADF	I.	8ADF	0x075F
+English DTE	癌	8AE0	I?	8AE0	0x0760
+English DTE	眼	8AE1	IA	8AE1	0x0761
+English DTE	翫	8AE3	IC	8AE3	0x0763
+English DTE	贋	8AE4	ID	8AE4	0x0764
+English DTE	伎	8AEA	IG	8AEA	0x076A
+English DTE	喜	8AEC	II	8AEC	0x076C
+English DTE	机	8AF7	IM	8AF7	0x0777
+English DTE	旗	8AF8	IN	8AF8	0x0778
+English DTE	棋	8AFB	IO	8AFB	0x077B
+English DTE	毅	8B42	IP	8B42	0x0782
+English DTE	汽	8B44	IQ	8B44	0x0784
+English DTE	畿	8B45	IT	8B45	0x0785
+English DTE	祈	8B46	IV	8B46	0x0786
+English DTE	季	8B47	Ib	8B47	0x0787
+English DTE	稀	8B48	Ic	8B48	0x0788
+English DTE	徽	8B4A	Id	8B4A	0x078A
+English DTE	軌	8B4F	Ie	8B4F	0x078F
+English DTE	飢	8B51	If	8B51	0x0791
+English DTE	亀	8B54	Ig	8B54	0x0794
+English DTE	儀	8B56	Ii	8B56	0x0796
+English DTE	妓	8B57	Ik	8B57	0x0797
+English DTE	宜	8B58	Il	8B58	0x0798
+English DTE	戯	8B59	Im	8B59	0x0799
+English DTE	擬	8B5B	In	8B5B	0x079B
+English DTE	欺	8B5C	Io	8B5C	0x079C
+English DTE	犠	8B5D	Ip	8B5D	0x079D
+English DTE	疑	8B5E	Ir	8B5E	0x079E
+English DTE	祇	8B5F	Is	8B5F	0x079F
+English DTE	蟻	8B61	It	8B61	0x07A1
+English DTE	誼	8B62	Iz	8B62	0x07A2
+English DTE	掬	8B64	J,	8B64	0x07A4
+English DTE	鞠	8B66	J-	8B66	0x07A6
+English DTE	吃	8B68	JE	8B68	0x07A8
+English DTE	喫	8B69	JG	8B69	0x07A9
+English DTE	桔	8B6A	JZ	8B6A	0x07AA
+English DTE	橘	8B6B	Ja	8B6B	0x07AB
+English DTE	砧	8B6D	Je	8B6D	0x07AD
+English DTE	杵	8B6E	Ji	8B6E	0x07AE
+English DTE	黍	8B6F	Jo	8B6F	0x07AF
+English DTE	丘	8B75	Ju	8B75	0x07B5
+English DTE	吸	8B7A	Jy	8B7A	0x07BA
+English DTE	宮	8B7B	K 	8B7B	0x07BB
+English DTE	朽	8B80	K!	8B80	0x07C0
+English DTE	灸	8B84	K,	8B84	0x07C4
+English DTE	糾	8B8A	K-	8B8A	0x07CA
+English DTE	鋸	8B98	K.	8B98	0x07D8
+English DTE	禦	8B9A	K3	8B9A	0x07DA
+English DTE	亨	8B9C	K7	8B9C	0x07DC
+English DTE	享	8B9D	KA	8B9D	0x07DD
+English DTE	侠	8BA0	KB	8BA0	0x07E0
+English DTE	僑	8BA1	KO	8BA1	0x07E1
+English DTE	兇	8BA2	Ka	8BA2	0x07E2
+English DTE	匡	8BA7	Kc	8BA7	0x07E7
+English DTE	卿	8BA8	Ke	8BA8	0x07E8
+English DTE	喬	8BAA	Kh	8BAA	0x07EA
+English DTE	峡	8BAC	Ki	8BAC	0x07EC
+English DTE	彊	8BAE	Kk	8BAE	0x07EE
+English DTE	怯	8BAF	Kl	8BAF	0x07EF
+English DTE	恭	8BB1	Kn	8BB1	0x07F1
+English DTE	挟	8BB2	Ko	8BB2	0x07F2
+English DTE	橋	8BB4	Ku	8BB4	0x07F4
+English DTE	狂	8BB6	Kw	8BB6	0x07F6
+English DTE	狭	8BB7	Ky	8BB7	0x07F7
+English DTE	矯	8BB8	L 	8BB8	0x07F8
+English DTE	蕎	8BBC	L!	8BBC	0x07FC
+English DTE	鏡	8BBE	L%	8BBE	0x07FE
+English DTE	饗	8BC0	L,	8BC0	0x0800
+English DTE	仰	8BC2	L.	8BC2	0x0802
+English DTE	凝	8BC3	L2	8BC3	0x0803
+English DTE	尭	8BC4	L3	8BC4	0x0804
+English DTE	暁	8BC5	L5	8BC5	0x0805
+English DTE	玉	8BCA	LB	8BCA	0x080A
+English DTE	桐	8BCB	LC	8BCB	0x080B
+English DTE	粁	8BCC	LE	8BCC	0x080C
+English DTE	僅	8BCD	LI	8BCD	0x080D
+English DTE	勤	8BCE	LL	8BCE	0x080E
+English DTE	均	8BCF	LT	8BCF	0x080F
+English DTE	巾	8BD0	LV	8BD0	0x0810
+English DTE	錦	8BD1	La	8BD1	0x0811
+English DTE	斤	8BD2	Le	8BD2	0x0812
+English DTE	欣	8BD3	Lf	8BD3	0x0813
+English DTE	欽	8BD4	Lh	8BD4	0x0814
+English DTE	琴	8BD5	Li	8BD5	0x0815
+English DTE	芹	8BDA	Lo	8BDA	0x081A
+English DTE	菌	8BDB	Lt	8BDB	0x081B
+English DTE	衿	8BDC	Lu	8BDC	0x081C
+English DTE	襟	8BDD	Lv	8BDD	0x081D
+English DTE	謹	8BDE	Ly	8BDE	0x081E
+English DTE	吟	8BE1	M 	8BE1	0x0821
+English DTE	倶	8BE4	M!	8BE4	0x0824
+English DTE	玖	8BE8	M,	8BE8	0x0828
+English DTE	矩	8BE9	M-	8BE9	0x0829
+English DTE	躯	8BEB	M.	8BEB	0x082B
+English DTE	駈	8BED	M1	8BED	0x082D
+English DTE	駒	8BEE	M2	8BEE	0x082E
+English DTE	具	8BEF	M3	8BEF	0x082F
+English DTE	虞	8BF1	M9	8BF1	0x0831
+English DTE	喰	8BF2	MA	8BF2	0x0832
+English DTE	偶	8BF4	MB	8BF4	0x0834
+English DTE	寓	8BF5	ME	8BF5	0x0835
+English DTE	隅	8BF7	MG	8BF7	0x0837
+English DTE	串	8BF8	ML	8BF8	0x0838
+English DTE	櫛	8BF9	MN	8BF9	0x0839
+English DTE	釧	8BFA	MP	8BFA	0x083A
+English DTE	窟	8C41	MS	8C41	0x0841
+English DTE	沓	8C42	MX	8C42	0x0842
+English DTE	靴	8C43	MY	8C43	0x0843
+English DTE	轡	8C44	Ma	8C44	0x0844
+English DTE	窪	8C45	Mc	8C45	0x0845
+English DTE	熊	8C46	Me	8C46	0x0846
+English DTE	隈	8C47	Mi	8C47	0x0847
+English DTE	粂	8C48	Mk	8C48	0x0848
+English DTE	栗	8C49	Mm	8C49	0x0849
+English DTE	桑	8C4B	Mo	8C4B	0x084B
+English DTE	鍬	8C4C	Mr	8C4C	0x084C
+English DTE	勲	8C4D	Ms	8C4D	0x084D
+English DTE	薫	8C4F	Mu	8C4F	0x084F
+English DTE	郡	8C53	My	8C53	0x0853
+English DTE	卦	8C54	N 	8C54	0x0854
+English DTE	袈	8C55	N!	8C55	0x0855
+English DTE	祁	8C56	N,	8C56	0x0856
+English DTE	啓	8C5B	N-	8C5B	0x085B
+English DTE	圭	8C5C	N.	8C5C	0x085C
+English DTE	珪	8C5D	N/	8C5D	0x085D
+English DTE	契	8C5F	N0	8C5F	0x085F
+English DTE	径	8C61	N1	8C61	0x0861
+English DTE	慧	8C64	N2	8C64	0x0864
+English DTE	憩	8C65	NE	8C65	0x0865
+English DTE	敬	8C68	NG	8C68	0x0868
+English DTE	桂	8C6A	NK	8C6A	0x086A
+English DTE	渓	8C6B	NO	8C6B	0x086B
+English DTE	畦	8C6C	NT	8C6C	0x086C
+English DTE	稽	8C6D	NU	8C6D	0x086D
+English DTE	繋	8C71	Na	8C71	0x0871
+English DTE	罫	8C72	Ne	8C72	0x0872
+English DTE	茎	8C73	Ng	8C73	0x0873
+English DTE	荊	8C74	Ni	8C74	0x0874
+English DTE	蛍	8C75	Nm	8C75	0x0875
+English DTE	詣	8C77	Nn	8C77	0x0877
+English DTE	頚	8C7A	No	8C7A	0x087A
+English DTE	鶏	8C7B	Nu	8C7B	0x087B
+English DTE	芸	8C7C	Ny	8C7C	0x087C
+English DTE	鯨	8C7E	O 	8C7E	0x087E
+English DTE	劇	8C80	O!	8C80	0x0880
+English DTE	桁	8C85	O,	8C85	0x0885
+English DTE	傑	8C86	O-	8C86	0x0886
+English DTE	欠	8C87	O.	8C87	0x0887
+English DTE	訣	8C8D	OF	8C8D	0x088D
+English DTE	倦	8C91	OH	8C91	0x0891
+English DTE	券	8C94	OK	8C94	0x0894
+English DTE	喧	8C96	OL	8C96	0x0896
+English DTE	堅	8C98	ON	8C98	0x0898
+English DTE	嫌	8C99	OO	8C99	0x0899
+English DTE	憲	8C9B	OP	8C9B	0x089B
+English DTE	捲	8C9E	OS	8C9E	0x089E
+English DTE	牽	8CA1	OT	8CA1	0x08A1
+English DTE	硯	8CA5	OV	8CA5	0x08A5
+English DTE	絹	8CA6	OW	8CA6	0x08A6
+English DTE	県	8CA7	OZ	8CA7	0x08A7
+English DTE	謙	8CAA	Oa	8CAA	0x08AA
+English DTE	賢	8CAB	Ob	8CAB	0x08AB
+English DTE	軒	8CAC	Oc	8CAC	0x08AC
+English DTE	鹸	8CB2	Od	8CB2	0x08B2
+English DTE	弦	8CB7	Of	8CB7	0x08B7
+English DTE	玄	8CBA	Og	8CBA	0x08BA
+English DTE	絃	8CBC	Oh	8CBC	0x08BC
+English DTE	諺	8CBF	Oi	8CBF	0x08BF
+English DTE	乎	8CC1	Ok	8CC1	0x08C1
+English DTE	孤	8CC7	Ol	8CC7	0x08C7
+English DTE	庫	8CC9	Om	8CC9	0x08C9
+English DTE	弧	8CCA	On	8CCA	0x08CA
+English DTE	枯	8CCD	Oo	8CCD	0x08CD
+English DTE	湖	8CCE	Op	8CCE	0x08CE
+English DTE	糊	8CD0	Or	8CD0	0x08D0
+English DTE	袴	8CD1	Os	8CD1	0x08D1
+English DTE	股	8CD2	Ot	8CD2	0x08D2
+English DTE	胡	8CD3	Ou	8CD3	0x08D3
+English DTE	菰	8CD4	Ov	8CD4	0x08D4
+English DTE	跨	8CD7	Ow	8CD7	0x08D7
+English DTE	鈷	8CD8	P 	8CD8	0x08D8
+English DTE	雇	8CD9	P!	8CD9	0x08D9
+English DTE	鼓	8CDB	P,	8CDB	0x08DB
+English DTE	伍	8CDE	P-	8CDE	0x08DE
+English DTE	午	8CDF	P.	8CDF	0x08DF
+English DTE	呉	8CE0	P0	8CE0	0x08E0
+English DTE	娯	8CE2	P1	8CE2	0x08E2
+English DTE	梧	8CE6	PD	8CE6	0x08E6
+English DTE	檎	8CE7	PE	8CE7	0x08E7
+English DTE	瑚	8CE8	PI	8CE8	0x08E8
+English DTE	碁	8CE9	PL	8CE9	0x08E9
+English DTE	語	8CEA	PP	8CEA	0x08EA
+English DTE	醐	8CED	PR	8CED	0x08ED
+English DTE	乞	8CEE	PS	8CEE	0x08EE
+English DTE	鯉	8CEF	Pa	8CEF	0x08EF
+English DTE	佼	8CF1	Pe	8CF1	0x08F1
+English DTE	侯	8CF2	Pf	8CF2	0x08F2
+English DTE	倖	8CF4	Ph	8CF4	0x08F4
+English DTE	勾	8CF9	Pi	8CF9	0x08F9
+English DTE	后	8D40	Pl	8D40	0x0900
+English DTE	喉	8D41	Po	8D41	0x0901
+English DTE	坑	8D42	Pr	8D42	0x0902
+English DTE	垢	8D43	Ps	8D43	0x0903
+English DTE	孔	8D45	Pu	8D45	0x0905
+English DTE	孝	8D46	Py	8D46	0x0906
+English DTE	宏	8D47	Q 	8D47	0x0907
+English DTE	巧	8D49	Q,	8D49	0x0909
+English DTE	巷	8D4A	Q.	8D4A	0x090A
+English DTE	庚	8D4D	Qu	8D4D	0x090D
+English DTE	康	8D4E	R&	8D4E	0x090E
+English DTE	弘	8D4F	R,	8D4F	0x090F
+English DTE	慌	8D51	R-	8D51	0x0911
+English DTE	控	8D54	R.	8D54	0x0914
+English DTE	昂	8D56	R1	8D56	0x0916
+English DTE	晃	8D57	RA	8D57	0x0917
+English DTE	杭	8D59	RE	8D59	0x0919
+English DTE	梗	8D5B	RG	8D5B	0x091B
+English DTE	洪	8D5E	RI	8D5E	0x091E
+English DTE	浩	8D5F	RN	8D5F	0x091F
+English DTE	港	8D60	RS	8D60	0x0920
+English DTE	溝	8D61	RU	8D61	0x0921
+English DTE	皇	8D63	RX	8D63	0x0923
+English DTE	硬	8D64	Ra	8D64	0x0924
+English DTE	稿	8D65	Re	8D65	0x0925
+English DTE	糠	8D66	Ri	8D66	0x0926
+English DTE	紅	8D67	Ro	8D67	0x0927
+English DTE	紘	8D68	Ru	8D68	0x0928
+English DTE	絞	8D69	Ry	8D69	0x0929
+English DTE	綱	8D6A	S 	8D6A	0x092A
+English DTE	耕	8D6B	S!	8D6B	0x092B
+English DTE	肯	8D6D	S,	8D6D	0x092D
+English DTE	肱	8D6E	S-	8D6E	0x092E
+English DTE	腔	8D6F	S.	8D6F	0x092F
+English DTE	膏	8D70	S2	8D70	0x0930
+English DTE	衡	8D74	S:	8D74	0x0934
+English DTE	講	8D75	S?	8D75	0x0935
+English DTE	貢	8D76	SA	8D76	0x0936
+English DTE	購	8D77	SF	8D77	0x0937
+English DTE	郊	8D78	SH	8D78	0x0938
+English DTE	酵	8D79	SI	8D79	0x0939
+English DTE	鉱	8D7A	SP	8D7A	0x093A
+English DTE	砿	8D7B	SR	8D7B	0x093B
+English DTE	閤	8D7D	SS	8D7D	0x093D
+English DTE	拷	8D89	ST	8D89	0x0949
+English DTE	豪	8D8B	SU	8D8B	0x094B
+English DTE	鵠	8D94	Sa	8D94	0x0954
+English DTE	漉	8D97	Sc	8D97	0x0957
+English DTE	腰	8D98	Se	8D98	0x0958
+English DTE	甑	8D99	Sh	8D99	0x0959
+English DTE	忽	8D9A	Si	8D9A	0x095A
+English DTE	狛	8D9D	Sk	8D9D	0x095D
+English DTE	此	8D9F	Sl	8D9F	0x095F
+English DTE	困	8DA2	Sm	8DA2	0x0962
+English DTE	坤	8DA3	Sn	8DA3	0x0963
+English DTE	墾	8DA4	So	8DA4	0x0964
+English DTE	婚	8DA5	Sp	8DA5	0x0965
+English DTE	恨	8DA6	Sq	8DA6	0x0966
+English DTE	懇	8DA7	St	8DA7	0x0967
+English DTE	昏	8DA8	Su	8DA8	0x0968
+English DTE	昆	8DA9	Sw	8DA9	0x0969
+English DTE	梱	8DAB	Sy	8DAB	0x096B
+English DTE	痕	8DAD	T,	8DAD	0x096D
+English DTE	紺	8DAE	T-	8DAE	0x096E
+English DTE	艮	8DAF	T.	8DAF	0x096F
+English DTE	些	8DB1	T3	8DB1	0x0971
+English DTE	叉	8DB3	TB	8DB3	0x0973
+English DTE	唆	8DB4	TC	8DB4	0x0974
+English DTE	嵯	8DB5	TD	8DB5	0x0975
+English DTE	沙	8DB9	TE	8DB9	0x0979
+English DTE	瑳	8DBA	TG	8DBA	0x097A
+English DTE	詐	8DBC	TI	8DBC	0x097C
+English DTE	鎖	8DBD	TO	8DBD	0x097D
+English DTE	裟	8DBE	TR	8DBE	0x097E
+English DTE	坐	8DBF	TV	8DBF	0x097F
+English DTE	債	8DC2	Ta	8DC2	0x0982
+English DTE	哉	8DC6	Tc	8DC6	0x0986
+English DTE	宰	8DC9	Te	8DC9	0x0989
+English DTE	彩	8DCA	Th	8DCA	0x098A
+English DTE	才	8DCB	Ti	8DCB	0x098B
+English DTE	採	8DCC	To	8DCC	0x098C
+English DTE	栽	8DCD	Tr	8DCD	0x098D
+English DTE	采	8DD1	Ts	8DD1	0x0991
+English DTE	犀	8DD2	Tu	8DD2	0x0992
+English DTE	砕	8DD3	Tw	8DD3	0x0993
+English DTE	祭	8DD5	Ty	8DD5	0x0995
+English DTE	斎	8DD6	U!	8DD6	0x0996
+English DTE	菜	8DD8	U,	8DD8	0x0998
+English DTE	材	8DDE	U-	8DDE	0x099E
+English DTE	財	8DE0	U.	8DE0	0x09A0
+English DTE	冴	8DE1	UF	8DE1	0x09A1
+English DTE	坂	8DE2	UG	8DE2	0x09A2
+English DTE	堺	8DE4	UI	8DE4	0x09A4
+English DTE	榊	8DE5	UN	8DE5	0x09A5
+English DTE	肴	8DE6	UO	8DE6	0x09A6
+English DTE	埼	8DE9	UP	8DE9	0x09A9
+English DTE	碕	8DEA	UW	8DEA	0x09AA
+English DTE	鷺	8DEB	UZ	8DEB	0x09AB
+English DTE	咋	8DEE	Ua	8DEE	0x09AE
+English DTE	搾	8DEF	Ud	8DEF	0x09AF
+English DTE	朔	8DF1	Ue	8DF1	0x09B1
+English DTE	柵	8DF2	Uf	8DF2	0x09B2
+English DTE	窄	8DF3	Ug	8DF3	0x09B3
+English DTE	錯	8DF6	Uh	8DF6	0x09B6
+English DTE	鮭	8DF8	Ui	8DF8	0x09B8
+English DTE	笹	8DF9	Ul	8DF9	0x09B9
+English DTE	匙	8DFA	Um	8DFA	0x09BA
+English DTE	冊	8DFB	Un	8DFB	0x09BB
+English DTE	刷	8DFC	Uo	8DFC	0x09BC
+English DTE	拶	8E41	Up	8E41	0x09C1
+English DTE	擦	8E43	Ur	8E43	0x09C3
+English DTE	札	8E44	Us	8E44	0x09C4
+English DTE	薩	8E46	Ut	8E46	0x09C6
+English DTE	皐	8E48	Uu	8E48	0x09C8
+English DTE	鯖	8E49	Uw	8E49	0x09C9
+English DTE	捌	8E4A	Uz	8E4A	0x09CA
+English DTE	錆	8E4B	V 	8E4B	0x09CB
+English DTE	鮫	8E4C	V!	8E4C	0x09CC
+English DTE	皿	8E4D	V,	8E4D	0x09CD
+English DTE	晒	8E4E	V.	8E4E	0x09CE
+English DTE	傘	8E50	VA	8E50	0x09D0
+English DTE	惨	8E53	VE	8E53	0x09D3
+English DTE	撒	8E54	Va	8E54	0x09D4
+English DTE	桟	8E56	Ve	8E56	0x09D6
+English DTE	燦	8E57	Vi	8E57	0x09D7
+English DTE	珊	8E58	Vo	8E58	0x09D8
+English DTE	纂	8E5B	W 	8E5B	0x09DB
+English DTE	蚕	8E5C	W,	8E5C	0x09DC
+English DTE	讃	8E5D	W-	8E5D	0x09DD
+English DTE	賛	8E5E	W.	8E5E	0x09DE
+English DTE	酸	8E5F	WI	8E5F	0x09DF
+English DTE	餐	8E60	WY	8E60	0x09E0
+English DTE	仔	8E65	Wa	8E65	0x09E5
+English DTE	伺	8E66	We	8E66	0x09E6
+English DTE	嗣	8E6B	Wh	8E6B	0x09EB
+English DTE	孜	8E79	Wi	8E79	0x09F9
+English DTE	斯	8E7A	Wo	8E7A	0x09FA
+English DTE	旨	8E7C	Wr	8E7C	0x09FC
+English DTE	糸	8E85	Wu	8E85	0x0A05
+English DTE	紫	8E87	Wy	8E87	0x0A07
+English DTE	誌	8E8F	X 	8E8F	0x0A0F
+English DTE	諮	8E90	X!	8E90	0x0A10
+English DTE	賜	8E92	X'	8E92	0x0A12
+English DTE	飼	8E94	X.	8E94	0x0A14
+English DTE	侍	8E98	X1	8E98	0x0A18
+English DTE	慈	8E9C	X2	8E9C	0x0A1C
+English DTE	滋	8EA0	X3	8EA0	0x0A20
+English DTE	爾	8EA2	XB	8EA2	0x0A22
+English DTE	璽	8EA3	XP	8EA3	0x0A23
+English DTE	痔	8EA4	XT	8EA4	0x0A24
+English DTE	而	8EA7	Xi	8EA7	0x0A27
+English DTE	耳	8EA8	Xs	8EA8	0x0A28
+English DTE	蒔	8EAA	Y 	8EAA	0x0A2A
+English DTE	辞	8EAB	Y!	8EAB	0x0A2B
+English DTE	汐	8EAC	Y,	8EAC	0x0A2C
+English DTE	鴫	8EB0	Y-	8EB0	0x0A30
+English DTE	竺	8EB1	Y.	8EB1	0x0A31
+English DTE	宍	8EB3	Y?	8EB3	0x0A33
+English DTE	雫	8EB4	YP	8EB4	0x0A34
+English DTE	叱	8EB6	YS	8EB6	0x0A36
+English DTE	悉	8EBB	YY	8EBB	0x0A3B
+English DTE	漆	8EBD	Ya	8EBD	0x0A3D
+English DTE	疾	8EBE	Ye	8EBE	0x0A3E
+English DTE	蔀	8EC1	Yi	8EC1	0x0A41
+English DTE	篠	8EC2	Yo	8EC2	0x0A42
+English DTE	偲	8EC3	Yu	8EC3	0x0A43
+English DTE	柴	8EC4	Z 	8EC4	0x0A44
+English DTE	屡	8EC6	Z!	8EC6	0x0A46
+English DTE	蕊	8EC7	Z,	8EC7	0x0A47
+English DTE	縞	8EC8	Z-	8EC8	0x0A48
+English DTE	舎	8EC9	Z.	8EC9	0x0A49
+English DTE	写	8ECA	Z0	8ECA	0x0A4A
+English DTE	赦	8ECD	Z2	8ECD	0x0A4D
+English DTE	斜	8ECE	Z?	8ECE	0x0A4E
+English DTE	煮	8ECF	ZZ	8ECF	0x0A4F
+English DTE	紗	8ED1	Za	8ED1	0x0A51
+English DTE	遮	8ED5	Ze	8ED5	0x0A55
+English DTE	蛇	8ED6	Zh	8ED6	0x0A56
+English DTE	勺	8ED9	Zi	8ED9	0x0A59
+English DTE	尺	8EDA	Zo	8EDA	0x0A5A
+English DTE	杓	8EDB	Zu	8EDB	0x0A5B
+English DTE	灼	8EDC	Zw	8EDC	0x0A5C
+English DTE	爵	8EDD	_0	8EDD	0x0A5D
+English DTE	酌	8EDE	_1	8EDE	0x0A5E
+English DTE	釈	8EDF	_2	8EDF	0x0A5F
+English DTE	錫	8EE0	_3	8EE0	0x0A60
+English DTE	惹	8EE4	_4	8EE4	0x0A64
+English DTE	朱	8EE9	_5	8EE9	0x0A69
+English DTE	狩	8EEB	_6	8EEB	0x0A6B
+English DTE	珠	8EEC	_7	8EEC	0x0A6C
+English DTE	腫	8EEE	_8	8EEE	0x0A6E
+English DTE	酒	8EF0	_9	8EF0	0x0A70
+English DTE	儒	8EF2	_A	8EF2	0x0A72
+English DTE	寿	8EF5	_B	8EF5	0x0A75
+English DTE	樹	8EF7	_D	8EF7	0x0A77
+English DTE	綬	8EF8	_E	8EF8	0x0A78
+English DTE	需	8EF9	_G	8EF9	0x0A79
+English DTE	囚	8EFA	_K	8EFA	0x0A7A
+English DTE	洲	8F46	_M	8F46	0x0A86
+English DTE	秀	8F47	_S	8F47	0x0A87
+English DTE	秋	8F48	_Y	8F48	0x0A88
+English DTE	繍	8F4A	_s	8F4A	0x0A8A
+English DTE	臭	8F4C	a 	8F4C	0x0A8C
+English DTE	蒐	8F4E	a!	8F4E	0x0A8E
+English DTE	衆	8F4F	"a"""	8F4F	0x0A8F
+English DTE	蹴	8F52	a&	8F52	0x0A92
+English DTE	輯	8F53	a'	8F53	0x0A93
+English DTE	酋	8F55	a(	8F55	0x0A95
+English DTE	什	8F59	a)	8F59	0x0A99
+English DTE	戎	8F5E	a,	8F5E	0x0A9E
+English DTE	柔	8F5F	a-	8F5F	0x0A9F
+English DTE	汁	8F60	a.	8F60	0x0AA0
+English DTE	渋	8F61	a?	8F61	0x0AA1
+English DTE	銃	8F65	aM	8F65	0x0AA5
+English DTE	叔	8F66	aa	8F66	0x0AA6
+English DTE	夙	8F67	ab	8F67	0x0AA7
+English DTE	淑	8F69	ac	8F69	0x0AA9
+English DTE	粛	8F6C	ad	8F6C	0x0AAC
+English DTE	塾	8F6D	ae	8F6D	0x0AAD
+English DTE	述	8F71	af	8F71	0x0AB1
+English DTE	俊	8F72	ag	8F72	0x0AB2
+English DTE	峻	8F73	ah	8F73	0x0AB3
+English DTE	春	8F74	ai	8F74	0x0AB4
+English DTE	竣	8F76	aj	8F76	0x0AB6
+English DTE	舜	8F77	ak	8F77	0x0AB7
+English DTE	駿	8F78	al	8F78	0x0AB8
+English DTE	准	8F79	am	8F79	0x0AB9
+English DTE	循	8F7A	an	8F7A	0x0ABA
+English DTE	旬	8F7B	ao	8F7B	0x0ABB
+English DTE	淳	8F7E	ap	8F7E	0x0ABE
+English DTE	巡	8F84	aq	8F84	0x0AC4
+English DTE	遵	8F85	ar	8F85	0x0AC5
+English DTE	醇	8F86	as	8F86	0x0AC6
+English DTE	暑	8F8B	at	8F8B	0x0ACB
+English DTE	渚	8F8D	au	8F8D	0x0ACD
+English DTE	庶	8F8E	av	8F8E	0x0ACE
+English DTE	署	8F90	aw	8F90	0x0AD0
+English DTE	薯	8F92	ax	8F92	0x0AD2
+English DTE	藷	8F93	ay	8F93	0x0AD3
+English DTE	叙	8F96	az	8F96	0x0AD6
+English DTE	徐	8F99	a~	8F99	0x0AD9
+English DTE	恕	8F9A	b 	8F9A	0x0ADA
+English DTE	鋤	8F9B	b!	8F9B	0x0ADB
+English DTE	償	8F9E	b)	8F9E	0x0ADE
+English DTE	匠	8FA0	b,	8FA0	0x0AE0
+English DTE	升	8FA1	b-	8FA1	0x0AE1
+English DTE	召	8FA2	b.	8FA2	0x0AE2
+English DTE	哨	8FA3	b?	8FA3	0x0AE3
+English DTE	唱	8FA5	ba	8FA5	0x0AE5
+English DTE	嘗	8FA6	bb	8FA6	0x0AE6
+English DTE	奨	8FA7	bc	8FA7	0x0AE7
+English DTE	妾	8FA8	bd	8FA8	0x0AE8
+English DTE	娼	8FA9	be	8FA9	0x0AE9
+English DTE	宵	8FAA	bi	8FAA	0x0AEA
+English DTE	庄	8FAF	bj	8FAF	0x0AEF
+English DTE	廠	8FB1	bl	8FB1	0x0AF1
+English DTE	彰	8FB2	bm	8FB2	0x0AF2
+English DTE	抄	8FB4	bn	8FB4	0x0AF4
+English DTE	招	8FB5	bo	8FB5	0x0AF5
+English DTE	掌	8FB6	br	8FB6	0x0AF6
+English DTE	捷	8FB7	bs	8FB7	0x0AF7
+English DTE	昌	8FB9	bt	8FB9	0x0AF9
+English DTE	昭	8FBA	bu	8FBA	0x0AFA
+English DTE	松	8FBC	bv	8FBC	0x0AFC
+English DTE	梢	8FBD	by	8FBD	0x0AFD
+English DTE	樟	8FBE	c 	8FBE	0x0AFE
+English DTE	樵	8FBF	c!	8FBF	0x0AFF
+English DTE	沼	8FC0	c,	8FC0	0x0B00
+English DTE	湘	8FC3	c.	8FC3	0x0B03
+English DTE	焼	8FC4	c?	8FC4	0x0B04
+English DTE	省	8FC8	cC	8FC8	0x0B08
+English DTE	硝	8FC9	ca	8FC9	0x0B09
+English DTE	礁	8FCA	cc	8FCA	0x0B0A
+English DTE	祥	8FCB	ce	8FCB	0x0B0B
+English DTE	章	8FCD	ch	8FCD	0x0B0D
+English DTE	粧	8FCF	ci	8FCF	0x0B0F
+English DTE	紹	8FD0	ck	8FD0	0x0B10
+English DTE	肖	8FD1	cl	8FD1	0x0B11
+English DTE	菖	8FD2	co	8FD2	0x0B12
+English DTE	蒋	8FD3	cq	8FD3	0x0B13
+English DTE	蕉	8FD4	cr	8FD4	0x0B14
+English DTE	裳	8FD6	cs	8FD6	0x0B16
+English DTE	訟	8FD7	ct	8FD7	0x0B17
+English DTE	詔	8FD9	cu	8FD9	0x0B19
+English DTE	賞	8FDC	cy	8FDC	0x0B1C
+English DTE	醤	8FDD	d 	8FDD	0x0B1D
+English DTE	鉦	8FDE	d!	8FDE	0x0B1E
+English DTE	鍾	8FDF	"d"""	8FDF	0x0B1F
+English DTE	鐘	8FE0	d'	8FE0	0x0B20
+English DTE	鞘	8FE2	d(	8FE2	0x0B22
+English DTE	丞	8FE5	d)	8FE5	0x0B25
+English DTE	壌	8FEB	d,	8FEB	0x0B2B
+English DTE	擾	8FEF	d-	8FEF	0x0B2F
+English DTE	杖	8FF1	d.	8FF1	0x0B31
+English DTE	畳	8FF4	d:	8FF4	0x0B34
+English DTE	穣	8FF5	d>	8FF5	0x0B35
+English DTE	蒸	8FF6	d?	8FF6	0x0B36
+English DTE	譲	8FF7	da	8FF7	0x0B37
+English DTE	醸	8FF8	db	8FF8	0x0B38
+English DTE	錠	8FF9	dc	8FF9	0x0B39
+English DTE	嘱	8FFA	dd	8FFA	0x0B3A
+English DTE	埴	8FFB	de	8FFB	0x0B3B
+English DTE	燭	9043	df	9043	0x0B43
+English DTE	伸	904C	dg	904C	0x0B4C
+English DTE	唇	904F	dh	904F	0x0B4F
+English DTE	娠	9050	di	9050	0x0B50
+English DTE	審	9052	dj	9052	0x0B52
+English DTE	慎	9054	dl	9054	0x0B54
+English DTE	晋	9057	dm	9057	0x0B57
+English DTE	森	9058	dn	9058	0x0B58
+English DTE	榛	9059	do	9059	0x0B59
+English DTE	疹	905D	dp	905D	0x0B5D
+English DTE	秦	9060	dq	9060	0x0B60
+English DTE	紳	9061	dr	9061	0x0B61
+English DTE	芯	9063	ds	9063	0x0B63
+English DTE	薪	9064	du	9064	0x0B64
+English DTE	診	9066	dv	9066	0x0B66
+English DTE	辛	9068	dw	9068	0x0B68
+English DTE	仁	906D	dy	906D	0x0B6D
+English DTE	尋	9071	e 	9071	0x0B71
+English DTE	腎	9074	e!	9074	0x0B74
+English DTE	笥	9079	"e"""	9079	0x0B79
+English DTE	酢	907C	e'	907C	0x0B7C
+English DTE	厨	907E	e(	907E	0x0B7E
+English DTE	逗	9080	e)	9080	0x0B80
+English DTE	推	9084	e,	9084	0x0B84
+English DTE	睡	9087	e-	9087	0x0B87
+English DTE	粋	9088	e.	9088	0x0B88
+English DTE	酔	908C	e:	908C	0x0B8C
+English DTE	錐	908D	e?	908D	0x0B8D
+English DTE	嵩	9093	eS	9093	0x0B93
+English DTE	杉	9099	ea	9099	0x0B99
+English DTE	椙	909A	eb	909A	0x0B9A
+English DTE	菅	909B	ec	909B	0x0B9B
+English DTE	頗	909C	ed	909C	0x0B9C
+English DTE	澄	909F	ee	909F	0x0B9F
+English DTE	摺	90A0	ef	90A0	0x0BA0
+English DTE	寸	90A1	eg	90A1	0x0BA1
+English DTE	瀬	90A3	eh	90A3	0x0BA3
+English DTE	棲	90B1	ei	90B1	0x0BB1
+English DTE	栖	90B2	ej	90B2	0x0BB2
+English DTE	牲	90B5	ek	90B5	0x0BB5
+English DTE	聖	90B9	el	90B9	0x0BB9
+English DTE	逝	90C0	em	90C0	0x0BC0
+English DTE	税	90C5	en	90C5	0x0BC5
+English DTE	隻	90C7	eo	90C7	0x0BC7
+English DTE	席	90C8	ep	90C8	0x0BC8
+English DTE	斥	90CB	eq	90CB	0x0BCB
+English DTE	籍	90D0	er	90D0	0x0BD0
+English DTE	脊	90D2	es	90D2	0x0BD2
+English DTE	碩	90D7	et	90D7	0x0BD7
+English DTE	拙	90D9	eu	90D9	0x0BD9
+English DTE	摂	90DB	ev	90DB	0x0BDB
+English DTE	節	90DF	ew	90DF	0x0BDF
+English DTE	蝉	90E4	ex	90E4	0x0BE4
+English DTE	仙	90E5	ey	90E5	0x0BE5
+English DTE	尖	90EB	ez	90EB	0x0BEB
+English DTE	繊	9140	e~	9140	0x0C00
+English DTE	羨	9141	f 	9141	0x0C01
+English DTE	腺	9142	f!	9142	0x0C02
+English DTE	舛	9143	f'	9143	0x0C03
+English DTE	薦	9145	f,	9145	0x0C05
+English DTE	賎	9147	f-	9147	0x0C07
+English DTE	践	9148	f.	9148	0x0C08
+English DTE	銑	914C	f?	914C	0x0C0C
+English DTE	鮮	914E	fa	914E	0x0C0E
+English DTE	善	9150	fe	9150	0x0C10
+English DTE	漸	9151	ff	9151	0x0C11
+English DTE	禅	9154	fi	9154	0x0C14
+English DTE	繕	9155	fl	9155	0x0C15
+English DTE	膳	9156	fn	9156	0x0C16
+English DTE	糎	9157	fo	9157	0x0C17
+English DTE	噌	9158	fr	9158	0x0C18
+English DTE	塑	9159	fs	9159	0x0C19
+English DTE	岨	915A	ft	915A	0x0C1A
+English DTE	措	915B	fu	915B	0x0C1B
+English DTE	曾	915C	fy	915C	0x0C1C
+English DTE	曽	915D	f~	915D	0x0C1D
+English DTE	楚	915E	g 	915E	0x0C1E
+English DTE	礎	9162	g!	9162	0x0C22
+English DTE	祖	9163	"g"""	9163	0x0C23
+English DTE	租	9164	g'	9164	0x0C24
+English DTE	粗	9165	g(	9165	0x0C25
+English DTE	訴	9169	g)	9169	0x0C29
+English DTE	遡	916B	g,	916B	0x0C2B
+English DTE	鼠	916C	g-	916C	0x0C2C
+English DTE	創	916E	g.	916E	0x0C2E
+English DTE	双	916F	g?	916F	0x0C2F
+English DTE	叢	9170	ga	9170	0x0C30
+English DTE	倉	9171	gb	9171	0x0C31
+English DTE	喪	9172	gd	9172	0x0C32
+English DTE	奏	9174	ge	9174	0x0C34
+English DTE	爽	9175	gg	9175	0x0C35
+English DTE	宋	9176	gh	9176	0x0C36
+English DTE	匝	9178	gi	9178	0x0C38
+English DTE	掃	917C	gl	917C	0x0C3C
+English DTE	掻	917E	gm	917E	0x0C3E
+English DTE	槍	9184	gn	9184	0x0C44
+English DTE	槽	9185	go	9185	0x0C45
+English DTE	漕	9186	gq	9186	0x0C46
+English DTE	痩	9189	gr	9189	0x0C49
+English DTE	聡	918F	gs	918F	0x0C4F
+English DTE	葬	9192	gt	9192	0x0C52
+English DTE	蒼	9193	gu	9193	0x0C53
+English DTE	鎗	9199	gw	9199	0x0C59
+English DTE	霜	919A	gy	919A	0x0C5A
+English DTE	騒	919B	gz	919B	0x0C5B
+English DTE	像	919C	h 	919C	0x0C5C
+English DTE	臓	919F	h!	919F	0x0C5F
+English DTE	贈	91A1	h'	91A1	0x0C61
+English DTE	則	91A5	h(	91A5	0x0C65
+English DTE	即	91A6	h)	91A6	0x0C66
+English DTE	捉	91A8	h,	91A8	0x0C68
+English DTE	測	91AA	h-	91AA	0x0C6A
+English DTE	俗	91AD	h.	91AD	0x0C6D
+English DTE	卒	91B2	h?	91B2	0x0C72
+English DTE	袖	91B3	ha	91B3	0x0C73
+English DTE	其	91B4	hb	91B4	0x0C74
+English DTE	孫	91B7	hc	91B7	0x0C77
+English DTE	尊	91B8	hd	91B8	0x0C78
+English DTE	村	91BA	he	91BA	0x0C7A
+English DTE	遜	91BB	hg	91BB	0x0C7B
+English DTE	汰	91BF	hh	91BF	0x0C7F
+English DTE	詑	91C0	hi	91C0	0x0C80
+English DTE	唾	91C1	hl	91C1	0x0C81
+English DTE	妥	91C3	hm	91C3	0x0C83
+English DTE	惰	91C4	hn	91C4	0x0C84
+English DTE	柁	91C6	ho	91C6	0x0C86
+English DTE	舵	91C7	hp	91C7	0x0C87
+English DTE	楕	91C8	hq	91C8	0x0C88
+English DTE	陀	91C9	hr	91C9	0x0C89
+English DTE	騨	91CB	hs	91CB	0x0C8B
+English DTE	堆	91CD	ht	91CD	0x0C8D
+English DTE	岱	91D0	hu	91D0	0x0C90
+English DTE	帯	91D1	hw	91D1	0x0C91
+English DTE	怠	91D3	hy	91D3	0x0C93
+English DTE	戴	91D5	h~	91D5	0x0C95
+English DTE	泰	91D7	i 	91D7	0x0C97
+English DTE	滞	91D8	i!	91D8	0x0C98
+English DTE	胎	91D9	i'	91D9	0x0C99
+English DTE	腿	91DA	i(	91DA	0x0C9A
+English DTE	苔	91DB	i,	91DB	0x0C9B
+English DTE	貸	91DD	i-	91DD	0x0C9D
+English DTE	黛	91E1	i.	91E1	0x0CA1
+English DTE	鯛	91E2	i<	91E2	0x0CA2
+English DTE	醍	91E7	i?	91E7	0x0CA7
+English DTE	鷹	91E9	iG	91E9	0x0CA9
+English DTE	滝	91EA	iM	91EA	0x0CAA
+English DTE	瀧	91EB	ia	91EB	0x0CAB
+English DTE	卓	91EC	ib	91EC	0x0CAC
+English DTE	啄	91ED	ic	91ED	0x0CAD
+English DTE	托	91EF	id	91EF	0x0CAF
+English DTE	拓	91F1	ie	91F1	0x0CB1
+English DTE	沢	91F2	if	91F2	0x0CB2
+English DTE	濯	91F3	ig	91F3	0x0CB3
+English DTE	琢	91F4	ih	91F4	0x0CB4
+English DTE	託	91F5	ii	91F5	0x0CB5
+English DTE	濁	91F7	ij	91F7	0x0CB7
+English DTE	茸	91F9	ik	91F9	0x0CB9
+English DTE	凧	91FA	il	91FA	0x0CBA
+English DTE	蛸	91FB	im	91FB	0x0CBB
+English DTE	但	9241	in	9241	0x0CC1
+English DTE	辰	9243	io	9243	0x0CC3
+English DTE	巽	9246	ip	9246	0x0CC6
+English DTE	竪	9247	iq	9247	0x0CC7
+English DTE	辿	9248	ir	9248	0x0CC8
+English DTE	棚	9249	is	9249	0x0CC9
+English DTE	狸	924B	it	924B	0x0CCB
+English DTE	鱈	924C	iu	924C	0x0CCC
+English DTE	樽	924D	iv	924D	0x0CCD
+English DTE	丹	924F	iw	924F	0x0CCF
+English DTE	嘆	9251	ix	9251	0x0CD1
+English DTE	坦	9252	iy	9252	0x0CD2
+English DTE	担	9253	iz	9253	0x0CD3
+English DTE	歎	9256	j,	9256	0x0CD6
+English DTE	淡	9257	j.	9257	0x0CD7
+English DTE	湛	9258	ja	9258	0x0CD8
+English DTE	炭	9259	je	9259	0x0CD9
+English DTE	箪	925C	jg	925C	0x0CDC
+English DTE	綻	925D	ji	925D	0x0CDD
+English DTE	耽	925E	jj	925E	0x0CDE
+English DTE	胆	925F	jo	925F	0x0CDF
+English DTE	蛋	9260	ju	9260	0x0CE0
+English DTE	壇	9264	jy	9264	0x0CE4
+English DTE	暖	9267	k 	9267	0x0CE7
+English DTE	檀	9268	k!	9268	0x0CE8
+English DTE	弛	926F	k'	926F	0x0CEF
+English DTE	恥	9270	k,	9270	0x0CF0
+English DTE	智	9271	k-	9271	0x0CF1
+English DTE	池	9272	k.	9272	0x0CF2
+English DTE	痴	9273	k?	9273	0x0CF3
+English DTE	稚	9274	ka	9274	0x0CF4
+English DTE	蜘	9277	kb	9277	0x0CF7
+English DTE	馳	9279	kc	9279	0x0CF9
+English DTE	畜	927B	ke	927B	0x0CFB
+English DTE	竹	927C	kf	927C	0x0CFC
+English DTE	筑	927D	kh	927D	0x0CFD
+English DTE	蓄	927E	ki	927E	0x0CFE
+English DTE	逐	9280	kk	9280	0x0D00
+English DTE	嫡	9284	kl	9284	0x0D04
+English DTE	抽	928A	km	928A	0x0D0A
+English DTE	昼	928B	kn	928B	0x0D0B
+English DTE	虫	928E	ko	928E	0x0D0E
+English DTE	衷	928F	kp	928F	0x0D0F
+English DTE	註	9290	kr	9290	0x0D10
+English DTE	樗	9294	ks	9294	0x0D14
+English DTE	瀦	9295	kt	9295	0x0D15
+English DTE	苧	9297	ku	9297	0x0D17
+English DTE	著	9298	kw	9298	0x0D18
+English DTE	貯	9299	ky	9299	0x0D19
+English DTE	凋	929C	l 	929C	0x0D1C
+English DTE	喋	929D	l!	929D	0x0D1D
+English DTE	寵	929E	"l"""	929E	0x0D1E
+English DTE	帖	929F	l'	929F	0x0D1F
+English DTE	帳	92A0	l(	92A0	0x0D20
+English DTE	庁	92A1	l)	92A1	0x0D21
+English DTE	弔	92A2	l,	92A2	0x0D22
+English DTE	彫	92A4	l-	92A4	0x0D24
+English DTE	徴	92A5	l.	92A5	0x0D25
+English DTE	懲	92A6	l:	92A6	0x0D26
+English DTE	暢	92A8	l?	92A8	0x0D28
+English DTE	朝	92A9	la	92A9	0x0D29
+English DTE	潮	92AA	lb	92AA	0x0D2A
+English DTE	牒	92AB	lc	92AB	0x0D2B
+English DTE	町	92AC	ld	92AC	0x0D2C
+English DTE	眺	92AD	le	92AD	0x0D2D
+English DTE	聴	92AE	lf	92AE	0x0D2E
+English DTE	脹	92AF	lg	92AF	0x0D2F
+English DTE	腸	92B0	lh	92B0	0x0D30
+English DTE	蝶	92B1	li	92B1	0x0D31
+English DTE	跳	92B5	lk	92B5	0x0D35
+English DTE	銚	92B6	ll	92B6	0x0D36
+English DTE	頂	92B8	lm	92B8	0x0D38
+English DTE	勅	92BA	ln	92BA	0x0D3A
+English DTE	捗	92BB	lo	92BB	0x0D3B
+English DTE	朕	92BD	lp	92BD	0x0D3D
+English DTE	珍	92BF	lr	92BF	0x0D3F
+English DTE	賃	92C0	ls	92C0	0x0D40
+English DTE	鎮	92C1	lt	92C1	0x0D41
+English DTE	陳	92C2	lu	92C2	0x0D42
+English DTE	椎	92C5	lv	92C5	0x0D45
+English DTE	鎚	92C8	lw	92C8	0x0D48
+English DTE	塚	92CB	ly	92CB	0x0D4B
+English DTE	栂	92CC	lz	92CC	0x0D4C
+English DTE	掴	92CD	m 	92CD	0x0D4D
+English DTE	槻	92CE	m!	92CE	0x0D4E
+English DTE	佃	92CF	m'	92CF	0x0D4F
+English DTE	漬	92D0	m(	92D0	0x0D50
+English DTE	柘	92D1	m)	92D1	0x0D51
+English DTE	辻	92D2	m,	92D2	0x0D52
+English DTE	蔦	92D3	m-	92D3	0x0D53
+English DTE	綴	92D4	m.	92D4	0x0D54
+English DTE	椿	92D6	m<	92D6	0x0D56
+English DTE	潰	92D7	m?	92D7	0x0D57
+English DTE	坪	92D8	ma	92D8	0x0D58
+English DTE	壷	92D9	mb	92D9	0x0D59
+English DTE	嬬	92DA	me	92DA	0x0D5A
+English DTE	紬	92DB	mf	92DB	0x0D5B
+English DTE	爪	92DC	mi	92DC	0x0D5C
+English DTE	吊	92DD	ml	92DD	0x0D5D
+English DTE	釣	92DE	mm	92DE	0x0D5E
+English DTE	鶴	92DF	mn	92DF	0x0D5F
+English DTE	亭	92E0	mo	92E0	0x0D60
+English DTE	剃	92E4	mp	92E4	0x0D64
+English DTE	貞	92E5	mr	92E5	0x0D65
+English DTE	呈	92E6	ms	92E6	0x0D66
+English DTE	堤	92E7	mt	92E7	0x0D67
+English DTE	庭	92EB	mu	92EB	0x0D6B
+English DTE	廷	92EC	my	92EC	0x0D6C
+English DTE	弟	92ED	n 	92ED	0x0D6D
+English DTE	悌	92EE	n!	92EE	0x0D6E
+English DTE	抵	92EF	"n"""	92EF	0x0D6F
+English DTE	挺	92F0	n'	92F0	0x0D70
+English DTE	梯	92F2	n(	92F2	0x0D72
+English DTE	汀	92F3	n)	92F3	0x0D73
+English DTE	碇	92F4	n,	92F4	0x0D74
+English DTE	禎	92F5	n-	92F5	0x0D75
+English DTE	締	92F7	n.	92F7	0x0D77
+English DTE	艇	92F8	n/	92F8	0x0D78
+English DTE	訂	92F9	n:	92F9	0x0D79
+English DTE	諦	92FA	n?	92FA	0x0D7A
+English DTE	蹄	92FB	nK	92FB	0x0D7B
+English DTE	逓	92FC	nT	92FC	0x0D7C
+English DTE	邸	9340	na	9340	0x0D80
+English DTE	鄭	9341	nb	9341	0x0D81
+English DTE	釘	9342	nc	9342	0x0D82
+English DTE	鼎	9343	nd	9343	0x0D83
+English DTE	泥	9344	ne	9344	0x0D84
+English DTE	摘	9345	nf	9345	0x0D85
+English DTE	滴	9348	ng	9348	0x0D88
+English DTE	笛	934A	nh	934A	0x0D8A
+English DTE	鏑	934C	ni	934C	0x0D8C
+English DTE	溺	934D	nj	934D	0x0D8D
+English DTE	哲	934E	nk	934E	0x0D8E
+English DTE	轍	9351	nl	9351	0x0D91
+English DTE	迭	9352	nm	9352	0x0D92
+English DTE	店	9358	nn	9358	0x0D98
+English DTE	添	9359	no	9359	0x0D99
+English DTE	纏	935A	np	935A	0x0D9A
+English DTE	甜	935B	nq	935B	0x0D9B
+English DTE	貼	935C	nr	935C	0x0D9C
+English DTE	顛	935E	ns	935E	0x0D9E
+English DTE	殿	9361	nt	9361	0x0DA1
+English DTE	澱	9362	nu	9362	0x0DA2
+English DTE	吐	9366	nv	9366	0x0DA6
+English DTE	堵	9367	nw	9367	0x0DA7
+English DTE	塗	9368	nx	9368	0x0DA8
+English DTE	屠	936A	ny	936A	0x0DAA
+English DTE	徒	936B	nz	936B	0x0DAB
+English DTE	斗	936C	o 	936C	0x0DAC
+English DTE	杜	936D	o!	936D	0x0DAD
+English DTE	菟	9370	o'	9370	0x0DB0
+English DTE	鍍	9374	o(	9374	0x0DB4
+English DTE	砥	9375	o)	9375	0x0DB5
+English DTE	砺	9376	o,	9376	0x0DB6
+English DTE	凍	9380	o-	9380	0x0DC0
+English DTE	塘	9384	o.	9384	0x0DC4
+English DTE	套	9385	o?	9385	0x0DC5
+English DTE	宕	9386	oG	9386	0x0DC6
+English DTE	桃	938D	oM	938D	0x0DCD
+English DTE	湯	9392	oS	9392	0x0DD2
+English DTE	祷	9398	oa	9398	0x0DD8
+English DTE	筒	939B	ob	939B	0x0DDB
+English DTE	糖	939C	oc	939C	0x0DDC
+English DTE	董	939F	od	939F	0x0DDF
+English DTE	蕩	93A0	oe	93A0	0x0DE0
+English DTE	藤	93A1	of	93A1	0x0DE1
+English DTE	謄	93A3	og	93A3	0x0DE3
+English DTE	豆	93A4	oh	93A4	0x0DE4
+English DTE	踏	93A5	oi	93A5	0x0DE5
+English DTE	透	93A7	oj	93A7	0x0DE7
+English DTE	鐙	93A8	ok	93A8	0x0DE8
+English DTE	陶	93A9	ol	93A9	0x0DE9
+English DTE	騰	93AB	om	93AB	0x0DEB
+English DTE	憧	93B2	on	93B2	0x0DF2
+English DTE	撞	93B3	oo	93B3	0x0DF3
+English DTE	瞳	93B5	op	93B5	0x0DF5
+English DTE	童	93B6	oq	93B6	0x0DF6
+English DTE	胴	93B7	or	93B7	0x0DF7
+English DTE	萄	93B8	os	93B8	0x0DF8
+English DTE	峠	93BB	ot	93BB	0x0DFB
+English DTE	鴇	93BC	ou	93BC	0x0DFC
+English DTE	匿	93BD	ov	93BD	0x0DFD
+English DTE	徳	93BF	ow	93BF	0x0DFF
+English DTE	涜	93C0	ox	93C0	0x0E00
+English DTE	禿	93C3	oy	93C3	0x0E03
+English DTE	篤	93C4	oz	93C4	0x0E04
+English DTE	毒	93C5	o~	93C5	0x0E05
+English DTE	栃	93C8	p 	93C8	0x0E08
+English DTE	橡	93C9	p!	93C9	0x0E09
+English DTE	凸	93CA	p'	93CA	0x0E0A
+English DTE	椴	93CC	p,	93CC	0x0E0C
+English DTE	鳶	93CE	p-	93CE	0x0E0E
+English DTE	寅	93D0	p.	93D0	0x0E10
+English DTE	酉	93D1	p?	93D1	0x0E11
+English DTE	瀞	93D2	pM	93D2	0x0E12
+English DTE	噸	93D3	pa	93D3	0x0E13
+English DTE	屯	93D4	pb	93D4	0x0E14
+English DTE	惇	93D5	pe	93D5	0x0E15
+English DTE	敦	93D6	pf	93D6	0x0E16
+English DTE	沌	93D7	pg	93D7	0x0E17
+English DTE	豚	93D8	ph	93D8	0x0E18
+English DTE	遁	93D9	pi	93D9	0x0E19
+English DTE	頓	93DA	pl	93DA	0x0E1A
+English DTE	呑	93DB	pm	93DB	0x0E1B
+English DTE	曇	93DC	pn	93DC	0x0E1C
+English DTE	那	93DF	po	93DF	0x0E1F
+English DTE	乍	93E1	pp	93E1	0x0E21
+English DTE	凪	93E2	pr	93E2	0x0E22
+English DTE	薙	93E3	ps	93E3	0x0E23
+English DTE	灘	93E5	pt	93E5	0x0E25
+English DTE	捺	93E6	pu	93E6	0x0E26
+English DTE	鍋	93E7	pw	93E7	0x0E27
+English DTE	楢	93E8	py	93E8	0x0E28
+English DTE	馴	93E9	p~	93E9	0x0E29
+English DTE	畷	93EB	q.	93EB	0x0E2B
+English DTE	楠	93ED	qu	93ED	0x0E2D
+English DTE	汝	93F0	r 	93F0	0x0E30
+English DTE	尼	93F2	r!	93F2	0x0E32
+English DTE	弐	93F3	"r"""	93F3	0x0E33
+English DTE	迩	93F4	r'	93F4	0x0E34
+English DTE	匂	93F5	r(	93F5	0x0E35
+English DTE	賑	93F6	r)	93F6	0x0E36
+English DTE	虹	93F8	r,	93F8	0x0E38
+English DTE	廿	93F9	r-	93F9	0x0E39
+English DTE	乳	93FB	r.	93FB	0x0E3B
+English DTE	尿	9441	r:	9441	0x0E41
+English DTE	韮	9442	r<	9442	0x0E42
+English DTE	妊	9444	r?	9444	0x0E44
+English DTE	濡	9447	rG	9447	0x0E47
+English DTE	禰	9448	ra	9448	0x0E48
+English DTE	祢	9449	rb	9449	0x0E49
+English DTE	寧	944A	rc	944A	0x0E4A
+English DTE	葱	944B	rd	944B	0x0E4B
+English DTE	猫	944C	re	944C	0x0E4C
+English DTE	捻	9450	rf	9450	0x0E50
+English DTE	撚	9451	rg	9451	0x0E51
+English DTE	粘	9453	rh	9453	0x0E53
+English DTE	乃	9454	ri	9454	0x0E54
+English DTE	廼	9455	rj	9455	0x0E55
+English DTE	之	9456	rk	9456	0x0E56
+English DTE	埜	9457	rl	9457	0x0E57
+English DTE	嚢	9458	rm	9458	0x0E58
+English DTE	膿	945E	rn	945E	0x0E5E
+English DTE	農	945F	ro	945F	0x0E5F
+English DTE	覗	9460	rp	9460	0x0E60
+English DTE	蚤	9461	rq	9461	0x0E61
+English DTE	巴	9462	rr	9462	0x0E62
+English DTE	把	9463	rs	9463	0x0E63
+English DTE	播	9464	rt	9464	0x0E64
+English DTE	覇	9465	ru	9465	0x0E65
+English DTE	杷	9466	rv	9466	0x0E66
+English DTE	琶	9469	rw	9469	0x0E69
+English DTE	婆	946B	rx	946B	0x0E6B
+English DTE	罵	946C	ry	946C	0x0E6C
+English DTE	芭	946D	s 	946D	0x0E6D
+English DTE	俳	946F	s!	946F	0x0E6F
+English DTE	廃	9470	"s"""	9470	0x0E70
+English DTE	拝	9471	s'	9471	0x0E71
+English DTE	排	9472	s(	9472	0x0E72
+English DTE	杯	9474	s)	9474	0x0E74
+English DTE	盃	9475	s,	9475	0x0E75
+English DTE	牌	9476	s-	9476	0x0E76
+English DTE	肺	9478	s.	9478	0x0E78
+English DTE	輩	9479	s/	9479	0x0E79
+English DTE	培	947C	s:	947C	0x0E7C
+English DTE	媒	947D	s<	947D	0x0E7D
+English DTE	梅	947E	s>	947E	0x0E7E
+English DTE	楳	9480	s?	9480	0x0E80
+English DTE	賠	9485	sa	9485	0x0E85
+English DTE	陪	9486	sb	9486	0x0E86
+English DTE	這	9487	sc	9487	0x0E87
+English DTE	蝿	9488	sd	9488	0x0E88
+English DTE	萩	948B	se	948B	0x0E8B
+English DTE	剥	948D	sf	948D	0x0E8D
+English DTE	拍	948F	sg	948F	0x0E8F
+English DTE	柏	9490	sh	9490	0x0E90
+English DTE	箔	9493	si	9493	0x0E93
+English DTE	粕	9494	sk	9494	0x0E94
+English DTE	曝	9498	sl	9498	0x0E98
+English DTE	漠	9499	sm	9499	0x0E99
+English DTE	莫	949C	sn	949C	0x0E9C
+English DTE	駁	949D	so	949D	0x0E9D
+English DTE	麦	949E	sp	949E	0x0E9E
+English DTE	函	949F	sq	949F	0x0E9F
+English DTE	箱	94A0	sr	94A0	0x0EA0
+English DTE	硲	94A1	ss	94A1	0x0EA1
+English DTE	箸	94A2	st	94A2	0x0EA2
+English DTE	肇	94A3	su	94A3	0x0EA3
+English DTE	筈	94A4	sw	94A4	0x0EA4
+English DTE	櫨	94A5	sy	94A5	0x0EA5
+English DTE	幡	94A6	t 	94A6	0x0EA6
+English DTE	肌	94A7	t!	94A7	0x0EA7
+English DTE	畑	94A8	t'	94A8	0x0EA8
+English DTE	畠	94A9	t(	94A9	0x0EA9
+English DTE	八	94AA	t)	94AA	0x0EAA
+English DTE	鉢	94AB	t,	94AB	0x0EAB
+English DTE	溌	94AC	t-	94AC	0x0EAC
+English DTE	醗	94AE	t.	94AE	0x0EAE
+English DTE	伐	94B0	t/	94B0	0x0EB0
+English DTE	罰	94B1	t:	94B1	0x0EB1
+English DTE	筏	94B3	t?	94B3	0x0EB3
+English DTE	閥	94B4	ta	94B4	0x0EB4
+English DTE	鳩	94B5	tb	94B5	0x0EB5
+English DTE	噺	94B6	tc	94B6	0x0EB6
+English DTE	塙	94B7	td	94B7	0x0EB7
+English DTE	蛤	94B8	te	94B8	0x0EB8
+English DTE	伴	94BA	tf	94BA	0x0EBA
+English DTE	叛	94BE	tg	94BE	0x0EBE
+English DTE	帆	94BF	th	94BF	0x0EBF
+English DTE	搬	94C0	ti	94C0	0x0EC0
+English DTE	斑	94C1	tk	94C1	0x0EC1
+English DTE	板	94C2	tl	94C2	0x0EC2
+English DTE	氾	94C3	tm	94C3	0x0EC3
+English DTE	汎	94C4	tn	94C4	0x0EC4
+English DTE	班	94C7	to	94C7	0x0EC7
+English DTE	畔	94C8	tp	94C8	0x0EC8
+English DTE	藩	94CB	tr	94CB	0x0ECB
+English DTE	販	94CC	ts	94CC	0x0ECC
+English DTE	釆	94CE	tt	94CE	0x0ECE
+English DTE	煩	94CF	tu	94CF	0x0ECF
+English DTE	頒	94D0	tw	94D0	0x0ED0
+English DTE	飯	94D1	ty	94D1	0x0ED1
+English DTE	挽	94D2	tz	94D2	0x0ED2
+English DTE	晩	94D3	t~	94D3	0x0ED3
+English DTE	磐	94D6	u 	94D6	0x0ED6
+English DTE	蕃	94D7	u!	94D7	0x0ED7
+English DTE	匪	94D9	u'	94D9	0x0ED9
+English DTE	卑	94DA	u(	94DA	0x0EDA
+English DTE	妃	94DC	u)	94DC	0x0EDC
+English DTE	庇	94DD	u,	94DD	0x0EDD
+English DTE	批	94E1	u-	94E1	0x0EE1
+English DTE	披	94E2	u.	94E2	0x0EE2
+English DTE	斐	94E3	u?	94E3	0x0EE3
+English DTE	泌	94E5	uI	94E5	0x0EE5
+English DTE	皮	94E7	ua	94E7	0x0EE7
+English DTE	碑	94E8	ub	94E8	0x0EE8
+English DTE	緋	94EA	uc	94EA	0x0EEA
+English DTE	罷	94EB	ud	94EB	0x0EEB
+English DTE	肥	94EC	ue	94EC	0x0EEC
+English DTE	被	94ED	uf	94ED	0x0EED
+English DTE	誹	94EE	ug	94EE	0x0EEE
+English DTE	樋	94F3	uh	94F3	0x0EF3
+English DTE	簸	94F4	ui	94F4	0x0EF4
+English DTE	枇	94F8	uj	94F8	0x0EF8
+English DTE	毘	94F9	uk	94F9	0x0EF9
+English DTE	琵	94FA	ul	94FA	0x0EFA
+English DTE	眉	94FB	um	94FB	0x0EFB
+English DTE	鼻	9540	un	9540	0x0F00
+English DTE	柊	9541	uo	9541	0x0F01
+English DTE	稗	9542	up	9542	0x0F02
+English DTE	匹	9543	ur	9543	0x0F03
+English DTE	疋	9544	us	9544	0x0F04
+English DTE	髭	9545	ut	9545	0x0F05
+English DTE	彦	9546	uu	9546	0x0F06
+English DTE	膝	9547	uv	9547	0x0F07
+English DTE	菱	9548	uw	9548	0x0F08
+English DTE	肘	9549	ux	9549	0x0F09
+English DTE	弼	954A	uy	954A	0x0F0A
+English DTE	畢	954C	uz	954C	0x0F0C
+English DTE	筆	954D	v 	954D	0x0F0D
+English DTE	逼	954E	v!	954E	0x0F0E
+English DTE	桧	954F	v,	954F	0x0F0F
+English DTE	媛	9551	v.	9551	0x0F11
+English DTE	紐	9552	v2	9552	0x0F12
+English DTE	謬	9554	v?	9554	0x0F14
+English DTE	俵	9555	va	9555	0x0F15
+English DTE	彪	9556	vb	9556	0x0F16
+English DTE	漂	9559	ve	9559	0x0F19
+English DTE	瓢	955A	vi	955A	0x0F1A
+English DTE	票	955B	vo	955B	0x0F1B
+English DTE	廟	955F	vr	955F	0x0F1F
+English DTE	苗	9563	vs	9563	0x0F23
+English DTE	錨	9564	vu	9564	0x0F24
+English DTE	鋲	9565	vy	9565	0x0F25
+English DTE	蒜	9566	w 	9566	0x0F26
+English DTE	蛭	9567	w!	9567	0x0F27
+English DTE	鰭	9568	w'	9568	0x0F28
+English DTE	彬	956A	w)	956A	0x0F2A
+English DTE	斌	956B	w,	956B	0x0F2B
+English DTE	瀕	956D	w-	956D	0x0F2D
+English DTE	貧	956E	w.	956E	0x0F2E
+English DTE	賓	956F	w?	956F	0x0F2F
+English DTE	頻	9570	wa	9570	0x0F30
+English DTE	敏	9571	wb	9571	0x0F31
+English DTE	瓶	9572	wc	9572	0x0F32
+English DTE	埠	9575	wd	9575	0x0F35
+English DTE	婦	9577	we	9577	0x0F37
+English DTE	冨	9579	wg	9579	0x0F39
+English DTE	布	957A	wh	957A	0x0F3A
+English DTE	扶	957D	wi	957D	0x0F3D
+English DTE	敷	957E	wk	957E	0x0F3E
+English DTE	斧	9580	wl	9580	0x0F40
+English DTE	腐	9585	wn	9585	0x0F45
+English DTE	膚	9586	wo	9586	0x0F46
+English DTE	芙	9587	wp	9587	0x0F47
+English DTE	賦	958A	wr	958A	0x0F4A
+English DTE	赴	958B	ws	958B	0x0F4B
+English DTE	楓	9596	wt	9596	0x0F56
+English DTE	葺	9598	wz	9598	0x0F58
+English DTE	蕗	9599	w~	9599	0x0F59
+English DTE	副	959B	x 	959B	0x0F5B
+English DTE	腹	95A0	x!	95A0	0x0F60
+English DTE	淵	95A3	x'	95A3	0x0F63
+English DTE	弗	95A4	x(	95A4	0x0F64
+English DTE	沸	95A6	x,	95A6	0x0F66
+English DTE	仏	95A7	x-	95A7	0x0F67
+English DTE	鮒	95A9	x.	95A9	0x0F69
+English DTE	吻	95AB	x?	95AB	0x0F6B
+English DTE	噴	95AC	xa	95AC	0x0F6C
+English DTE	憤	95AE	xc	95AE	0x0F6E
+English DTE	扮	95AF	xe	95AF	0x0F6F
+English DTE	焚	95B0	xh	95B0	0x0F70
+English DTE	奮	95B1	xi	95B1	0x0F71
+English DTE	粉	95B2	xo	95B2	0x0F72
+English DTE	糞	95B3	xp	95B3	0x0F73
+English DTE	紛	95B4	xs	95B4	0x0F74
+English DTE	丙	95B8	xt	95B8	0x0F78
+English DTE	併	95B9	xu	95B9	0x0F79
+English DTE	塀	95BB	xy	95BB	0x0F7B
+English DTE	幣	95BC	y 	95BC	0x0F7C
+English DTE	弊	95BE	y!	95BE	0x0F7E
+English DTE	柄	95BF	"y"""	95BF	0x0F7F
+English DTE	蔽	95C1	y'	95C1	0x0F81
+English DTE	陛	95C3	y(	95C3	0x0F83
+English DTE	僻	95C6	y)	95C6	0x0F86
+English DTE	癖	95C8	y,	95C8	0x0F88
+English DTE	碧	95C9	y-	95C9	0x0F89
+English DTE	瞥	95CB	y.	95CB	0x0F8B
+English DTE	蔑	95CC	y0	95CC	0x0F8C
+English DTE	箆	95CD	y?	95CD	0x0F8D
+English DTE	偏	95CE	ya	95CE	0x0F8E
+English DTE	片	95D0	yb	95D0	0x0F90
+English DTE	篇	95D1	yc	95D1	0x0F91
+English DTE	遍	95D5	yd	95D5	0x0F95
+English DTE	娩	95D8	ye	95D8	0x0F98
+English DTE	鞭	95DA	yf	95DA	0x0F9A
+English DTE	舗	95DC	yg	95DC	0x0F9C
+English DTE	鋪	95DD	yi	95DD	0x0F9D
+English DTE	圃	95DE	yk	95DE	0x0F9E
+English DTE	甫	95E1	yl	95E1	0x0FA1
+English DTE	輔	95E3	ym	95E3	0x0FA3
+English DTE	穂	95E4	yn	95E4	0x0FA4
+English DTE	募	95E5	yo	95E5	0x0FA5
+English DTE	墓	95E6	yp	95E6	0x0FA6
+English DTE	慕	95E7	yr	95E7	0x0FA7
+English DTE	戊	95E8	ys	95E8	0x0FA8
+English DTE	簿	95EB	yt	95EB	0x0FAB
+English DTE	菩	95EC	yu	95EC	0x0FAC
+English DTE	倣	95ED	yw	95ED	0x0FAD
+English DTE	俸	95EE	yy	95EE	0x0FAE
+English DTE	呆	95F0	yz	95F0	0x0FB0
+English DTE	奉	95F2	z 	95F2	0x0FB2
+English DTE	峰	95F4	z!	95F4	0x0FB4
+English DTE	峯	95F5	"z"""	95F5	0x0FB5
+English DTE	庖	95F7	z'	95F7	0x0FB7
+English DTE	捧	95F9	z,	95F9	0x0FB9
+English DTE	朋	95FC	z.	95FC	0x0FBC
+English DTE	泡	9641	za	9641	0x0FC1
+English DTE	縫	9644	ze	9644	0x0FC4
+English DTE	芳	9646	zh	9646	0x0FC6
+English DTE	萌	9647	zi	9647	0x0FC7
+English DTE	蓬	9648	zn	9648	0x0FC8
+English DTE	褒	964A	zo	964A	0x0FCA
+English DTE	鋒	964E	zu	964E	0x0FCE
+English DTE	飽	964F	zy	964F	0x0FCF
+English DTE	鳳	9650	zz	9650	0x0FD0
+English DTE	鵬	9651	~ 	9651	0x0FD1
+English DTE	乏	9652	~!	9652	0x0FD2
+English DTE	剖	9655	~,	9655	0x0FD5
+English DTE	坊	9656	~e	9656	0x0FD6

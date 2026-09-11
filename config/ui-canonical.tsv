@@ -30,5 +30,18 @@ japanese	english	notes
 地形適応	Terrain	Compact UI label
 必要技能	Req. Skill	UI label
 能力	Stats	Command menu label
+グルンガスト参式	Grungust Type-3	Unit name
+運動性	Agil.	Compact stat label
+移動力	Move	Compact stat label
+修理費	Repair	Compact stat label
+地形	Terr.	Compact stat label
+特殊能力	Abilities	Compact panel heading
+精神コマンド	Mind Cmd	Compact panel heading
+経験値	EXP	Compact stat label
+必中	Strike	Mind command
+格闘	Mel.	Compact stat label
+射撃	Ranged	Compact stat label
+防御	Def.	Compact stat label
+回避	Evade	Compact stat label
 設定項目を変更する	Change Settings	Protagonist prompt
 これでいい	Confirm	Protagonist prompt

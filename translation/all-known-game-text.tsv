@@ -113667,9 +113667,903 @@ dialogue	ボム島チーム	Bom Island Team
 dialogue	サム島チーム	Sam Island Team	
 dialogue	三五十五チーム	Team 3515	
 dialogue	セブンブリッジ	Seven Bridge	
+ui	バーンズ	Burns	
+ui	ギリ	Giri	
+ui	ローズマリー	Rosemary	
+ui	ヒイロ	Benmer	
+ui	ユイ	Yui	
+ui	デュオ	Duo	
+ui	マックスウェル	Maxwell	
+ui	トロワ	Trois	
+ui	バートン	Barton	
+ui	カトル	Cattel	
+ui	ウィナー	Winner	
+ui	カトル・ラバーバ	Cattel	
+ui	五飛	Gofu	
+ui	ゼクス	Zex	
+ui	マーキス	Marquis	
+ui	ノイン	Noein	
+ui	ルクレツィア	Lucretia	
+ui	レディ	Lady	
+ui	アン	An	
+ui	リリーナ	Lilina	
+ui	ドーリアン	Dorian	
+ui	サリィ	Sally	
+ui	ポォ	Poo	
+ui	ラシード	Rashid	
+ui	万丈	Banjo	
+ui	破嵐	Haran	
+ui	ギャリソン	Garrison	
+ui	時田	Tokuda	
+ui	レイカ	Reika	
+ui	三条	Sanjyo	
+ui	トッポ	Toppo	
+ui	戸田	Todo	
+ui	突太	Totta	
+ui	ビューティ	Beauty	
+ui	タチバナ	Tachibana	
+ui	ビューティフル	Beautiful	
+ui	ドン・ザウサー	Don Zausar	
+ui	ザウサー	Zausar	
+ui	ドン	Don	
+ui	コロス	Corros	
+ui	サンドレイク	Sandlake	
+ui	コマンダー	Commander	
+ui	ベンメル	Benmeru	
+ui	ミレーヌ	Mireille	
+ui	木戸川	Kido	
+ui	キドガー	Kidogar	
+ui	甲児	Koji	
+ui	さやか	Sayaka	
+ui	ボス	Boss	
+ui	ヌケ	Nuke	
+ui	ムチャ	Mucha	
+ui	シロー	Shiro	
+ui	弓教授	Kyo	
+ui	弦之助	Gen'ya	
+ui	鉄也	Tetsuya	
+ui	ジュン	Jun	
+ui	剣造	Kenjyo	
+ui	闇の帝王	Dark Emperor	
+ui	闇の	Dark	
+ui	帝王	Emperor	
+ui	暗黒大将軍	Dark General	
+ui	暗黒	Dark	
+ui	大将軍	General	
+ui	地獄大元帥	Hell Supreme	
+ui	地獄	Hell	
+ui	大元帥	Supreme	
+ui	アルゴス	Argos	
+ui	長官	Chief	
+ui	ユリシーザー	Ulysses	
+ui	超人将軍	Super	
+ui	ハーディアス	Hardias	
+ui	悪霊将軍	Evil	
+ui	バーダラー	Bardal	
+ui	怪鳥将軍	Monster	
+ui	ゴーゴン	Gorgon	
+ui	大公	Grand	
+ui	竜馬	Ryoma	
+ui	隼人	Hayato	
+ui	武蔵	Musashi	
+ui	弁慶	Benkei	
+ui	ミチル	Michiru	
+ui	早乙女	Hayato	
+ui	博士	Doctor	
+ui	神明日香	Kami	
+ui	明日香	Asuka	
+ui	神大造	Kami	
+ui	大造	Daisaku	
+ui	流竜作	Ryusaku	
+ui	竜作	Ryusaku	
+ui	ゴール	Goal	
+ui	バット	Bat	
+ui	将軍	Shogun	
+ui	ガレリィ	Gallery	
+ui	ラドラ	Radra	
+ui	キャプテン・	Captain	
+ui	ザンキ	Zanki	
+ui	司馬	Simah	
+ui	鋼鉄ジーグ	Steel Jeeg	
+ui	鋼鉄	Steel	
+ui	ジーグ	Zieg	
+ui	サイボーグ	Cyborg	
+ui	美和	Miyu	
+ui	卯月	Uzuki	
+ui	遷次郎	Shinjirou	
+ui	マシン	Machine	
+ui	ファーザー	Father	
+ui	菊江	Kikie	
+ui	まゆみ	Mayumi	
+ui	大利	Dairi	
+ui	所長	Director	
+ui	ヒミカ	Himika	
+ui	イキマ	Ikima	
+ui	ミマシ	Mimashi	
+ui	アマソ	Amaso	
+ui	タケル	Takeru	
+ui	剔喬胸	Tie Q.	
+ui	豹馬	Bao Ma	
+ui	十三	Thirteen	
+ui	浪花	Naniwa	
+ui	大作	Daisaku	
+ui	西川	Nish	
+ui	ちずる	Chizuru	
+ui	南原	Nanahara	
+ui	小介	Kosuke	
+ui	四ッ谷	Shitaya	
+ui	ロペット	Ropetto	
+ui	健一	Ken'ichi	
+ui	一平	Ichpei	
+ui	大次郎	Daijirou	
+ui	日吉	Higashi	
+ui	めぐみ	Megumi	
+ui	浜口	Hamaguchi	
+ui	剛健太郎	Goutarou	
+ui	健太郎	Kenta	
+ui	光代	Kodai	
+ui	ハイネル	Heinrich	
+ui	プリンス	Prince	
+ui	？？？	???	
+ui	ベルガン	Bergan	
 ui	ダミー	Dummy	
+ui	ダンゲ	Dange	
+ui	一矢	Ichiji	
+ui	竜崎	Ryusaki	
+ui	エリカ	Erika	
+ui	京四郎	Kyosuke	
+ui	夕月	Yuzuki	
+ui	ナナ	Nana	
+ui	和泉	Izumi	
+ui	振一郎	Shinichirou	
+ui	竜崎勇	Tatsuzaki	
+ui	三輪	Miwata	
+ui	防人	Boujin	
+ui	リヒテル	Richter	
+ui	提督	Taisaku	
+ui	バルバス	Barbas	
+ui	ライザ	Riza	
+ui	リオン	Lion	
+ui	オルバン	Orban	
+ui	ゲロイヤー	Geroyaa	
+ui	参謀	Sanpou	
+ui	アイザム	Aizamu	
+ui	ハレック	Harekku	
+ui	ガーニー	Garnie	
+ui	マルガレーテ	Margarete	
+ui	メルビ	Merubi	
+ui	真吾	Makoto	
+ui	北条	Hatt	
+ui	キリー	Kirii	
+ui	ギャグレー	Gagurei	
+ui	レミー	Remee	
+ui	島田	Shimada	
+ui	サバラス	Sabarasu	
+ui	ブンドル	Bundoru	
+ui	レオナルド・メディチ	Leonardo Medici	
+ui	カットナル	Kattunaru	
+ui	スーグニ	Suguni	
+ui	ケルナグール	Kernaguru	
+ui	ヤッター・ラ	Yattera Ra	
+ui	ケン太	Kentarou	
+ui	真田	Sanada	
+ui	ＯＶＡ	OVA	
+ui	イザベル	Isabelle	
+ui	クロンカイト	Kuronkaito	
+ui	ネオネロス	Neo Nero	
+ui	ジッター	Jitter	
+ui	サンシロー	Sanshiro	
+ui	ツワブキ・	Tsuwabuki	
+ui	ファン・リー	Fan Lee	
+ui	ファン・	Fan	
+ui	リー	Lee	
+ui	ブンタ	Bunta	
+ui	ハヤミ・	Hayami	
+ui	ヤマガタケ	Yamagatake	
+ui	ピート	Pete	
+ui	リチャードソン	Richardson	
+ui	サコン	Sakon	
+ui	サコン・	Sakon	
+ui	ゲン	Gen	
+ui	ミドリ	Midori	
+ui	フジヤマ・	Fujiyama	
+ui	ダリウス	Darius	
+ui	大帝	Great	
+ui	デスモント	Desmond	
+ui	ダンケル	Dunkel	
+ui	アシモフ	Asimov	
+ui	キラー	Killer	
+ui	大文字	Oomachi	
+ui	洋三	Yosan	
+ui	ハチロー	Hachiro	
+ui	獅子王	Shishiwon	
+ui	ギャレオン	Galleon	
+ui	氷竜	Ice Dragon	
+ui	炎竜	Flame Dragon	
+ui	超竜神	Hyper Dragon	
+ui	ゴルディマーグ	Gordy Mag	
+ui	ボルフヰグ	Bolfwig	
+ui	ビッグボルフヰグ	Big Bolfwig	
+ui	ビッグ	Big	
+ui	パスダー	Pasdar	
+ui	ピッツァ	Pizza	
+ui	ペンチノン	Pentinoon	
+ui	ポロネズ	Polonais	
+ui	プリマーダ	Primadera	
+ui	天海	Tenkai	
+ui	大河	Ookawa	
+ui	幸太郎	Kotaro	
+ui	麗雄	Reiyu	
+ui	卯都木	Utsuki	
+ui	スワン	Swan	
+ui	ホワイト	White	
+ui	火麻	Hama	
+ui	猿頭寺	Saru	
+ui	耕助	Kousuke	
+ui	牛山	Ueshima	
+ui	一男	Hito	
+ui	初野	Hats	
+ui	レイコ	Reiko	
+ui	狐森	Kusamori	
+ui	末男	Sueo	
+ui	数納	Kazu	
+ui	鷹泰	Takayasu	
+ui	磯貝桜	Isobe	
+ui	磯貝	Ishk	
+ui	天海勇	Amamiya	
+ui	天海愛	Amamiya	
+ui	犬吠崎	Inuboshima	
+ui	小宝山金蔵	Kobayashikinzo	
+ui	小宝山	Kobayashi	
+ui	金蔵	Kinzo	
+ui	平田昭子	Hirata Akiko	
+ui	平田	Hirata	
+ui	昭子	Akiko	
+ui	ゾンダーメタル	Zondermetal	
+ui	ゾンダー	Zonder	
+ui	メタル	Metal	
+ui	伊佐未	Izami	
+ui	比瑪	Hima	
+ui	宇都宮	Udumya	
+ui	カナン	Kanan	
+ui	ギモス	Gimos	
+ui	ラッセ	Rasse	
+ui	ルンベルク	Lunberg	
+ui	ナンガ	Nanga	
+ui	シルバレー	Silverale	
+ui	ヒギンズ	Higgins	
+ui	サス	Sas	
+ui	コモド	Komodo	
+ui	マハマ	Mahama	
+ui	ネリー	Nelly	
+ui	キム	Kim	
+ui	クインシィ	Quinsey	
+ui	イッサー	Isser	
+ui	依衣子	Iyeko	
+ui	ジョナサン	Jonathan	
+ui	グレーン	Graen	
+ui	シラー	Schiller	
+ui	グラス	Glass	
+ui	エッガ	Egga	
+ui	ブランカン	Brancon	
+ui	バロン	Baron	
+ui	マクシミリアン	Maximilian	
+ui	アイリーン	Aileen	
+ui	キャリアー	Carrier	
+ui	アノーア	Anoa	
+ui	マコーミック	McCormick	
+ui	伊佐未直子	Izami Naoko	
+ui	直子	Naoko	
+ui	ゲイブリッジ	Gavrilich	
+ui	ウィンストン	Winston	
+ui	クマゾー	Kumazoe	
+ui	アカリ	Akari	
+ui	ユキオ	Yuki	
+ui	カント	Kanto	
+ui	ケストナー	Kestner	
+ui	伊佐未研作	Izami Kenzaku	
+ui	研作	Kenzaku	
+ui	伊佐未翠	Izami Midori	
+ui	ユウ・ブレン	Yu Buren	
+ui	ヒメ・ブレン	Hime Buren	
+ui	ラッセ・ブレン	Rasse Buren	
+ui	ブレンチャイルド	Buren Child	
+ui	ネリー・ブレン	Neri Buren	
+ui	少女	Girl	
+ui	ゼンガー	Sanger	
+ui	ゾンボルト	Zonbolt	
+ui	ククル	Kukuru	
+ui	クスハ	Kusha	
+ui	ミズハ	Mizha	
+ui	ブリット	Britt	
+ui	ラックフィールド	Rackfield	
+ui	ブルックリン	Brooklyn	
+ui	龍王機	Dragon King	
+ui	藻箕←	Ago	
+ui	アラド	Arado	
+ui	バランガ	Baranga	
+ui	ゼオラ	Zeora	
+ui	シュバイツァー	Schwartz	
+ui	アイビス	Ibis	
+ui	ダグラス	Douglas	
+ui	ツグミ	Tsugumi	
+ui	タカクラ	Takakura	
+ui	スレイ	Slay	
+ui	プレスティ	Pressi	
+ui	イルイ	Ilui	
+ui	ガンエデン	Gan Eden	
+ui	カナフ	Kanaf	
+ui	ケレン	Keren	
+ui	ザナヴ	Zanav	
+ui	レーツェル	Raezeller	
+ui	ファインシュメッカー	FainSchmcker	
+ui	ヴィレッタ	Villetta	
+ui	バディム	Baddym	
+ui	フィリオ	Filio	
+ui	エリ	Eri	
+ui	安西	Ansai	
+ui	ロバート	Robert	
+ui	オオミヤ	Oomiya	
+ui	カーク	Kirk	
+ui	ハミル	Hamir	
+ui	ソフィア	Sophia	
+ui	ネート	Nate	
+ui	連邦軍兵	Federated	
+ui	ジオン兵	ZionSoldier	
+ui	ネオ・ジオン兵	NeoZionSoldier	
+ui	ＣＢ兵	CB Troop	
+ui	所属不明兵	Unaffiliated	
+ui	木星帝国兵	Jovian Empire Troop	
+ui	リクレイマー	Reclaimer	
+ui	ソルジャー	Soldier	
+ui	ミケーネス	Mikenes	
+ui	恐竜兵士	Dino Soldier	
+ui	ハニワ兵士	HaniwaSoldier	
+ui	突撃兵士	AssaultSoldier	
+ui	バーム兵	Balm Troop	
+ui	暗黒鳥人	Dark Avian	
+ui	スナイパー	Sniper	
+ui	連邦軍艦長	Federals Cap	
+ui	ネオ・ジオン艦長	NeoZionCaptain	
+ui	木星帝国艦長	Jupiter Empire Cap	
+ui	戦闘獣	CombatBeast	
+ui	メカザウルス	MechaSaurus	
+ui	ハニワ幻人	HaniwaGhost	
+ui	鎧獣士	ArmoredBeast	
+ui	戦闘ロボ	CombatRobot	
+ui	メカ戦士	MechaWarrior	
+ui	暗黒怪獣	DarkMonster	
+ui	ドクーガメカ	DokuugaMecha	
+ui	ゾンダー人間	ZonderHuman	
+ui	ＡＩ	AI	
+ui	高性能ＡＩ	HighAI	
+ui	自律回路	AutonomousCircuit	
+ui	制御チップ	ControlChip	
+ui	兵士	Soldier	
+ui	艦長	Captain	
+ui	無人	Unmanned	
+ui	ザビーネ	Zabiene	
+ui	シャル	Shal	
+ui	ガンダム試作１号機Ｆｂ	GundamPrototype1Fb	
+ui	６０ｍｍバルカン砲	60mmBulldogCannon	
+ui	ビーム・サーベル	BeamSaber	
+ui	ビーム・ライフル	BeamRifle	
+ui	ビーム・ライフル（連射）	BeamRifle(Burst)	
+ui	ガンダム試作２号機	GundamPrototype2	
+ui	バルカン	Bulldog	
+ui	ハイパー・ビーム・サーベル	Hyper Beam Saber	
+ui	ビーム・バズーカ	Beam Bazooka	
+ui	アトミック・バズーカ	Atomic Bazooka	
+ui	ガンダム試作３号機	Gundam Proto-3	
+ui	マイクロミサイル	Micro Missiles	
+ui	フォールディング・バズーカ	Folding Bazooka	
+ui	大型ビーム・サーベル	Large Beam Saber	
+ui	メガ・ビーム砲	Mega Beam Cannon	
+ui	零距離メガ・ビーム砲	Mega Beam Cannon	
+ui	ガンダム・ステイメン	Gundam Stamen	
+ui	ロング・ライフル	Long Rifle	
+ui	ジム・カスタム	Jim Custom	
+ui	ジム・ライフル	Jim Rifle	
+ui	ジム・ライフル（連射）	Jim Rifle (Rapid Fire)	
+ui	ジム・キャノン㈲	Jim Cannon Co.	
+ui	ビーム・キャノン	Beam Cannon	
+ui	ビーム・キャノン（連射）	Beam Cannon (Rapid Fire)	
+ui	アルビオン	Albion	
 ui	対空レーザー砲	Anti-air Laser	
+ui	ミサイル・ランチャー	Missile Launcher	
+ui	メイン・メガ粒子砲	Main Mega Particle	
+ui	ハイパー・メガ粒子砲	Hyper Mega Particle	
+ui	ザク㈲Ｆ２型	Zaku F2 Type	
+ui	ヒート・ホーク	Heat Hawk	
+ui	ザク・マシンガン	Zaku Machine Gun	
+ui	リック・ドム㈲	Rick Dom Co.	
+ui	ヒートサーベル	Heat Saber	
+ui	９０ｍｍマシンガン	90mm Machine Gun	
+ui	ジャイアントバズーカ	Jumbo Bazooka	
+ui	ゲルググ・Ｍ	Gelgoog M	
+ui	１１０ミリ速射砲	110mm Rapid-Fire	
+ui	ガーベラ・テトラ	Gerbil Tetra	
+ui	１１０ミリ機関砲	110mm Machine Gun	
+ui	ビーム・マシンガン	Beam Machine Gun	
+ui	ヴァル・ヴァロ	Val Valo	
+ui	ビーム・ガン	Beam Gun	
+ui	クロー	Claw	
+ui	プラズマ・リーダー	Plasma Leader	
+ui	大型メガ粒子砲	Large Mega Particle Cannon	
+ui	ノイエ・ジール	Noie Geir	
+ui	偏向メガ粒子砲	Deflected Mega Particle Cannon	
+ui	有線クローアーム	Cable Claw Arm	
+ui	メガ・カノン砲	Mega Cannon	
+ui	Ｚガンダム	Z Gundam	
+ui	グレネード・ランチャー	Grenade Launcher	
+ui	ハイパー・メガ・ランチャー	Hyper Mega Launcher	
+ui	ウェイブライダー	Wave Rider	
+ui	突撃	Assault	
+ui	ガンダムＭｋ－㈲	Gundam Mk- Co.	
+ui	ハイパー・バズーカ	Hyper Bazooka	
+ui	スーパーガンダム	Super Gundam	
+ui	百式	Hyakki	
+ui	クレイ・バズーカ	Clay Bazooka	
+ui	メガ・バズーカ・ランチャー	Mega Bazooka Launcher	
+ui	メタス	Metas	
+ui	アーム・ビーム・ガン	Arm Beam Gun	
+ui	メタス（ＭＡ）	Metas (MA)	
+ui	ハンブラビ	Hamburabi	
+ui	海ヘビ	Umihebi	
+ui	バーザム	Bazam	
+ui	マゼラン改	Magellan Kai	
+ui	サラミス改	Salamis Kai	
+ui	衛星ミサイル	Satellite Missile	
+ui	ＺＺガンダム	ZZ Gundam	
+ui	ダブルバルカン	Double Vulcan	
+ui	ダブル・ビーム・ライフル	Double Beam Rifle	
+ui	ハイ・メガ・キャノン	High Mega Cannon	
+ui	Ｇフォートレス	G Fortress	
+ui	ダブル・キャノン	Double Cannon	
+ui	ハイ・メガ・キャノン・フルパワー	Hyper Mega Cannon Full Power	
+ui	フルアーマーＺＺガンダム	Full Armor ZZ Gundam	
+ui	ミサイル全弾発射	Missile Full	
+ui	ハイパー・メガ・カノン	Hyper Mega Cannon	
+ui	メガライダー	Mega Rider	
+ui	メガ粒子砲	Mega Particle Cannon	
+ui	メガ・ランチャー	Mega Launcher	
+ui	キュベレイＭｋ－㈲	Cube Ray Mk-2	
+ui	ファンネル	Funnel	
+ui	量産型キュベレイ	Mass Production Cube	
+ui	アクティブ・カノン	Active Cannon	
+ui	ドーベン・ウルフ	Doben Wolf	
+ui	インコム	Incom	
+ui	ゲーマルク	Garmal	
+ui	３連装メガ粒子砲	Triple Mega Particle	
+ui	マザー・ファンネル	Mother Funnel	
+ui	メガ粒子砲一斉射撃	Mega Particle Cannon Barrage	
+ui	キュベレイ	Cube Ray	
+ui	クィン・マンサ	Quin Mansa	
+ui	拡散メガ粒子砲	Dispersed Mega	
+ui	エンドラ	Endra	
+ui	１６０ミリ機関砲	160mm Machine Gun	
+ui	サダラーン	Sadaraan	
+ui	対艦ミサイル	Anti-Ship	
+ui	ガンダム	Gundam	
+ui	フィン・ファンネル	Fin Fannel	
+ui	ガンダムＨＷＳ装着型	Gundam HWS Equipped Type	
+ui	ハイパー・メガ・ライフル	Hyper Mega Rifle	
+ui	Ｈｉ－νガンダム	Hi-n Gundam	
+ui	ハイパー・メガバズーカランチャー	Hyper Mega Bazooka Launcher	
+ui	量産型νガンダム（Ｉ）	Mass-Prod Nu Gundam (I)	
+ui	インコム・ユニット	Incom Unit	
+ui	量産型νガンダム（Ｆ）	Mass-Prod Nu Gundam (F)	
+ui	リ・ガズィ（ＢＷＳ）	Re-Guzi (BWS)	
+ui	メガ・ビーム・キャノン	Mega Beam Cannon	
+ui	リ・ガズィ	Re-Guzi	
+ui	ラー・カイラム	Lar Kailam	
+ui	１８０ミリ機関砲	180mm Machine Gun	
+ui	主砲	Main Gun	
+ui	核ミサイル	Nuclear Missile	
+ui	クラップ級	Clap Class	
+ui	ギラ・ドーガ	Gira Doga	
+ui	ビーム・ソードアックス	Beam Sword Axe	
+ui	シュツルム・ファウスト	Schtsurm Faust	
+ui	ヤクト・ドーガ	Yakt Doga	
+ui	ビーム・アサルトライフル	Beam Assault Rifle	
+ui	メガ・ガトリングガン	Mega Gatling Gun	
+ui	・アジール	Azail	
+ui	有線式メガ・アーム砲	Cabled Mega Arm Cannon	
+ui	サザビー	Sazabi	
+ui	ビーム・トマホーク	Beam Tomahawk	
+ui	ビーム・ショットライフル	Beam Shot Rifle	
+ui	ナイチンゲール	Nightingale	
+ui	隠し腕	Hidden Arm	
+ui	メガ・ビーム・ライフル	Mega Beam Rifle	
+ui	レウルーラ	Leurula	
+ui	サブ・メガ粒子砲	Sub Mega Particle	
+ui	ムサカ	Musaka	
+ui	ガンダムＦ９１	Gundam F91	
+ui	頭部バルカン	Head Vulcan	
+ui	胸部メガ・マシンキャノン	Chest Mega Machine Cannon	
+ui	ビーム・ランチャー	Beam Launcher	
+ui	Ｖ．Ｓ．Ｂ．Ｒ	V.S.B.R.	
+ui	ＭＥＰＥ攻撃	MEPE Attack	
+ui	ヘビーガン	Heavy Gun	
+ui	ベルガ・ギロス	Berga Girlos	
+ui	ヘビー・マシンガン	Heavy Machine Gun	
+ui	ショット・ランサー	Shot Lancer	
+ui	ベルガ・ダラス	Berga Dallas	
+ui	ダギ・イルス	Dagi Irls	
+ui	３連拡散ビーム砲	3-barrel Spread Beam Cannon	
+ui	デナン・ゾン	Denan Zon	
+ui	親バグ	Mother Bug	
+ui	レーザー	Laser	
+ui	一斉攻撃	All-Out	
+ui	ラフレシア	Rafflesia	
+ui	テンタクラー・ロッド	Tentacle Rod	
+ui	ザムス・ガル	Zams Gal	
+ui	２連装機関砲	Dual Cannon	
+ui	２連装主砲	Dual Main Gun	
+ui	ザムス・ギリ	Zams Giri	
+ui	２連装機銃	Dual Gun	
+ui	クロスボーン・ガンダムＸ１	Crossbone Gundam X1	
+ui	ブランド・マーカー	Brand Marker	
+ui	ヒート・ダガー	Heat Dagger	
+ui	ビーム・ザンバー	Beam Zanber	
+ui	ザンバスター	Zanbaster	
+ui	ビーム・ザンバー（連続攻撃）	Beam Zanber (Rapid Fire)	
+ui	スクリュー・ウェッブ	Screw Web	
+ui	クロスボーン・ガンダムＸ２	Crossbone Gundam X2	
+ui	バスター・ランチャー	Buster Launcher	
+ui	クロスボーン・ガンダムＸ２改	Crossbone Gundam X2 Kai	
+ui	クロスボーン・ガンダムＸ３	Crossbone Gundam X3	
+ui	ガトリング砲	Gatling Gun	
+ui	ムラマサ・ブラスター（射撃）	Muramasa Blaster (Shooting)	
+ui	ムラマサ・ブラスター（斬撃）	Muramasa Blaster (Sword)	
+ui	ムラマサ・ブラスター（連続）	Muramasa Blaster (Rapid Fire)	
+ui	ゾンド・ゲー	Zond Ge	
+ui	マザー・バンガード	Mother Vanguard	
+ui	マスト・メガ粒子砲	Mast Mega Particle	
+ui	バビロニア・バンガード	Babylonian Vanguard	
+ui	量産型ガンダムＦ９１	Mass Production F91	
+ui	バタラ	Bataria	
+ui	エレバド	Elebado	
+ui	ペズ・バタラ	Pez Bataria	
+ui	ビーム・アックス	Beam Axe	
+ui	クァバーゼ	Quabaze	
+ui	頭部メガ粒子砲	Head Mega Particle	
+ui	ビーム・ソー	Beam Saw	
+ui	アビジョ	Avijjo	
+ui	ニードル・ガン	Needle Gun	
+ui	トトゥガ	Totuga	
+ui	ハンマーハンド	Hammer Hand	
+ui	エレゴレラ	Elegorela	
+ui	ヒートナギナタ	Heat Naginata	
+ui	大型メガ・ビーム砲	Large Mega Beam Cannon	
+ui	フレキシブル・テールキャノン	Flexible Tail Cannon	
+ui	ノーティラス	Notilus	
+ui	高振動ワイヤー	High-Vibration Wire	
+ui	ディビニダド	Divinidad	
+ui	中型メガ・ビーム砲	Medium Mega Beam	
+ui	フェザー・ファンネル	Feather Funnel	
+ui	超大型メガ・ビーム砲	Super Mega Beam Cannon	
+ui	サウザンスジュピター	Southern Jupiter	
+ui	機銃	Machine Gun	
+ui	連装ミサイル・ランチャー	Dual Missile Launcher	
+ui	ジュピトリス９	Jupiteris 9	
+ui	ウイングガンダムゼロカスタム	Wing Gundam Zero Custom	
+ui	マシンキャノン	Machine Cannon	
+ui	ツイン・バスター・ライフル	Twin Buster Rifle	
+ui	ウイングガンダム	Wing Gundam	
+ui	バスター・ライフル	Buster Rifle	
+ui	ビーム・サーベル（突撃）	Beam Saber (Assault)	
+ui	ウイングガンダム（バードモード）	Wing Gundam (Bird Mode)	
+ui	ガンダムデスサイズヘルカスタム	Gundam Death Size Hell Custom	
+ui	ビーム・シザース	Beam Scissors	
+ui	ビーム・シザース（全体攻撃）	Beam Scissors (Area Attack)	
+ui	ガンダムヘビーアームズカスタム	Gundam Heavy Arms Custom	
+ui	マイクロ・ミサイル	Micro Missiles	
+ui	ホーミング・ミサイル	Homing Missiles	
+ui	ダブル・ガトリングガン	Double Gatling Gun	
+ui	フルオープンアタック	Full Open Attack	
+ui	ガンダムサンドロックカスタム	Gundam Sandrock Custom	
+ui	ヒート・ショーテル	Heat Shotel	
+ui	マグアナック隊総攻撃	Maganauck Total Attack	
+ui	アルトロンガンダムカスタム	Altron Gundam Custom	
+ui	ツイン・ビーム・トライデント	Twin Beam Trident	
+ui	ドラゴンハング	Dragon Hang	
+ui	トールギス㈹	Taurus	
+ui	ヒートロッド	Heat Rod	
+ui	メガ・キャノン	Mega Cannon	
+ui	トーラス	Torus	
+ui	トーラス（ＭＡ）	Torus (MA)	
+ui	ダイターン３	Daitarn 3	
+ui	ダイターンミサイル	Daitarn Missile	
+ui	ダイターンキャノン	Daitarn Cannon	
+ui	サンレーザー	Sun Laser	
+ui	ビッグウェッブ	Big Web	
+ui	ダイターンザンバー	Daitarn Zanbar	
+ui	ダイターンハンマー	Daitarn Hammer	
+ui	ダイターンジャベリン	Daitarn Javelin	
+ui	サンアタック	Sun Attack	
+ui	ダイファイター	Dai Fighter	
+ui	ロケット砲	Rocket Gun	
+ui	爆雷	Mine	
+ui	ダイタンク	Daitank	
+ui	量産型ダイファイター	Mass Production Dai Fighter	
+ui	マサアロケット	Masa Rocket	
+ui	レーザー砲	Laser Gun	
+ui	アイアイ	AIAI	
+ui	ミサイル	Missile	
+ui	破壊光線	Destructive	
+ui	メガボーグ・サンドレイク	Mega Borg Sand Lake	
+ui	怪光線	Strange Light Ray	
+ui	鉄球	Iron Ball	
+ui	メガボーグ・ベンメル	Mega Borg Benmer	
+ui	カマ	Kama	
+ui	メガボーグ・ミレーヌ	Mega Borg Milene	
+ui	火炎	Flame	
+ui	メガボーグ・キドガー	Mega Borg Kidogar	
+ui	ランサー	Lancer	
+ui	サーベル	Saber	
+ui	ニーベルゲン	Nibelungen	
+ui	副砲	Secondary	
+ui	３連装主砲	Triple Main	
+ui	ブッターギルン	Buttergiln	
+ui	メガ・チェーンソー	Mega Chainsaw	
+ui	デス・スパイダー	Death Spider	
+ui	裁きの雷	Judgment Thunder	
+ui	マジンガーＺ	Mazinger Z	
+ui	光子力ビーム	Photon Beam	
+ui	ミサイルパンチ	Missile Punch	
+ui	ドリルミサイル	Drill Missile	
+ui	ロケットパンチ	Rocket Punch	
+ui	ルストハリケーン	Rust Hurricane	
+ui	アイアンカッター	Iron Cutter	
+ui	ブレストファイヤー	Brest Fire	
+ui	大車輪ロケットパンチ	Big Wheel Rocket Punch	
+ui	強化型ロケットパンチ	Enhanced Rocket Punch	
+ui	Ｆダイナミックスペシャル	F Dynamics Special	
+ui	マジンカイザー	Majin Kaiser	
+ui	ギガスミサイル	Giga Slug Missile	
+ui	ターボスマッシャーパンチ	Turbo Smasher Punch	
+ui	ルストトルネード	Rust Tornado	
+ui	ファイヤーブラスター	Fire Blaster	
+ui	ダイアナンＡ	Diahan A	
+ui	ダイアナンミサイル	Diahan Missile	
+ui	スカーレットビーム	Scarlet Beam	
+ui	ボスボロット	Boss Borot	
+ui	ボロットパンチ	Borot Punch	
+ui	ボロットダイナミックスペシャル	Borot Dynamics Special	
+ui	グレートマジンガー	Great Mazinger	
+ui	グレートタイフーン	Great Typhoon	
+ui	マジンガーブレード	Majin Ga Blade	
+ui	ネーブルミサイル	Nebula Missile	
+ui	アトミックパンチ	Atomic Punch	
+ui	ドリルプレッシャーパンチ	Drill Pressure Punch	
+ui	ブレストバーン	Brest Burn	
+ui	サンダーブレーク	Thunder Break	
+ui	グレートブースター	Great Booster	
+ui	ビューナスＡ	Bionas A	
+ui	フィンガーミサイル	Finger Missile	
+ui	光子力ミサイル	Photon Missile	
+ui	オベリウス	Obelius	
+ui	くちばし	Beak	
+ui	トルケーン	Turkane	
+ui	ショットスピア	Shot Spear	
+ui	シールドアタック	Shield Attack	
+ui	ゴールドフェニックス	Gold Phoenix	
+ui	ウイングビーム	Wing Beam	
+ui	ズガール	Zugarl	
+ui	した	Down	
+ui	サイコベアー	Psycho Bear	
+ui	呪術	Necro	
+ui	グレシオス	Grecios	
+ui	ドリル	Drill	
+ui	ドルラーク	Dollarak	
+ui	リング光線	Ring Ray	
+ui	乱れ撃ち	Scatter Fire	
+ui	ゴーグラー	Gorgler	
+ui	ビッグアックス	Big Axe	
+ui	バルカニア	Volcania	
+ui	サンビーム	Sun Beam	
+ui	怪鳥将軍バーダラー	Monster General Bard	
+ui	格闘	Hand-to-	Mel.
+ui	悪霊将軍ハーディアス	Evil Spirit General	
+ui	かま	Sword	
+ui	超人将軍ユリシーザー	Superhuman General U	
+ui	ヘッドアタック	Head Attack	
+ui	ダークサーベル	Dark Saber	
+ui	超破壊光線	Ultra Destructive Ray	
+ui	万能要塞ミケロス	Versatile Fortress M	
+ui	ハリケーン	Hurricane	
+ui	無敵要塞デモニカ	Invincible Fortress	
+ui	体当たり	Body Check	
+ui	アイビーム	Eye Beam	
+ui	ダークネスファイヤー	Darkness Fire	
+ui	ゲッタードラゴン	Getter Dragon	
+ui	スピンカッター	Spin Cutter	
+ui	ダブルトマホークブーメラン	Double Tomahawk Boomerang	
+ui	ダブルトマホーク	Double Tomahawk	
+ui	ゲッターレーザーキャノン	Getter Laser Cannon	
+ui	ゲッタービーム	Getter Beam	
+ui	シャインスパーク	Shine Spark	
+ui	ゲッターライガー	Getter Riger	
+ui	ライガーミサイル	Riger Missile	
+ui	ドリルアーム	Drill Arm	
+ui	チェーンアタック	Chain Attack	
+ui	ゲッターポセイドン	Getter Poseidon	
+ui	フィンガーネット	Finger Net	
+ui	ストロングミサイル	Strong Missile	
+ui	ゲッターサイクロン	Getter Cyclone	
+ui	真・ゲッター１	True Getter 1	
+ui	トマホークブーメラン	Tomahawk Boomerang	
+ui	ゲッタートマホーク	Getter Tomahawk	
+ui	ゲッターブラストキャノン	Getter Blast Cannon	
+ui	ストナーサンシャイン	Stoner Sunshine	
+ui	真・ゲッター２	True Getter 2	
+ui	ゲッターミサイル	Getter Missile	
+ui	ドリルテンペスト	Drill Tempest	
+ui	ゲッタードリル	Getter Drill	
+ui	真・ゲッター３	True Getter 3	
+ui	ハンマーパンチ	Hammer Punch	
+ui	ミサイル一斉発射	Missile Barrage	
+ui	大雪山おろし二段返し	Big Snow Mountain	
+ui	ブラックゲッター	Black Getter	
+ui	ゲッターレザー	Getter Leather	
+ui	ゲッターストラングル	Getter Strangle	
+ui	レディコマンド	Ready Command	
+ui	バルカン砲	Vulcan	
+ui	コマンドミサイル	Command Missile	
+ui	恐竜ジェット機	Dino Jet	
+ui	サキ	Saki	
+ui	ミニミサイル	Mini Missile	
+ui	ザイ	Zai	
+ui	ズー	Zu	
+ui	バド	Bado	
+ui	怪音波	Abnormal	
+ui	ギロ	Giro	
+ui	伸縮式アーム	Telescoping	
+ui	ゼン１号	Zen 1	
+ui	ゼン２号	Zen 2	
+ui	ロケット弾	Rocket	
+ui	ハンドソルト	Hand Salt	
+ui	シグ	Sig	
+ui	ゾリ	Zori	
+ui	火炎放射	Flame blast	
+ui	グダ	Guda	
+ui	大砲	Cannon	
+ui	無敵戦艦ダイ	Invincible	
+ui	ジーグビーム	Zeg Beam	
+ui	ナックルボンバー	Knuckle Bomber	
+ui	ダイナマイトキック	Dynamite Kick	
+ui	スピンストーム	Spin Storm	
+ui	ジーグブリーカー	Zeg Breaker	
+ui	ジーグバズーカ	Zeg Bazooka	
+ui	マッハドリル	Mach Drill	
+ui	ジーグヘッド	Zeg Head	
+ui	ジーグ・パーンサロイド	Zeg Parnsroid	
+ui	ダイナマイトパンチ	Dynamite Punch	
+ui	パーンサロイド・ミサイル	Parnsroid Missile	
+ui	ジーグランサー	Zeg Lancer	
+ui	サイボーグ宙	Cyborg Uchu	
+ui	ビッグシューター	Big Shooter	
+ui	連射式ミサイル	Rapid Fire Missile	
+ui	磁力光線	Magnetic Ray	
+ui	ルゴン	Lugon	
+ui	槍投げ	Javelin	
+ui	槍撃	Javelin	
+ui	ガルガ	Gargal	
+ui	ギララ	Girara	
+ui	ブーメラン	Boomerang	
+ui	竜巻	Torn	
+ui	ギャオ	Gyoa	
+ui	七色怪光線	Seven-color beam	
+ui	幻魔要塞ヤマタノオロチ	Phantom Demon Fortress Yamata no Orochi	
+ui	竜の首	Dragon's Head	
+ui	コン・バトラーＶ	Con Battler V	
+ui	バトルチェーンソー	Battle Chainsaw	
+ui	アトミックバーナー	Atomic Burner	
+ui	ツインランサー	Twin Lances	
+ui	超電磁ヨーヨー	Super Electromagnetic Yo-Yo	
+ui	Ｖレーザー	V Laser	
+ui	ビッグブラストディバイダー	Big Blast Divider	
+ui	超電磁スパーク	Super Electromagnetic Spark	
+ui	グランダッシャー	Grand Dasher	
+ui	超電磁スピン	Super Electromagnetic Spin	
+ui	ボルテスⅤ	Voltes V	
+ui	ガトリングミサイル	Gatling Missile	
+ui	グランドファイヤー	Grand Fire	
+ui	ボルテスバズーカ	Voltes Bazooka	
+ui	チェーンナックル	Chain Knuckle	
+ui	超電磁ストリングス	Super Electromagnetic Strings	
+ui	超電磁ウェーブ	Super Electromagnetic Wave	
+ui	超電磁ゴマ	Super Electromagnetic Goma	
+ui	天空剣Ｖの字斬り	Sky Sword V Slash	
+ui	超電磁ボールＶの字斬り	Hyper Electromagnetic Ball V-Cut	
+ui	ボアザン円盤	Boa Zan Disc	
+ui	デスラー	Desler	
+ui	オコゼニア	Okozenia	
+ui	ドリオン	Dorion	
+ui	トゲミサイル	Toge Missile	
+ui	守護神ゴードル	Guardian God Gourd	
+ui	神の炎	God's Flame	
+ui	神空剣	God Sky Sword	
+ui	スカールーク	Skull Luke	
+ui	大型ミサイル	Large Missile	
+ui	分子破壊砲	Molecular Disruptor	
+ui	超大型ドリル	Super Drill	
+ui	攻撃司令艦ザンタル	Attack Command Ship Zantarl	
+ui	ミサイル乱射	Missile Barrage	
+ui	重力砲	Gravity Cannon	
+ui	ダイモス	Daimos	
+ui	ダイモガン	Daimogon	
+ui	ファイブシューター	Five Shooter	
+ui	真空回し蹴り	Vacuum Spin Kick	
+ui	双竜剣	Twin Dragon Sword	
+ui	三竜棍	Triple Dragon Staff	
+ui	必殺烈風ダイモキック	Reppu Daimo Kick	
+ui	必殺烈風正拳突き	Straight Punch	
+ui	ダイモシャフト	Daimo Shaft	
+ui	必殺烈風正拳突き改	Straight Punch Kai	
+ui	ガルバーＦＸ㈲	Garuba FX Co.	
+ui	２０ミリバルカン	20mm Vulcan	
+ui	ズバンザー	Zubanzar	
+ui	アームキャノン	Arm Cannon	
+ui	アンカー	Anchor	
+ui	ダリ	Dari	
+ui	クライン	Klein	
+ui	亜空間キック	Subspace Kick	
+ui	亜空間ビーム	Subspace Beam	
+ui	ゾンネカイザー	Sonnen Kaiser	
+ui	スローランサー	Slow Lance	
+ui	巨大隠し腕	Giant Hidden Arm	
+ui	ギメリア	Gimeliah	
+ui	ムチ	Whip	
+ui	反アイザロン粒子砲	Anti-Ayzaron Particle	
+ui	ゴッドアーモン	God Ammon	
+ui	かみつき	Kamitsuki	
+ui	ガルンロール	Garun Roll	
+ui	コブラード	Cobraard	
+ui	フラッシュ	Flash	
+ui	ゴーショーグン	Go Shogun	
+ui	コスモビーム	Cosmo Beam	
+ui	レッドインパルサー	Red Impulse	
+ui	ホルスタービーム	Holster Beam	
+ui	ゴーサーベル	Go Saber	
+ui	ゴースティック	Go Stic	
+ui	スペースバズーカ	Space Bazooka	
+ui	ゴーフラッシャー	Go Flasher	
+ui	ゴーフラッシャースペシャル	Go Flasher Special	
+ui	グッドサンダー	Good Thunder	
+ui	対空機銃	Anti-Air	
+ui	ビーム砲	Beam Cannon	
+ui	インパクター	Impactor	
+ui	ドガーブ	Dogarub	
+ui	デビザー	Deviser	
+ui	触手	Tentacle	
+ui	ドスハード	Dos Hard	
+ui	ドスサーベル	Dos Saber	
+ui	ゴーナグール	Go Nagoul	
+ui	ナグールバズーカ	Nagoul Bazooka	
+ui	カットナル艦	Cut Nal Ship	
+ui	ホーミングミサイル	Homing Missile	
+ui	フラッシャービーム	Flasher Beam	
+ui	ケルナグール艦	Ker Nagoul Ship	
+ui	ブンドル艦	Bundel Ship	
+ui	中性子ミサイル	Neutron Missile	
+ui	ガイキング	Gaiking	
+ui	デスパーサイト	Death ParSite	
+ui	カウンターパンチ	Counter Punch	
+ui	パライザー	Paralyzer	
+ui	カウンタークロス	Counter Cross	
+ui	ザウルガイザー	Zauru Gaizer	
+ui	ハイドロブレイザー	Hydro Blazer	
+ui	ミラクルドリル	Miracle Drill	
+ui	超兵器ヘッド	Super Weapon Head	
 ui	火車カッター	Fire Train C	
+ui	大空魔竜	Great Sky Demon Dragon	
+ui	ドラゴンカッター	Dragon Cutter	
+ui	ビッグホーン	Big Horn	
+ui	大空魔竜（ボリューション）	Great Sky Demon Dragon (Solution)	
+ui	ジャイアントカッター	Juggernaut Cutter	
+ui	ヴォーグアイ	Vogue Eye	
 ui	翼竜スカイラー	Wing Dragon Skyray	
 ui	スカイラーミサイル	Skyray Missile	
 ui	スカイラービーム	Skyray Beam	
@@ -113683,26 +114577,20 @@ ui	ネッサーミサイル	Ness Missile
 ui	ネッサービーム	Ness Beam	
 ui	ネッサーファイヤー	Ness Fire	
 ui	レッドバロム	Red Barloom	
-ui	ビーム砲	Beam Cannon	
 ui	ブラックモンスター	Black Monster	
 ui	ブラックホールガス	Black Hole Gas	
-ui	破壊光線	Destructive	
 ui	カブトンガー	Kabutonger	
 ui	ヒップミサイル	Hip Missile	
 ui	サソリンガー	Sasoringer	
 ui	熱光線	Heat Ray	
 ui	大型ドリル	Large Drill	
 ui	デビルジャガー	Devil Jaguar	
-ui	火炎	Flame	
 ui	ジャガーサイクロン	Jaguar Cyclone	
 ui	ムーンコンドル	Moon Condor	
-ui	ミサイル	Missile	
 ui	コンドルカッター	Condor Cutter	
 ui	グロテクター	Glotector	
-ui	大型ミサイル	Large Missile	
 ui	デスクロス光線	Deskross Ray	
 ui	ダリウス大帝	Darius the	
-ui	超破壊光線	Ultra Destructive Ray	
 ui	暗黒大剣	Dark Great	
 ui	ガオガイガー	Gaugamore	
 ui	プラズマホールド	Plasma Hold	
@@ -113713,7 +114601,6 @@ ui	ハンマーヘルアンドヘヴン	Hammer Hell and Heaven
 ui	スターガオガイガー	Star Gaugamore	
 ui	ブロウクンファントム	Blowgun Phantom	
 ui	ガトリングドライバー	Gatling Driver	
-ui	ギャレオン	Galleon	
 ui	ギャレオンクロー	Galleon Claw	
 ui	ギャレオンファング	Galleon Fang	
 ui	ガイガー	Gaiger	
@@ -113724,16 +114611,13 @@ ui	ウィルナイフ	Will Knife
 ui	ステルスガオー	Stealth Gaoh	
 ui	ライナーガオー	Liner Gaoh	
 ui	ドリルガオー	Drill Gaoh	
-ui	氷竜	Ice Dragon	
 ui	クレーントンファー	Clyenten Fara	
 ui	フリージングガン	Freezing Gun	
 ui	フリージングライフル	Freezing Rifle	
 ui	ペンシルランチャー	Pencil Launcher	
-ui	炎竜	Flame Dragon	
 ui	ラダートンファー	Radatun Fara	
 ui	メルティングガン	Melting Gun	
 ui	メルティングライフル	Melting Rifle	
-ui	超竜神	Hyper Dragon	
 ui	ダブルトンファー	Double Tonfa	
 ui	ダブルガン	Double Gun	
 ui	一斉射撃	Massed Fire	
@@ -113748,8 +114632,6 @@ ui	大回転魔弾	Spin Magic Bul
 ui	超分身殺法	Hyper Clone Kill	
 ui	ガンドーベル	Gandover	
 ui	ガングルー	Gangloo	
-ui	ゴルディマーグ	Gordy Mag	
-ui	格闘	Hand-to-	
 ui	マーグキャノン	Mag Cannon	
 ui	ハンマーヘルアンドへヴン	Hammer Hell and Heaven	
 ui	ゴルディタンク	Gordy Tank	
@@ -113757,9 +114639,7 @@ ui	ＥＩ－０２	EI-02
 ui	冷凍砲	FreezingC	
 ui	荷電粒子砲	Charged Particle Cannon	
 ui	ＥＩ－０５	EI-05	
-ui	突撃	Assault	
 ui	ＥＩ－０７	EI-07	
-ui	触手	Tentacle	
 ui	ＥＩ－１５	EI-15	
 ui	ゾンダーマグナム	Zonder Magnum	
 ui	ゾンダーヘルアンドヘヴン	Zonder Hell and Heaven	
@@ -113767,33 +114647,26 @@ ui	ＥＩ－２０	EI-20
 ui	異常重力攻撃	Abnormal	
 ui	ＥＩ－２６	EI-26	
 ui	ＥＩ－２７	EI-27	
-ui	主砲	Main Gun	
 ui	ＥＩ－２８	EI-28	
 ui	ＥＩ－２９	EI-29	
 ui	ＥＩ－０１	EI-01	
 ui	ソニックブーム	Sonic Boom	
 ui	全方位レーザー攻撃	Omni-directional Laser Attack	
-ui	ユウ・ブレン	Yu Buren	
 ui	ブレンブレード	Buren Blade	
 ui	マイクロウェーブ発振器	Microwave Oscillator	
 ui	ソードエクステンション（射撃）	Sword Extension (Shooting)	
 ui	ソードエクステンション（斬撃）	Sword Extension (Sword)	
 ui	チャクラエクステンション	Chakra Extension	
-ui	ヒメ・ブレン	Hime Buren	
 ui	ブレンバー（射撃）	Buren Bar (Shooting)	
 ui	ブレンバー（斬撃）	Buren Bar (Sword)	
 ui	ナンガ・ブレン	Nanga Buren	
-ui	ミサイル・ランチャー	Missile Launcher	
-ui	ラッセ・ブレン	Rasse Buren	
-ui	ネリー・ブレン	Neri Buren	
-ui	ブレンチャイルド	Buren Child	
 ui	グランチャー	Grancher	
 ui	ブレードヒルト	Blade Hilt	
 ui	義手攻撃	Prosthetic Attack	
 ui	バロンズゥ	Baronzu	
 ui	チャクラ光	Chakra Light	
 ui	フィン	Fin	
-ui	グルンガスト参式	Grunnastor's Participation	
+ui	グルンガスト参式	Grunnastor's Participation	Grungust Type-3
 ui	アイソリッド・レーザー	Eye Solid Laser	
 ui	ドリル・ブーストナックル	Drill Boost Knuckle	
 ui	オメガ・ブラスター	Omega Blaster	
@@ -113804,29 +114677,28 @@ ui	ゼネラル・ブラスター	General Buster
 ui	斬艦刀・大車輪	Sankankato Daisharin	
 ui	斬艦刀・電光石火	Sankankato Denkoushikihaku	
 ui	斬艦刀・雷光斬り	Sankankato Raikoushari	
-ui	斬艦刀・雲燿の太刀		
+ui	斬艦刀・雲燿の太刀	Ship-Slicing Blade: Cloud Radiance Sword	
 ui	マガルガ	Magarga	
 ui	比咩舞	Hime Mai	
 ui	死反玉	Shi Han Tama	
 ui	黄泉舞	Yomi Mai	
-ui	龍人機		
+ui	龍人機	Dragon Human	
 ui	ファイヤー・ブレス	Fire Breath	
 ui	如意金箍棒	Ruyijin Gujubang	
 ui	爆雷符	Bakurei Fu	
 ui	龍王乱舞	Dragon King's Wild Dance	
-ui	龍王機		
-ui	龍虎王		
+ui	龍虎王	Dragon King	
 ui	ラスタバン・ビーム	Rastaban Beam	
 ui	マウンテン・プレッシャー	Mountain Pressure	
 ui	マグマ・ヴァサール	Magma Vasar	
-ui	龍王破山剣・逆鱗断		
-ui	龍王破山剣・天魔降伏斬		
-ui	虎龍王		
+ui	龍王破山剣・逆鱗断	Dragon King Mountain Breaking Sword Reverse Scale Cut	
+ui	龍王破山剣・天魔降伏斬	Dragon King Mountain Breaking Sword Heaven Demon Subjugation Slash	
+ui	虎龍王	Tiger Dragon	
 ui	タイガー・ナックル	Tiger Nackle	
 ui	ランダム・スパイク	Random Spike	
 ui	ソニック・ジャベリン	Sonic Jabberin	
 ui	タイラント・オーバー・ブレイク	Tyrant Over Break	
-ui	虎王機		
+ui	虎王機	Tiger King	
 ui	ファング・ミサイル	Fang Missile	
 ui	タイガー・ファング	Tiger Fang	
 ui	ヒュッケバインＭｋ－㈹	Hyukkebain Mk-9	
@@ -113864,20 +114736,14 @@ ui	ハイペリオン	Hyperion
 ui	ツインＧＧキャノン	Twin GG Cannon	
 ui	ＣＴＭ－０７プロミネンスＷ	CTM-07 Prominence W	
 ui	Ｇドライバー・Ｘコンビネーション	G Driver X Combination	
-ui	？？？	???	
 ui	テヒラー・レイ	Teihlarei	
 ui	ファイア・ツィポール	Fire Tsipor	
-ui	カナフ	Kanaf	
 ui	カリーシュ・ダイヴ	Karyushu Dive	
-ui	ケレン	Keren	
 ui	サンダー・ラアム	Sandar Ramm	
 ui	シャイニング・ツァアク	Shining Tszaak	
-ui	ザナヴ	Zanav	
-ui	ガンエデン	Gan Eden	
 ui	エデン・ゴラー	Eden Golar	
 ui	マヴェット・ゴスペル	Mavett Gospel	
 ui	フォロー・ザ・サン	Follow the Sun	
-ui	核ミサイル	Nuclear Missile	
 ui	発電衛星	Power Satellite	
 ui	ビルドベース	Build Base	
 ui	ミサイル砲台	Missile Battery	
@@ -113891,10 +114757,6 @@ ui	青球	Blue Ball
 ui	赤球	Red Ball	
 ui	光球	Light Ball	
 ui	輸送シャトル	Transport Shuttle	
-ui	ゲッターライガー	Getter Riger	
-ui	ライガーミサイル	Riger Missile	
-ui	ドリルアーム	Drill Arm	
-ui	チェーンアタック	Chain Attack	
 ui	予備（味方）	Reserve (Ally)	
 ui	カナフ・アフ	Kanaf Af	
 ui	ケレン・アフ	Keren Af	
@@ -113910,12 +114772,9 @@ ui	"ゲームデータのセーブを終了しました。
 Continue playing?
 "	
 ui	：リストから選択	:Select from list	
-ui	錺鎭鏐鐫鑞ﾈﾈﾈﾒﾘﾈﾘﾒ		
 ui	第２次スーパーロボット大戦αシステムデータ	Second Super Robot Wars Alpha System Data	
-ui	孩忤孩Zsｬ9		
 ui	"忤孩{w
 "		
-ui	孕忤ｼwｽ{ﾞ{V		
 ui	ｑ㊧居|		
 ui	漁惣艶		
 ui	"剛胆な性格で、自分の信念を貫く武人。義を重んじ、
@@ -113938,8 +114797,8 @@ ui	"一本気で勝ち気な性格。宇宙パイロットを目指して
 傷を負っている。"	"Stubborn and determined. Aimed to be a
 space pilot but failed due to an accident
 and carries a wound in his heart."	
-ui	劔劔匯?囮劔劔ｹ?		
-ui	０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ／－（）		
+ui	劔劔匯?		
+ui	０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ／－（）	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ/-(())	
 ui	"エラー : %s<%d>
 "	"Error : %s<%d>
 "	
@@ -114137,7 +114996,7 @@ ui	超弾性金属	Hyperelastic Metal
 ui	ビームコート	Beam Coat	
 ui	ＡＢＣマント	ABC Cloak	
 ui	Ｉフィールド	I Field	
-ui	Ｉフィールド△		
+ui	Ｉフィールド△	I-Field Delta	
 ui	ＩフィールドＸ３	I Field X3	
 ui	プロテクトシェード	Protect Shade	
 ui	ゾンダーバリア	Zonder Barrier	
@@ -114206,8 +115065,8 @@ ui	"自小隊、または隣接小隊の全機体のＨＰを回復させる。
 Also, all squad units gain HP recovery."	
 ui	自分のフェイズ開始時にＨＰが一定の割合回復する。	HP recovers a fixed percentage at start of own phase.	
 ui	自分のフェイズ開始時にＥＮが一定の割合回復する。	EN recovers a fixed percentage at start of own phase.	
-ui	ー		
-ui	ーー		
+ui	ー	-	
+ui	ーー	--	
 ui	切り払い	Parry	
 ui	"実弾兵器を切り払い
 ダメージを０にする。"	"Disables ballistic weapons
@@ -114340,7 +115199,7 @@ ui	"１ターンの間、敵の攻撃によるダメージを
 ui	集中	Focus	
 ui	集	Gather	
 ui	１ターンの間、命中率と回避率が３０％ＵＰ。	Accuracy and evasion increase 30% for 1 turn.	
-ui	必中	Sure Hit	
+ui	必中	Sure Hit	Strike
 ui	必	Must	
 ui	１ターンの間、命中率が１００％になる。	Accuracy becomes 100% for one turn.	
 ui	感応	Sensitivity	
@@ -114414,15 +115273,7 @@ ui	"指定した味方小隊の次の戦闘で
 得られる経験値を２倍にする。"	"Double experience gained by specified allied squad in next battle.
 "	
 ui	？	?	
-ui	アイビス	Ibis	
-ui	ダグラス	Douglas	
 ui	ナンバーズ	Numbers	
-ui	ゼンガー	Sanger	
-ui	ゾンボルト	Zonbolt	
-ui	クスハ	Kusha	
-ui	ミズハ	Mizha	
-ui	アラド	Arado	
-ui	バランガ	Baranga	
 ui	０１ａ	01a	
 ui	悪を断つ剣なり	The sword that cuts off evil	
 ui	０２ａ	02a	
@@ -114584,7 +115435,6 @@ ui	ロンデニオン強襲	Rondelion Assault
 ui	５２ａ	52a	
 ui	シャアズ・ビリービング・アワズプレイ	Shaa's Believing Awzplay	
 ui	５３ａ	53a	
-ui	リクレイマー	Reclaimer	
 ui	５４ａ	54a	
 ui	謎のエネルギー、ビムラー	Mysterious Energy, Vimlra	
 ui	５５ａ	55a	
@@ -114952,7 +115802,6 @@ ui	"Ａ２＿ＢＰＤ＿２
 ui	"Ａ２＿ＢＰＤ＿３
 "	"A2_BPD_3
 "	
-ui	コン・バトラーＶ	Con Battler V	
 ui	"Ａ２＿ＤＡＩ＿０
 闘将ダイモス"	"A2_DAI_0
 Dai Mos"	
@@ -115250,9 +116099,9 @@ ui	ＥＮ	EN
 ui	Ｌｖ	Lv	
 ui	気力	Morale	
 ui	ＨＰ／ＭＡＸ	HP/MAX	
-ui	ＨＰ・ＥＮ		
+ui	ＨＰ・ＥＮ	HP-EN	
 ui	パイロット	Pilot	
-ui	パイロット・Ｌｖ・気力		
+ui	パイロット・Ｌｖ・気力	Pilot Lv. Stamina	
 ui	修理	Repair	
 ui	援攻	Support Attack	
 ui	援防	Support Defense	
@@ -115329,18 +116178,18 @@ ui	変形する機体を選んで下さい。	Choose the unit to transform.
 ui	変形形態を選んで下さい。	Select transformation mode.	
 ui	換装する機体を選んで下さい。	Select unit to change.	
 ui	換装形態を選んで下さい。	Select transformation mode.	
-ui	「はい」の状態で○ボタンを押すと、ターンを終了します。		
+ui	「はい」の状態で○ボタンを押すと、ターンを終了します。	「Yes」 state, press Circle to end turn.	
 ui	上下で項目を設定し、左右で設定の切り換えを行います。	Set item with up/down, switch settings with left/right.	
-ui	攻撃範囲内にカーソルを合わせて、○ボタンで発射。		
-ui	発射する方向を選んで、○ボタンで発射。		
-ui	着弾の中心点を選んで、○ボタンで範囲決定。		
-ui	攻撃する方向をにカーソルを合わせて、○ボタンで決定。		
+ui	攻撃範囲内にカーソルを合わせて、○ボタンで発射。	Move cursor to attack range, press Circle to fire.	
+ui	発射する方向を選んで、○ボタンで発射。	Choose direction, press Circle to fire.	
+ui	着弾の中心点を選んで、○ボタンで範囲決定。	Select impact center, press Circle to set range.	
+ui	攻撃する方向をにカーソルを合わせて、○ボタンで決定。	Choose attack direction.	
 ui	小隊の移動可能な範囲です。	Squad movement range.	
 ui	合体させるユニットを選択して下さい。	Select units to combine.	
 ui	分離させるユニットを選択して下さい。	Select units to separate.	
 ui	現在このコマンドは使用できません。	This command is currently unavailable.	
 ui	終了	End	
-ui	『%s』%s		
+ui	『%s』%s	%s %s	
 ui	％	%	
 ui	命	Life	
 ui	－小隊攻撃不可－	-No Squad Attack-	
@@ -115353,8 +116202,8 @@ ui	命中率	Accuracy
 ui	－－－－－－	------	
 ui	－－－－－	-----	
 ui	反撃不可能	No Counterattack	
-ui	防御	Defense	
-ui	回避	Evasion	
+ui	防御	Defense	Def.
+ui	回避	Evasion	Evade
 ui	－－－－	----	
 ui	小隊攻撃	Squad Attack	
 ui	機	Machine	
@@ -115409,28 +116258,28 @@ ui	パイロット能力	Pilot Skills
 ui	機体能力	Unit Stats	
 ui	ユニット能力	Unit Abilities	
 ui	コスト	Cost	
-ui	運動性	Mobility	
+ui	運動性	Mobility	Agil.
 ui	装甲値	Armor	
-ui	修理費	Repair Cost	
-ui	移動力	Movement	
+ui	修理費	Repair Cost	Repair
+ui	移動力	Movement	Move
 ui	タイプ	Type	
 ui	サイズ	Size	
-ui	地形	Terrain	
+ui	地形	Terrain	Terr.
 ui	レベル	Level	
 ui	ＰＰ	PP	
 ui	ＳＰ	SP	
 ui	ＮＥＸＴ	NEXT	
 ui	未搭乗	Not Ridden	
 ui	Ｄ	D	
-ui	特殊能力	Special Ability	
+ui	特殊能力	Special Ability	Abilities
 ui	強化パーツ	Upgrade Parts	
 ui	特殊技能	Special Skill	
-ui	精神コマンド	Mind Command	
+ui	精神コマンド	Mind Command	Mind Cmd
 ui	次のレベルまで	Next Level	
-ui	経験値	Experience	
+ui	経験値	Experience	EXP
 ui	撃墜数	Downed	
 ui	小隊長能力	Squad Leader	
-ui	射撃	Shooting	
+ui	射撃	Shooting	Ranged
 ui	技量	Skill	
 ui	ビーム武器	Beam Weapon	
 ui	移動後使用可能／ビーム武器	Usable after move / Beam Weapon	
@@ -115637,8 +116486,8 @@ ui	熟練度ポイントを獲得しました。	Earned experience points.
 ui	全味方パイロットにＰＰ＋５。	All allied pilots +5 PP.	
 ui	窓焉@%s』を入手した		
 ui	『%s』を入手した	Acquired %s	
-ui	『%s×２』を入手した		
-ui	『%s×３』を入手した		
+ui	『%s×２』を入手した	Obtained %s x2	
+ui	『%s×３』を入手した	Obtained %s x3	
 ui	撃墜ユニット清算	Destroy unit settlement	
 ui	ユニット	Unit	
 ui	小隊編成	Squad formation	
@@ -115666,7 +116515,7 @@ ui	小隊移動力／タイプ	Squad mobility / type
 ui	－－－－－－－－－－－－－－－	---------------	
 ui	編入機体選択	Select assignment unit	
 ui	移動タイプ	Movement type	
-ui	パイロット・Ｌｖ		
+ui	パイロット・Ｌｖ	Pilot Lv	
 ui	運動	Mobility	
 ui	性能１	Performance 1	
 ui	装甲	Armor	
@@ -115741,17 +116590,21 @@ After unit is destroyed"
 ui	機体の移動力です。	Unit movement	
 ui	"機体の移動タイプです。
 表示されている地形上では
-移動しやすくなります。"		
+移動しやすくなります。"	"Movement type.
+Easier to move on
+displayed terrain."	
 ui	"機体のサイズです。
 攻撃相手とのサイズ差によって
-ダメージや命中率に影響を与えます。"		
+ダメージや命中率に影響を与えます。"	"Size.
+Size difference affects
+damage and hit rate."	
 ui	"機体とパイロットの総合的な地形適応です。
 Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Terrain adapt
 5 levels affect accuracy and evasion"	
-ui	地形「空」に対する適応です。		
-ui	地形「陸」に対する適応です。		
-ui	地形「海」に対する適応です。		
-ui	地形「宇宙」に対する適応です。		
+ui	地形「空」に対する適応です。	Terrain「Air」 adaptation.	
+ui	地形「陸」に対する適応です。	「Land」 adaptation.	
+ui	地形「海」に対する適応です。	Terrain「Sea」 adaptation.	
+ui	地形「宇宙」に対する適応です。	「Space」 adaptation.	
 ui	パイロットのレベルです。	Pilot level	
 ui	"パイロットの気力です。
 攻撃力や防御力、武器の使用に影響を与えます。"	"Pilot morale
@@ -115812,35 +116665,48 @@ ui	"小隊長となった場合、
 その小隊が得られる能力です。"	"When leader, unit's abilities.
 "	
 ui	"パイロットの格闘能力です。
-格闘武器を使用する際の攻撃力に影響を与えます。"		
+格闘武器を使用する際の攻撃力に影響を与えます。"	"Pilot's hand-to-hand combat ability.
+Affects attack power when using hand-to-hand weapons."	
 ui	"パイロットの射撃能力です。
-射撃武器を使用する際の攻撃力に影響を与えます。"		
+射撃武器を使用する際の攻撃力に影響を与えます。"	"Pilot's shooting ability.
+Affects attack power when using shooting weapons."	
 ui	"パイロットの技量です。
-クリティカルの発生率に影響を与えます。"		
+クリティカルの発生率に影響を与えます。"	"Pilot's skill.
+Affects critical hit chance."	
 ui	"パイロットの防御能力です。
-防御力に影響を与えます。"		
+防御力に影響を与えます。"	"Pilot's defense ability.
+Affects defense."	
 ui	"パイロットの回避能力です。
-回避率に影響を与えます。"		
+回避率に影響を与えます。"	"Pilot's evasion ability.
+Affects evasion rate."	
 ui	"パイロットの命中能力です。
-命中率に影響を与えます。"		
+命中率に影響を与えます。"	"Pilot's accuracy ability.
+Affects accuracy."	
 ui	武器の名称です。	Weapon name.	
 ui	"武器の属性です。
-「Ｐ」は移動後使用可能、「Ｂ」はビーム兵器を意味します。"		
+「Ｐ」は移動後使用可能、「Ｂ」はビーム兵器を意味します。"	"Weapon attribute.
+「P」 usable after moving,「B」 means beam weapon."	
 ui	"武器の種別です。「ＰＬＡ」は小隊攻撃用、「ＡＬＬ」は全体攻撃用を
-意味します。"		
+意味します。"	"Weapon type: 「PLA」 squad, 「ALL」 area.
+"	
 ui	"武器の攻撃力です。
-数値が高いほど大ダメージを与えます。"		
+数値が高いほど大ダメージを与えます。"	"Weapon attack power.
+Higher values deal more damage."	
 ui	武器の射程です。	Weapon range.	
 ui	武器の命中補正です。	Weapon accuracy bonus.	
 ui	"武器の弾数です。
-残弾数／総弾数が表示されます。"		
+残弾数／総弾数が表示されます。"	"Weapon ammo count.
+Displays remaining/total ammo."	
 ui	"武器の消費エネルギーです。
-カッコ内の数値は機体の残エネルギーです。"		
+カッコ内の数値は機体の残エネルギーです。"	"Weapon energy cost.
+Value in parentheses is remaining energy."	
 ui	"武器を使用する際に必要とされる気力の下限です。
-カッコ内の数値は、現在のパイロットの気力です。"		
+カッコ内の数値は、現在のパイロットの気力です。"	"Minimum morale required to use weapons.
+Number in parentheses shows current pilot's morale."	
 ui	武器のクリティカル発生率の補正です。	Critical hit chance adjustment.	
 ui	"武器の地形適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、与えるダメージに影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、与えるダメージに影響を与えます。"	"Weapon terrain adaptability.
+5 levels (S-A-B-C-D) affect damage."	
 ui	武器を使用する際に必要とされる技能とレベルです。	Required skill and level to use weapon.	
 ui	武器の属性です。	Weapon attribute.	
 ui	武器の種別です。	Weapon type.	
@@ -115872,18 +116738,21 @@ ui	小隊を構成しているパイロットレベルです。	Pilot levels in 
 ui	小隊を構成しているパイロットのレベルです。	Pilot levels in squad.	
 ui	小隊の移動力です。	Squad mobility.	
 ui	"地形「空」に対する小隊の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
+文字の色が濃いほど、その地形を得意とします。"	"Terrain 「air」 mobility for squad.
+Darker text means better adaptability."	
 ui	"地形「陸」に対する小隊の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
+文字の色が濃いほど、その地形を得意とします。"	"Terrain 「land」 mobility for squad.
+Darker text means better adaptability."	
 ui	"地形「水」に対する小隊の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
-ui	小隊内の「修理装置」の有無を表示します。		
-ui	小隊内の「補給装置」の有無を表示します。		
+文字の色が濃いほど、その地形を得意とします。"	"Terrain 「water」 mobility for squad.
+Darker text means better adaptability."	
+ui	小隊内の「修理装置」の有無を表示します。	Displays「repair」 device presence.	
+ui	小隊内の「補給装置」の有無を表示します。	Displays「supply」 device presence.	
 ui	小隊内の特殊技能「援護攻撃」の最大レベルを表示します。	「Support Attack」.	
 ui	小隊内の特殊技能「援護防御」の最大レベルを表示します。	「Support Defense」.	
-ui	精神コマンドを所持するパイロットの所属する小隊です。		
-ui	精神コマンドを所持するパイロットです。		
-ui	精神コマンドを使用する際、消費する精神ポイントです。		
+ui	精神コマンドを所持するパイロットの所属する小隊です。	Squad of pilots with mental commands.	
+ui	精神コマンドを所持するパイロットです。	Pilot with a mental command.	
+ui	精神コマンドを使用する際、消費する精神ポイントです。	Mental points consumed when using a mental command.	
 ui	"パイロットの精神ポイントです。
 現在の精神ポイント／最大精神ポイントで表示されます。"	"Pilot's mental points.
 Current / Max displayed."	
@@ -115891,9 +116760,9 @@ ui	パイロットが搭乗している機体です。	Unit piloted by the pilot
 ui	特殊技能を所持するパイロットの所属する小隊です。	Squad containing pilots with special skills.	
 ui	特殊技能を所持するパイロットです。	Pilot with special skills.	
 ui	特殊技能のレベルです。	Level of special skill.	
-ui	特殊能力を所持する機体の所属する小隊です。		
-ui	特殊能力を所持する機体です。		
-ui	特殊能力の効果を表示します。		
+ui	特殊能力を所持する機体の所属する小隊です。	Squad of units with special abilities.	
+ui	特殊能力を所持する機体です。	Units with special abilities.	
+ui	特殊能力の効果を表示します。	Displays special ability effects.	
 ui	機体に搭乗しているパイロットです。	Pilot piloting the unit.	
 ui	残り援護回数／最大援護回数が表示されます。	Remaining / Max support uses displayed.	
 ui	機体の名称です。	Unit's name.	
@@ -115906,19 +116775,26 @@ ui	"機体の装甲です。
 防御力に影響を与えます。"	"Unit's armor.
 Affects defense."	
 ui	"地形「空」に対する機体の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
+文字の色が濃いほど、その地形を得意とします。"	"Movement traits for terrain 「air」.
+Darker text means better performance."	
 ui	"地形「陸」に対する機体の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
+文字の色が濃いほど、その地形を得意とします。"	"Movement traits for terrain 「land」.
+Darker text means better performance."	
 ui	"地形「水」に対する機体の移動特性です。
-文字の色が濃いほど、その地形を得意とします。"		
+文字の色が濃いほど、その地形を得意とします。"	"Movement traits for terrain 「water」.
+Darker text means better performance."	
 ui	"地形「空」に対する機体とパイロットの総合的な適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Combined 「Air」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「陸」に対する機体とパイロットの総合的な適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Combined 「Land」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「海」に対する機体とパイロットの総合的な適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Combined 「Sea」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「宇宙」に対する機体とパイロットの総合的な適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Combined 「Space」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"小隊攻撃・全体攻撃以外の武器の最大射程が
 表示されます。"	"Max range of weapons other than squad and area attacks is
 displayed."	
@@ -115937,26 +116813,26 @@ ui	小隊の隊長機体です。	Squad leader's unit.
 ui	小隊を構成するユニットです。	Units composing the squad.	
 ui	小隊のコストの合計を表示します。	Total squad cost displayed.	
 ui	機体の搭乗パイロットの数です。	Number of pilots in the unit.	
-ui	機体の搭乗パイロットの精神コマンドです。		
+ui	機体の搭乗パイロットの精神コマンドです。	Pilot's mental command.	
 ui	機体の搭乗パイロットのレベルです。	Level of pilot in the unit.	
 ui	機体の搭乗パイロットの精神ポイントです。	Pilot's mental points in the unit.	
 ui	パイロットの名称です。	Pilot's name.	
 ui	パイロットの所属している小隊のナンバーです。	Squad number pilot belongs to.	
 ui	特殊技能「切り払い」のレベルを表示します。	「Cut」 displayed.	
-ui	特殊技能「シールド防御」のレベルを表示します。		
+ui	特殊技能「シールド防御」のレベルを表示します。	Shield defense「level」.	
 ui	特殊技能「指揮官」のレベルを表示します。	「Commander」 displayed.	
 ui	特殊技能「カウンター」のレベルを表示します。	「Counter」 displayed.	
 ui	特殊技能「底力」のレベルを表示します。	「Reserve」 displayed.	
 ui	特殊技能「ＳＰ回復」の有無を表示します。	「SP Recovery」 displayed.	
 ui	特殊技能「強運」の有無を表示します。	「Luck」 displayed.	
-ui	パイロットの所持しているパイロットポイントです。		
+ui	パイロットの所持しているパイロットポイントです。	Pilot's held pilot points.	
 ui	パイロットの搭乗している機体です。	Unit piloted by the pilot.	
 ui	"パイロットポイント。
 
 敵を倒すことで入手し、パイロット養成に使用します。"	"Pilot points.
 
 Earned by defeating enemies, used for training."	
-ui	パイロットが所持しているパイロットポイントです。		
+ui	パイロットが所持しているパイロットポイントです。	Pilot's held pilot points.	
 ui	養成するために必要なパイロットポイントです。	Pilot points needed for training.	
 ui	所持値から必要値を引いた残りのパイロットポイントです。	Remaining pilot points after subtracting needed from held.	
 ui	上昇させたい能力の値です。	The value of the ability to increase.	
@@ -115975,13 +116851,17 @@ ui	"パイロットの回避力の変化を表示します。
 Upper shows new combo value,
 lower shows previous combo value."	
 ui	"地形「空」に対する適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"「Air」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「陸」に対する適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"「Land」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「海」に対する適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"「Sea」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「宇宙」に対する適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"「Space」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	現在のヒットポイントの改造段階が表示されます。	Displays current hit point modification stage.	
 ui	現在のエネルギーの改造段階が表示されます。	Displays current energy modification stage.	
 ui	現在の運動性の改造段階が表示されます。	Displays current mobility modification stage.	
@@ -116004,13 +116884,17 @@ ui	"強化パーツを装備できる数を表示します。
 パーツを装備すると、アイコンが点灯します。"	"Number of upgrade parts equipable displayed.
 Parts equipped light up icons."	
 ui	"地形「空」に対する機体の適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Unit 「Air」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「陸」に対する機体の適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Unit 「Land」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「海」に対する機体の適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Unit 「Sea」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	"地形「宇宙」に対する機体の適応です。
-Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"		
+Ｓ・Ａ・Ｂ・Ｃ・Ｄの５段階があり、命中率・回避率に影響を与えます。"	"Unit 「Space」 rating.
+S-A-B-C-D affects hit/evade."	
 ui	現在装備している強化パーツが表示されます。	Displays currently equipped upgrade parts.	
 ui	機体の移動力	Unit mobility	
 ui	所持している強化パーツのリストです。	List of owned upgrade parts.	
@@ -116192,9 +117076,6 @@ ui	"防御技能の発生確率を
 １．５倍。"	"Defense skill probability
 1.5x."	
 ui	切り払いの発生確率＋２０％。	Parry chance +20%.	
-ui	甲児	Koji	
-ui	さやか	Sayaka	
-ui	ボス	Boss	
 ui	宇宙海賊２	Space Pirate 2	
 ui	トビア	Tobia	
 ui	テストＡ	Test A	
@@ -116277,9 +117158,6 @@ ui	「陸」属性地形における戦闘時の、	「Land」terrain battle,
 ui	「海」属性地形における戦闘時の、	「Sea」terrain battle,	
 ui	「宇」属性地形における戦闘時の、	「Space」terrain battle,	
 ui	オープニング	Opening	
-ui	ガイキング	Gaiking	
-ui	ジーグ	Zieg	
-ui	ダイモス	Daimos	
 ui	エピローグ	Epilogue	
 ui	Ｇディフェンサー	G Defender	
 ui	アトミックバズーカ	Atomic Bazooka	
@@ -116289,17 +117167,23 @@ ui	ＡＢＣマント（Ｘ１）	ABC Cloak (X1)
 ui	ＡＢＣマント（Ｘ２）	ABC Cloak (X2)	
 ui	ステルスガオーⅡ	Stealth Gao II	
 ui	ガンロボット	Gun Robot	
-ui	フィン・ファンネル	Fin Fannel	
 ui	メモリーカード（ＰＳ２）をチェックしています。	Checking Memory Card (PS2).	
 ui	"ＣＡＲＤ差込口１に、
 メモリーカード（ＰＳ２）が差し込まれていません。
 ゲームの内容をセーブするには、
 ２６２ＫＢ以上空きのある
-メモリーカード（ＰＳ２）が必要です。"		
+メモリーカード（ＰＳ２）が必要です。"	"
+No memory card (PS2) in slot 1.
+To save game data,
+use a memory card (PS2) with
+at least 262KB free."	
 ui	"メモリーカード（ＰＳ２）が
 フォーマットされていません。
 フォーマットをしますか？
-"		
+"	"Memory card
+not formatted.
+Format
+now?"	
 ui	メモリーカード（ＰＳ２）が差し替えられました。	Memory Card (PS2) has been changed.	
 ui	"メモリーカード（ＰＳ２）をフォーマット中です。
 メモリーカード（ＰＳ２）を抜いたり、
@@ -116311,7 +117195,9 @@ ui	システムファイルをチェックしています。	Checking system fil
 ui	システムファイルの取得に失敗しました。	Failed to retrieve system files.	
 ui	"システムファイルがありません。
 新規作成しますか？
-"		
+"	"No system files.
+Create
+new?"	
 ui	"ファイルをセーブしています。
 メモリーカード（ＰＳ２）を抜いたり、
 電源を切らないで下さい。"	"Saving file.
@@ -116329,11 +117215,17 @@ ui	ファイルが破損しています。	File is damaged.
 ui	"空き容量が不足しています。
 ゲームの内容をセーブするには、
 ２６２ＫＢ以上空きのある
-メモリーカード（ＰＳ２）が必要です。"		
+メモリーカード（ＰＳ２）が必要です。"	"Not enough space.
+To save game, need
+memory card
+with at least 262KB free."	
 ui	"空き容量が不足しています。
 ステージの内容をセーブするには、
 ８３ＫＢ以上空きのある
-メモリーカード（ＰＳ２）が必要です。"		
+メモリーカード（ＰＳ２）が必要です。"	"Not enough space.
+To save stage, need
+memory card
+with at least 83KB free."	
 ui	"ＣＡＲＤ差込口１に、
 メモリーカード（ＰＳ２）が差し込まれていません。"	"Slot 1 has no
 Memory Card (PS2)."	
@@ -116678,10 +117570,7 @@ ui	機動戦士ガンダムＦ９１	Mobile Suit Gundam F91
 ui	機動戦士クロスボーン・ガンダム	Mobile Suit Crossbone Gundam	
 ui	唐刀@Ｗａｌｔｚ	Tangdao Waltz	
 ui	無敵鋼人ダイターン３	Invincible Steel Man Daitarn 3	
-ui	マジンガーＺ	Mazinger Z	
-ui	グレートマジンガー	Great Mazinger	
 ui	ゲッターロボ・ゲッターロボＧ	Getter Robo Getter Robo G	
-ui	鋼鉄ジーグ	Steel Jeeg	
 ui	刀@ボルテスⅤ	Katana Boltes V	
 ui	戦国魔神ゴーショーグン	Samurai God Go Shogun	
 ui	ブレンパワード	Bren Powered	
@@ -116829,7 +117718,7 @@ ui	ＤＥＳＴＩＮＹ	DESTINY
 ui	ＩＭＰＲＥＳＳＩＯＮ	IMPRESSION	
 ui	クロスボーン・ガンダム	Crossbone Gundam	
 ui	ＤＲＥＡＭ	DREAM	
-ui	Ｖｅｒ．α２		
+ui	Ｖｅｒ．α２	Ver. Alpha 2	
 ui	ＦＥＬＬＯＷＳＨＩＰ	FELLOWSHIP	
 ui	剣よ集え	Sword, gather	
 ui	百機夜行	Night of a Hundred Machines	
@@ -116843,7 +117732,6 @@ ui	忌むべき訪問者	Unwanted visitor
 ui	ＮＵＭＢＥＲＳ	NUMBERS	
 ui	ＦＲＥＥ	FREE	
 ui	ＯＶＥＲ	OVER	
-ui	マジンカイザー	Majin Kaiser	
 ui	バトルターン	Battle Turn	
 ui	美しき青きドナウ	Beautiful Blue Danube	
 ui	艦隊戦	Fleet Battle	
@@ -116858,7 +117746,7 @@ ui	ファイナル・フュージョン	Final Fusion
 ui	ディバイディング・ドライバー	Dividing Driver	
 ui	ヘル＆ヘブン	Hell & Heaven	
 ui	ゴルディオンハンマー	Gordian Hammer	
-ui	窒盾浮獅п@Ｚｅｒｏ	Nishiten Ushio Zero	
+ui	窒盾浮獅п@Ｚｅｒｏ		
 ui	Ｅｐｈｅｍｅｒａ	Ephemera	
 ui	悪を断つ剣	Sword to cut evil	
 ui	剣・魂・一・擲	Sword, Soul, One, Throw	

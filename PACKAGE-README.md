@@ -33,7 +33,8 @@ marked `runtime-address-required` in `data/title-occurrences.tsv` are not yet
 inserted by the builder; they require a PCSX2 memory capture while displayed.
 
 `patches/SLPS-25228-English-current.xdelta` directly recreates the current
-tested build without spreadsheet edits.
+structurally verified release candidate without spreadsheet edits. Gameplay
+testing in PCSX2 is still encouraged before treating a checkpoint as final.
 The spreadsheet builder uses the gameplay-tested overlay-local pointer-swap
 method. It fits additional scenario translations by reassigning confirmed
 pointers among differently sized slots inside the same overlay. Executable UI

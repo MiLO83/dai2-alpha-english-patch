@@ -12,7 +12,6 @@ Japanese/retail	,	2C
 Japanese/retail	1	31			
 Japanese/retail	3	33			
 Japanese/retail	8	38			
-Japanese/retail	9	39			
 Japanese/retail	:	3A			
 Japanese/retail	<	3C			
 Japanese/retail	>	3E			
@@ -23,8 +22,6 @@ Japanese/retail	F	46
 Japanese/retail	M	4D			
 Japanese/retail	P	50			
 Japanese/retail	T	54			
-Japanese/retail	V	56			
-Japanese/retail	Z	5A			
 Japanese/retail	_	5F			
 Japanese/retail	a	61			
 Japanese/retail	c	63			
@@ -61,6 +58,7 @@ Japanese/retail	Ⅱ	8755			0x0495
 Japanese/retail	Ⅲ	8756			0x0496
 Japanese/retail	Ⅳ	8757			0x0497
 Japanese/retail	Ⅴ	8758			0x0498
+Japanese/retail	←	81A9			0x0069
 Japanese/retail	△	81A2			0x0062
 Japanese/retail	○	819B			0x005B
 Japanese/retail	♪	81F4			0x00B4
@@ -228,12 +226,14 @@ Japanese/retail	ル	838B			0x01CB
 Japanese/retail	レ	838C			0x01CC
 Japanese/retail	ロ	838D			0x01CD
 Japanese/retail	ワ	838F			0x01CF
+Japanese/retail	ヰ	8390			0x01D0
 Japanese/retail	ヲ	8392			0x01D2
 Japanese/retail	ン	8393			0x01D3
 Japanese/retail	ヴ	8394			0x01D4
 Japanese/retail	ヶ	8396			0x01D6
 Japanese/retail	・	8145			0x0005
 Japanese/retail	ー	815B			0x001B
+Japanese/retail	㈲	878B			0x04CB
 Japanese/retail	㈹	878C			0x04CC
 Japanese/retail	㊧	8788			0x04C8
 Japanese/retail	一	88EA			0x05EA
@@ -256,6 +256,7 @@ Japanese/retail	丸	8ADB			0x075B
 Japanese/retail	主	8EE5			0x0A65
 Japanese/retail	丼	98A5			
 Japanese/retail	久	8B76			0x07B6
+Japanese/retail	之	9456			0x0E56
 Japanese/retail	乏	9652			0x0FD2
 Japanese/retail	乗	8FE6			0x0B26
 Japanese/retail	乙	89B3			0x0673
@@ -428,6 +429,7 @@ Japanese/retail	刻	8D8F			0x094F
 Japanese/retail	則	91A5			0x0C65
 Japanese/retail	削	8DED			0x09AD
 Japanese/retail	前	914F			0x0C0F
+Japanese/retail	剔	9991			
 Japanese/retail	剛	8D84			0x0944
 Japanese/retail	剣	8C95			0x0895
 Japanese/retail	剤	8DDC			0x099C
@@ -562,6 +564,7 @@ Japanese/retail	喝	8A85			0x0705
 Japanese/retail	喧	8C96			0x0896
 Japanese/retail	喪	9172			0x0C32
 Japanese/retail	喫	8B69			0x07A9
+Japanese/retail	喬	8BAA			0x07EA
 Japanese/retail	営	8963			0x0623
 Japanese/retail	嗟	9A6C			
 Japanese/retail	嘆	9251			0x0CD1
@@ -679,7 +682,6 @@ Japanese/retail	嫌	8C99			0x0899
 Japanese/retail	嬉	8AF0			0x0770
 Japanese/retail	嬢	8FEC			0x0B2C
 Japanese/retail	子	8E71			0x09F1
-Japanese/retail	孕	9B73			
 Japanese/retail	字	8E9A			0x0A1A
 Japanese/retail	存	91B6			0x0C76
 Japanese/retail	孝	8D46			0x0906
@@ -818,6 +820,7 @@ Japanese/retail	弓	8B7C			0x07BC
 Japanese/retail	弔	92A2			0x0D22
 Japanese/retail	引	88F8			0x05F8
 Japanese/retail	弟	92ED			0x0D6D
+Japanese/retail	弦	8CB7			0x08B7
 Japanese/retail	弱	8EE3			0x0A63
 Japanese/retail	張	92A3			0x0D23
 Japanese/retail	強	8BAD			0x07ED
@@ -1150,6 +1153,7 @@ Japanese/retail	梁	97C0			0x1100
 Japanese/retail	梅	947E			0x0E7E
 Japanese/retail	械	8A42			0x06C2
 Japanese/retail	棄	8AFC			0x077C
+Japanese/retail	棍	9E9E			
 Japanese/retail	棒	965F			0x0FDF
 Japanese/retail	棚	9249			0x0CC9
 Japanese/retail	森	9058			0x0B58
@@ -1241,6 +1245,7 @@ Japanese/retail	波	9467			0x0E67
 Japanese/retail	泣	8B83			0x07C3
 Japanese/retail	泥	9344			0x0D84
 Japanese/retail	注	928D			0x0D0D
+Japanese/retail	泰	91D7			0x0C97
 Japanese/retail	泳	896A			0x062A
 Japanese/retail	洋	976D			0x10AD
 Japanese/retail	洗	90F4			0x0BF4
@@ -1527,6 +1532,7 @@ Japanese/retail	答	939A			0x0DDA
 Japanese/retail	策	8DF4			0x09B4
 Japanese/retail	箍	E2B0			
 Japanese/retail	箔	9493			0x0E93
+Japanese/retail	箕	96A5			0x1025
 Japanese/retail	算	8E5A			0x09DA
 Japanese/retail	管	8AC7			0x0747
 Japanese/retail	箱	94A0			0x0EA0
@@ -1620,6 +1626,7 @@ Japanese/retail	老	9856			0x1156
 Japanese/retail	考	8D6C			0x092C
 Japanese/retail	者	8ED2			0x0A52
 Japanese/retail	耐	91CF			0x0C8F
+Japanese/retail	耕	8D6B			0x092B
 Japanese/retail	耗	96D5			0x1055
 Japanese/retail	耳	8EA8			0x0A28
 Japanese/retail	聖	90B9			0x0BB9
@@ -1712,6 +1719,7 @@ Japanese/retail	蔵	91A0			0x0C60
 Japanese/retail	薄	9496			0x0E96
 Japanese/retail	薬	96F2			0x1072
 Japanese/retail	藤	93A1			0x0DE1
+Japanese/retail	藻	9194			0x0C54
 Japanese/retail	蘇	9168			0x0C28
 Japanese/retail	虎	8CD5			0x08D5
 Japanese/retail	虐	8B73			0x07B3
@@ -1985,20 +1993,15 @@ Japanese/retail	鋼	8D7C			0x093C
 Japanese/retail	錬	9842			0x1142
 Japanese/retail	錯	8DF6			0x09B6
 Japanese/retail	録	985E			0x115E
-Japanese/retail	錺	E844			
 Japanese/retail	鍛	9262			0x0CE2
 Japanese/retail	鍵	8CAE			0x08AE
 Japanese/retail	鎌	8A99			0x0719
 Japanese/retail	鎖	8DBD			0x097D
 Japanese/retail	鎧	8A5A			0x06DA
-Japanese/retail	鎭	E84E			
 Japanese/retail	鎮	92C1			0x0D41
-Japanese/retail	鏐	E858			
 Japanese/retail	鏡	8BBE			0x07FE
-Japanese/retail	鐫	E862			
 Japanese/retail	鐸	91F6			0x0CB6
 Japanese/retail	鑑	8AD3			0x0753
-Japanese/retail	鑞	E86C			
 Japanese/retail	長	92B7			0x0D37
 Japanese/retail	門	96E5			0x1065
 Japanese/retail	閃	914D			0x0C0D
@@ -2053,6 +2056,7 @@ Japanese/retail	雨	894A			0x060A
 Japanese/retail	雪	90E1			0x0BE1
 Japanese/retail	雰	95B5			0x0F75
 Japanese/retail	雲	895F			0x061F
+Japanese/retail	零	97EB			0x112B
 Japanese/retail	雷	978B			0x10CB
 Japanese/retail	電	9364			0x0DA4
 Japanese/retail	震	906B			0x0B6B
@@ -2205,14 +2209,6 @@ Japanese/retail	ｔ	8294			0x0114
 Japanese/retail	ｖ	8296			0x0116
 Japanese/retail	ｚ	829A			0x011A
 Japanese/retail	～	8160			0x0020
-Japanese/retail	ｬ	AC			
-Japanese/retail	ｹ	B9			
-Japanese/retail	ｼ	BC			
-Japanese/retail	ｽ	BD			
-Japanese/retail	ﾈ	C8			
-Japanese/retail	ﾒ	D2			
-Japanese/retail	ﾘ	D8			
-Japanese/retail	ﾞ	DE			
 English DTE		8240	  	8240	0x00C0
 English DTE		8241	 !	8241	0x00C1
 English DTE		8242	" """	8242	0x00C2
@@ -2353,1762 +2349,1798 @@ English DTE		83F8	'y	83F8	0x0238
 English DTE		83F9	( 	83F9	0x0239
 English DTE		83FA	(!	83FA	0x023A
 English DTE		83FB	(%	83FB	0x023B
-English DTE		83FC	(-	83FC	0x023C
-English DTE	А	8440	(.	8440	0x0240
-English DTE	Б	8441	(2	8441	0x0241
-English DTE	В	8442	(=	8442	0x0242
-English DTE	Г	8443	(A	8443	0x0243
-English DTE	Д	8444	(B	8444	0x0244
-English DTE	Е	8445	(C	8445	0x0245
-English DTE	Ё	8446	(D	8446	0x0246
-English DTE	Ж	8447	(E	8447	0x0247
-English DTE	З	8448	(F	8448	0x0248
-English DTE	И	8449	(G	8449	0x0249
-English DTE	Й	844A	(H	844A	0x024A
-English DTE	К	844B	(I	844B	0x024B
-English DTE	Л	844C	(J	844C	0x024C
-English DTE	М	844D	(K	844D	0x024D
-English DTE	Н	844E	(L	844E	0x024E
-English DTE	О	844F	(M	844F	0x024F
-English DTE	П	8450	(N	8450	0x0250
-English DTE	Р	8451	(O	8451	0x0251
-English DTE	С	8452	(P	8452	0x0252
-English DTE	Т	8453	(R	8453	0x0253
-English DTE	У	8454	(S	8454	0x0254
-English DTE	Ф	8455	(T	8455	0x0255
-English DTE	Х	8456	(U	8456	0x0256
-English DTE	Ц	8457	(W	8457	0x0257
-English DTE	Ч	8458	(X	8458	0x0258
-English DTE	Ш	8459	(Y	8459	0x0259
-English DTE	Щ	845A	(Z	845A	0x025A
-English DTE	Ъ	845B	(a	845B	0x025B
-English DTE	Ы	845C	(b	845C	0x025C
-English DTE	Ь	845D	(c	845D	0x025D
-English DTE	Э	845E	(h	845E	0x025E
-English DTE	Ю	845F	(m	845F	0x025F
-English DTE	Я	8460	(s	8460	0x0260
-English DTE		8461	(t	8461	0x0261
-English DTE		8462	) 	8462	0x0262
-English DTE		8463	")"""	8463	0x0263
-English DTE		8464	),	8464	0x0264
-English DTE		8465	).	8465	0x0265
-English DTE		8466	):	8466	0x0266
-English DTE		8467	+ 	8467	0x0267
-English DTE		8468	+%	8468	0x0268
-English DTE		8469	+1	8469	0x0269
-English DTE		846A	+2	846A	0x026A
-English DTE		846B	+3	846B	0x026B
-English DTE		846C	+4	846C	0x026C
-English DTE		846D	+5	846D	0x026D
-English DTE		846E	, 	846E	0x026E
-English DTE		846F	","""	846F	0x026F
-English DTE	а	8470	,.	8470	0x0270
-English DTE	б	8471	,1	8471	0x0271
-English DTE	в	8472	- 	8472	0x0272
-English DTE	г	8473	-!	8473	0x0273
-English DTE	д	8474	--	8474	0x0274
-English DTE	е	8475	-0	8475	0x0275
-English DTE	ё	8476	-1	8476	0x0276
-English DTE	ж	8477	-2	8477	0x0277
-English DTE	з	8478	-3	8478	0x0278
-English DTE	и	8479	-7	8479	0x0279
-English DTE	й	847A	-8	847A	0x027A
-English DTE	к	847B	-:	847B	0x027B
-English DTE	л	847C	-?	847C	0x027C
-English DTE	м	847D	-A	847D	0x027D
-English DTE	н	847E	-B	847E	0x027E
-English DTE	о	8480	-C	8480	0x0280
-English DTE	т	8484	-D	8484	0x0284
-English DTE	у	8485	-E	8485	0x0285
-English DTE	ф	8486	-F	8486	0x0286
-English DTE	х	8487	-G	8487	0x0287
-English DTE	ц	8488	-H	8488	0x0288
-English DTE	ч	8489	-I	8489	0x0289
-English DTE	ш	848A	-K	848A	0x028A
-English DTE	щ	848B	-L	848B	0x028B
-English DTE	ь	848E	-N	848E	0x028E
-English DTE	ю	8490	-O	8490	0x0290
-English DTE	я	8491	-P	8491	0x0291
-English DTE		8493	-R	8493	0x0293
-English DTE		8495	-S	8495	0x0295
-English DTE		8496	-T	8496	0x0296
-English DTE		8498	-W	8498	0x0298
-English DTE		8499	-Y	8499	0x0299
-English DTE		849A	-Z	849A	0x029A
-English DTE		849B	-a	849B	0x029B
-English DTE		849C	-b	849C	0x029C
-English DTE		849D	-c	849D	0x029D
-English DTE		849E	-d	849E	0x029E
-English DTE	─	849F	-e	849F	0x029F
-English DTE	│	84A0	-f	84A0	0x02A0
-English DTE	┌	84A1	-g	84A1	0x02A1
-English DTE	┐	84A2	-h	84A2	0x02A2
-English DTE	┘	84A3	-i	84A3	0x02A3
-English DTE	└	84A4	-j	84A4	0x02A4
-English DTE	├	84A5	-k	84A5	0x02A5
-English DTE	┬	84A6	-l	84A6	0x02A6
-English DTE	┤	84A7	-m	84A7	0x02A7
-English DTE	┴	84A8	-n	84A8	0x02A8
-English DTE	┼	84A9	-o	84A9	0x02A9
-English DTE	━	84AA	-p	84AA	0x02AA
-English DTE	┃	84AB	-r	84AB	0x02AB
-English DTE	┏	84AC	-s	84AC	0x02AC
-English DTE	┓	84AD	-t	84AD	0x02AD
-English DTE	┛	84AE	-u	84AE	0x02AE
-English DTE	┗	84AF	-w	84AF	0x02AF
-English DTE	┣	84B0	-y	84B0	0x02B0
-English DTE	┳	84B1	-z	84B1	0x02B1
-English DTE	┫	84B2	. 	84B2	0x02B2
-English DTE	┻	84B3	.!	84B3	0x02B3
-English DTE	╋	84B4	"."""	84B4	0x02B4
-English DTE	┠	84B5	.)	84B5	0x02B5
-English DTE	┯	84B6	.,	84B6	0x02B6
-English DTE	┨	84B7	..	84B7	0x02B7
-English DTE	┷	84B8	.1	84B8	0x02B8
-English DTE	┿	84B9	.2	84B9	0x02B9
-English DTE	┝	84BA	.3	84BA	0x02BA
-English DTE	┰	84BB	.4	84BB	0x02BB
-English DTE	┥	84BC	.5	84BC	0x02BC
-English DTE	┸	84BD	.6	84BD	0x02BD
-English DTE	╂	84BE	.9	84BE	0x02BE
-English DTE		84BF	.:	84BF	0x02BF
-English DTE		84C0	.?	84C0	0x02C0
-English DTE		84C1	.A	84C1	0x02C1
-English DTE		84C2	.B	84C2	0x02C2
-English DTE		84C3	.C	84C3	0x02C3
-English DTE		84C4	.D	84C4	0x02C4
-English DTE		84C5	.E	84C5	0x02C5
-English DTE		84C6	.F	84C6	0x02C6
-English DTE		84C7	.G	84C7	0x02C7
-English DTE		84C8	.H	84C8	0x02C8
-English DTE		84C9	.I	84C9	0x02C9
-English DTE		84CA	.J	84CA	0x02CA
-English DTE		84CB	.K	84CB	0x02CB
-English DTE		84CC	.L	84CC	0x02CC
-English DTE		84CD	.M	84CD	0x02CD
-English DTE		84CE	.N	84CE	0x02CE
-English DTE		84CF	.O	84CF	0x02CF
-English DTE		84D0	.P	84D0	0x02D0
-English DTE		84D1	.Q	84D1	0x02D1
-English DTE		84D2	.R	84D2	0x02D2
-English DTE		84D3	.S	84D3	0x02D3
-English DTE		84D4	.T	84D4	0x02D4
-English DTE		84D5	.U	84D5	0x02D5
-English DTE		84D6	.V	84D6	0x02D6
-English DTE		84D8	.W	84D8	0x02D8
-English DTE		84D9	.X	84D9	0x02D9
-English DTE		84DA	.Y	84DA	0x02DA
-English DTE		84DB	.Z	84DB	0x02DB
-English DTE		84DC	.a	84DC	0x02DC
-English DTE		84DD	.b	84DD	0x02DD
-English DTE		84DE	.c	84DE	0x02DE
-English DTE		84DF	.d	84DF	0x02DF
-English DTE		84E0	.e	84E0	0x02E0
-English DTE		84E1	.f	84E1	0x02E1
-English DTE		84E2	.g	84E2	0x02E2
-English DTE		84E3	.h	84E3	0x02E3
-English DTE		84E4	.i	84E4	0x02E4
-English DTE		84E5	.j	84E5	0x02E5
-English DTE		84E6	.k	84E6	0x02E6
-English DTE		84E7	.l	84E7	0x02E7
-English DTE		84E8	.m	84E8	0x02E8
-English DTE		84E9	.n	84E9	0x02E9
-English DTE		84EA	.o	84EA	0x02EA
-English DTE		84EB	.p	84EB	0x02EB
-English DTE		84EC	.q	84EC	0x02EC
-English DTE		84ED	.r	84ED	0x02ED
-English DTE		84EE	.s	84EE	0x02EE
-English DTE		84EF	.t	84EF	0x02EF
-English DTE		84F0	.u	84F0	0x02F0
-English DTE		84F1	.w	84F1	0x02F1
-English DTE		84F2	.y	84F2	0x02F2
-English DTE		84F3	/ 	84F3	0x02F3
-English DTE		84F4	/-	84F4	0x02F4
-English DTE		84F5	/E	84F5	0x02F5
-English DTE		84F6	/M	84F6	0x02F6
-English DTE		84F7	/O	84F7	0x02F7
-English DTE		84F8	/S	84F8	0x02F8
-English DTE		84F9	/V	84F9	0x02F9
-English DTE		84FA	/f	84FA	0x02FA
-English DTE		84FB	/l	84FB	0x02FB
-English DTE		84FC	/s	84FC	0x02FC
-English DTE	①	8740	0 	8740	0x0480
-English DTE	②	8741	0!	8741	0x0481
-English DTE	③	8742	0%	8742	0x0482
-English DTE	④	8743	0)	8743	0x0483
-English DTE	⑤	8744	0+	8744	0x0484
-English DTE	⑥	8745	0,	8745	0x0485
-English DTE	⑦	8746	0-	8746	0x0486
-English DTE	⑧	8747	0.	8747	0x0487
-English DTE	⑨	8748	00	8748	0x0488
-English DTE	⑩	8749	01	8749	0x0489
-English DTE	⑪	874A	02	874A	0x048A
-English DTE	⑬	874C	03	874C	0x048C
-English DTE	⑭	874D	04	874D	0x048D
-English DTE	⑮	874E	05	874E	0x048E
-English DTE	⑯	874F	06	874F	0x048F
-English DTE	⑰	8750	07	8750	0x0490
-English DTE	⑱	8751	08	8751	0x0491
-English DTE	⑲	8752	09	8752	0x0492
-English DTE	⑳	8753	0a	8753	0x0493
-English DTE	Ⅰ	8754	0b	8754	0x0494
-English DTE	Ⅳ	8757	0c	8757	0x0497
-English DTE	Ⅵ	8759	0m	8759	0x0499
-English DTE	Ⅶ	875A	0s	875A	0x049A
-English DTE	Ⅷ	875B	1 	875B	0x049B
-English DTE	Ⅸ	875C	1!	875C	0x049C
-English DTE	Ⅹ	875D	1'	875D	0x049D
-English DTE		875E	1)	875E	0x049E
-English DTE	㍉	875F	1,	875F	0x049F
-English DTE	㌔	8760	1.	8760	0x04A0
-English DTE	㌢	8761	1/	8761	0x04A1
-English DTE	㍍	8762	10	8762	0x04A2
-English DTE	㌘	8763	11	8763	0x04A3
-English DTE	㌧	8764	12	8764	0x04A4
-English DTE	㌃	8765	13	8765	0x04A5
-English DTE	㌶	8766	14	8766	0x04A6
-English DTE	㍑	8767	15	8767	0x04A7
-English DTE	㍗	8768	16	8768	0x04A8
-English DTE	㌍	8769	17	8769	0x04A9
-English DTE	㌦	876A	18	876A	0x04AA
-English DTE	㌣	876B	19	876B	0x04AB
-English DTE	㌫	876C	1a	876C	0x04AC
-English DTE	㍊	876D	1b	876D	0x04AD
-English DTE	㌻	876E	1c	876E	0x04AE
-English DTE	㎜	876F	1s	876F	0x04AF
-English DTE	㎝	8770	2 	8770	0x04B0
-English DTE	㎞	8771	2!	8771	0x04B1
-English DTE	㎎	8772	2%	8772	0x04B2
-English DTE	㎏	8773	2'	8773	0x04B3
-English DTE	㏄	8774	2)	8774	0x04B4
-English DTE	㎡	8775	2,	8775	0x04B5
-English DTE		8776	2-	8776	0x04B6
-English DTE		8777	2.	8777	0x04B7
-English DTE		8778	20	8778	0x04B8
-English DTE		8779	21	8779	0x04B9
-English DTE		877A	22	877A	0x04BA
-English DTE		877B	23	877B	0x04BB
-English DTE		877D	24	877D	0x04BD
-English DTE	㍻	877E	25	877E	0x04BE
-English DTE	〝	8780	26	8780	0x04C0
-English DTE	℡	8784	27	8784	0x04C4
-English DTE	㊤	8785	28	8785	0x04C5
-English DTE	㊥	8786	29	8786	0x04C6
-English DTE	㊦	8787	2?	8787	0x04C7
-English DTE	㍽	878E	2W	878E	0x04CE
-English DTE	√	8795	2a	8795	0x04D5
-English DTE	∟	8798	2b	8798	0x04D8
-English DTE	⊿	8799	2c	8799	0x04D9
-English DTE	∵	879A	2n	879A	0x04DA
-English DTE	∩	879B	2x	879B	0x04DB
-English DTE	∪	879C	3 	879C	0x04DC
-English DTE		879D	3!	879D	0x04DD
-English DTE		879E	3'	879E	0x04DE
-English DTE		879F	3,	879F	0x04DF
-English DTE		87A0	3-	87A0	0x04E0
-English DTE		87A1	3.	87A1	0x04E1
-English DTE		87A2	30	87A2	0x04E2
-English DTE		87A3	31	87A3	0x04E3
-English DTE		87A4	32	87A4	0x04E4
-English DTE		87A5	33	87A5	0x04E5
-English DTE		87A6	34	87A6	0x04E6
-English DTE		87A7	35	87A7	0x04E7
-English DTE		87A8	36	87A8	0x04E8
-English DTE		87A9	37	87A9	0x04E9
-English DTE		87AA	38	87AA	0x04EA
-English DTE		87AB	39	87AB	0x04EB
-English DTE		87AC	3:	87AC	0x04EC
-English DTE		87AD	3?	87AD	0x04ED
-English DTE		87AE	3G	87AE	0x04EE
-English DTE		87AF	3a	87AF	0x04EF
-English DTE		87B0	3b	87B0	0x04F0
-English DTE		87B1	3c	87B1	0x04F1
-English DTE		87B2	3r	87B2	0x04F2
-English DTE		87B3	3t	87B3	0x04F3
-English DTE		87B4	4 	87B4	0x04F4
-English DTE		87B5	4!	87B5	0x04F5
-English DTE		87B6	4,	87B6	0x04F6
-English DTE		87B7	4.	87B7	0x04F7
-English DTE		87B8	40	87B8	0x04F8
-English DTE		87B9	41	87B9	0x04F9
-English DTE		87BA	42	87BA	0x04FA
-English DTE		87BB	43	87BB	0x04FB
-English DTE		87BC	44	87BC	0x04FC
-English DTE		87BE	45	87BE	0x04FE
-English DTE		87BF	46	87BF	0x04FF
-English DTE		87C0	47	87C0	0x0500
-English DTE		87C1	48	87C1	0x0501
-English DTE		87C2	49	87C2	0x0502
-English DTE		87C3	4a	87C3	0x0503
-English DTE		87C4	4b	87C4	0x0504
-English DTE		87C5	4c	87C5	0x0505
-English DTE		87C6	4t	87C6	0x0506
-English DTE		87C7	5 	87C7	0x0507
-English DTE		87C8	5%	87C8	0x0508
-English DTE		87C9	5-	87C9	0x0509
-English DTE		87CA	5.	87CA	0x050A
-English DTE		87CB	50	87CB	0x050B
-English DTE		87CC	51	87CC	0x050C
-English DTE		87CD	52	87CD	0x050D
-English DTE		87CE	53	87CE	0x050E
-English DTE		87CF	54	87CF	0x050F
-English DTE		87D0	55	87D0	0x0510
-English DTE		87D1	56	87D1	0x0511
-English DTE		87D3	57	87D3	0x0513
-English DTE		87D4	58	87D4	0x0514
-English DTE		87D5	59	87D5	0x0515
-English DTE		87D6	5:	87D6	0x0516
-English DTE		87D7	5a	87D7	0x0517
-English DTE		87D8	5b	87D8	0x0518
-English DTE		87D9	5c	87D9	0x0519
-English DTE		87DA	5t	87DA	0x051A
-English DTE		87DB	5x	87DB	0x051B
-English DTE		87DC	6 	87DC	0x051C
-English DTE		87DD	60	87DD	0x051D
-English DTE		87DE	61	87DE	0x051E
-English DTE		87DF	62	87DF	0x051F
-English DTE		87E0	63	87E0	0x0520
-English DTE		87E1	64	87E1	0x0521
-English DTE		87E2	65	87E2	0x0522
-English DTE		87E4	66	87E4	0x0524
-English DTE		87E5	67	87E5	0x0525
-English DTE		87E6	68	87E6	0x0526
-English DTE		87E7	69	87E7	0x0527
-English DTE		87E8	6a	87E8	0x0528
-English DTE		87E9	6b	87E9	0x0529
-English DTE		87EA	6c	87EA	0x052A
-English DTE		87EB	6t	87EB	0x052B
-English DTE		87EC	7 	87EC	0x052C
-English DTE		87ED	7-	87ED	0x052D
-English DTE		87EE	7.	87EE	0x052E
-English DTE		87EF	70	87EF	0x052F
-English DTE		87F0	71	87F0	0x0530
-English DTE		87F1	72	87F1	0x0531
-English DTE		87F2	73	87F2	0x0532
-English DTE		87F3	74	87F3	0x0533
-English DTE		87F4	75	87F4	0x0534
-English DTE		87F5	76	87F5	0x0535
-English DTE		87F6	77	87F6	0x0536
-English DTE		87F7	78	87F7	0x0537
-English DTE		87F8	79	87F8	0x0538
-English DTE		87F9	7?	87F9	0x0539
-English DTE		87FA	7X	87FA	0x053A
-English DTE		87FB	7a	87FB	0x053B
-English DTE		87FC	7b	87FC	0x053C
-English DTE		8840	7c	8840	0x0540
-English DTE		8841	7d	8841	0x0541
-English DTE		8842	7s	8842	0x0542
-English DTE		8843	7t	8843	0x0543
-English DTE		8844	8 	8844	0x0544
-English DTE		8845	8,	8845	0x0545
-English DTE		8847	8.	8847	0x0547
-English DTE		8848	80	8848	0x0548
-English DTE		8849	81	8849	0x0549
-English DTE		884A	82	884A	0x054A
-English DTE		884B	83	884B	0x054B
-English DTE		884C	84	884C	0x054C
-English DTE		884D	85	884D	0x054D
-English DTE		884E	86	884E	0x054E
-English DTE		8850	87	8850	0x0550
-English DTE		8851	88	8851	0x0551
-English DTE		8852	89	8852	0x0552
-English DTE		8853	8a	8853	0x0553
-English DTE		8854	8b	8854	0x0554
-English DTE		8855	8c	8855	0x0555
-English DTE		8856	9 	8856	0x0556
-English DTE		8857	9!	8857	0x0557
-English DTE		8858	9,	8858	0x0558
-English DTE		8859	9.	8859	0x0559
-English DTE		885A	90	885A	0x055A
-English DTE		885B	91	885B	0x055B
-English DTE		885D	92	885D	0x055D
-English DTE		885E	93	885E	0x055E
-English DTE		885F	94	885F	0x055F
-English DTE		8860	95	8860	0x0560
-English DTE		8862	96	8862	0x0562
-English DTE		8863	97	8863	0x0563
-English DTE		8864	98	8864	0x0564
-English DTE		8866	99	8866	0x0566
-English DTE		8867	9?	8867	0x0567
-English DTE		8868	9a	8868	0x0568
-English DTE		8869	9b	8869	0x0569
-English DTE		886A	9c	886A	0x056A
-English DTE		886B	9t	886B	0x056B
-English DTE		886C	: 	886C	0x056C
-English DTE		886D	:%	886D	0x056D
-English DTE		886E	:.	886E	0x056E
-English DTE		8870	:0	8870	0x0570
-English DTE		8871	:B	8871	0x0571
-English DTE		8872	:C	8872	0x0572
-English DTE		8873	:I	8873	0x0573
-English DTE		8874	:P	8874	0x0574
-English DTE		8875	:S	8875	0x0575
-English DTE		8876	:T	8876	0x0576
-English DTE		8877	; 	8877	0x0577
-English DTE		8879	<%	8879	0x0579
-English DTE		887A	<=	887A	0x057A
-English DTE		887B	<B	887B	0x057B
-English DTE		887D	<K	887D	0x057D
-English DTE		8880	<U	8880	0x0580
-English DTE		8885	<e	8885	0x0585
-English DTE		8886	= 	8886	0x0586
-English DTE		8895	=3	8895	0x0595
-English DTE		8898	=5	8898	0x0598
-English DTE		8899	=7	8899	0x0599
-English DTE		889B	> 	889B	0x059B
-English DTE		889C	>.	889C	0x059C
-English DTE		889E	? 	889E	0x059E
-English DTE	挨	88A5	?!	88A5	0x05A5
-English DTE	姶	88A6	?(	88A6	0x05A6
-English DTE	葵	88A8	?)	88A8	0x05A8
-English DTE	穐	88AA	?.	88AA	0x05AA
-English DTE	鯵	88B1	??	88B1	0x05B1
-English DTE	梓	88B2	@V	88B2	0x05B2
-English DTE	宛	88B6	A 	88B6	0x05B6
-English DTE	虻	88B8	A!	88B8	0x05B8
-English DTE	飴	88B9	A'	88B9	0x05B9
-English DTE	絢	88BA	A(	88BA	0x05BA
-English DTE	或	88BD	A,	88BD	0x05BD
-English DTE	粟	88BE	A-	88BE	0x05BE
-English DTE	袷	88BF	A.	88BF	0x05BF
-English DTE	按	88C2	A2	88C2	0x05C2
-English DTE	鞍	88C6	A?	88C6	0x05C6
-English DTE	杏	88C7	AA	88C7	0x05C7
-English DTE	偉	88CC	AB	88CC	0x05CC
-English DTE	夷	88CE	AI	88CE	0x05CE
-English DTE	委	88CF	AL	88CF	0x05CF
-English DTE	惟	88D2	AP	88D2	0x05D2
-English DTE	慰	88D4	AR	88D4	0x05D4
-English DTE	畏	88D8	AT	88D8	0x05D8
-English DTE	維	88DB	AX	88DB	0x05DB
-English DTE	緯	88DC	Aa	88DC	0x05DC
-English DTE	胃	88DD	Ab	88DD	0x05DD
-English DTE	萎	88DE	Ac	88DE	0x05DE
-English DTE	衣	88DF	Ad	88DF	0x05DF
-English DTE	謂	88E0	Ae	88E0	0x05E0
-English DTE	医	88E3	Af	88E3	0x05E3
-English DTE	亥	88E5	Ag	88E5	0x05E5
-English DTE	育	88E7	Ah	88E7	0x05E7
-English DTE	郁	88E8	Ai	88E8	0x05E8
-English DTE	磯	88E9	Ak	88E9	0x05E9
-English DTE	壱	88EB	Al	88EB	0x05EB
-English DTE	溢	88EC	Am	88EC	0x05EC
-English DTE	稲	88EE	An	88EE	0x05EE
-English DTE	芋	88F0	Ap	88F0	0x05F0
-English DTE	院	8940	Ar	8940	0x0600
-English DTE	陰	8941	As	8941	0x0601
-English DTE	韻	8943	At	8943	0x0603
-English DTE	吋	8944	Au	8944	0x0604
-English DTE	烏	8947	Av	8947	0x0607
-English DTE	羽	8948	Aw	8948	0x0608
-English DTE	迂	8949	Ax	8949	0x0609
-English DTE	鵜	894C	Az	894C	0x060C
-English DTE	窺	894D	B 	894D	0x060D
-English DTE	丑	894E	B,	894E	0x060E
-English DTE	碓	894F	B-	894F	0x060F
-English DTE	臼	8950	B.	8950	0x0610
-English DTE	渦	8951	B?	8951	0x0611
-English DTE	嘘	8952	BC	8952	0x0612
-English DTE	唄	8953	BG	8953	0x0613
-English DTE	欝	8954	BI	8954	0x0614
-English DTE	蔚	8955	BR	8955	0x0615
-English DTE	鰻	8956	BS	8956	0x0616
-English DTE	姥	8957	BU	8957	0x0617
-English DTE	厩	8958	Ba	8958	0x0618
-English DTE	浦	8959	Be	8959	0x0619
-English DTE	瓜	895A	Bi	895A	0x061A
-English DTE	閏	895B	Bl	895B	0x061B
-English DTE	云	895D	Bo	895D	0x061D
-English DTE	荏	8960	Br	8960	0x0620
-English DTE	餌	8961	Bu	8961	0x0621
-English DTE	叡	8962	By	8962	0x0622
-English DTE	営	8963	C 	8963	0x0623
-English DTE	嬰	8964	C'	8964	0x0624
-English DTE	映	8966	C,	8966	0x0626
-English DTE	曳	8967	C-	8967	0x0627
-English DTE	泳	896A	C.	896A	0x062A
-English DTE	瑛	896C	C?	896C	0x062C
-English DTE	盈	896D	CA	896D	0x062D
-English DTE	穎	896E	CB	896E	0x062E
-English DTE	頴	896F	CC	896F	0x062F
-English DTE	詠	8972	CE	8972	0x0632
-English DTE	鋭	8973	CF	8973	0x0633
-English DTE	疫	8975	CG	8975	0x0635
-English DTE	駅	8977	CH	8977	0x0637
-English DTE	悦	8978	CK	8978	0x0638
-English DTE	謁	8979	CO	8979	0x0639
-English DTE	閲	897B	CT	897B	0x063B
-English DTE	榎	897C	CU	897C	0x063C
-English DTE	厭	897D	Ca	897D	0x063D
-English DTE	掩	8986	Ce	8986	0x0646
-English DTE	焔	898B	Ch	898B	0x064B
-English DTE	燕	898D	Ci	898D	0x064D
-English DTE	苑	8991	Cl	8991	0x0651
-English DTE	薗	8992	Co	8992	0x0652
-English DTE	鉛	8994	Cr	8994	0x0654
-English DTE	鴛	8995	Cu	8995	0x0655
-English DTE	甥	8999	Cy	8999	0x0659
-English DTE	凹	899A	D 	899A	0x065A
-English DTE	旺	89A0	D'	89A0	0x0660
-English DTE	翁	89A5	D,	89A5	0x0665
-English DTE	襖	89A6	D-	89A6	0x0666
-English DTE	鴬	89A7	D.	89A7	0x0667
-English DTE	鴎	89A8	DA	89A8	0x0668
-English DTE	沖	89AB	DC	89AB	0x066B
-English DTE	荻	89AC	DD	89AC	0x066C
-English DTE	臆	89B0	DE	89B0	0x0670
-English DTE	桶	89B1	DF	89B1	0x0671
-English DTE	牡	89B2	DM	89B2	0x0672
-English DTE	卸	89B5	DN	89B5	0x0675
-English DTE	伽	89BE	DR	89BE	0x067E
-English DTE	価	89BF	Da	89BF	0x067F
-English DTE	佳	89C0	De	89C0	0x0680
-English DTE	嘉	89C3	Di	89C3	0x0683
-English DTE	夏	89C4	Do	89C4	0x0684
-English DTE	嫁	89C5	Dr	89C5	0x0685
-English DTE	寡	89C7	Du	89C7	0x0687
-English DTE	架	89CB	Dw	89CB	0x068B
-English DTE	珂	89CF	Dy	89CF	0x068F
-English DTE	禍	89D0	E 	89D0	0x0690
-English DTE	禾	89D1	E!	89D1	0x0691
-English DTE	箇	89D3	"E"""	89D3	0x0693
-English DTE	茄	89D6	E,	89D6	0x0696
-English DTE	菓	89D9	E-	89D9	0x0699
-English DTE	蝦	89DA	E.	89DA	0x069A
-English DTE	貨	89DD	E?	89DD	0x069D
-English DTE	迦	89DE	EA	89DE	0x069E
-English DTE	霞	89E0	EC	89E0	0x06A0
-English DTE	蚊	89E1	EE	89E1	0x06A1
-English DTE	俄	89E2	EI	89E2	0x06A2
-English DTE	峨	89E3	EM	89E3	0x06A3
-English DTE	牙	89E5	EN	89E5	0x06A5
-English DTE	臥	89E7	EQ	89E7	0x06A7
-English DTE	芽	89E8	ER	89E8	0x06A8
-English DTE	蛾	89E9	ES	89E9	0x06A9
-English DTE	賀	89EA	EV	89EA	0x06AA
-English DTE	雅	89EB	EX	89EB	0x06AB
-English DTE	餓	89EC	Ea	89EC	0x06AC
-English DTE	駕	89ED	Ed	89ED	0x06AD
-English DTE	廻	89F4	Ee	89F4	0x06B4
-English DTE	悔	89F7	Ef	89F7	0x06B7
-English DTE	恢	89F8	Eg	89F8	0x06B8
-English DTE	懐	89F9	Eh	89F9	0x06B9
-English DTE	戒	89FA	Ei	89FA	0x06BA
-English DTE	拐	89FB	Ej	89FB	0x06BB
-English DTE	魁	8A40	El	8A40	0x06C0
-English DTE	晦	8A41	Em	8A41	0x06C1
-English DTE	灰	8A44	En	8A44	0x06C4
-English DTE	絵	8A47	Eo	8A47	0x06C7
-English DTE	芥	8A48	Ep	8A48	0x06C8
-English DTE	蟹	8A49	Eq	8A49	0x06C9
-English DTE	劾	8A4E	Er	8A4E	0x06CE
-English DTE	咳	8A50	Es	8A50	0x06D0
-English DTE	崖	8A52	Et	8A52	0x06D2
-English DTE	慨	8A53	Eu	8A53	0x06D3
-English DTE	概	8A54	Ev	8A54	0x06D4
-English DTE	涯	8A55	Ex	8A55	0x06D5
-English DTE	碍	8A56	Ey	8A56	0x06D6
-English DTE	蓋	8A57	F 	8A57	0x06D7
-English DTE	該	8A59	F)	8A59	0x06D9
-English DTE	鎧	8A5A	F,	8A5A	0x06DA
-English DTE	骸	8A5B	F-	8A5B	0x06DB
-English DTE	浬	8A5C	F.	8A5C	0x06DC
-English DTE	馨	8A5D	F2	8A5D	0x06DD
-English DTE	蛙	8A5E	F9	8A5E	0x06DE
-English DTE	垣	8A5F	FE	8A5F	0x06DF
-English DTE	柿	8A60	FF	8A60	0x06E0
-English DTE	蛎	8A61	FL	8A61	0x06E1
-English DTE	鈎	8A62	FO	8A62	0x06E2
-English DTE	劃	8A63	FR	8A63	0x06E3
-English DTE	嚇	8A64	Fa	8A64	0x06E4
-English DTE	廓	8A66	Fe	8A66	0x06E6
-English DTE	撹	8A68	Ff	8A68	0x06E8
-English DTE	穫	8A6E	Fh	8A6E	0x06EE
-English DTE	赫	8A71	Fi	8A71	0x06F1
-English DTE	郭	8A73	Fl	8A73	0x06F3
-English DTE	隔	8A75	Fo	8A75	0x06F5
-English DTE	岳	8A78	Fr	8A78	0x06F8
-English DTE	顎	8A7B	Fu	8A7B	0x06FB
-English DTE	笠	8A7D	Fy	8A7D	0x06FD
-English DTE	樫	8A7E	F~	8A7E	0x06FE
-English DTE	橿	8A80	G 	8A80	0x0700
-English DTE	喝	8A85	G!	8A85	0x0705
-English DTE	恰	8A86	"G"""	8A86	0x0706
-English DTE	括	8A87	G'	8A87	0x0707
-English DTE	滑	8A8A	G,	8A8A	0x070A
-English DTE	鞄	8A93	G-	8A93	0x0713
-English DTE	竃	8A96	G.	8A96	0x0716
-English DTE	鎌	8A99	G1	8A99	0x0719
-English DTE	噛	8A9A	G2	8A9A	0x071A
-English DTE	鴨	8A9B	G?	8A9B	0x071B
-English DTE	栢	8A9C	GG	8A9C	0x071C
-English DTE	茅	8A9D	GM	8A9D	0x071D
-English DTE	萱	8A9E	GR	8A9E	0x071E
-English DTE	粥	8A9F	GS	8A9F	0x071F
-English DTE	刈	8AA0	GU	8AA0	0x0720
-English DTE	苅	8AA1	Ga	8AA1	0x0721
-English DTE	瓦	8AA2	Ge	8AA2	0x0722
-English DTE	乾	8AA3	Gh	8AA3	0x0723
-English DTE	侃	8AA4	Gi	8AA4	0x0724
-English DTE	冠	8AA5	Gl	8AA5	0x0725
-English DTE	寒	8AA6	Gn	8AA6	0x0726
-English DTE	刊	8AA7	Go	8AA7	0x0727
-English DTE	喚	8AAB	Gr	8AAB	0x072B
-English DTE	堪	8AAC	Gu	8AAC	0x072C
-English DTE	姦	8AAD	Gw	8AAD	0x072D
-English DTE	寛	8AB0	Gy	8AB0	0x0730
-English DTE	患	8AB3	H 	8AB3	0x0733
-English DTE	慣	8AB5	H!	8AB5	0x0735
-English DTE	憾	8AB6	H,	8AB6	0x0736
-English DTE	敢	8AB8	H-	8AB8	0x0738
-English DTE	柑	8AB9	H.	8AB9	0x0739
-English DTE	桓	8ABA	HE	8ABA	0x073A
-English DTE	棺	8ABB	HI	8ABB	0x073B
-English DTE	款	8ABC	HL	8ABC	0x073C
-English DTE	汗	8ABE	HP	8ABE	0x073E
-English DTE	澗	8AC0	HQ	8AC0	0x0740
-English DTE	潅	8AC1	HW	8AC1	0x0741
-English DTE	看	8AC5	HY	8AC5	0x0745
-English DTE	緩	8AC9	Ha	8AC9	0x0749
-English DTE	缶	8ACA	He	8ACA	0x074A
-English DTE	翰	8ACB	Hi	8ACB	0x074B
-English DTE	莞	8ACE	Hm	8ACE	0x074E
-English DTE	観	8ACF	Ho	8ACF	0x074F
-English DTE	諌	8AD0	Hu	8AD0	0x0750
-English DTE	閑	8AD5	Hy	8AD5	0x0755
-English DTE	陥	8AD7	I 	8AD7	0x0757
-English DTE	韓	8AD8	I!	8AD8	0x0758
-English DTE	舘	8ADA	I'	8ADA	0x075A
-English DTE	丸	8ADB	I(	8ADB	0x075B
-English DTE	岸	8ADD	I,	8ADD	0x075D
-English DTE	巌	8ADE	I-	8ADE	0x075E
-English DTE	玩	8ADF	I.	8ADF	0x075F
-English DTE	癌	8AE0	I?	8AE0	0x0760
-English DTE	眼	8AE1	IA	8AE1	0x0761
-English DTE	翫	8AE3	IC	8AE3	0x0763
-English DTE	贋	8AE4	ID	8AE4	0x0764
-English DTE	伎	8AEA	IG	8AEA	0x076A
-English DTE	喜	8AEC	II	8AEC	0x076C
-English DTE	机	8AF7	IM	8AF7	0x0777
-English DTE	旗	8AF8	IN	8AF8	0x0778
-English DTE	棋	8AFB	IO	8AFB	0x077B
-English DTE	毅	8B42	IP	8B42	0x0782
-English DTE	汽	8B44	IQ	8B44	0x0784
-English DTE	畿	8B45	IT	8B45	0x0785
-English DTE	祈	8B46	IV	8B46	0x0786
-English DTE	季	8B47	Ib	8B47	0x0787
-English DTE	稀	8B48	Ic	8B48	0x0788
-English DTE	徽	8B4A	Id	8B4A	0x078A
-English DTE	軌	8B4F	Ie	8B4F	0x078F
-English DTE	飢	8B51	If	8B51	0x0791
-English DTE	亀	8B54	Ig	8B54	0x0794
-English DTE	儀	8B56	Ii	8B56	0x0796
-English DTE	妓	8B57	Ik	8B57	0x0797
-English DTE	宜	8B58	Il	8B58	0x0798
-English DTE	戯	8B59	Im	8B59	0x0799
-English DTE	擬	8B5B	In	8B5B	0x079B
-English DTE	欺	8B5C	Io	8B5C	0x079C
-English DTE	犠	8B5D	Ip	8B5D	0x079D
-English DTE	疑	8B5E	Ir	8B5E	0x079E
-English DTE	祇	8B5F	Is	8B5F	0x079F
-English DTE	蟻	8B61	It	8B61	0x07A1
-English DTE	誼	8B62	Iz	8B62	0x07A2
-English DTE	掬	8B64	J,	8B64	0x07A4
-English DTE	鞠	8B66	J-	8B66	0x07A6
-English DTE	吃	8B68	JE	8B68	0x07A8
-English DTE	喫	8B69	JG	8B69	0x07A9
-English DTE	桔	8B6A	JZ	8B6A	0x07AA
-English DTE	橘	8B6B	Ja	8B6B	0x07AB
-English DTE	砧	8B6D	Je	8B6D	0x07AD
-English DTE	杵	8B6E	Ji	8B6E	0x07AE
-English DTE	黍	8B6F	Jo	8B6F	0x07AF
-English DTE	丘	8B75	Ju	8B75	0x07B5
-English DTE	吸	8B7A	Jy	8B7A	0x07BA
-English DTE	宮	8B7B	K 	8B7B	0x07BB
-English DTE	朽	8B80	K!	8B80	0x07C0
-English DTE	灸	8B84	K,	8B84	0x07C4
-English DTE	糾	8B8A	K-	8B8A	0x07CA
-English DTE	鋸	8B98	K.	8B98	0x07D8
-English DTE	禦	8B9A	K3	8B9A	0x07DA
-English DTE	亨	8B9C	K7	8B9C	0x07DC
-English DTE	享	8B9D	KA	8B9D	0x07DD
-English DTE	侠	8BA0	KB	8BA0	0x07E0
-English DTE	僑	8BA1	KO	8BA1	0x07E1
-English DTE	兇	8BA2	Ka	8BA2	0x07E2
-English DTE	匡	8BA7	Kc	8BA7	0x07E7
-English DTE	卿	8BA8	Ke	8BA8	0x07E8
-English DTE	喬	8BAA	Kh	8BAA	0x07EA
-English DTE	峡	8BAC	Ki	8BAC	0x07EC
-English DTE	彊	8BAE	Kk	8BAE	0x07EE
-English DTE	怯	8BAF	Kl	8BAF	0x07EF
-English DTE	恭	8BB1	Kn	8BB1	0x07F1
-English DTE	挟	8BB2	Ko	8BB2	0x07F2
-English DTE	橋	8BB4	Ku	8BB4	0x07F4
-English DTE	狂	8BB6	Kw	8BB6	0x07F6
-English DTE	狭	8BB7	Ky	8BB7	0x07F7
-English DTE	矯	8BB8	L 	8BB8	0x07F8
-English DTE	蕎	8BBC	L!	8BBC	0x07FC
-English DTE	鏡	8BBE	L%	8BBE	0x07FE
-English DTE	饗	8BC0	L,	8BC0	0x0800
-English DTE	仰	8BC2	L.	8BC2	0x0802
-English DTE	凝	8BC3	L2	8BC3	0x0803
-English DTE	尭	8BC4	L3	8BC4	0x0804
-English DTE	暁	8BC5	L5	8BC5	0x0805
-English DTE	玉	8BCA	LB	8BCA	0x080A
-English DTE	桐	8BCB	LC	8BCB	0x080B
-English DTE	粁	8BCC	LE	8BCC	0x080C
-English DTE	僅	8BCD	LI	8BCD	0x080D
-English DTE	勤	8BCE	LL	8BCE	0x080E
-English DTE	均	8BCF	LT	8BCF	0x080F
-English DTE	巾	8BD0	LV	8BD0	0x0810
-English DTE	錦	8BD1	La	8BD1	0x0811
-English DTE	斤	8BD2	Le	8BD2	0x0812
-English DTE	欣	8BD3	Lf	8BD3	0x0813
-English DTE	欽	8BD4	Lh	8BD4	0x0814
-English DTE	琴	8BD5	Li	8BD5	0x0815
-English DTE	芹	8BDA	Lo	8BDA	0x081A
-English DTE	菌	8BDB	Lt	8BDB	0x081B
-English DTE	衿	8BDC	Lu	8BDC	0x081C
-English DTE	襟	8BDD	Lv	8BDD	0x081D
-English DTE	謹	8BDE	Ly	8BDE	0x081E
-English DTE	吟	8BE1	M 	8BE1	0x0821
-English DTE	倶	8BE4	M!	8BE4	0x0824
-English DTE	玖	8BE8	M,	8BE8	0x0828
-English DTE	矩	8BE9	M-	8BE9	0x0829
-English DTE	躯	8BEB	M.	8BEB	0x082B
-English DTE	駈	8BED	M1	8BED	0x082D
-English DTE	駒	8BEE	M2	8BEE	0x082E
-English DTE	具	8BEF	M3	8BEF	0x082F
-English DTE	虞	8BF1	M9	8BF1	0x0831
-English DTE	喰	8BF2	MA	8BF2	0x0832
-English DTE	偶	8BF4	MB	8BF4	0x0834
-English DTE	寓	8BF5	ME	8BF5	0x0835
-English DTE	隅	8BF7	MG	8BF7	0x0837
-English DTE	串	8BF8	ML	8BF8	0x0838
-English DTE	櫛	8BF9	MN	8BF9	0x0839
-English DTE	釧	8BFA	MP	8BFA	0x083A
-English DTE	窟	8C41	MS	8C41	0x0841
-English DTE	沓	8C42	MX	8C42	0x0842
-English DTE	靴	8C43	MY	8C43	0x0843
-English DTE	轡	8C44	Ma	8C44	0x0844
-English DTE	窪	8C45	Mc	8C45	0x0845
-English DTE	熊	8C46	Me	8C46	0x0846
-English DTE	隈	8C47	Mi	8C47	0x0847
-English DTE	粂	8C48	Mk	8C48	0x0848
-English DTE	栗	8C49	Mm	8C49	0x0849
-English DTE	桑	8C4B	Mo	8C4B	0x084B
-English DTE	鍬	8C4C	Mr	8C4C	0x084C
-English DTE	勲	8C4D	Ms	8C4D	0x084D
-English DTE	薫	8C4F	Mu	8C4F	0x084F
-English DTE	郡	8C53	My	8C53	0x0853
-English DTE	卦	8C54	N 	8C54	0x0854
-English DTE	袈	8C55	N!	8C55	0x0855
-English DTE	祁	8C56	N,	8C56	0x0856
-English DTE	啓	8C5B	N-	8C5B	0x085B
-English DTE	圭	8C5C	N.	8C5C	0x085C
-English DTE	珪	8C5D	N/	8C5D	0x085D
-English DTE	契	8C5F	N0	8C5F	0x085F
-English DTE	径	8C61	N1	8C61	0x0861
-English DTE	慧	8C64	N2	8C64	0x0864
-English DTE	憩	8C65	NE	8C65	0x0865
-English DTE	敬	8C68	NG	8C68	0x0868
-English DTE	桂	8C6A	NK	8C6A	0x086A
-English DTE	渓	8C6B	NO	8C6B	0x086B
-English DTE	畦	8C6C	NT	8C6C	0x086C
-English DTE	稽	8C6D	NU	8C6D	0x086D
-English DTE	繋	8C71	Na	8C71	0x0871
-English DTE	罫	8C72	Ne	8C72	0x0872
-English DTE	茎	8C73	Ng	8C73	0x0873
-English DTE	荊	8C74	Ni	8C74	0x0874
-English DTE	蛍	8C75	Nm	8C75	0x0875
-English DTE	詣	8C77	Nn	8C77	0x0877
-English DTE	頚	8C7A	No	8C7A	0x087A
-English DTE	鶏	8C7B	Nu	8C7B	0x087B
-English DTE	芸	8C7C	Ny	8C7C	0x087C
-English DTE	鯨	8C7E	O 	8C7E	0x087E
-English DTE	劇	8C80	O!	8C80	0x0880
-English DTE	桁	8C85	O,	8C85	0x0885
-English DTE	傑	8C86	O-	8C86	0x0886
-English DTE	欠	8C87	O.	8C87	0x0887
-English DTE	訣	8C8D	OF	8C8D	0x088D
-English DTE	倦	8C91	OH	8C91	0x0891
-English DTE	券	8C94	OK	8C94	0x0894
-English DTE	喧	8C96	OL	8C96	0x0896
-English DTE	堅	8C98	ON	8C98	0x0898
-English DTE	嫌	8C99	OO	8C99	0x0899
-English DTE	憲	8C9B	OP	8C9B	0x089B
-English DTE	捲	8C9E	OS	8C9E	0x089E
-English DTE	牽	8CA1	OT	8CA1	0x08A1
-English DTE	硯	8CA5	OV	8CA5	0x08A5
-English DTE	絹	8CA6	OW	8CA6	0x08A6
-English DTE	県	8CA7	OZ	8CA7	0x08A7
-English DTE	謙	8CAA	Oa	8CAA	0x08AA
-English DTE	賢	8CAB	Ob	8CAB	0x08AB
-English DTE	軒	8CAC	Oc	8CAC	0x08AC
-English DTE	鹸	8CB2	Od	8CB2	0x08B2
-English DTE	弦	8CB7	Of	8CB7	0x08B7
-English DTE	玄	8CBA	Og	8CBA	0x08BA
-English DTE	絃	8CBC	Oh	8CBC	0x08BC
-English DTE	諺	8CBF	Oi	8CBF	0x08BF
-English DTE	乎	8CC1	Ok	8CC1	0x08C1
-English DTE	孤	8CC7	Ol	8CC7	0x08C7
-English DTE	庫	8CC9	Om	8CC9	0x08C9
-English DTE	弧	8CCA	On	8CCA	0x08CA
-English DTE	枯	8CCD	Oo	8CCD	0x08CD
-English DTE	湖	8CCE	Op	8CCE	0x08CE
-English DTE	糊	8CD0	Or	8CD0	0x08D0
-English DTE	袴	8CD1	Os	8CD1	0x08D1
-English DTE	股	8CD2	Ot	8CD2	0x08D2
-English DTE	胡	8CD3	Ou	8CD3	0x08D3
-English DTE	菰	8CD4	Ov	8CD4	0x08D4
-English DTE	跨	8CD7	Ow	8CD7	0x08D7
-English DTE	鈷	8CD8	P 	8CD8	0x08D8
-English DTE	雇	8CD9	P!	8CD9	0x08D9
-English DTE	鼓	8CDB	P,	8CDB	0x08DB
-English DTE	伍	8CDE	P-	8CDE	0x08DE
-English DTE	午	8CDF	P.	8CDF	0x08DF
-English DTE	呉	8CE0	P0	8CE0	0x08E0
-English DTE	娯	8CE2	P1	8CE2	0x08E2
-English DTE	梧	8CE6	PD	8CE6	0x08E6
-English DTE	檎	8CE7	PE	8CE7	0x08E7
-English DTE	瑚	8CE8	PI	8CE8	0x08E8
-English DTE	碁	8CE9	PL	8CE9	0x08E9
-English DTE	語	8CEA	PP	8CEA	0x08EA
-English DTE	醐	8CED	PR	8CED	0x08ED
-English DTE	乞	8CEE	PS	8CEE	0x08EE
-English DTE	鯉	8CEF	Pa	8CEF	0x08EF
-English DTE	佼	8CF1	Pe	8CF1	0x08F1
-English DTE	侯	8CF2	Pf	8CF2	0x08F2
-English DTE	倖	8CF4	Ph	8CF4	0x08F4
-English DTE	勾	8CF9	Pi	8CF9	0x08F9
-English DTE	后	8D40	Pl	8D40	0x0900
-English DTE	喉	8D41	Po	8D41	0x0901
-English DTE	坑	8D42	Pr	8D42	0x0902
-English DTE	垢	8D43	Ps	8D43	0x0903
-English DTE	孔	8D45	Pu	8D45	0x0905
-English DTE	孝	8D46	Py	8D46	0x0906
-English DTE	宏	8D47	Q 	8D47	0x0907
-English DTE	巧	8D49	Q,	8D49	0x0909
-English DTE	巷	8D4A	Q.	8D4A	0x090A
-English DTE	庚	8D4D	Qu	8D4D	0x090D
-English DTE	康	8D4E	R&	8D4E	0x090E
-English DTE	弘	8D4F	R,	8D4F	0x090F
-English DTE	慌	8D51	R-	8D51	0x0911
-English DTE	控	8D54	R.	8D54	0x0914
-English DTE	昂	8D56	R1	8D56	0x0916
-English DTE	晃	8D57	RA	8D57	0x0917
-English DTE	杭	8D59	RE	8D59	0x0919
-English DTE	梗	8D5B	RG	8D5B	0x091B
-English DTE	洪	8D5E	RI	8D5E	0x091E
-English DTE	浩	8D5F	RN	8D5F	0x091F
-English DTE	港	8D60	RS	8D60	0x0920
-English DTE	溝	8D61	RU	8D61	0x0921
-English DTE	皇	8D63	RX	8D63	0x0923
-English DTE	硬	8D64	Ra	8D64	0x0924
-English DTE	稿	8D65	Re	8D65	0x0925
-English DTE	糠	8D66	Ri	8D66	0x0926
-English DTE	紅	8D67	Ro	8D67	0x0927
-English DTE	紘	8D68	Ru	8D68	0x0928
-English DTE	絞	8D69	Ry	8D69	0x0929
-English DTE	綱	8D6A	S 	8D6A	0x092A
-English DTE	耕	8D6B	S!	8D6B	0x092B
-English DTE	肯	8D6D	S,	8D6D	0x092D
-English DTE	肱	8D6E	S-	8D6E	0x092E
-English DTE	腔	8D6F	S.	8D6F	0x092F
-English DTE	膏	8D70	S2	8D70	0x0930
-English DTE	衡	8D74	S:	8D74	0x0934
-English DTE	講	8D75	S?	8D75	0x0935
-English DTE	貢	8D76	SA	8D76	0x0936
-English DTE	購	8D77	SF	8D77	0x0937
-English DTE	郊	8D78	SH	8D78	0x0938
-English DTE	酵	8D79	SI	8D79	0x0939
-English DTE	鉱	8D7A	SP	8D7A	0x093A
-English DTE	砿	8D7B	SR	8D7B	0x093B
-English DTE	閤	8D7D	SS	8D7D	0x093D
-English DTE	拷	8D89	ST	8D89	0x0949
-English DTE	豪	8D8B	SU	8D8B	0x094B
-English DTE	鵠	8D94	Sa	8D94	0x0954
-English DTE	漉	8D97	Sc	8D97	0x0957
-English DTE	腰	8D98	Se	8D98	0x0958
-English DTE	甑	8D99	Sh	8D99	0x0959
-English DTE	忽	8D9A	Si	8D9A	0x095A
-English DTE	狛	8D9D	Sk	8D9D	0x095D
-English DTE	此	8D9F	Sl	8D9F	0x095F
-English DTE	困	8DA2	Sm	8DA2	0x0962
-English DTE	坤	8DA3	Sn	8DA3	0x0963
-English DTE	墾	8DA4	So	8DA4	0x0964
-English DTE	婚	8DA5	Sp	8DA5	0x0965
-English DTE	恨	8DA6	Sq	8DA6	0x0966
-English DTE	懇	8DA7	St	8DA7	0x0967
-English DTE	昏	8DA8	Su	8DA8	0x0968
-English DTE	昆	8DA9	Sw	8DA9	0x0969
-English DTE	梱	8DAB	Sy	8DAB	0x096B
-English DTE	痕	8DAD	T,	8DAD	0x096D
-English DTE	紺	8DAE	T-	8DAE	0x096E
-English DTE	艮	8DAF	T.	8DAF	0x096F
-English DTE	些	8DB1	T3	8DB1	0x0971
-English DTE	叉	8DB3	TB	8DB3	0x0973
-English DTE	唆	8DB4	TC	8DB4	0x0974
-English DTE	嵯	8DB5	TD	8DB5	0x0975
-English DTE	沙	8DB9	TE	8DB9	0x0979
-English DTE	瑳	8DBA	TG	8DBA	0x097A
-English DTE	詐	8DBC	TI	8DBC	0x097C
-English DTE	鎖	8DBD	TO	8DBD	0x097D
-English DTE	裟	8DBE	TR	8DBE	0x097E
-English DTE	坐	8DBF	TV	8DBF	0x097F
-English DTE	債	8DC2	Ta	8DC2	0x0982
-English DTE	哉	8DC6	Tc	8DC6	0x0986
-English DTE	宰	8DC9	Te	8DC9	0x0989
-English DTE	彩	8DCA	Th	8DCA	0x098A
-English DTE	才	8DCB	Ti	8DCB	0x098B
-English DTE	採	8DCC	To	8DCC	0x098C
-English DTE	栽	8DCD	Tr	8DCD	0x098D
-English DTE	采	8DD1	Ts	8DD1	0x0991
-English DTE	犀	8DD2	Tu	8DD2	0x0992
-English DTE	砕	8DD3	Tw	8DD3	0x0993
-English DTE	祭	8DD5	Ty	8DD5	0x0995
-English DTE	斎	8DD6	U!	8DD6	0x0996
-English DTE	菜	8DD8	U,	8DD8	0x0998
-English DTE	材	8DDE	U-	8DDE	0x099E
-English DTE	財	8DE0	U.	8DE0	0x09A0
-English DTE	冴	8DE1	UF	8DE1	0x09A1
-English DTE	坂	8DE2	UG	8DE2	0x09A2
-English DTE	堺	8DE4	UI	8DE4	0x09A4
-English DTE	榊	8DE5	UN	8DE5	0x09A5
-English DTE	肴	8DE6	UO	8DE6	0x09A6
-English DTE	埼	8DE9	UP	8DE9	0x09A9
-English DTE	碕	8DEA	UW	8DEA	0x09AA
-English DTE	鷺	8DEB	UZ	8DEB	0x09AB
-English DTE	咋	8DEE	Ua	8DEE	0x09AE
-English DTE	搾	8DEF	Ud	8DEF	0x09AF
-English DTE	朔	8DF1	Ue	8DF1	0x09B1
-English DTE	柵	8DF2	Uf	8DF2	0x09B2
-English DTE	窄	8DF3	Ug	8DF3	0x09B3
-English DTE	錯	8DF6	Uh	8DF6	0x09B6
-English DTE	鮭	8DF8	Ui	8DF8	0x09B8
-English DTE	笹	8DF9	Ul	8DF9	0x09B9
-English DTE	匙	8DFA	Um	8DFA	0x09BA
-English DTE	冊	8DFB	Un	8DFB	0x09BB
-English DTE	刷	8DFC	Uo	8DFC	0x09BC
-English DTE	拶	8E41	Up	8E41	0x09C1
-English DTE	擦	8E43	Ur	8E43	0x09C3
-English DTE	札	8E44	Us	8E44	0x09C4
-English DTE	薩	8E46	Ut	8E46	0x09C6
-English DTE	皐	8E48	Uu	8E48	0x09C8
-English DTE	鯖	8E49	Uw	8E49	0x09C9
-English DTE	捌	8E4A	Uz	8E4A	0x09CA
-English DTE	錆	8E4B	V 	8E4B	0x09CB
-English DTE	鮫	8E4C	V!	8E4C	0x09CC
-English DTE	皿	8E4D	V,	8E4D	0x09CD
-English DTE	晒	8E4E	V.	8E4E	0x09CE
-English DTE	傘	8E50	VA	8E50	0x09D0
-English DTE	惨	8E53	VE	8E53	0x09D3
-English DTE	撒	8E54	Va	8E54	0x09D4
-English DTE	桟	8E56	Ve	8E56	0x09D6
-English DTE	燦	8E57	Vi	8E57	0x09D7
-English DTE	珊	8E58	Vo	8E58	0x09D8
-English DTE	纂	8E5B	W 	8E5B	0x09DB
-English DTE	蚕	8E5C	W,	8E5C	0x09DC
-English DTE	讃	8E5D	W-	8E5D	0x09DD
-English DTE	賛	8E5E	W.	8E5E	0x09DE
-English DTE	酸	8E5F	WI	8E5F	0x09DF
-English DTE	餐	8E60	WY	8E60	0x09E0
-English DTE	仔	8E65	Wa	8E65	0x09E5
-English DTE	伺	8E66	We	8E66	0x09E6
-English DTE	嗣	8E6B	Wh	8E6B	0x09EB
-English DTE	孜	8E79	Wi	8E79	0x09F9
-English DTE	斯	8E7A	Wo	8E7A	0x09FA
-English DTE	旨	8E7C	Wr	8E7C	0x09FC
-English DTE	糸	8E85	Wu	8E85	0x0A05
-English DTE	紫	8E87	Wy	8E87	0x0A07
-English DTE	誌	8E8F	X 	8E8F	0x0A0F
-English DTE	諮	8E90	X!	8E90	0x0A10
-English DTE	賜	8E92	X'	8E92	0x0A12
-English DTE	飼	8E94	X.	8E94	0x0A14
-English DTE	侍	8E98	X1	8E98	0x0A18
-English DTE	慈	8E9C	X2	8E9C	0x0A1C
-English DTE	滋	8EA0	X3	8EA0	0x0A20
-English DTE	爾	8EA2	XB	8EA2	0x0A22
-English DTE	璽	8EA3	XP	8EA3	0x0A23
-English DTE	痔	8EA4	XT	8EA4	0x0A24
-English DTE	而	8EA7	Xi	8EA7	0x0A27
-English DTE	耳	8EA8	Xs	8EA8	0x0A28
-English DTE	蒔	8EAA	Y 	8EAA	0x0A2A
-English DTE	辞	8EAB	Y!	8EAB	0x0A2B
-English DTE	汐	8EAC	Y,	8EAC	0x0A2C
-English DTE	鴫	8EB0	Y-	8EB0	0x0A30
-English DTE	竺	8EB1	Y.	8EB1	0x0A31
-English DTE	宍	8EB3	Y?	8EB3	0x0A33
-English DTE	雫	8EB4	YP	8EB4	0x0A34
-English DTE	叱	8EB6	YS	8EB6	0x0A36
-English DTE	悉	8EBB	YY	8EBB	0x0A3B
-English DTE	漆	8EBD	Ya	8EBD	0x0A3D
-English DTE	疾	8EBE	Ye	8EBE	0x0A3E
-English DTE	蔀	8EC1	Yi	8EC1	0x0A41
-English DTE	篠	8EC2	Yo	8EC2	0x0A42
-English DTE	偲	8EC3	Yu	8EC3	0x0A43
-English DTE	柴	8EC4	Z 	8EC4	0x0A44
-English DTE	屡	8EC6	Z!	8EC6	0x0A46
-English DTE	蕊	8EC7	Z,	8EC7	0x0A47
-English DTE	縞	8EC8	Z-	8EC8	0x0A48
-English DTE	舎	8EC9	Z.	8EC9	0x0A49
-English DTE	写	8ECA	Z0	8ECA	0x0A4A
-English DTE	赦	8ECD	Z2	8ECD	0x0A4D
-English DTE	斜	8ECE	Z?	8ECE	0x0A4E
-English DTE	煮	8ECF	ZZ	8ECF	0x0A4F
-English DTE	紗	8ED1	Za	8ED1	0x0A51
-English DTE	遮	8ED5	Ze	8ED5	0x0A55
-English DTE	蛇	8ED6	Zh	8ED6	0x0A56
-English DTE	勺	8ED9	Zi	8ED9	0x0A59
-English DTE	尺	8EDA	Zo	8EDA	0x0A5A
-English DTE	杓	8EDB	Zu	8EDB	0x0A5B
-English DTE	灼	8EDC	Zw	8EDC	0x0A5C
-English DTE	爵	8EDD	_0	8EDD	0x0A5D
-English DTE	酌	8EDE	_1	8EDE	0x0A5E
-English DTE	釈	8EDF	_2	8EDF	0x0A5F
-English DTE	錫	8EE0	_3	8EE0	0x0A60
-English DTE	惹	8EE4	_4	8EE4	0x0A64
-English DTE	朱	8EE9	_5	8EE9	0x0A69
-English DTE	狩	8EEB	_6	8EEB	0x0A6B
-English DTE	珠	8EEC	_7	8EEC	0x0A6C
-English DTE	腫	8EEE	_8	8EEE	0x0A6E
-English DTE	酒	8EF0	_9	8EF0	0x0A70
-English DTE	儒	8EF2	_A	8EF2	0x0A72
-English DTE	寿	8EF5	_B	8EF5	0x0A75
-English DTE	樹	8EF7	_D	8EF7	0x0A77
-English DTE	綬	8EF8	_E	8EF8	0x0A78
-English DTE	需	8EF9	_G	8EF9	0x0A79
-English DTE	囚	8EFA	_K	8EFA	0x0A7A
-English DTE	洲	8F46	_M	8F46	0x0A86
-English DTE	秀	8F47	_S	8F47	0x0A87
-English DTE	秋	8F48	_Y	8F48	0x0A88
-English DTE	繍	8F4A	_s	8F4A	0x0A8A
-English DTE	臭	8F4C	a 	8F4C	0x0A8C
-English DTE	蒐	8F4E	a!	8F4E	0x0A8E
-English DTE	衆	8F4F	"a"""	8F4F	0x0A8F
-English DTE	蹴	8F52	a&	8F52	0x0A92
-English DTE	輯	8F53	a'	8F53	0x0A93
-English DTE	酋	8F55	a(	8F55	0x0A95
-English DTE	什	8F59	a)	8F59	0x0A99
-English DTE	戎	8F5E	a,	8F5E	0x0A9E
-English DTE	柔	8F5F	a-	8F5F	0x0A9F
-English DTE	汁	8F60	a.	8F60	0x0AA0
-English DTE	渋	8F61	a?	8F61	0x0AA1
-English DTE	銃	8F65	aM	8F65	0x0AA5
-English DTE	叔	8F66	aa	8F66	0x0AA6
-English DTE	夙	8F67	ab	8F67	0x0AA7
-English DTE	淑	8F69	ac	8F69	0x0AA9
-English DTE	粛	8F6C	ad	8F6C	0x0AAC
-English DTE	塾	8F6D	ae	8F6D	0x0AAD
-English DTE	述	8F71	af	8F71	0x0AB1
-English DTE	俊	8F72	ag	8F72	0x0AB2
-English DTE	峻	8F73	ah	8F73	0x0AB3
-English DTE	春	8F74	ai	8F74	0x0AB4
-English DTE	竣	8F76	aj	8F76	0x0AB6
-English DTE	舜	8F77	ak	8F77	0x0AB7
-English DTE	駿	8F78	al	8F78	0x0AB8
-English DTE	准	8F79	am	8F79	0x0AB9
-English DTE	循	8F7A	an	8F7A	0x0ABA
-English DTE	旬	8F7B	ao	8F7B	0x0ABB
-English DTE	淳	8F7E	ap	8F7E	0x0ABE
-English DTE	巡	8F84	aq	8F84	0x0AC4
-English DTE	遵	8F85	ar	8F85	0x0AC5
-English DTE	醇	8F86	as	8F86	0x0AC6
-English DTE	暑	8F8B	at	8F8B	0x0ACB
-English DTE	渚	8F8D	au	8F8D	0x0ACD
-English DTE	庶	8F8E	av	8F8E	0x0ACE
-English DTE	署	8F90	aw	8F90	0x0AD0
-English DTE	薯	8F92	ax	8F92	0x0AD2
-English DTE	藷	8F93	ay	8F93	0x0AD3
-English DTE	叙	8F96	az	8F96	0x0AD6
-English DTE	徐	8F99	a~	8F99	0x0AD9
-English DTE	恕	8F9A	b 	8F9A	0x0ADA
-English DTE	鋤	8F9B	b!	8F9B	0x0ADB
-English DTE	償	8F9E	b)	8F9E	0x0ADE
-English DTE	匠	8FA0	b,	8FA0	0x0AE0
-English DTE	升	8FA1	b-	8FA1	0x0AE1
-English DTE	召	8FA2	b.	8FA2	0x0AE2
-English DTE	哨	8FA3	b?	8FA3	0x0AE3
-English DTE	唱	8FA5	ba	8FA5	0x0AE5
-English DTE	嘗	8FA6	bb	8FA6	0x0AE6
-English DTE	奨	8FA7	bc	8FA7	0x0AE7
-English DTE	妾	8FA8	bd	8FA8	0x0AE8
-English DTE	娼	8FA9	be	8FA9	0x0AE9
-English DTE	宵	8FAA	bi	8FAA	0x0AEA
-English DTE	庄	8FAF	bj	8FAF	0x0AEF
-English DTE	廠	8FB1	bl	8FB1	0x0AF1
-English DTE	彰	8FB2	bm	8FB2	0x0AF2
-English DTE	抄	8FB4	bn	8FB4	0x0AF4
-English DTE	招	8FB5	bo	8FB5	0x0AF5
-English DTE	掌	8FB6	br	8FB6	0x0AF6
-English DTE	捷	8FB7	bs	8FB7	0x0AF7
-English DTE	昌	8FB9	bt	8FB9	0x0AF9
-English DTE	昭	8FBA	bu	8FBA	0x0AFA
-English DTE	松	8FBC	bv	8FBC	0x0AFC
-English DTE	梢	8FBD	by	8FBD	0x0AFD
-English DTE	樟	8FBE	c 	8FBE	0x0AFE
-English DTE	樵	8FBF	c!	8FBF	0x0AFF
-English DTE	沼	8FC0	c,	8FC0	0x0B00
-English DTE	湘	8FC3	c.	8FC3	0x0B03
-English DTE	焼	8FC4	c?	8FC4	0x0B04
-English DTE	省	8FC8	cC	8FC8	0x0B08
-English DTE	硝	8FC9	ca	8FC9	0x0B09
-English DTE	礁	8FCA	cc	8FCA	0x0B0A
-English DTE	祥	8FCB	ce	8FCB	0x0B0B
-English DTE	章	8FCD	ch	8FCD	0x0B0D
-English DTE	粧	8FCF	ci	8FCF	0x0B0F
-English DTE	紹	8FD0	ck	8FD0	0x0B10
-English DTE	肖	8FD1	cl	8FD1	0x0B11
-English DTE	菖	8FD2	co	8FD2	0x0B12
-English DTE	蒋	8FD3	cq	8FD3	0x0B13
-English DTE	蕉	8FD4	cr	8FD4	0x0B14
-English DTE	裳	8FD6	cs	8FD6	0x0B16
-English DTE	訟	8FD7	ct	8FD7	0x0B17
-English DTE	詔	8FD9	cu	8FD9	0x0B19
-English DTE	賞	8FDC	cy	8FDC	0x0B1C
-English DTE	醤	8FDD	d 	8FDD	0x0B1D
-English DTE	鉦	8FDE	d!	8FDE	0x0B1E
-English DTE	鍾	8FDF	"d"""	8FDF	0x0B1F
-English DTE	鐘	8FE0	d'	8FE0	0x0B20
-English DTE	鞘	8FE2	d(	8FE2	0x0B22
-English DTE	丞	8FE5	d)	8FE5	0x0B25
-English DTE	壌	8FEB	d,	8FEB	0x0B2B
-English DTE	擾	8FEF	d-	8FEF	0x0B2F
-English DTE	杖	8FF1	d.	8FF1	0x0B31
-English DTE	畳	8FF4	d:	8FF4	0x0B34
-English DTE	穣	8FF5	d>	8FF5	0x0B35
-English DTE	蒸	8FF6	d?	8FF6	0x0B36
-English DTE	譲	8FF7	da	8FF7	0x0B37
-English DTE	醸	8FF8	db	8FF8	0x0B38
-English DTE	錠	8FF9	dc	8FF9	0x0B39
-English DTE	嘱	8FFA	dd	8FFA	0x0B3A
-English DTE	埴	8FFB	de	8FFB	0x0B3B
-English DTE	燭	9043	df	9043	0x0B43
-English DTE	伸	904C	dg	904C	0x0B4C
-English DTE	唇	904F	dh	904F	0x0B4F
-English DTE	娠	9050	di	9050	0x0B50
-English DTE	審	9052	dj	9052	0x0B52
-English DTE	慎	9054	dl	9054	0x0B54
-English DTE	晋	9057	dm	9057	0x0B57
-English DTE	森	9058	dn	9058	0x0B58
-English DTE	榛	9059	do	9059	0x0B59
-English DTE	疹	905D	dp	905D	0x0B5D
-English DTE	秦	9060	dq	9060	0x0B60
-English DTE	紳	9061	dr	9061	0x0B61
-English DTE	芯	9063	ds	9063	0x0B63
-English DTE	薪	9064	du	9064	0x0B64
-English DTE	診	9066	dv	9066	0x0B66
-English DTE	辛	9068	dw	9068	0x0B68
-English DTE	仁	906D	dy	906D	0x0B6D
-English DTE	尋	9071	e 	9071	0x0B71
-English DTE	腎	9074	e!	9074	0x0B74
-English DTE	笥	9079	"e"""	9079	0x0B79
-English DTE	酢	907C	e'	907C	0x0B7C
-English DTE	厨	907E	e(	907E	0x0B7E
-English DTE	逗	9080	e)	9080	0x0B80
-English DTE	推	9084	e,	9084	0x0B84
-English DTE	睡	9087	e-	9087	0x0B87
-English DTE	粋	9088	e.	9088	0x0B88
-English DTE	酔	908C	e:	908C	0x0B8C
-English DTE	錐	908D	e?	908D	0x0B8D
-English DTE	嵩	9093	eS	9093	0x0B93
-English DTE	杉	9099	ea	9099	0x0B99
-English DTE	椙	909A	eb	909A	0x0B9A
-English DTE	菅	909B	ec	909B	0x0B9B
-English DTE	頗	909C	ed	909C	0x0B9C
-English DTE	澄	909F	ee	909F	0x0B9F
-English DTE	摺	90A0	ef	90A0	0x0BA0
-English DTE	寸	90A1	eg	90A1	0x0BA1
-English DTE	瀬	90A3	eh	90A3	0x0BA3
-English DTE	棲	90B1	ei	90B1	0x0BB1
-English DTE	栖	90B2	ej	90B2	0x0BB2
-English DTE	牲	90B5	ek	90B5	0x0BB5
-English DTE	聖	90B9	el	90B9	0x0BB9
-English DTE	逝	90C0	em	90C0	0x0BC0
-English DTE	税	90C5	en	90C5	0x0BC5
-English DTE	隻	90C7	eo	90C7	0x0BC7
-English DTE	席	90C8	ep	90C8	0x0BC8
-English DTE	斥	90CB	eq	90CB	0x0BCB
-English DTE	籍	90D0	er	90D0	0x0BD0
-English DTE	脊	90D2	es	90D2	0x0BD2
-English DTE	碩	90D7	et	90D7	0x0BD7
-English DTE	拙	90D9	eu	90D9	0x0BD9
-English DTE	摂	90DB	ev	90DB	0x0BDB
-English DTE	節	90DF	ew	90DF	0x0BDF
-English DTE	蝉	90E4	ex	90E4	0x0BE4
-English DTE	仙	90E5	ey	90E5	0x0BE5
-English DTE	尖	90EB	ez	90EB	0x0BEB
-English DTE	繊	9140	e~	9140	0x0C00
-English DTE	羨	9141	f 	9141	0x0C01
-English DTE	腺	9142	f!	9142	0x0C02
-English DTE	舛	9143	f'	9143	0x0C03
-English DTE	薦	9145	f,	9145	0x0C05
-English DTE	賎	9147	f-	9147	0x0C07
-English DTE	践	9148	f.	9148	0x0C08
-English DTE	銑	914C	f?	914C	0x0C0C
-English DTE	鮮	914E	fa	914E	0x0C0E
-English DTE	善	9150	fe	9150	0x0C10
-English DTE	漸	9151	ff	9151	0x0C11
-English DTE	禅	9154	fi	9154	0x0C14
-English DTE	繕	9155	fl	9155	0x0C15
-English DTE	膳	9156	fn	9156	0x0C16
-English DTE	糎	9157	fo	9157	0x0C17
-English DTE	噌	9158	fr	9158	0x0C18
-English DTE	塑	9159	fs	9159	0x0C19
-English DTE	岨	915A	ft	915A	0x0C1A
-English DTE	措	915B	fu	915B	0x0C1B
-English DTE	曾	915C	fy	915C	0x0C1C
-English DTE	曽	915D	f~	915D	0x0C1D
-English DTE	楚	915E	g 	915E	0x0C1E
-English DTE	礎	9162	g!	9162	0x0C22
-English DTE	祖	9163	"g"""	9163	0x0C23
-English DTE	租	9164	g'	9164	0x0C24
-English DTE	粗	9165	g(	9165	0x0C25
-English DTE	訴	9169	g)	9169	0x0C29
-English DTE	遡	916B	g,	916B	0x0C2B
-English DTE	鼠	916C	g-	916C	0x0C2C
-English DTE	創	916E	g.	916E	0x0C2E
-English DTE	双	916F	g?	916F	0x0C2F
-English DTE	叢	9170	ga	9170	0x0C30
-English DTE	倉	9171	gb	9171	0x0C31
-English DTE	喪	9172	gd	9172	0x0C32
-English DTE	奏	9174	ge	9174	0x0C34
-English DTE	爽	9175	gg	9175	0x0C35
-English DTE	宋	9176	gh	9176	0x0C36
-English DTE	匝	9178	gi	9178	0x0C38
-English DTE	掃	917C	gl	917C	0x0C3C
-English DTE	掻	917E	gm	917E	0x0C3E
-English DTE	槍	9184	gn	9184	0x0C44
-English DTE	槽	9185	go	9185	0x0C45
-English DTE	漕	9186	gq	9186	0x0C46
-English DTE	痩	9189	gr	9189	0x0C49
-English DTE	聡	918F	gs	918F	0x0C4F
-English DTE	葬	9192	gt	9192	0x0C52
-English DTE	蒼	9193	gu	9193	0x0C53
-English DTE	鎗	9199	gw	9199	0x0C59
-English DTE	霜	919A	gy	919A	0x0C5A
-English DTE	騒	919B	gz	919B	0x0C5B
-English DTE	像	919C	h 	919C	0x0C5C
-English DTE	臓	919F	h!	919F	0x0C5F
-English DTE	贈	91A1	h'	91A1	0x0C61
-English DTE	則	91A5	h(	91A5	0x0C65
-English DTE	即	91A6	h)	91A6	0x0C66
-English DTE	捉	91A8	h,	91A8	0x0C68
-English DTE	測	91AA	h-	91AA	0x0C6A
-English DTE	俗	91AD	h.	91AD	0x0C6D
-English DTE	卒	91B2	h?	91B2	0x0C72
-English DTE	袖	91B3	ha	91B3	0x0C73
-English DTE	其	91B4	hb	91B4	0x0C74
-English DTE	孫	91B7	hc	91B7	0x0C77
-English DTE	尊	91B8	hd	91B8	0x0C78
-English DTE	村	91BA	he	91BA	0x0C7A
-English DTE	遜	91BB	hg	91BB	0x0C7B
-English DTE	汰	91BF	hh	91BF	0x0C7F
-English DTE	詑	91C0	hi	91C0	0x0C80
-English DTE	唾	91C1	hl	91C1	0x0C81
-English DTE	妥	91C3	hm	91C3	0x0C83
-English DTE	惰	91C4	hn	91C4	0x0C84
-English DTE	柁	91C6	ho	91C6	0x0C86
-English DTE	舵	91C7	hp	91C7	0x0C87
-English DTE	楕	91C8	hq	91C8	0x0C88
-English DTE	陀	91C9	hr	91C9	0x0C89
-English DTE	騨	91CB	hs	91CB	0x0C8B
-English DTE	堆	91CD	ht	91CD	0x0C8D
-English DTE	岱	91D0	hu	91D0	0x0C90
-English DTE	帯	91D1	hw	91D1	0x0C91
-English DTE	怠	91D3	hy	91D3	0x0C93
-English DTE	戴	91D5	h~	91D5	0x0C95
-English DTE	泰	91D7	i 	91D7	0x0C97
-English DTE	滞	91D8	i!	91D8	0x0C98
-English DTE	胎	91D9	i'	91D9	0x0C99
-English DTE	腿	91DA	i(	91DA	0x0C9A
-English DTE	苔	91DB	i,	91DB	0x0C9B
-English DTE	貸	91DD	i-	91DD	0x0C9D
-English DTE	黛	91E1	i.	91E1	0x0CA1
-English DTE	鯛	91E2	i<	91E2	0x0CA2
-English DTE	醍	91E7	i?	91E7	0x0CA7
-English DTE	鷹	91E9	iG	91E9	0x0CA9
-English DTE	滝	91EA	iM	91EA	0x0CAA
-English DTE	瀧	91EB	ia	91EB	0x0CAB
-English DTE	卓	91EC	ib	91EC	0x0CAC
-English DTE	啄	91ED	ic	91ED	0x0CAD
-English DTE	托	91EF	id	91EF	0x0CAF
-English DTE	拓	91F1	ie	91F1	0x0CB1
-English DTE	沢	91F2	if	91F2	0x0CB2
-English DTE	濯	91F3	ig	91F3	0x0CB3
-English DTE	琢	91F4	ih	91F4	0x0CB4
-English DTE	託	91F5	ii	91F5	0x0CB5
-English DTE	濁	91F7	ij	91F7	0x0CB7
-English DTE	茸	91F9	ik	91F9	0x0CB9
-English DTE	凧	91FA	il	91FA	0x0CBA
-English DTE	蛸	91FB	im	91FB	0x0CBB
-English DTE	但	9241	in	9241	0x0CC1
-English DTE	辰	9243	io	9243	0x0CC3
-English DTE	巽	9246	ip	9246	0x0CC6
-English DTE	竪	9247	iq	9247	0x0CC7
-English DTE	辿	9248	ir	9248	0x0CC8
-English DTE	棚	9249	is	9249	0x0CC9
-English DTE	狸	924B	it	924B	0x0CCB
-English DTE	鱈	924C	iu	924C	0x0CCC
-English DTE	樽	924D	iv	924D	0x0CCD
-English DTE	丹	924F	iw	924F	0x0CCF
-English DTE	嘆	9251	ix	9251	0x0CD1
-English DTE	坦	9252	iy	9252	0x0CD2
-English DTE	担	9253	iz	9253	0x0CD3
-English DTE	歎	9256	j,	9256	0x0CD6
-English DTE	淡	9257	j.	9257	0x0CD7
-English DTE	湛	9258	ja	9258	0x0CD8
-English DTE	炭	9259	je	9259	0x0CD9
-English DTE	箪	925C	jg	925C	0x0CDC
-English DTE	綻	925D	ji	925D	0x0CDD
-English DTE	耽	925E	jj	925E	0x0CDE
-English DTE	胆	925F	jo	925F	0x0CDF
-English DTE	蛋	9260	ju	9260	0x0CE0
-English DTE	壇	9264	jy	9264	0x0CE4
-English DTE	暖	9267	k 	9267	0x0CE7
-English DTE	檀	9268	k!	9268	0x0CE8
-English DTE	弛	926F	k'	926F	0x0CEF
-English DTE	恥	9270	k,	9270	0x0CF0
-English DTE	智	9271	k-	9271	0x0CF1
-English DTE	池	9272	k.	9272	0x0CF2
-English DTE	痴	9273	k?	9273	0x0CF3
-English DTE	稚	9274	ka	9274	0x0CF4
-English DTE	蜘	9277	kb	9277	0x0CF7
-English DTE	馳	9279	kc	9279	0x0CF9
-English DTE	畜	927B	ke	927B	0x0CFB
-English DTE	竹	927C	kf	927C	0x0CFC
-English DTE	筑	927D	kh	927D	0x0CFD
-English DTE	蓄	927E	ki	927E	0x0CFE
-English DTE	逐	9280	kk	9280	0x0D00
-English DTE	嫡	9284	kl	9284	0x0D04
-English DTE	抽	928A	km	928A	0x0D0A
-English DTE	昼	928B	kn	928B	0x0D0B
-English DTE	虫	928E	ko	928E	0x0D0E
-English DTE	衷	928F	kp	928F	0x0D0F
-English DTE	註	9290	kr	9290	0x0D10
-English DTE	樗	9294	ks	9294	0x0D14
-English DTE	瀦	9295	kt	9295	0x0D15
-English DTE	苧	9297	ku	9297	0x0D17
-English DTE	著	9298	kw	9298	0x0D18
-English DTE	貯	9299	ky	9299	0x0D19
-English DTE	凋	929C	l 	929C	0x0D1C
-English DTE	喋	929D	l!	929D	0x0D1D
-English DTE	寵	929E	"l"""	929E	0x0D1E
-English DTE	帖	929F	l'	929F	0x0D1F
-English DTE	帳	92A0	l(	92A0	0x0D20
-English DTE	庁	92A1	l)	92A1	0x0D21
-English DTE	弔	92A2	l,	92A2	0x0D22
-English DTE	彫	92A4	l-	92A4	0x0D24
-English DTE	徴	92A5	l.	92A5	0x0D25
-English DTE	懲	92A6	l:	92A6	0x0D26
-English DTE	暢	92A8	l?	92A8	0x0D28
-English DTE	朝	92A9	la	92A9	0x0D29
-English DTE	潮	92AA	lb	92AA	0x0D2A
-English DTE	牒	92AB	lc	92AB	0x0D2B
-English DTE	町	92AC	ld	92AC	0x0D2C
-English DTE	眺	92AD	le	92AD	0x0D2D
-English DTE	聴	92AE	lf	92AE	0x0D2E
-English DTE	脹	92AF	lg	92AF	0x0D2F
-English DTE	腸	92B0	lh	92B0	0x0D30
-English DTE	蝶	92B1	li	92B1	0x0D31
-English DTE	跳	92B5	lk	92B5	0x0D35
-English DTE	銚	92B6	ll	92B6	0x0D36
-English DTE	頂	92B8	lm	92B8	0x0D38
-English DTE	勅	92BA	ln	92BA	0x0D3A
-English DTE	捗	92BB	lo	92BB	0x0D3B
-English DTE	朕	92BD	lp	92BD	0x0D3D
-English DTE	珍	92BF	lr	92BF	0x0D3F
-English DTE	賃	92C0	ls	92C0	0x0D40
-English DTE	鎮	92C1	lt	92C1	0x0D41
-English DTE	陳	92C2	lu	92C2	0x0D42
-English DTE	椎	92C5	lv	92C5	0x0D45
-English DTE	鎚	92C8	lw	92C8	0x0D48
-English DTE	塚	92CB	ly	92CB	0x0D4B
-English DTE	栂	92CC	lz	92CC	0x0D4C
-English DTE	掴	92CD	m 	92CD	0x0D4D
-English DTE	槻	92CE	m!	92CE	0x0D4E
-English DTE	佃	92CF	m'	92CF	0x0D4F
-English DTE	漬	92D0	m(	92D0	0x0D50
-English DTE	柘	92D1	m)	92D1	0x0D51
-English DTE	辻	92D2	m,	92D2	0x0D52
-English DTE	蔦	92D3	m-	92D3	0x0D53
-English DTE	綴	92D4	m.	92D4	0x0D54
-English DTE	椿	92D6	m<	92D6	0x0D56
-English DTE	潰	92D7	m?	92D7	0x0D57
-English DTE	坪	92D8	ma	92D8	0x0D58
-English DTE	壷	92D9	mb	92D9	0x0D59
-English DTE	嬬	92DA	me	92DA	0x0D5A
-English DTE	紬	92DB	mf	92DB	0x0D5B
-English DTE	爪	92DC	mi	92DC	0x0D5C
-English DTE	吊	92DD	ml	92DD	0x0D5D
-English DTE	釣	92DE	mm	92DE	0x0D5E
-English DTE	鶴	92DF	mn	92DF	0x0D5F
-English DTE	亭	92E0	mo	92E0	0x0D60
-English DTE	剃	92E4	mp	92E4	0x0D64
-English DTE	貞	92E5	mr	92E5	0x0D65
-English DTE	呈	92E6	ms	92E6	0x0D66
-English DTE	堤	92E7	mt	92E7	0x0D67
-English DTE	庭	92EB	mu	92EB	0x0D6B
-English DTE	廷	92EC	my	92EC	0x0D6C
-English DTE	弟	92ED	n 	92ED	0x0D6D
-English DTE	悌	92EE	n!	92EE	0x0D6E
-English DTE	抵	92EF	"n"""	92EF	0x0D6F
-English DTE	挺	92F0	n'	92F0	0x0D70
-English DTE	梯	92F2	n(	92F2	0x0D72
-English DTE	汀	92F3	n)	92F3	0x0D73
-English DTE	碇	92F4	n,	92F4	0x0D74
-English DTE	禎	92F5	n-	92F5	0x0D75
-English DTE	締	92F7	n.	92F7	0x0D77
-English DTE	艇	92F8	n/	92F8	0x0D78
-English DTE	訂	92F9	n:	92F9	0x0D79
-English DTE	諦	92FA	n?	92FA	0x0D7A
-English DTE	蹄	92FB	nK	92FB	0x0D7B
-English DTE	逓	92FC	nT	92FC	0x0D7C
-English DTE	邸	9340	na	9340	0x0D80
-English DTE	鄭	9341	nb	9341	0x0D81
-English DTE	釘	9342	nc	9342	0x0D82
-English DTE	鼎	9343	nd	9343	0x0D83
-English DTE	泥	9344	ne	9344	0x0D84
-English DTE	摘	9345	nf	9345	0x0D85
-English DTE	滴	9348	ng	9348	0x0D88
-English DTE	笛	934A	nh	934A	0x0D8A
-English DTE	鏑	934C	ni	934C	0x0D8C
-English DTE	溺	934D	nj	934D	0x0D8D
-English DTE	哲	934E	nk	934E	0x0D8E
-English DTE	轍	9351	nl	9351	0x0D91
-English DTE	迭	9352	nm	9352	0x0D92
-English DTE	店	9358	nn	9358	0x0D98
-English DTE	添	9359	no	9359	0x0D99
-English DTE	纏	935A	np	935A	0x0D9A
-English DTE	甜	935B	nq	935B	0x0D9B
-English DTE	貼	935C	nr	935C	0x0D9C
-English DTE	顛	935E	ns	935E	0x0D9E
-English DTE	殿	9361	nt	9361	0x0DA1
-English DTE	澱	9362	nu	9362	0x0DA2
-English DTE	吐	9366	nv	9366	0x0DA6
-English DTE	堵	9367	nw	9367	0x0DA7
-English DTE	塗	9368	nx	9368	0x0DA8
-English DTE	屠	936A	ny	936A	0x0DAA
-English DTE	徒	936B	nz	936B	0x0DAB
-English DTE	斗	936C	o 	936C	0x0DAC
-English DTE	杜	936D	o!	936D	0x0DAD
-English DTE	菟	9370	o'	9370	0x0DB0
-English DTE	鍍	9374	o(	9374	0x0DB4
-English DTE	砥	9375	o)	9375	0x0DB5
-English DTE	砺	9376	o,	9376	0x0DB6
-English DTE	凍	9380	o-	9380	0x0DC0
-English DTE	塘	9384	o.	9384	0x0DC4
-English DTE	套	9385	o?	9385	0x0DC5
-English DTE	宕	9386	oG	9386	0x0DC6
-English DTE	桃	938D	oM	938D	0x0DCD
-English DTE	湯	9392	oS	9392	0x0DD2
-English DTE	祷	9398	oa	9398	0x0DD8
-English DTE	筒	939B	ob	939B	0x0DDB
-English DTE	糖	939C	oc	939C	0x0DDC
-English DTE	董	939F	od	939F	0x0DDF
-English DTE	蕩	93A0	oe	93A0	0x0DE0
-English DTE	藤	93A1	of	93A1	0x0DE1
-English DTE	謄	93A3	og	93A3	0x0DE3
-English DTE	豆	93A4	oh	93A4	0x0DE4
-English DTE	踏	93A5	oi	93A5	0x0DE5
-English DTE	透	93A7	oj	93A7	0x0DE7
-English DTE	鐙	93A8	ok	93A8	0x0DE8
-English DTE	陶	93A9	ol	93A9	0x0DE9
-English DTE	騰	93AB	om	93AB	0x0DEB
-English DTE	憧	93B2	on	93B2	0x0DF2
-English DTE	撞	93B3	oo	93B3	0x0DF3
-English DTE	瞳	93B5	op	93B5	0x0DF5
-English DTE	童	93B6	oq	93B6	0x0DF6
-English DTE	胴	93B7	or	93B7	0x0DF7
-English DTE	萄	93B8	os	93B8	0x0DF8
-English DTE	峠	93BB	ot	93BB	0x0DFB
-English DTE	鴇	93BC	ou	93BC	0x0DFC
-English DTE	匿	93BD	ov	93BD	0x0DFD
-English DTE	徳	93BF	ow	93BF	0x0DFF
-English DTE	涜	93C0	ox	93C0	0x0E00
-English DTE	禿	93C3	oy	93C3	0x0E03
-English DTE	篤	93C4	oz	93C4	0x0E04
-English DTE	毒	93C5	o~	93C5	0x0E05
-English DTE	栃	93C8	p 	93C8	0x0E08
-English DTE	橡	93C9	p!	93C9	0x0E09
-English DTE	凸	93CA	p'	93CA	0x0E0A
-English DTE	椴	93CC	p,	93CC	0x0E0C
-English DTE	鳶	93CE	p-	93CE	0x0E0E
-English DTE	寅	93D0	p.	93D0	0x0E10
-English DTE	酉	93D1	p?	93D1	0x0E11
-English DTE	瀞	93D2	pM	93D2	0x0E12
-English DTE	噸	93D3	pa	93D3	0x0E13
-English DTE	屯	93D4	pb	93D4	0x0E14
-English DTE	惇	93D5	pe	93D5	0x0E15
-English DTE	敦	93D6	pf	93D6	0x0E16
-English DTE	沌	93D7	pg	93D7	0x0E17
-English DTE	豚	93D8	ph	93D8	0x0E18
-English DTE	遁	93D9	pi	93D9	0x0E19
-English DTE	頓	93DA	pl	93DA	0x0E1A
-English DTE	呑	93DB	pm	93DB	0x0E1B
-English DTE	曇	93DC	pn	93DC	0x0E1C
-English DTE	那	93DF	po	93DF	0x0E1F
-English DTE	乍	93E1	pp	93E1	0x0E21
-English DTE	凪	93E2	pr	93E2	0x0E22
-English DTE	薙	93E3	ps	93E3	0x0E23
-English DTE	灘	93E5	pt	93E5	0x0E25
-English DTE	捺	93E6	pu	93E6	0x0E26
-English DTE	鍋	93E7	pw	93E7	0x0E27
-English DTE	楢	93E8	py	93E8	0x0E28
-English DTE	馴	93E9	p~	93E9	0x0E29
-English DTE	畷	93EB	q.	93EB	0x0E2B
-English DTE	楠	93ED	qu	93ED	0x0E2D
-English DTE	汝	93F0	r 	93F0	0x0E30
-English DTE	尼	93F2	r!	93F2	0x0E32
-English DTE	弐	93F3	"r"""	93F3	0x0E33
-English DTE	迩	93F4	r'	93F4	0x0E34
-English DTE	匂	93F5	r(	93F5	0x0E35
-English DTE	賑	93F6	r)	93F6	0x0E36
-English DTE	虹	93F8	r,	93F8	0x0E38
-English DTE	廿	93F9	r-	93F9	0x0E39
-English DTE	乳	93FB	r.	93FB	0x0E3B
-English DTE	尿	9441	r:	9441	0x0E41
-English DTE	韮	9442	r<	9442	0x0E42
-English DTE	妊	9444	r?	9444	0x0E44
-English DTE	濡	9447	rG	9447	0x0E47
-English DTE	禰	9448	ra	9448	0x0E48
-English DTE	祢	9449	rb	9449	0x0E49
-English DTE	寧	944A	rc	944A	0x0E4A
-English DTE	葱	944B	rd	944B	0x0E4B
-English DTE	猫	944C	re	944C	0x0E4C
-English DTE	捻	9450	rf	9450	0x0E50
-English DTE	撚	9451	rg	9451	0x0E51
-English DTE	粘	9453	rh	9453	0x0E53
-English DTE	乃	9454	ri	9454	0x0E54
-English DTE	廼	9455	rj	9455	0x0E55
-English DTE	之	9456	rk	9456	0x0E56
-English DTE	埜	9457	rl	9457	0x0E57
-English DTE	嚢	9458	rm	9458	0x0E58
-English DTE	膿	945E	rn	945E	0x0E5E
-English DTE	農	945F	ro	945F	0x0E5F
-English DTE	覗	9460	rp	9460	0x0E60
-English DTE	蚤	9461	rq	9461	0x0E61
-English DTE	巴	9462	rr	9462	0x0E62
-English DTE	把	9463	rs	9463	0x0E63
-English DTE	播	9464	rt	9464	0x0E64
-English DTE	覇	9465	ru	9465	0x0E65
-English DTE	杷	9466	rv	9466	0x0E66
-English DTE	琶	9469	rw	9469	0x0E69
-English DTE	婆	946B	rx	946B	0x0E6B
-English DTE	罵	946C	ry	946C	0x0E6C
-English DTE	芭	946D	s 	946D	0x0E6D
-English DTE	俳	946F	s!	946F	0x0E6F
-English DTE	廃	9470	"s"""	9470	0x0E70
-English DTE	拝	9471	s'	9471	0x0E71
-English DTE	排	9472	s(	9472	0x0E72
-English DTE	杯	9474	s)	9474	0x0E74
-English DTE	盃	9475	s,	9475	0x0E75
-English DTE	牌	9476	s-	9476	0x0E76
-English DTE	肺	9478	s.	9478	0x0E78
-English DTE	輩	9479	s/	9479	0x0E79
-English DTE	培	947C	s:	947C	0x0E7C
-English DTE	媒	947D	s<	947D	0x0E7D
-English DTE	梅	947E	s>	947E	0x0E7E
-English DTE	楳	9480	s?	9480	0x0E80
-English DTE	賠	9485	sa	9485	0x0E85
-English DTE	陪	9486	sb	9486	0x0E86
-English DTE	這	9487	sc	9487	0x0E87
-English DTE	蝿	9488	sd	9488	0x0E88
-English DTE	萩	948B	se	948B	0x0E8B
-English DTE	剥	948D	sf	948D	0x0E8D
-English DTE	拍	948F	sg	948F	0x0E8F
-English DTE	柏	9490	sh	9490	0x0E90
-English DTE	箔	9493	si	9493	0x0E93
-English DTE	粕	9494	sk	9494	0x0E94
-English DTE	曝	9498	sl	9498	0x0E98
-English DTE	漠	9499	sm	9499	0x0E99
-English DTE	莫	949C	sn	949C	0x0E9C
-English DTE	駁	949D	so	949D	0x0E9D
-English DTE	麦	949E	sp	949E	0x0E9E
-English DTE	函	949F	sq	949F	0x0E9F
-English DTE	箱	94A0	sr	94A0	0x0EA0
-English DTE	硲	94A1	ss	94A1	0x0EA1
-English DTE	箸	94A2	st	94A2	0x0EA2
-English DTE	肇	94A3	su	94A3	0x0EA3
-English DTE	筈	94A4	sw	94A4	0x0EA4
-English DTE	櫨	94A5	sy	94A5	0x0EA5
-English DTE	幡	94A6	t 	94A6	0x0EA6
-English DTE	肌	94A7	t!	94A7	0x0EA7
-English DTE	畑	94A8	t'	94A8	0x0EA8
-English DTE	畠	94A9	t(	94A9	0x0EA9
-English DTE	八	94AA	t)	94AA	0x0EAA
-English DTE	鉢	94AB	t,	94AB	0x0EAB
-English DTE	溌	94AC	t-	94AC	0x0EAC
-English DTE	醗	94AE	t.	94AE	0x0EAE
-English DTE	伐	94B0	t/	94B0	0x0EB0
-English DTE	罰	94B1	t:	94B1	0x0EB1
-English DTE	筏	94B3	t?	94B3	0x0EB3
-English DTE	閥	94B4	ta	94B4	0x0EB4
-English DTE	鳩	94B5	tb	94B5	0x0EB5
-English DTE	噺	94B6	tc	94B6	0x0EB6
-English DTE	塙	94B7	td	94B7	0x0EB7
-English DTE	蛤	94B8	te	94B8	0x0EB8
-English DTE	伴	94BA	tf	94BA	0x0EBA
-English DTE	叛	94BE	tg	94BE	0x0EBE
-English DTE	帆	94BF	th	94BF	0x0EBF
-English DTE	搬	94C0	ti	94C0	0x0EC0
-English DTE	斑	94C1	tk	94C1	0x0EC1
-English DTE	板	94C2	tl	94C2	0x0EC2
-English DTE	氾	94C3	tm	94C3	0x0EC3
-English DTE	汎	94C4	tn	94C4	0x0EC4
-English DTE	班	94C7	to	94C7	0x0EC7
-English DTE	畔	94C8	tp	94C8	0x0EC8
-English DTE	藩	94CB	tr	94CB	0x0ECB
-English DTE	販	94CC	ts	94CC	0x0ECC
-English DTE	釆	94CE	tt	94CE	0x0ECE
-English DTE	煩	94CF	tu	94CF	0x0ECF
-English DTE	頒	94D0	tw	94D0	0x0ED0
-English DTE	飯	94D1	ty	94D1	0x0ED1
-English DTE	挽	94D2	tz	94D2	0x0ED2
-English DTE	晩	94D3	t~	94D3	0x0ED3
-English DTE	磐	94D6	u 	94D6	0x0ED6
-English DTE	蕃	94D7	u!	94D7	0x0ED7
-English DTE	匪	94D9	u'	94D9	0x0ED9
-English DTE	卑	94DA	u(	94DA	0x0EDA
-English DTE	妃	94DC	u)	94DC	0x0EDC
-English DTE	庇	94DD	u,	94DD	0x0EDD
-English DTE	批	94E1	u-	94E1	0x0EE1
-English DTE	披	94E2	u.	94E2	0x0EE2
-English DTE	斐	94E3	u?	94E3	0x0EE3
-English DTE	泌	94E5	uI	94E5	0x0EE5
-English DTE	皮	94E7	ua	94E7	0x0EE7
-English DTE	碑	94E8	ub	94E8	0x0EE8
-English DTE	緋	94EA	uc	94EA	0x0EEA
-English DTE	罷	94EB	ud	94EB	0x0EEB
-English DTE	肥	94EC	ue	94EC	0x0EEC
-English DTE	被	94ED	uf	94ED	0x0EED
-English DTE	誹	94EE	ug	94EE	0x0EEE
-English DTE	樋	94F3	uh	94F3	0x0EF3
-English DTE	簸	94F4	ui	94F4	0x0EF4
-English DTE	枇	94F8	uj	94F8	0x0EF8
-English DTE	毘	94F9	uk	94F9	0x0EF9
-English DTE	琵	94FA	ul	94FA	0x0EFA
-English DTE	眉	94FB	um	94FB	0x0EFB
-English DTE	鼻	9540	un	9540	0x0F00
-English DTE	柊	9541	uo	9541	0x0F01
-English DTE	稗	9542	up	9542	0x0F02
-English DTE	匹	9543	ur	9543	0x0F03
-English DTE	疋	9544	us	9544	0x0F04
-English DTE	髭	9545	ut	9545	0x0F05
-English DTE	彦	9546	uu	9546	0x0F06
-English DTE	膝	9547	uv	9547	0x0F07
-English DTE	菱	9548	uw	9548	0x0F08
-English DTE	肘	9549	ux	9549	0x0F09
-English DTE	弼	954A	uy	954A	0x0F0A
-English DTE	畢	954C	uz	954C	0x0F0C
-English DTE	筆	954D	v 	954D	0x0F0D
-English DTE	逼	954E	v!	954E	0x0F0E
-English DTE	桧	954F	v,	954F	0x0F0F
-English DTE	媛	9551	v.	9551	0x0F11
-English DTE	紐	9552	v2	9552	0x0F12
-English DTE	謬	9554	v?	9554	0x0F14
-English DTE	俵	9555	va	9555	0x0F15
-English DTE	彪	9556	vb	9556	0x0F16
-English DTE	漂	9559	ve	9559	0x0F19
-English DTE	瓢	955A	vi	955A	0x0F1A
-English DTE	票	955B	vo	955B	0x0F1B
-English DTE	廟	955F	vr	955F	0x0F1F
-English DTE	苗	9563	vs	9563	0x0F23
-English DTE	錨	9564	vu	9564	0x0F24
-English DTE	鋲	9565	vy	9565	0x0F25
-English DTE	蒜	9566	w 	9566	0x0F26
-English DTE	蛭	9567	w!	9567	0x0F27
-English DTE	鰭	9568	w'	9568	0x0F28
-English DTE	彬	956A	w)	956A	0x0F2A
-English DTE	斌	956B	w,	956B	0x0F2B
-English DTE	瀕	956D	w-	956D	0x0F2D
-English DTE	貧	956E	w.	956E	0x0F2E
-English DTE	賓	956F	w?	956F	0x0F2F
-English DTE	頻	9570	wa	9570	0x0F30
-English DTE	敏	9571	wb	9571	0x0F31
-English DTE	瓶	9572	wc	9572	0x0F32
-English DTE	埠	9575	wd	9575	0x0F35
-English DTE	婦	9577	we	9577	0x0F37
-English DTE	冨	9579	wg	9579	0x0F39
-English DTE	布	957A	wh	957A	0x0F3A
-English DTE	扶	957D	wi	957D	0x0F3D
-English DTE	敷	957E	wk	957E	0x0F3E
-English DTE	斧	9580	wl	9580	0x0F40
-English DTE	腐	9585	wn	9585	0x0F45
-English DTE	膚	9586	wo	9586	0x0F46
-English DTE	芙	9587	wp	9587	0x0F47
-English DTE	賦	958A	wr	958A	0x0F4A
-English DTE	赴	958B	ws	958B	0x0F4B
-English DTE	楓	9596	wt	9596	0x0F56
-English DTE	葺	9598	wz	9598	0x0F58
-English DTE	蕗	9599	w~	9599	0x0F59
-English DTE	副	959B	x 	959B	0x0F5B
-English DTE	腹	95A0	x!	95A0	0x0F60
-English DTE	淵	95A3	x'	95A3	0x0F63
-English DTE	弗	95A4	x(	95A4	0x0F64
-English DTE	沸	95A6	x,	95A6	0x0F66
-English DTE	仏	95A7	x-	95A7	0x0F67
-English DTE	鮒	95A9	x.	95A9	0x0F69
-English DTE	吻	95AB	x?	95AB	0x0F6B
-English DTE	噴	95AC	xa	95AC	0x0F6C
-English DTE	憤	95AE	xc	95AE	0x0F6E
-English DTE	扮	95AF	xe	95AF	0x0F6F
-English DTE	焚	95B0	xh	95B0	0x0F70
-English DTE	奮	95B1	xi	95B1	0x0F71
-English DTE	粉	95B2	xo	95B2	0x0F72
-English DTE	糞	95B3	xp	95B3	0x0F73
-English DTE	紛	95B4	xs	95B4	0x0F74
-English DTE	丙	95B8	xt	95B8	0x0F78
-English DTE	併	95B9	xu	95B9	0x0F79
-English DTE	塀	95BB	xy	95BB	0x0F7B
-English DTE	幣	95BC	y 	95BC	0x0F7C
-English DTE	弊	95BE	y!	95BE	0x0F7E
-English DTE	柄	95BF	"y"""	95BF	0x0F7F
-English DTE	蔽	95C1	y'	95C1	0x0F81
-English DTE	陛	95C3	y(	95C3	0x0F83
-English DTE	僻	95C6	y)	95C6	0x0F86
-English DTE	癖	95C8	y,	95C8	0x0F88
-English DTE	碧	95C9	y-	95C9	0x0F89
-English DTE	瞥	95CB	y.	95CB	0x0F8B
-English DTE	蔑	95CC	y0	95CC	0x0F8C
-English DTE	箆	95CD	y?	95CD	0x0F8D
-English DTE	偏	95CE	ya	95CE	0x0F8E
-English DTE	片	95D0	yb	95D0	0x0F90
-English DTE	篇	95D1	yc	95D1	0x0F91
-English DTE	遍	95D5	yd	95D5	0x0F95
-English DTE	娩	95D8	ye	95D8	0x0F98
-English DTE	鞭	95DA	yf	95DA	0x0F9A
-English DTE	舗	95DC	yg	95DC	0x0F9C
-English DTE	鋪	95DD	yi	95DD	0x0F9D
-English DTE	圃	95DE	yk	95DE	0x0F9E
-English DTE	甫	95E1	yl	95E1	0x0FA1
-English DTE	輔	95E3	ym	95E3	0x0FA3
-English DTE	穂	95E4	yn	95E4	0x0FA4
-English DTE	募	95E5	yo	95E5	0x0FA5
-English DTE	墓	95E6	yp	95E6	0x0FA6
-English DTE	慕	95E7	yr	95E7	0x0FA7
-English DTE	戊	95E8	ys	95E8	0x0FA8
-English DTE	簿	95EB	yt	95EB	0x0FAB
-English DTE	菩	95EC	yu	95EC	0x0FAC
-English DTE	倣	95ED	yw	95ED	0x0FAD
-English DTE	俸	95EE	yy	95EE	0x0FAE
-English DTE	呆	95F0	yz	95F0	0x0FB0
-English DTE	奉	95F2	z 	95F2	0x0FB2
-English DTE	峰	95F4	z!	95F4	0x0FB4
-English DTE	峯	95F5	"z"""	95F5	0x0FB5
-English DTE	庖	95F7	z'	95F7	0x0FB7
-English DTE	捧	95F9	z,	95F9	0x0FB9
-English DTE	朋	95FC	z.	95FC	0x0FBC
-English DTE	泡	9641	za	9641	0x0FC1
-English DTE	縫	9644	ze	9644	0x0FC4
-English DTE	芳	9646	zh	9646	0x0FC6
-English DTE	萌	9647	zi	9647	0x0FC7
-English DTE	蓬	9648	zn	9648	0x0FC8
-English DTE	褒	964A	zo	964A	0x0FCA
-English DTE	鋒	964E	zu	964E	0x0FCE
-English DTE	飽	964F	zy	964F	0x0FCF
-English DTE	鳳	9650	zz	9650	0x0FD0
-English DTE	鵬	9651	~ 	9651	0x0FD1
-English DTE	乏	9652	~!	9652	0x0FD2
-English DTE	剖	9655	~,	9655	0x0FD5
-English DTE	坊	9656	~e	9656	0x0FD6
+English DTE		83FC	((	83FC	0x023C
+English DTE	А	8440	(-	8440	0x0240
+English DTE	Б	8441	(.	8441	0x0241
+English DTE	В	8442	(2	8442	0x0242
+English DTE	Г	8443	(=	8443	0x0243
+English DTE	Д	8444	(A	8444	0x0244
+English DTE	Е	8445	(B	8445	0x0245
+English DTE	Ё	8446	(C	8446	0x0246
+English DTE	Ж	8447	(D	8447	0x0247
+English DTE	З	8448	(E	8448	0x0248
+English DTE	И	8449	(F	8449	0x0249
+English DTE	Й	844A	(G	844A	0x024A
+English DTE	К	844B	(H	844B	0x024B
+English DTE	Л	844C	(I	844C	0x024C
+English DTE	М	844D	(J	844D	0x024D
+English DTE	Н	844E	(K	844E	0x024E
+English DTE	О	844F	(L	844F	0x024F
+English DTE	П	8450	(M	8450	0x0250
+English DTE	Р	8451	(N	8451	0x0251
+English DTE	С	8452	(O	8452	0x0252
+English DTE	Т	8453	(P	8453	0x0253
+English DTE	У	8454	(R	8454	0x0254
+English DTE	Ф	8455	(S	8455	0x0255
+English DTE	Х	8456	(T	8456	0x0256
+English DTE	Ц	8457	(U	8457	0x0257
+English DTE	Ч	8458	(W	8458	0x0258
+English DTE	Ш	8459	(X	8459	0x0259
+English DTE	Щ	845A	(Y	845A	0x025A
+English DTE	Ъ	845B	(Z	845B	0x025B
+English DTE	Ы	845C	(a	845C	0x025C
+English DTE	Ь	845D	(b	845D	0x025D
+English DTE	Э	845E	(c	845E	0x025E
+English DTE	Ю	845F	(h	845F	0x025F
+English DTE	Я	8460	(m	8460	0x0260
+English DTE		8461	(s	8461	0x0261
+English DTE		8462	(t	8462	0x0262
+English DTE		8463	) 	8463	0x0263
+English DTE		8464	")"""	8464	0x0264
+English DTE		8465	))	8465	0x0265
+English DTE		8466	),	8466	0x0266
+English DTE		8467	).	8467	0x0267
+English DTE		8468	):	8468	0x0268
+English DTE		8469	+ 	8469	0x0269
+English DTE		846A	+%	846A	0x026A
+English DTE		846B	+1	846B	0x026B
+English DTE		846C	+2	846C	0x026C
+English DTE		846D	+3	846D	0x026D
+English DTE		846E	+4	846E	0x026E
+English DTE		846F	+5	846F	0x026F
+English DTE	а	8470	, 	8470	0x0270
+English DTE	б	8471	","""	8471	0x0271
+English DTE	в	8472	,.	8472	0x0272
+English DTE	г	8473	,1	8473	0x0273
+English DTE	д	8474	- 	8474	0x0274
+English DTE	е	8475	-!	8475	0x0275
+English DTE	ё	8476	--	8476	0x0276
+English DTE	ж	8477	-0	8477	0x0277
+English DTE	з	8478	-1	8478	0x0278
+English DTE	и	8479	-2	8479	0x0279
+English DTE	й	847A	-3	847A	0x027A
+English DTE	к	847B	-7	847B	0x027B
+English DTE	л	847C	-8	847C	0x027C
+English DTE	м	847D	-:	847D	0x027D
+English DTE	н	847E	-?	847E	0x027E
+English DTE	о	8480	-A	8480	0x0280
+English DTE	т	8484	-B	8484	0x0284
+English DTE	у	8485	-C	8485	0x0285
+English DTE	ф	8486	-D	8486	0x0286
+English DTE	х	8487	-E	8487	0x0287
+English DTE	ц	8488	-F	8488	0x0288
+English DTE	ч	8489	-G	8489	0x0289
+English DTE	ш	848A	-H	848A	0x028A
+English DTE	щ	848B	-I	848B	0x028B
+English DTE	ь	848E	-K	848E	0x028E
+English DTE	ю	8490	-L	8490	0x0290
+English DTE	я	8491	-N	8491	0x0291
+English DTE		8493	-O	8493	0x0293
+English DTE		8495	-P	8495	0x0295
+English DTE		8496	-R	8496	0x0296
+English DTE		8498	-S	8498	0x0298
+English DTE		8499	-T	8499	0x0299
+English DTE		849A	-W	849A	0x029A
+English DTE		849B	-Y	849B	0x029B
+English DTE		849C	-Z	849C	0x029C
+English DTE		849D	-a	849D	0x029D
+English DTE		849E	-b	849E	0x029E
+English DTE	─	849F	-c	849F	0x029F
+English DTE	│	84A0	-d	84A0	0x02A0
+English DTE	┌	84A1	-e	84A1	0x02A1
+English DTE	┐	84A2	-f	84A2	0x02A2
+English DTE	┘	84A3	-g	84A3	0x02A3
+English DTE	└	84A4	-h	84A4	0x02A4
+English DTE	├	84A5	-i	84A5	0x02A5
+English DTE	┬	84A6	-j	84A6	0x02A6
+English DTE	┤	84A7	-k	84A7	0x02A7
+English DTE	┴	84A8	-l	84A8	0x02A8
+English DTE	┼	84A9	-m	84A9	0x02A9
+English DTE	━	84AA	-n	84AA	0x02AA
+English DTE	┃	84AB	-o	84AB	0x02AB
+English DTE	┏	84AC	-p	84AC	0x02AC
+English DTE	┓	84AD	-r	84AD	0x02AD
+English DTE	┛	84AE	-s	84AE	0x02AE
+English DTE	┗	84AF	-t	84AF	0x02AF
+English DTE	┣	84B0	-u	84B0	0x02B0
+English DTE	┳	84B1	-w	84B1	0x02B1
+English DTE	┫	84B2	-y	84B2	0x02B2
+English DTE	┻	84B3	-z	84B3	0x02B3
+English DTE	╋	84B4	. 	84B4	0x02B4
+English DTE	┠	84B5	.!	84B5	0x02B5
+English DTE	┯	84B6	"."""	84B6	0x02B6
+English DTE	┨	84B7	.)	84B7	0x02B7
+English DTE	┷	84B8	.,	84B8	0x02B8
+English DTE	┿	84B9	..	84B9	0x02B9
+English DTE	┝	84BA	.1	84BA	0x02BA
+English DTE	┰	84BB	.2	84BB	0x02BB
+English DTE	┥	84BC	.3	84BC	0x02BC
+English DTE	┸	84BD	.4	84BD	0x02BD
+English DTE	╂	84BE	.5	84BE	0x02BE
+English DTE		84BF	.6	84BF	0x02BF
+English DTE		84C0	.9	84C0	0x02C0
+English DTE		84C1	.:	84C1	0x02C1
+English DTE		84C2	.?	84C2	0x02C2
+English DTE		84C3	.A	84C3	0x02C3
+English DTE		84C4	.B	84C4	0x02C4
+English DTE		84C5	.C	84C5	0x02C5
+English DTE		84C6	.D	84C6	0x02C6
+English DTE		84C7	.E	84C7	0x02C7
+English DTE		84C8	.F	84C8	0x02C8
+English DTE		84C9	.G	84C9	0x02C9
+English DTE		84CA	.H	84CA	0x02CA
+English DTE		84CB	.I	84CB	0x02CB
+English DTE		84CC	.J	84CC	0x02CC
+English DTE		84CD	.K	84CD	0x02CD
+English DTE		84CE	.L	84CE	0x02CE
+English DTE		84CF	.M	84CF	0x02CF
+English DTE		84D0	.N	84D0	0x02D0
+English DTE		84D1	.O	84D1	0x02D1
+English DTE		84D2	.P	84D2	0x02D2
+English DTE		84D3	.Q	84D3	0x02D3
+English DTE		84D4	.R	84D4	0x02D4
+English DTE		84D5	.S	84D5	0x02D5
+English DTE		84D6	.T	84D6	0x02D6
+English DTE		84D8	.U	84D8	0x02D8
+English DTE		84D9	.V	84D9	0x02D9
+English DTE		84DA	.W	84DA	0x02DA
+English DTE		84DB	.X	84DB	0x02DB
+English DTE		84DC	.Y	84DC	0x02DC
+English DTE		84DD	.Z	84DD	0x02DD
+English DTE		84DE	.a	84DE	0x02DE
+English DTE		84DF	.b	84DF	0x02DF
+English DTE		84E0	.c	84E0	0x02E0
+English DTE		84E1	.d	84E1	0x02E1
+English DTE		84E2	.e	84E2	0x02E2
+English DTE		84E3	.f	84E3	0x02E3
+English DTE		84E4	.g	84E4	0x02E4
+English DTE		84E5	.h	84E5	0x02E5
+English DTE		84E6	.i	84E6	0x02E6
+English DTE		84E7	.j	84E7	0x02E7
+English DTE		84E8	.k	84E8	0x02E8
+English DTE		84E9	.l	84E9	0x02E9
+English DTE		84EA	.m	84EA	0x02EA
+English DTE		84EB	.n	84EB	0x02EB
+English DTE		84EC	.o	84EC	0x02EC
+English DTE		84ED	.p	84ED	0x02ED
+English DTE		84EE	.q	84EE	0x02EE
+English DTE		84EF	.r	84EF	0x02EF
+English DTE		84F0	.s	84F0	0x02F0
+English DTE		84F1	.t	84F1	0x02F1
+English DTE		84F2	.u	84F2	0x02F2
+English DTE		84F3	.w	84F3	0x02F3
+English DTE		84F4	.y	84F4	0x02F4
+English DTE		84F5	/ 	84F5	0x02F5
+English DTE		84F6	/-	84F6	0x02F6
+English DTE		84F7	/E	84F7	0x02F7
+English DTE		84F8	/M	84F8	0x02F8
+English DTE		84F9	/O	84F9	0x02F9
+English DTE		84FA	/S	84FA	0x02FA
+English DTE		84FB	/V	84FB	0x02FB
+English DTE		84FC	/f	84FC	0x02FC
+English DTE	①	8740	/l	8740	0x0480
+English DTE	②	8741	/s	8741	0x0481
+English DTE	③	8742	0 	8742	0x0482
+English DTE	④	8743	0!	8743	0x0483
+English DTE	⑤	8744	0%	8744	0x0484
+English DTE	⑥	8745	0)	8745	0x0485
+English DTE	⑦	8746	0+	8746	0x0486
+English DTE	⑧	8747	0,	8747	0x0487
+English DTE	⑨	8748	0-	8748	0x0488
+English DTE	⑩	8749	0.	8749	0x0489
+English DTE	⑪	874A	00	874A	0x048A
+English DTE	⑬	874C	01	874C	0x048C
+English DTE	⑭	874D	02	874D	0x048D
+English DTE	⑮	874E	03	874E	0x048E
+English DTE	⑯	874F	04	874F	0x048F
+English DTE	⑰	8750	05	8750	0x0490
+English DTE	⑱	8751	06	8751	0x0491
+English DTE	⑲	8752	07	8752	0x0492
+English DTE	⑳	8753	08	8753	0x0493
+English DTE	Ⅰ	8754	09	8754	0x0494
+English DTE	Ⅳ	8757	0a	8757	0x0497
+English DTE	Ⅵ	8759	0b	8759	0x0499
+English DTE	Ⅶ	875A	0c	875A	0x049A
+English DTE	Ⅷ	875B	0m	875B	0x049B
+English DTE	Ⅸ	875C	0s	875C	0x049C
+English DTE	Ⅹ	875D	1 	875D	0x049D
+English DTE		875E	1!	875E	0x049E
+English DTE	㍉	875F	1'	875F	0x049F
+English DTE	㌔	8760	1)	8760	0x04A0
+English DTE	㌢	8761	1,	8761	0x04A1
+English DTE	㍍	8762	1.	8762	0x04A2
+English DTE	㌘	8763	1/	8763	0x04A3
+English DTE	㌧	8764	10	8764	0x04A4
+English DTE	㌃	8765	11	8765	0x04A5
+English DTE	㌶	8766	12	8766	0x04A6
+English DTE	㍑	8767	13	8767	0x04A7
+English DTE	㍗	8768	14	8768	0x04A8
+English DTE	㌍	8769	15	8769	0x04A9
+English DTE	㌦	876A	16	876A	0x04AA
+English DTE	㌣	876B	17	876B	0x04AB
+English DTE	㌫	876C	18	876C	0x04AC
+English DTE	㍊	876D	19	876D	0x04AD
+English DTE	㌻	876E	1a	876E	0x04AE
+English DTE	㎜	876F	1b	876F	0x04AF
+English DTE	㎝	8770	1c	8770	0x04B0
+English DTE	㎞	8771	1s	8771	0x04B1
+English DTE	㎎	8772	2 	8772	0x04B2
+English DTE	㎏	8773	2!	8773	0x04B3
+English DTE	㏄	8774	2%	8774	0x04B4
+English DTE	㎡	8775	2'	8775	0x04B5
+English DTE		8776	2)	8776	0x04B6
+English DTE		8777	2,	8777	0x04B7
+English DTE		8778	2-	8778	0x04B8
+English DTE		8779	2.	8779	0x04B9
+English DTE		877A	20	877A	0x04BA
+English DTE		877B	21	877B	0x04BB
+English DTE		877D	22	877D	0x04BD
+English DTE	㍻	877E	23	877E	0x04BE
+English DTE	〝	8780	24	8780	0x04C0
+English DTE	℡	8784	25	8784	0x04C4
+English DTE	㊤	8785	26	8785	0x04C5
+English DTE	㊥	8786	27	8786	0x04C6
+English DTE	㊦	8787	28	8787	0x04C7
+English DTE	㊧	8788	29	8788	0x04C8
+English DTE	㍽	878E	2?	878E	0x04CE
+English DTE	√	8795	2K	8795	0x04D5
+English DTE	∟	8798	2W	8798	0x04D8
+English DTE	⊿	8799	2a	8799	0x04D9
+English DTE	∵	879A	2b	879A	0x04DA
+English DTE	∩	879B	2c	879B	0x04DB
+English DTE	∪	879C	2n	879C	0x04DC
+English DTE		879D	2x	879D	0x04DD
+English DTE		879E	3 	879E	0x04DE
+English DTE		879F	3!	879F	0x04DF
+English DTE		87A0	3'	87A0	0x04E0
+English DTE		87A1	3,	87A1	0x04E1
+English DTE		87A2	3-	87A2	0x04E2
+English DTE		87A3	3.	87A3	0x04E3
+English DTE		87A4	30	87A4	0x04E4
+English DTE		87A5	31	87A5	0x04E5
+English DTE		87A6	32	87A6	0x04E6
+English DTE		87A7	33	87A7	0x04E7
+English DTE		87A8	34	87A8	0x04E8
+English DTE		87A9	35	87A9	0x04E9
+English DTE		87AA	36	87AA	0x04EA
+English DTE		87AB	37	87AB	0x04EB
+English DTE		87AC	38	87AC	0x04EC
+English DTE		87AD	39	87AD	0x04ED
+English DTE		87AE	3:	87AE	0x04EE
+English DTE		87AF	3?	87AF	0x04EF
+English DTE		87B0	3G	87B0	0x04F0
+English DTE		87B1	3a	87B1	0x04F1
+English DTE		87B2	3b	87B2	0x04F2
+English DTE		87B3	3c	87B3	0x04F3
+English DTE		87B4	3r	87B4	0x04F4
+English DTE		87B5	3t	87B5	0x04F5
+English DTE		87B6	4 	87B6	0x04F6
+English DTE		87B7	4!	87B7	0x04F7
+English DTE		87B8	4,	87B8	0x04F8
+English DTE		87B9	4.	87B9	0x04F9
+English DTE		87BA	40	87BA	0x04FA
+English DTE		87BB	41	87BB	0x04FB
+English DTE		87BC	42	87BC	0x04FC
+English DTE		87BE	43	87BE	0x04FE
+English DTE		87BF	44	87BF	0x04FF
+English DTE		87C0	45	87C0	0x0500
+English DTE		87C1	46	87C1	0x0501
+English DTE		87C2	47	87C2	0x0502
+English DTE		87C3	48	87C3	0x0503
+English DTE		87C4	49	87C4	0x0504
+English DTE		87C5	4a	87C5	0x0505
+English DTE		87C6	4b	87C6	0x0506
+English DTE		87C7	4c	87C7	0x0507
+English DTE		87C8	4t	87C8	0x0508
+English DTE		87C9	5 	87C9	0x0509
+English DTE		87CA	5%	87CA	0x050A
+English DTE		87CB	5-	87CB	0x050B
+English DTE		87CC	5.	87CC	0x050C
+English DTE		87CD	50	87CD	0x050D
+English DTE		87CE	51	87CE	0x050E
+English DTE		87CF	52	87CF	0x050F
+English DTE		87D0	53	87D0	0x0510
+English DTE		87D1	54	87D1	0x0511
+English DTE		87D3	55	87D3	0x0513
+English DTE		87D4	56	87D4	0x0514
+English DTE		87D5	57	87D5	0x0515
+English DTE		87D6	58	87D6	0x0516
+English DTE		87D7	59	87D7	0x0517
+English DTE		87D8	5:	87D8	0x0518
+English DTE		87D9	5a	87D9	0x0519
+English DTE		87DA	5b	87DA	0x051A
+English DTE		87DB	5c	87DB	0x051B
+English DTE		87DC	5t	87DC	0x051C
+English DTE		87DD	5x	87DD	0x051D
+English DTE		87DE	6 	87DE	0x051E
+English DTE		87DF	60	87DF	0x051F
+English DTE		87E0	61	87E0	0x0520
+English DTE		87E1	62	87E1	0x0521
+English DTE		87E2	63	87E2	0x0522
+English DTE		87E4	64	87E4	0x0524
+English DTE		87E5	65	87E5	0x0525
+English DTE		87E6	66	87E6	0x0526
+English DTE		87E7	67	87E7	0x0527
+English DTE		87E8	68	87E8	0x0528
+English DTE		87E9	69	87E9	0x0529
+English DTE		87EA	6a	87EA	0x052A
+English DTE		87EB	6b	87EB	0x052B
+English DTE		87EC	6c	87EC	0x052C
+English DTE		87ED	6t	87ED	0x052D
+English DTE		87EE	7 	87EE	0x052E
+English DTE		87EF	7-	87EF	0x052F
+English DTE		87F0	7.	87F0	0x0530
+English DTE		87F1	70	87F1	0x0531
+English DTE		87F2	71	87F2	0x0532
+English DTE		87F3	72	87F3	0x0533
+English DTE		87F4	73	87F4	0x0534
+English DTE		87F5	74	87F5	0x0535
+English DTE		87F6	75	87F6	0x0536
+English DTE		87F7	76	87F7	0x0537
+English DTE		87F8	77	87F8	0x0538
+English DTE		87F9	78	87F9	0x0539
+English DTE		87FA	79	87FA	0x053A
+English DTE		87FB	7?	87FB	0x053B
+English DTE		87FC	7X	87FC	0x053C
+English DTE		8840	7a	8840	0x0540
+English DTE		8841	7b	8841	0x0541
+English DTE		8842	7c	8842	0x0542
+English DTE		8843	7d	8843	0x0543
+English DTE		8844	7s	8844	0x0544
+English DTE		8845	7t	8845	0x0545
+English DTE		8847	8 	8847	0x0547
+English DTE		8848	8,	8848	0x0548
+English DTE		8849	8.	8849	0x0549
+English DTE		884A	80	884A	0x054A
+English DTE		884B	81	884B	0x054B
+English DTE		884C	82	884C	0x054C
+English DTE		884D	83	884D	0x054D
+English DTE		884E	84	884E	0x054E
+English DTE		8850	85	8850	0x0550
+English DTE		8851	86	8851	0x0551
+English DTE		8852	87	8852	0x0552
+English DTE		8853	88	8853	0x0553
+English DTE		8854	89	8854	0x0554
+English DTE		8855	8a	8855	0x0555
+English DTE		8856	8b	8856	0x0556
+English DTE		8857	8c	8857	0x0557
+English DTE		8858	9 	8858	0x0558
+English DTE		8859	9!	8859	0x0559
+English DTE		885A	9,	885A	0x055A
+English DTE		885B	9.	885B	0x055B
+English DTE		885D	90	885D	0x055D
+English DTE		885E	91	885E	0x055E
+English DTE		885F	92	885F	0x055F
+English DTE		8860	93	8860	0x0560
+English DTE		8862	94	8862	0x0562
+English DTE		8863	95	8863	0x0563
+English DTE		8864	96	8864	0x0564
+English DTE		8866	97	8866	0x0566
+English DTE		8867	98	8867	0x0567
+English DTE		8868	99	8868	0x0568
+English DTE		8869	9?	8869	0x0569
+English DTE		886A	9a	886A	0x056A
+English DTE		886B	9b	886B	0x056B
+English DTE		886C	9c	886C	0x056C
+English DTE		886D	9t	886D	0x056D
+English DTE		886E	: 	886E	0x056E
+English DTE		8870	:%	8870	0x0570
+English DTE		8871	:.	8871	0x0571
+English DTE		8872	:0	8872	0x0572
+English DTE		8873	:B	8873	0x0573
+English DTE		8874	:C	8874	0x0574
+English DTE		8875	:I	8875	0x0575
+English DTE		8876	:P	8876	0x0576
+English DTE		8877	:S	8877	0x0577
+English DTE		8879	:T	8879	0x0579
+English DTE		887A	; 	887A	0x057A
+English DTE		887B	<%	887B	0x057B
+English DTE		887D	<=	887D	0x057D
+English DTE		8880	<B	8880	0x0580
+English DTE		8885	<K	8885	0x0585
+English DTE		8886	<U	8886	0x0586
+English DTE		888B	<e	888B	0x058B
+English DTE		8895	= 	8895	0x0595
+English DTE		8898	=3	8898	0x0598
+English DTE		8899	=5	8899	0x0599
+English DTE		889B	=7	889B	0x059B
+English DTE		889C	> 	889C	0x059C
+English DTE		889E	>.	889E	0x059E
+English DTE	挨	88A5	? 	88A5	0x05A5
+English DTE	姶	88A6	?!	88A6	0x05A6
+English DTE	葵	88A8	?(	88A8	0x05A8
+English DTE	穐	88AA	?)	88AA	0x05AA
+English DTE	鯵	88B1	?.	88B1	0x05B1
+English DTE	梓	88B2	??	88B2	0x05B2
+English DTE	宛	88B6	@V	88B6	0x05B6
+English DTE	虻	88B8	A 	88B8	0x05B8
+English DTE	飴	88B9	A!	88B9	0x05B9
+English DTE	絢	88BA	A'	88BA	0x05BA
+English DTE	或	88BD	A(	88BD	0x05BD
+English DTE	粟	88BE	A)	88BE	0x05BE
+English DTE	袷	88BF	A,	88BF	0x05BF
+English DTE	按	88C2	A-	88C2	0x05C2
+English DTE	鞍	88C6	A.	88C6	0x05C6
+English DTE	杏	88C7	A2	88C7	0x05C7
+English DTE	偉	88CC	A?	88CC	0x05CC
+English DTE	夷	88CE	AA	88CE	0x05CE
+English DTE	委	88CF	AB	88CF	0x05CF
+English DTE	惟	88D2	AI	88D2	0x05D2
+English DTE	慰	88D4	AL	88D4	0x05D4
+English DTE	畏	88D8	AP	88D8	0x05D8
+English DTE	維	88DB	AR	88DB	0x05DB
+English DTE	緯	88DC	AT	88DC	0x05DC
+English DTE	胃	88DD	AX	88DD	0x05DD
+English DTE	萎	88DE	Aa	88DE	0x05DE
+English DTE	衣	88DF	Ab	88DF	0x05DF
+English DTE	謂	88E0	Ac	88E0	0x05E0
+English DTE	医	88E3	Ad	88E3	0x05E3
+English DTE	亥	88E5	Ae	88E5	0x05E5
+English DTE	育	88E7	Af	88E7	0x05E7
+English DTE	郁	88E8	Ag	88E8	0x05E8
+English DTE	磯	88E9	Ah	88E9	0x05E9
+English DTE	壱	88EB	Ai	88EB	0x05EB
+English DTE	溢	88EC	Ak	88EC	0x05EC
+English DTE	稲	88EE	Al	88EE	0x05EE
+English DTE	芋	88F0	Am	88F0	0x05F0
+English DTE	院	8940	An	8940	0x0600
+English DTE	陰	8941	Ap	8941	0x0601
+English DTE	韻	8943	Ar	8943	0x0603
+English DTE	吋	8944	As	8944	0x0604
+English DTE	烏	8947	At	8947	0x0607
+English DTE	羽	8948	Au	8948	0x0608
+English DTE	迂	8949	Av	8949	0x0609
+English DTE	鵜	894C	Aw	894C	0x060C
+English DTE	窺	894D	Ax	894D	0x060D
+English DTE	丑	894E	Az	894E	0x060E
+English DTE	碓	894F	B 	894F	0x060F
+English DTE	臼	8950	B,	8950	0x0610
+English DTE	渦	8951	B-	8951	0x0611
+English DTE	嘘	8952	B.	8952	0x0612
+English DTE	唄	8953	B?	8953	0x0613
+English DTE	欝	8954	BC	8954	0x0614
+English DTE	蔚	8955	BG	8955	0x0615
+English DTE	鰻	8956	BI	8956	0x0616
+English DTE	姥	8957	BR	8957	0x0617
+English DTE	厩	8958	BS	8958	0x0618
+English DTE	浦	8959	BU	8959	0x0619
+English DTE	瓜	895A	Ba	895A	0x061A
+English DTE	閏	895B	Be	895B	0x061B
+English DTE	云	895D	Bi	895D	0x061D
+English DTE	荏	8960	Bl	8960	0x0620
+English DTE	餌	8961	Bo	8961	0x0621
+English DTE	叡	8962	Br	8962	0x0622
+English DTE	営	8963	Bu	8963	0x0623
+English DTE	嬰	8964	By	8964	0x0624
+English DTE	映	8966	C 	8966	0x0626
+English DTE	曳	8967	C'	8967	0x0627
+English DTE	泳	896A	C,	896A	0x062A
+English DTE	瑛	896C	C-	896C	0x062C
+English DTE	盈	896D	C.	896D	0x062D
+English DTE	穎	896E	C?	896E	0x062E
+English DTE	頴	896F	CA	896F	0x062F
+English DTE	詠	8972	CB	8972	0x0632
+English DTE	鋭	8973	CC	8973	0x0633
+English DTE	疫	8975	CD	8975	0x0635
+English DTE	駅	8977	CE	8977	0x0637
+English DTE	悦	8978	CF	8978	0x0638
+English DTE	謁	8979	CG	8979	0x0639
+English DTE	閲	897B	CH	897B	0x063B
+English DTE	榎	897C	CK	897C	0x063C
+English DTE	厭	897D	CO	897D	0x063D
+English DTE	掩	8986	CT	8986	0x0646
+English DTE	焔	898B	CU	898B	0x064B
+English DTE	燕	898D	Ca	898D	0x064D
+English DTE	苑	8991	Ce	8991	0x0651
+English DTE	薗	8992	Ch	8992	0x0652
+English DTE	鉛	8994	Ci	8994	0x0654
+English DTE	鴛	8995	Cl	8995	0x0655
+English DTE	甥	8999	Co	8999	0x0659
+English DTE	凹	899A	Cr	899A	0x065A
+English DTE	旺	89A0	Cu	89A0	0x0660
+English DTE	翁	89A5	Cy	89A5	0x0665
+English DTE	襖	89A6	D 	89A6	0x0666
+English DTE	鴬	89A7	D'	89A7	0x0667
+English DTE	鴎	89A8	D)	89A8	0x0668
+English DTE	沖	89AB	D,	89AB	0x066B
+English DTE	荻	89AC	D-	89AC	0x066C
+English DTE	臆	89B0	D.	89B0	0x0670
+English DTE	桶	89B1	DA	89B1	0x0671
+English DTE	牡	89B2	DC	89B2	0x0672
+English DTE	卸	89B5	DD	89B5	0x0675
+English DTE	伽	89BE	DE	89BE	0x067E
+English DTE	価	89BF	DF	89BF	0x067F
+English DTE	佳	89C0	DM	89C0	0x0680
+English DTE	嘉	89C3	DN	89C3	0x0683
+English DTE	夏	89C4	DR	89C4	0x0684
+English DTE	嫁	89C5	Da	89C5	0x0685
+English DTE	寡	89C7	De	89C7	0x0687
+English DTE	架	89CB	Di	89CB	0x068B
+English DTE	珂	89CF	Do	89CF	0x068F
+English DTE	禍	89D0	Dr	89D0	0x0690
+English DTE	禾	89D1	Du	89D1	0x0691
+English DTE	箇	89D3	Dw	89D3	0x0693
+English DTE	茄	89D6	Dy	89D6	0x0696
+English DTE	菓	89D9	E 	89D9	0x0699
+English DTE	蝦	89DA	E!	89DA	0x069A
+English DTE	貨	89DD	"E"""	89DD	0x069D
+English DTE	迦	89DE	E,	89DE	0x069E
+English DTE	霞	89E0	E-	89E0	0x06A0
+English DTE	蚊	89E1	E.	89E1	0x06A1
+English DTE	俄	89E2	E?	89E2	0x06A2
+English DTE	峨	89E3	EA	89E3	0x06A3
+English DTE	牙	89E5	EC	89E5	0x06A5
+English DTE	臥	89E7	EE	89E7	0x06A7
+English DTE	芽	89E8	EF	89E8	0x06A8
+English DTE	蛾	89E9	EI	89E9	0x06A9
+English DTE	賀	89EA	EM	89EA	0x06AA
+English DTE	雅	89EB	EN	89EB	0x06AB
+English DTE	餓	89EC	EQ	89EC	0x06AC
+English DTE	駕	89ED	ER	89ED	0x06AD
+English DTE	廻	89F4	ES	89F4	0x06B4
+English DTE	悔	89F7	EV	89F7	0x06B7
+English DTE	恢	89F8	EX	89F8	0x06B8
+English DTE	懐	89F9	Ea	89F9	0x06B9
+English DTE	戒	89FA	Ed	89FA	0x06BA
+English DTE	拐	89FB	Ee	89FB	0x06BB
+English DTE	魁	8A40	Ef	8A40	0x06C0
+English DTE	晦	8A41	Eg	8A41	0x06C1
+English DTE	灰	8A44	Eh	8A44	0x06C4
+English DTE	絵	8A47	Ei	8A47	0x06C7
+English DTE	芥	8A48	Ej	8A48	0x06C8
+English DTE	蟹	8A49	El	8A49	0x06C9
+English DTE	劾	8A4E	Em	8A4E	0x06CE
+English DTE	咳	8A50	En	8A50	0x06D0
+English DTE	崖	8A52	Eo	8A52	0x06D2
+English DTE	慨	8A53	Ep	8A53	0x06D3
+English DTE	概	8A54	Eq	8A54	0x06D4
+English DTE	涯	8A55	Er	8A55	0x06D5
+English DTE	碍	8A56	Es	8A56	0x06D6
+English DTE	蓋	8A57	Et	8A57	0x06D7
+English DTE	該	8A59	Eu	8A59	0x06D9
+English DTE	骸	8A5B	Ev	8A5B	0x06DB
+English DTE	浬	8A5C	Ex	8A5C	0x06DC
+English DTE	馨	8A5D	Ey	8A5D	0x06DD
+English DTE	蛙	8A5E	F 	8A5E	0x06DE
+English DTE	垣	8A5F	F)	8A5F	0x06DF
+English DTE	柿	8A60	F,	8A60	0x06E0
+English DTE	蛎	8A61	F-	8A61	0x06E1
+English DTE	鈎	8A62	F.	8A62	0x06E2
+English DTE	劃	8A63	F2	8A63	0x06E3
+English DTE	嚇	8A64	F9	8A64	0x06E4
+English DTE	廓	8A66	FE	8A66	0x06E6
+English DTE	撹	8A68	FF	8A68	0x06E8
+English DTE	穫	8A6E	FL	8A6E	0x06EE
+English DTE	赫	8A71	FO	8A71	0x06F1
+English DTE	郭	8A73	FR	8A73	0x06F3
+English DTE	隔	8A75	Fa	8A75	0x06F5
+English DTE	岳	8A78	Fb	8A78	0x06F8
+English DTE	顎	8A7B	Fe	8A7B	0x06FB
+English DTE	笠	8A7D	Ff	8A7D	0x06FD
+English DTE	樫	8A7E	Fh	8A7E	0x06FE
+English DTE	橿	8A80	Fi	8A80	0x0700
+English DTE	喝	8A85	Fl	8A85	0x0705
+English DTE	恰	8A86	Fo	8A86	0x0706
+English DTE	括	8A87	Fr	8A87	0x0707
+English DTE	滑	8A8A	Fu	8A8A	0x070A
+English DTE	鞄	8A93	Fy	8A93	0x0713
+English DTE	竃	8A96	F~	8A96	0x0716
+English DTE	鎌	8A99	G 	8A99	0x0719
+English DTE	噛	8A9A	G!	8A9A	0x071A
+English DTE	鴨	8A9B	"G"""	8A9B	0x071B
+English DTE	栢	8A9C	G'	8A9C	0x071C
+English DTE	茅	8A9D	G,	8A9D	0x071D
+English DTE	萱	8A9E	G-	8A9E	0x071E
+English DTE	粥	8A9F	G.	8A9F	0x071F
+English DTE	刈	8AA0	G1	8AA0	0x0720
+English DTE	苅	8AA1	G2	8AA1	0x0721
+English DTE	瓦	8AA2	G?	8AA2	0x0722
+English DTE	乾	8AA3	GG	8AA3	0x0723
+English DTE	侃	8AA4	GH	8AA4	0x0724
+English DTE	冠	8AA5	GM	8AA5	0x0725
+English DTE	寒	8AA6	GR	8AA6	0x0726
+English DTE	刊	8AA7	GS	8AA7	0x0727
+English DTE	喚	8AAB	GU	8AAB	0x072B
+English DTE	堪	8AAC	Ga	8AAC	0x072C
+English DTE	姦	8AAD	Ge	8AAD	0x072D
+English DTE	寛	8AB0	Gh	8AB0	0x0730
+English DTE	患	8AB3	Gi	8AB3	0x0733
+English DTE	慣	8AB5	Gl	8AB5	0x0735
+English DTE	憾	8AB6	Gn	8AB6	0x0736
+English DTE	敢	8AB8	Go	8AB8	0x0738
+English DTE	柑	8AB9	Gr	8AB9	0x0739
+English DTE	桓	8ABA	Gu	8ABA	0x073A
+English DTE	棺	8ABB	Gw	8ABB	0x073B
+English DTE	款	8ABC	Gy	8ABC	0x073C
+English DTE	汗	8ABE	H 	8ABE	0x073E
+English DTE	澗	8AC0	H!	8AC0	0x0740
+English DTE	潅	8AC1	H,	8AC1	0x0741
+English DTE	看	8AC5	H-	8AC5	0x0745
+English DTE	緩	8AC9	H.	8AC9	0x0749
+English DTE	缶	8ACA	HE	8ACA	0x074A
+English DTE	翰	8ACB	HI	8ACB	0x074B
+English DTE	莞	8ACE	HL	8ACE	0x074E
+English DTE	観	8ACF	HP	8ACF	0x074F
+English DTE	諌	8AD0	HQ	8AD0	0x0750
+English DTE	閑	8AD5	HW	8AD5	0x0755
+English DTE	陥	8AD7	HY	8AD7	0x0757
+English DTE	韓	8AD8	Ha	8AD8	0x0758
+English DTE	舘	8ADA	He	8ADA	0x075A
+English DTE	丸	8ADB	Hi	8ADB	0x075B
+English DTE	岸	8ADD	Hm	8ADD	0x075D
+English DTE	巌	8ADE	Ho	8ADE	0x075E
+English DTE	玩	8ADF	Hu	8ADF	0x075F
+English DTE	癌	8AE0	Hy	8AE0	0x0760
+English DTE	眼	8AE1	I 	8AE1	0x0761
+English DTE	翫	8AE3	I!	8AE3	0x0763
+English DTE	贋	8AE4	I'	8AE4	0x0764
+English DTE	伎	8AEA	I(	8AEA	0x076A
+English DTE	喜	8AEC	I,	8AEC	0x076C
+English DTE	机	8AF7	I-	8AF7	0x0777
+English DTE	旗	8AF8	I.	8AF8	0x0778
+English DTE	棋	8AFB	I?	8AFB	0x077B
+English DTE	毅	8B42	IA	8B42	0x0782
+English DTE	汽	8B44	IC	8B44	0x0784
+English DTE	畿	8B45	ID	8B45	0x0785
+English DTE	祈	8B46	IG	8B46	0x0786
+English DTE	季	8B47	II	8B47	0x0787
+English DTE	稀	8B48	IJ	8B48	0x0788
+English DTE	徽	8B4A	IM	8B4A	0x078A
+English DTE	軌	8B4F	IN	8B4F	0x078F
+English DTE	飢	8B51	IO	8B51	0x0791
+English DTE	亀	8B54	IP	8B54	0x0794
+English DTE	儀	8B56	IQ	8B56	0x0796
+English DTE	妓	8B57	IT	8B57	0x0797
+English DTE	宜	8B58	IV	8B58	0x0798
+English DTE	戯	8B59	Ib	8B59	0x0799
+English DTE	擬	8B5B	Ic	8B5B	0x079B
+English DTE	欺	8B5C	Id	8B5C	0x079C
+English DTE	犠	8B5D	Ie	8B5D	0x079D
+English DTE	疑	8B5E	If	8B5E	0x079E
+English DTE	祇	8B5F	Ig	8B5F	0x079F
+English DTE	蟻	8B61	Ii	8B61	0x07A1
+English DTE	誼	8B62	Ik	8B62	0x07A2
+English DTE	掬	8B64	Il	8B64	0x07A4
+English DTE	鞠	8B66	Im	8B66	0x07A6
+English DTE	吃	8B68	In	8B68	0x07A8
+English DTE	喫	8B69	Io	8B69	0x07A9
+English DTE	桔	8B6A	Ip	8B6A	0x07AA
+English DTE	橘	8B6B	Ir	8B6B	0x07AB
+English DTE	砧	8B6D	Is	8B6D	0x07AD
+English DTE	杵	8B6E	It	8B6E	0x07AE
+English DTE	黍	8B6F	Iy	8B6F	0x07AF
+English DTE	丘	8B75	Iz	8B75	0x07B5
+English DTE	吸	8B7A	J,	8B7A	0x07BA
+English DTE	宮	8B7B	J-	8B7B	0x07BB
+English DTE	朽	8B80	JE	8B80	0x07C0
+English DTE	灸	8B84	JG	8B84	0x07C4
+English DTE	糾	8B8A	JZ	8B8A	0x07CA
+English DTE	鋸	8B98	Ja	8B98	0x07D8
+English DTE	禦	8B9A	Je	8B9A	0x07DA
+English DTE	亨	8B9C	Ji	8B9C	0x07DC
+English DTE	享	8B9D	Jo	8B9D	0x07DD
+English DTE	侠	8BA0	Ju	8BA0	0x07E0
+English DTE	僑	8BA1	Jy	8BA1	0x07E1
+English DTE	兇	8BA2	K 	8BA2	0x07E2
+English DTE	匡	8BA7	K!	8BA7	0x07E7
+English DTE	卿	8BA8	K,	8BA8	0x07E8
+English DTE	喬	8BAA	K-	8BAA	0x07EA
+English DTE	峡	8BAC	K.	8BAC	0x07EC
+English DTE	彊	8BAE	K3	8BAE	0x07EE
+English DTE	怯	8BAF	K7	8BAF	0x07EF
+English DTE	恭	8BB1	KA	8BB1	0x07F1
+English DTE	挟	8BB2	KB	8BB2	0x07F2
+English DTE	橋	8BB4	KL	8BB4	0x07F4
+English DTE	狂	8BB6	KO	8BB6	0x07F6
+English DTE	狭	8BB7	Ka	8BB7	0x07F7
+English DTE	矯	8BB8	Kc	8BB8	0x07F8
+English DTE	蕎	8BBC	Ke	8BBC	0x07FC
+English DTE	鏡	8BBE	Kh	8BBE	0x07FE
+English DTE	饗	8BC0	Ki	8BC0	0x0800
+English DTE	仰	8BC2	Kk	8BC2	0x0802
+English DTE	凝	8BC3	Kl	8BC3	0x0803
+English DTE	尭	8BC4	Kn	8BC4	0x0804
+English DTE	暁	8BC5	Ko	8BC5	0x0805
+English DTE	玉	8BCA	Ku	8BCA	0x080A
+English DTE	桐	8BCB	Kw	8BCB	0x080B
+English DTE	粁	8BCC	Ky	8BCC	0x080C
+English DTE	僅	8BCD	L 	8BCD	0x080D
+English DTE	勤	8BCE	L!	8BCE	0x080E
+English DTE	均	8BCF	L%	8BCF	0x080F
+English DTE	巾	8BD0	L,	8BD0	0x0810
+English DTE	錦	8BD1	L.	8BD1	0x0811
+English DTE	斤	8BD2	L2	8BD2	0x0812
+English DTE	欣	8BD3	L3	8BD3	0x0813
+English DTE	欽	8BD4	L5	8BD4	0x0814
+English DTE	琴	8BD5	LB	8BD5	0x0815
+English DTE	芹	8BDA	LC	8BDA	0x081A
+English DTE	菌	8BDB	LE	8BDB	0x081B
+English DTE	衿	8BDC	LI	8BDC	0x081C
+English DTE	襟	8BDD	LL	8BDD	0x081D
+English DTE	謹	8BDE	LT	8BDE	0x081E
+English DTE	吟	8BE1	LV	8BE1	0x0821
+English DTE	倶	8BE4	La	8BE4	0x0824
+English DTE	玖	8BE8	Le	8BE8	0x0828
+English DTE	矩	8BE9	Lf	8BE9	0x0829
+English DTE	躯	8BEB	Lh	8BEB	0x082B
+English DTE	駈	8BED	Li	8BED	0x082D
+English DTE	駒	8BEE	Lo	8BEE	0x082E
+English DTE	具	8BEF	Lt	8BEF	0x082F
+English DTE	虞	8BF1	Lu	8BF1	0x0831
+English DTE	喰	8BF2	Lv	8BF2	0x0832
+English DTE	偶	8BF4	Ly	8BF4	0x0834
+English DTE	寓	8BF5	M 	8BF5	0x0835
+English DTE	隅	8BF7	M!	8BF7	0x0837
+English DTE	串	8BF8	M,	8BF8	0x0838
+English DTE	櫛	8BF9	M-	8BF9	0x0839
+English DTE	釧	8BFA	M.	8BFA	0x083A
+English DTE	窟	8C41	M1	8C41	0x0841
+English DTE	沓	8C42	M2	8C42	0x0842
+English DTE	靴	8C43	M3	8C43	0x0843
+English DTE	轡	8C44	M9	8C44	0x0844
+English DTE	窪	8C45	MA	8C45	0x0845
+English DTE	熊	8C46	MB	8C46	0x0846
+English DTE	隈	8C47	ME	8C47	0x0847
+English DTE	粂	8C48	MG	8C48	0x0848
+English DTE	栗	8C49	ML	8C49	0x0849
+English DTE	桑	8C4B	MN	8C4B	0x084B
+English DTE	鍬	8C4C	MP	8C4C	0x084C
+English DTE	勲	8C4D	MS	8C4D	0x084D
+English DTE	薫	8C4F	MX	8C4F	0x084F
+English DTE	郡	8C53	MY	8C53	0x0853
+English DTE	卦	8C54	Ma	8C54	0x0854
+English DTE	袈	8C55	Mc	8C55	0x0855
+English DTE	祁	8C56	Me	8C56	0x0856
+English DTE	啓	8C5B	Mi	8C5B	0x085B
+English DTE	圭	8C5C	Mk	8C5C	0x085C
+English DTE	珪	8C5D	Mm	8C5D	0x085D
+English DTE	契	8C5F	Mo	8C5F	0x085F
+English DTE	径	8C61	Mr	8C61	0x0861
+English DTE	慧	8C64	Ms	8C64	0x0864
+English DTE	憩	8C65	Mu	8C65	0x0865
+English DTE	敬	8C68	My	8C68	0x0868
+English DTE	桂	8C6A	N 	8C6A	0x086A
+English DTE	渓	8C6B	N!	8C6B	0x086B
+English DTE	畦	8C6C	N,	8C6C	0x086C
+English DTE	稽	8C6D	N-	8C6D	0x086D
+English DTE	繋	8C71	N.	8C71	0x0871
+English DTE	罫	8C72	N/	8C72	0x0872
+English DTE	茎	8C73	N0	8C73	0x0873
+English DTE	荊	8C74	N1	8C74	0x0874
+English DTE	蛍	8C75	N2	8C75	0x0875
+English DTE	詣	8C77	NE	8C77	0x0877
+English DTE	頚	8C7A	NG	8C7A	0x087A
+English DTE	鶏	8C7B	NK	8C7B	0x087B
+English DTE	芸	8C7C	NO	8C7C	0x087C
+English DTE	鯨	8C7E	NT	8C7E	0x087E
+English DTE	劇	8C80	NU	8C80	0x0880
+English DTE	桁	8C85	Na	8C85	0x0885
+English DTE	傑	8C86	Ne	8C86	0x0886
+English DTE	欠	8C87	Ng	8C87	0x0887
+English DTE	訣	8C8D	Ni	8C8D	0x088D
+English DTE	倦	8C91	Nm	8C91	0x0891
+English DTE	券	8C94	Nn	8C94	0x0894
+English DTE	喧	8C96	No	8C96	0x0896
+English DTE	堅	8C98	Nu	8C98	0x0898
+English DTE	嫌	8C99	Ny	8C99	0x0899
+English DTE	憲	8C9B	O 	8C9B	0x089B
+English DTE	捲	8C9E	O!	8C9E	0x089E
+English DTE	牽	8CA1	O,	8CA1	0x08A1
+English DTE	硯	8CA5	O-	8CA5	0x08A5
+English DTE	絹	8CA6	O.	8CA6	0x08A6
+English DTE	県	8CA7	OF	8CA7	0x08A7
+English DTE	謙	8CAA	OH	8CAA	0x08AA
+English DTE	賢	8CAB	OK	8CAB	0x08AB
+English DTE	軒	8CAC	OL	8CAC	0x08AC
+English DTE	鹸	8CB2	ON	8CB2	0x08B2
+English DTE	弦	8CB7	OO	8CB7	0x08B7
+English DTE	玄	8CBA	OP	8CBA	0x08BA
+English DTE	絃	8CBC	OS	8CBC	0x08BC
+English DTE	諺	8CBF	OT	8CBF	0x08BF
+English DTE	乎	8CC1	OV	8CC1	0x08C1
+English DTE	孤	8CC7	OW	8CC7	0x08C7
+English DTE	庫	8CC9	OZ	8CC9	0x08C9
+English DTE	弧	8CCA	Oa	8CCA	0x08CA
+English DTE	枯	8CCD	Ob	8CCD	0x08CD
+English DTE	湖	8CCE	Oc	8CCE	0x08CE
+English DTE	糊	8CD0	Od	8CD0	0x08D0
+English DTE	袴	8CD1	Of	8CD1	0x08D1
+English DTE	股	8CD2	Og	8CD2	0x08D2
+English DTE	胡	8CD3	Oh	8CD3	0x08D3
+English DTE	菰	8CD4	Oi	8CD4	0x08D4
+English DTE	跨	8CD7	Ok	8CD7	0x08D7
+English DTE	鈷	8CD8	Ol	8CD8	0x08D8
+English DTE	雇	8CD9	Om	8CD9	0x08D9
+English DTE	鼓	8CDB	On	8CDB	0x08DB
+English DTE	伍	8CDE	Oo	8CDE	0x08DE
+English DTE	午	8CDF	Op	8CDF	0x08DF
+English DTE	呉	8CE0	Or	8CE0	0x08E0
+English DTE	娯	8CE2	Os	8CE2	0x08E2
+English DTE	梧	8CE6	Ot	8CE6	0x08E6
+English DTE	檎	8CE7	Ou	8CE7	0x08E7
+English DTE	瑚	8CE8	Ov	8CE8	0x08E8
+English DTE	碁	8CE9	Ow	8CE9	0x08E9
+English DTE	語	8CEA	P 	8CEA	0x08EA
+English DTE	醐	8CED	P!	8CED	0x08ED
+English DTE	乞	8CEE	P,	8CEE	0x08EE
+English DTE	鯉	8CEF	P-	8CEF	0x08EF
+English DTE	佼	8CF1	P.	8CF1	0x08F1
+English DTE	侯	8CF2	P0	8CF2	0x08F2
+English DTE	倖	8CF4	P1	8CF4	0x08F4
+English DTE	勾	8CF9	PD	8CF9	0x08F9
+English DTE	后	8D40	PE	8D40	0x0900
+English DTE	喉	8D41	PI	8D41	0x0901
+English DTE	坑	8D42	PL	8D42	0x0902
+English DTE	垢	8D43	PP	8D43	0x0903
+English DTE	孔	8D45	PR	8D45	0x0905
+English DTE	孝	8D46	PS	8D46	0x0906
+English DTE	宏	8D47	Pa	8D47	0x0907
+English DTE	巧	8D49	Pe	8D49	0x0909
+English DTE	巷	8D4A	Pf	8D4A	0x090A
+English DTE	庚	8D4D	Ph	8D4D	0x090D
+English DTE	康	8D4E	Pi	8D4E	0x090E
+English DTE	弘	8D4F	Pl	8D4F	0x090F
+English DTE	慌	8D51	Po	8D51	0x0911
+English DTE	控	8D54	Pr	8D54	0x0914
+English DTE	昂	8D56	Ps	8D56	0x0916
+English DTE	晃	8D57	Pu	8D57	0x0917
+English DTE	杭	8D59	Py	8D59	0x0919
+English DTE	梗	8D5B	Q 	8D5B	0x091B
+English DTE	洪	8D5E	Q,	8D5E	0x091E
+English DTE	浩	8D5F	Q.	8D5F	0x091F
+English DTE	港	8D60	QR	8D60	0x0920
+English DTE	溝	8D61	Qu	8D61	0x0921
+English DTE	皇	8D63	R&	8D63	0x0923
+English DTE	硬	8D64	R,	8D64	0x0924
+English DTE	稿	8D65	R-	8D65	0x0925
+English DTE	糠	8D66	R.	8D66	0x0926
+English DTE	紅	8D67	R1	8D67	0x0927
+English DTE	紘	8D68	RA	8D68	0x0928
+English DTE	絞	8D69	RE	8D69	0x0929
+English DTE	綱	8D6A	RG	8D6A	0x092A
+English DTE	耕	8D6B	RI	8D6B	0x092B
+English DTE	肯	8D6D	RN	8D6D	0x092D
+English DTE	肱	8D6E	RS	8D6E	0x092E
+English DTE	腔	8D6F	RU	8D6F	0x092F
+English DTE	膏	8D70	RX	8D70	0x0930
+English DTE	衡	8D74	Ra	8D74	0x0934
+English DTE	講	8D75	Re	8D75	0x0935
+English DTE	貢	8D76	Ri	8D76	0x0936
+English DTE	購	8D77	Ro	8D77	0x0937
+English DTE	郊	8D78	Ru	8D78	0x0938
+English DTE	酵	8D79	Ry	8D79	0x0939
+English DTE	鉱	8D7A	S 	8D7A	0x093A
+English DTE	砿	8D7B	S!	8D7B	0x093B
+English DTE	閤	8D7D	S,	8D7D	0x093D
+English DTE	拷	8D89	S-	8D89	0x0949
+English DTE	豪	8D8B	S.	8D8B	0x094B
+English DTE	鵠	8D94	S2	8D94	0x0954
+English DTE	漉	8D97	S:	8D97	0x0957
+English DTE	腰	8D98	S?	8D98	0x0958
+English DTE	甑	8D99	SA	8D99	0x0959
+English DTE	忽	8D9A	SF	8D9A	0x095A
+English DTE	狛	8D9D	SH	8D9D	0x095D
+English DTE	此	8D9F	SI	8D9F	0x095F
+English DTE	困	8DA2	SP	8DA2	0x0962
+English DTE	坤	8DA3	SR	8DA3	0x0963
+English DTE	墾	8DA4	SS	8DA4	0x0964
+English DTE	婚	8DA5	ST	8DA5	0x0965
+English DTE	恨	8DA6	SU	8DA6	0x0966
+English DTE	懇	8DA7	Sa	8DA7	0x0967
+English DTE	昏	8DA8	Sc	8DA8	0x0968
+English DTE	昆	8DA9	Se	8DA9	0x0969
+English DTE	梱	8DAB	Sh	8DAB	0x096B
+English DTE	痕	8DAD	Si	8DAD	0x096D
+English DTE	紺	8DAE	Sk	8DAE	0x096E
+English DTE	艮	8DAF	Sl	8DAF	0x096F
+English DTE	些	8DB1	Sm	8DB1	0x0971
+English DTE	叉	8DB3	Sn	8DB3	0x0973
+English DTE	唆	8DB4	So	8DB4	0x0974
+English DTE	嵯	8DB5	Sp	8DB5	0x0975
+English DTE	沙	8DB9	Sq	8DB9	0x0979
+English DTE	瑳	8DBA	St	8DBA	0x097A
+English DTE	詐	8DBC	Su	8DBC	0x097C
+English DTE	鎖	8DBD	Sw	8DBD	0x097D
+English DTE	裟	8DBE	Sy	8DBE	0x097E
+English DTE	坐	8DBF	T,	8DBF	0x097F
+English DTE	債	8DC2	T-	8DC2	0x0982
+English DTE	哉	8DC6	T.	8DC6	0x0986
+English DTE	宰	8DC9	T3	8DC9	0x0989
+English DTE	彩	8DCA	TB	8DCA	0x098A
+English DTE	才	8DCB	TC	8DCB	0x098B
+English DTE	採	8DCC	TD	8DCC	0x098C
+English DTE	栽	8DCD	TE	8DCD	0x098D
+English DTE	采	8DD1	TG	8DD1	0x0991
+English DTE	犀	8DD2	TI	8DD2	0x0992
+English DTE	砕	8DD3	TO	8DD3	0x0993
+English DTE	祭	8DD5	TR	8DD5	0x0995
+English DTE	斎	8DD6	TV	8DD6	0x0996
+English DTE	菜	8DD8	Ta	8DD8	0x0998
+English DTE	材	8DDE	Tc	8DDE	0x099E
+English DTE	財	8DE0	Te	8DE0	0x09A0
+English DTE	冴	8DE1	Th	8DE1	0x09A1
+English DTE	坂	8DE2	Ti	8DE2	0x09A2
+English DTE	堺	8DE4	To	8DE4	0x09A4
+English DTE	榊	8DE5	Tr	8DE5	0x09A5
+English DTE	肴	8DE6	Ts	8DE6	0x09A6
+English DTE	埼	8DE9	Tu	8DE9	0x09A9
+English DTE	碕	8DEA	Tw	8DEA	0x09AA
+English DTE	鷺	8DEB	Ty	8DEB	0x09AB
+English DTE	咋	8DEE	U!	8DEE	0x09AE
+English DTE	搾	8DEF	U,	8DEF	0x09AF
+English DTE	朔	8DF1	U-	8DF1	0x09B1
+English DTE	柵	8DF2	U.	8DF2	0x09B2
+English DTE	窄	8DF3	UF	8DF3	0x09B3
+English DTE	錯	8DF6	UG	8DF6	0x09B6
+English DTE	鮭	8DF8	UI	8DF8	0x09B8
+English DTE	笹	8DF9	UN	8DF9	0x09B9
+English DTE	匙	8DFA	UO	8DFA	0x09BA
+English DTE	冊	8DFB	UP	8DFB	0x09BB
+English DTE	刷	8DFC	UV	8DFC	0x09BC
+English DTE	拶	8E41	UW	8E41	0x09C1
+English DTE	擦	8E43	UZ	8E43	0x09C3
+English DTE	札	8E44	Ua	8E44	0x09C4
+English DTE	薩	8E46	Ud	8E46	0x09C6
+English DTE	皐	8E48	Ue	8E48	0x09C8
+English DTE	鯖	8E49	Uf	8E49	0x09C9
+English DTE	捌	8E4A	Ug	8E4A	0x09CA
+English DTE	錆	8E4B	Uh	8E4B	0x09CB
+English DTE	鮫	8E4C	Ui	8E4C	0x09CC
+English DTE	皿	8E4D	Ul	8E4D	0x09CD
+English DTE	晒	8E4E	Um	8E4E	0x09CE
+English DTE	傘	8E50	Un	8E50	0x09D0
+English DTE	惨	8E53	Uo	8E53	0x09D3
+English DTE	撒	8E54	Up	8E54	0x09D4
+English DTE	桟	8E56	Ur	8E56	0x09D6
+English DTE	燦	8E57	Us	8E57	0x09D7
+English DTE	珊	8E58	Ut	8E58	0x09D8
+English DTE	纂	8E5B	Uu	8E5B	0x09DB
+English DTE	蚕	8E5C	Uw	8E5C	0x09DC
+English DTE	讃	8E5D	Uz	8E5D	0x09DD
+English DTE	賛	8E5E	V 	8E5E	0x09DE
+English DTE	酸	8E5F	V!	8E5F	0x09DF
+English DTE	餐	8E60	V,	8E60	0x09E0
+English DTE	仔	8E65	V.	8E65	0x09E5
+English DTE	伺	8E66	VA	8E66	0x09E6
+English DTE	嗣	8E6B	VE	8E6B	0x09EB
+English DTE	孜	8E79	Va	8E79	0x09F9
+English DTE	斯	8E7A	Ve	8E7A	0x09FA
+English DTE	旨	8E7C	Vi	8E7C	0x09FC
+English DTE	糸	8E85	Vo	8E85	0x0A05
+English DTE	紫	8E87	Vu	8E87	0x0A07
+English DTE	誌	8E8F	W 	8E8F	0x0A0F
+English DTE	諮	8E90	W,	8E90	0x0A10
+English DTE	賜	8E92	W-	8E92	0x0A12
+English DTE	飼	8E94	W.	8E94	0x0A14
+English DTE	侍	8E98	WI	8E98	0x0A18
+English DTE	慈	8E9C	WS	8E9C	0x0A1C
+English DTE	滋	8EA0	WX	8EA0	0x0A20
+English DTE	爾	8EA2	WY	8EA2	0x0A22
+English DTE	璽	8EA3	Wa	8EA3	0x0A23
+English DTE	痔	8EA4	We	8EA4	0x0A24
+English DTE	而	8EA7	Wh	8EA7	0x0A27
+English DTE	耳	8EA8	Wi	8EA8	0x0A28
+English DTE	蒔	8EAA	Wo	8EAA	0x0A2A
+English DTE	辞	8EAB	Wr	8EAB	0x0A2B
+English DTE	汐	8EAC	Wu	8EAC	0x0A2C
+English DTE	鴫	8EB0	Wy	8EB0	0x0A30
+English DTE	竺	8EB1	X 	8EB1	0x0A31
+English DTE	宍	8EB3	X!	8EB3	0x0A33
+English DTE	雫	8EB4	X'	8EB4	0x0A34
+English DTE	叱	8EB6	X.	8EB6	0x0A36
+English DTE	悉	8EBB	X1	8EBB	0x0A3B
+English DTE	漆	8EBD	X2	8EBD	0x0A3D
+English DTE	疾	8EBE	X3	8EBE	0x0A3E
+English DTE	蔀	8EC1	XB	8EC1	0x0A41
+English DTE	篠	8EC2	XP	8EC2	0x0A42
+English DTE	偲	8EC3	XT	8EC3	0x0A43
+English DTE	柴	8EC4	Xi	8EC4	0x0A44
+English DTE	屡	8EC6	Xs	8EC6	0x0A46
+English DTE	蕊	8EC7	Y 	8EC7	0x0A47
+English DTE	縞	8EC8	Y!	8EC8	0x0A48
+English DTE	舎	8EC9	Y,	8EC9	0x0A49
+English DTE	写	8ECA	Y-	8ECA	0x0A4A
+English DTE	赦	8ECD	Y.	8ECD	0x0A4D
+English DTE	斜	8ECE	Y?	8ECE	0x0A4E
+English DTE	煮	8ECF	YP	8ECF	0x0A4F
+English DTE	紗	8ED1	YS	8ED1	0x0A51
+English DTE	遮	8ED5	YY	8ED5	0x0A55
+English DTE	蛇	8ED6	YZ	8ED6	0x0A56
+English DTE	勺	8ED9	Ya	8ED9	0x0A59
+English DTE	尺	8EDA	Ye	8EDA	0x0A5A
+English DTE	杓	8EDB	Yi	8EDB	0x0A5B
+English DTE	灼	8EDC	Yo	8EDC	0x0A5C
+English DTE	爵	8EDD	Yu	8EDD	0x0A5D
+English DTE	酌	8EDE	Z 	8EDE	0x0A5E
+English DTE	釈	8EDF	Z!	8EDF	0x0A5F
+English DTE	錫	8EE0	Z,	8EE0	0x0A60
+English DTE	惹	8EE4	Z-	8EE4	0x0A64
+English DTE	朱	8EE9	Z.	8EE9	0x0A69
+English DTE	狩	8EEB	Z0	8EEB	0x0A6B
+English DTE	珠	8EEC	Z2	8EEC	0x0A6C
+English DTE	腫	8EEE	Z?	8EEE	0x0A6E
+English DTE	酒	8EF0	ZZ	8EF0	0x0A70
+English DTE	儒	8EF2	Za	8EF2	0x0A72
+English DTE	寿	8EF5	Ze	8EF5	0x0A75
+English DTE	樹	8EF7	Zh	8EF7	0x0A77
+English DTE	綬	8EF8	Zi	8EF8	0x0A78
+English DTE	需	8EF9	Zo	8EF9	0x0A79
+English DTE	囚	8EFA	Zu	8EFA	0x0A7A
+English DTE	洲	8F46	Zw	8F46	0x0A86
+English DTE	秀	8F47	_0	8F47	0x0A87
+English DTE	秋	8F48	_1	8F48	0x0A88
+English DTE	繍	8F4A	_2	8F4A	0x0A8A
+English DTE	臭	8F4C	_3	8F4C	0x0A8C
+English DTE	蒐	8F4E	_4	8F4E	0x0A8E
+English DTE	衆	8F4F	_5	8F4F	0x0A8F
+English DTE	輯	8F53	_6	8F53	0x0A93
+English DTE	酋	8F55	_7	8F55	0x0A95
+English DTE	什	8F59	_8	8F59	0x0A99
+English DTE	戎	8F5E	_9	8F5E	0x0A9E
+English DTE	柔	8F5F	_A	8F5F	0x0A9F
+English DTE	汁	8F60	_B	8F60	0x0AA0
+English DTE	渋	8F61	_D	8F61	0x0AA1
+English DTE	叔	8F66	_E	8F66	0x0AA6
+English DTE	夙	8F67	_G	8F67	0x0AA7
+English DTE	淑	8F69	_K	8F69	0x0AA9
+English DTE	粛	8F6C	_M	8F6C	0x0AAC
+English DTE	塾	8F6D	_S	8F6D	0x0AAD
+English DTE	述	8F71	_Y	8F71	0x0AB1
+English DTE	俊	8F72	_s	8F72	0x0AB2
+English DTE	峻	8F73	a 	8F73	0x0AB3
+English DTE	春	8F74	a!	8F74	0x0AB4
+English DTE	竣	8F76	"a"""	8F76	0x0AB6
+English DTE	舜	8F77	a&	8F77	0x0AB7
+English DTE	駿	8F78	a'	8F78	0x0AB8
+English DTE	准	8F79	a(	8F79	0x0AB9
+English DTE	循	8F7A	a)	8F7A	0x0ABA
+English DTE	旬	8F7B	a,	8F7B	0x0ABB
+English DTE	楯	8F7C	a-	8F7C	0x0ABC
+English DTE	淳	8F7E	a.	8F7E	0x0ABE
+English DTE	巡	8F84	a?	8F84	0x0AC4
+English DTE	遵	8F85	aM	8F85	0x0AC5
+English DTE	醇	8F86	aS	8F86	0x0AC6
+English DTE	暑	8F8B	aW	8F8B	0x0ACB
+English DTE	渚	8F8D	aa	8F8D	0x0ACD
+English DTE	庶	8F8E	ab	8F8E	0x0ACE
+English DTE	署	8F90	ac	8F90	0x0AD0
+English DTE	薯	8F92	ad	8F92	0x0AD2
+English DTE	藷	8F93	ae	8F93	0x0AD3
+English DTE	叙	8F96	af	8F96	0x0AD6
+English DTE	徐	8F99	ag	8F99	0x0AD9
+English DTE	恕	8F9A	ah	8F9A	0x0ADA
+English DTE	鋤	8F9B	ai	8F9B	0x0ADB
+English DTE	償	8F9E	aj	8F9E	0x0ADE
+English DTE	匠	8FA0	ak	8FA0	0x0AE0
+English DTE	升	8FA1	al	8FA1	0x0AE1
+English DTE	召	8FA2	am	8FA2	0x0AE2
+English DTE	哨	8FA3	an	8FA3	0x0AE3
+English DTE	唱	8FA5	ao	8FA5	0x0AE5
+English DTE	嘗	8FA6	ap	8FA6	0x0AE6
+English DTE	奨	8FA7	aq	8FA7	0x0AE7
+English DTE	妾	8FA8	ar	8FA8	0x0AE8
+English DTE	娼	8FA9	as	8FA9	0x0AE9
+English DTE	宵	8FAA	at	8FAA	0x0AEA
+English DTE	庄	8FAF	au	8FAF	0x0AEF
+English DTE	廠	8FB1	av	8FB1	0x0AF1
+English DTE	彰	8FB2	aw	8FB2	0x0AF2
+English DTE	抄	8FB4	ax	8FB4	0x0AF4
+English DTE	招	8FB5	ay	8FB5	0x0AF5
+English DTE	掌	8FB6	az	8FB6	0x0AF6
+English DTE	捷	8FB7	a~	8FB7	0x0AF7
+English DTE	昌	8FB9	b 	8FB9	0x0AF9
+English DTE	松	8FBC	b!	8FBC	0x0AFC
+English DTE	梢	8FBD	b)	8FBD	0x0AFD
+English DTE	樟	8FBE	b,	8FBE	0x0AFE
+English DTE	樵	8FBF	b-	8FBF	0x0AFF
+English DTE	沼	8FC0	b.	8FC0	0x0B00
+English DTE	湘	8FC3	b?	8FC3	0x0B03
+English DTE	焼	8FC4	ba	8FC4	0x0B04
+English DTE	省	8FC8	bb	8FC8	0x0B08
+English DTE	硝	8FC9	bc	8FC9	0x0B09
+English DTE	礁	8FCA	bd	8FCA	0x0B0A
+English DTE	祥	8FCB	be	8FCB	0x0B0B
+English DTE	章	8FCD	bi	8FCD	0x0B0D
+English DTE	粧	8FCF	bj	8FCF	0x0B0F
+English DTE	紹	8FD0	bl	8FD0	0x0B10
+English DTE	肖	8FD1	bm	8FD1	0x0B11
+English DTE	菖	8FD2	bn	8FD2	0x0B12
+English DTE	蒋	8FD3	bo	8FD3	0x0B13
+English DTE	蕉	8FD4	br	8FD4	0x0B14
+English DTE	裳	8FD6	bs	8FD6	0x0B16
+English DTE	訟	8FD7	bt	8FD7	0x0B17
+English DTE	詔	8FD9	bu	8FD9	0x0B19
+English DTE	賞	8FDC	bv	8FDC	0x0B1C
+English DTE	醤	8FDD	by	8FDD	0x0B1D
+English DTE	鉦	8FDE	c 	8FDE	0x0B1E
+English DTE	鍾	8FDF	c!	8FDF	0x0B1F
+English DTE	鐘	8FE0	c,	8FE0	0x0B20
+English DTE	鞘	8FE2	c.	8FE2	0x0B22
+English DTE	丞	8FE5	c?	8FE5	0x0B25
+English DTE	壌	8FEB	cC	8FEB	0x0B2B
+English DTE	擾	8FEF	ca	8FEF	0x0B2F
+English DTE	杖	8FF1	cc	8FF1	0x0B31
+English DTE	畳	8FF4	ce	8FF4	0x0B34
+English DTE	穣	8FF5	ch	8FF5	0x0B35
+English DTE	蒸	8FF6	ci	8FF6	0x0B36
+English DTE	譲	8FF7	ck	8FF7	0x0B37
+English DTE	醸	8FF8	cl	8FF8	0x0B38
+English DTE	錠	8FF9	co	8FF9	0x0B39
+English DTE	嘱	8FFA	cq	8FFA	0x0B3A
+English DTE	埴	8FFB	cr	8FFB	0x0B3B
+English DTE	燭	9043	cs	9043	0x0B43
+English DTE	伸	904C	ct	904C	0x0B4C
+English DTE	唇	904F	cu	904F	0x0B4F
+English DTE	娠	9050	cy	9050	0x0B50
+English DTE	審	9052	d 	9052	0x0B52
+English DTE	慎	9054	d!	9054	0x0B54
+English DTE	晋	9057	"d"""	9057	0x0B57
+English DTE	森	9058	d'	9058	0x0B58
+English DTE	榛	9059	d(	9059	0x0B59
+English DTE	疹	905D	d)	905D	0x0B5D
+English DTE	秦	9060	d,	9060	0x0B60
+English DTE	紳	9061	d-	9061	0x0B61
+English DTE	芯	9063	d.	9063	0x0B63
+English DTE	薪	9064	d:	9064	0x0B64
+English DTE	診	9066	d>	9066	0x0B66
+English DTE	辛	9068	d?	9068	0x0B68
+English DTE	仁	906D	dB	906D	0x0B6D
+English DTE	尋	9071	da	9071	0x0B71
+English DTE	腎	9074	db	9074	0x0B74
+English DTE	笥	9079	dc	9079	0x0B79
+English DTE	酢	907C	dd	907C	0x0B7C
+English DTE	厨	907E	de	907E	0x0B7E
+English DTE	逗	9080	df	9080	0x0B80
+English DTE	推	9084	dg	9084	0x0B84
+English DTE	睡	9087	dh	9087	0x0B87
+English DTE	粋	9088	di	9088	0x0B88
+English DTE	酔	908C	dj	908C	0x0B8C
+English DTE	錐	908D	dl	908D	0x0B8D
+English DTE	嵩	9093	dm	9093	0x0B93
+English DTE	杉	9099	dn	9099	0x0B99
+English DTE	椙	909A	do	909A	0x0B9A
+English DTE	菅	909B	dp	909B	0x0B9B
+English DTE	頗	909C	dq	909C	0x0B9C
+English DTE	澄	909F	dr	909F	0x0B9F
+English DTE	摺	90A0	ds	90A0	0x0BA0
+English DTE	寸	90A1	du	90A1	0x0BA1
+English DTE	瀬	90A3	dv	90A3	0x0BA3
+English DTE	棲	90B1	dw	90B1	0x0BB1
+English DTE	栖	90B2	dy	90B2	0x0BB2
+English DTE	牲	90B5	e 	90B5	0x0BB5
+English DTE	聖	90B9	e!	90B9	0x0BB9
+English DTE	逝	90C0	"e"""	90C0	0x0BC0
+English DTE	税	90C5	e'	90C5	0x0BC5
+English DTE	隻	90C7	e(	90C7	0x0BC7
+English DTE	席	90C8	e)	90C8	0x0BC8
+English DTE	斥	90CB	e,	90CB	0x0BCB
+English DTE	籍	90D0	e-	90D0	0x0BD0
+English DTE	脊	90D2	e.	90D2	0x0BD2
+English DTE	碩	90D7	e1	90D7	0x0BD7
+English DTE	拙	90D9	e2	90D9	0x0BD9
+English DTE	摂	90DB	e:	90DB	0x0BDB
+English DTE	節	90DF	e?	90DF	0x0BDF
+English DTE	蝉	90E4	eS	90E4	0x0BE4
+English DTE	仙	90E5	ea	90E5	0x0BE5
+English DTE	尖	90EB	eb	90EB	0x0BEB
+English DTE	繊	9140	ec	9140	0x0C00
+English DTE	羨	9141	ed	9141	0x0C01
+English DTE	腺	9142	ee	9142	0x0C02
+English DTE	舛	9143	ef	9143	0x0C03
+English DTE	薦	9145	eg	9145	0x0C05
+English DTE	賎	9147	eh	9147	0x0C07
+English DTE	践	9148	ei	9148	0x0C08
+English DTE	銑	914C	ej	914C	0x0C0C
+English DTE	鮮	914E	ek	914E	0x0C0E
+English DTE	善	9150	el	9150	0x0C10
+English DTE	漸	9151	em	9151	0x0C11
+English DTE	禅	9154	en	9154	0x0C14
+English DTE	繕	9155	eo	9155	0x0C15
+English DTE	膳	9156	ep	9156	0x0C16
+English DTE	糎	9157	eq	9157	0x0C17
+English DTE	噌	9158	er	9158	0x0C18
+English DTE	塑	9159	es	9159	0x0C19
+English DTE	岨	915A	et	915A	0x0C1A
+English DTE	措	915B	eu	915B	0x0C1B
+English DTE	曾	915C	ev	915C	0x0C1C
+English DTE	曽	915D	ew	915D	0x0C1D
+English DTE	楚	915E	ex	915E	0x0C1E
+English DTE	礎	9162	ey	9162	0x0C22
+English DTE	祖	9163	ez	9163	0x0C23
+English DTE	租	9164	e~	9164	0x0C24
+English DTE	粗	9165	f 	9165	0x0C25
+English DTE	訴	9169	f!	9169	0x0C29
+English DTE	遡	916B	f'	916B	0x0C2B
+English DTE	鼠	916C	f,	916C	0x0C2C
+English DTE	創	916E	f-	916E	0x0C2E
+English DTE	叢	9170	f.	9170	0x0C30
+English DTE	倉	9171	f?	9171	0x0C31
+English DTE	喪	9172	fa	9172	0x0C32
+English DTE	奏	9174	fe	9174	0x0C34
+English DTE	爽	9175	ff	9175	0x0C35
+English DTE	宋	9176	fi	9176	0x0C36
+English DTE	匝	9178	fl	9178	0x0C38
+English DTE	掃	917C	fn	917C	0x0C3C
+English DTE	掻	917E	fo	917E	0x0C3E
+English DTE	槽	9185	fr	9185	0x0C45
+English DTE	漕	9186	fs	9186	0x0C46
+English DTE	燥	9187	ft	9187	0x0C47
+English DTE	痩	9189	fu	9189	0x0C49
+English DTE	聡	918F	fy	918F	0x0C4F
+English DTE	葬	9192	f~	9192	0x0C52
+English DTE	蒼	9193	g 	9193	0x0C53
+English DTE	鎗	9199	g!	9199	0x0C59
+English DTE	霜	919A	"g"""	919A	0x0C5A
+English DTE	騒	919B	g'	919B	0x0C5B
+English DTE	像	919C	g(	919C	0x0C5C
+English DTE	臓	919F	g)	919F	0x0C5F
+English DTE	贈	91A1	g,	91A1	0x0C61
+English DTE	則	91A5	g-	91A5	0x0C65
+English DTE	即	91A6	g.	91A6	0x0C66
+English DTE	捉	91A8	g?	91A8	0x0C68
+English DTE	測	91AA	gC	91AA	0x0C6A
+English DTE	俗	91AD	ga	91AD	0x0C6D
+English DTE	卒	91B2	gb	91B2	0x0C72
+English DTE	袖	91B3	gd	91B3	0x0C73
+English DTE	其	91B4	ge	91B4	0x0C74
+English DTE	孫	91B7	gg	91B7	0x0C77
+English DTE	尊	91B8	gh	91B8	0x0C78
+English DTE	村	91BA	gi	91BA	0x0C7A
+English DTE	遜	91BB	gl	91BB	0x0C7B
+English DTE	汰	91BF	gm	91BF	0x0C7F
+English DTE	詑	91C0	gn	91C0	0x0C80
+English DTE	唾	91C1	go	91C1	0x0C81
+English DTE	妥	91C3	gq	91C3	0x0C83
+English DTE	惰	91C4	gr	91C4	0x0C84
+English DTE	柁	91C6	gs	91C6	0x0C86
+English DTE	舵	91C7	gt	91C7	0x0C87
+English DTE	楕	91C8	gu	91C8	0x0C88
+English DTE	陀	91C9	gw	91C9	0x0C89
+English DTE	騨	91CB	gy	91CB	0x0C8B
+English DTE	堆	91CD	gz	91CD	0x0C8D
+English DTE	岱	91D0	h 	91D0	0x0C90
+English DTE	帯	91D1	h!	91D1	0x0C91
+English DTE	怠	91D3	h'	91D3	0x0C93
+English DTE	戴	91D5	h(	91D5	0x0C95
+English DTE	泰	91D7	h)	91D7	0x0C97
+English DTE	滞	91D8	h,	91D8	0x0C98
+English DTE	胎	91D9	h-	91D9	0x0C99
+English DTE	腿	91DA	h.	91DA	0x0C9A
+English DTE	苔	91DB	h?	91DB	0x0C9B
+English DTE	貸	91DD	ha	91DD	0x0C9D
+English DTE	黛	91E1	hb	91E1	0x0CA1
+English DTE	鯛	91E2	hc	91E2	0x0CA2
+English DTE	醍	91E7	hd	91E7	0x0CA7
+English DTE	鷹	91E9	he	91E9	0x0CA9
+English DTE	滝	91EA	hg	91EA	0x0CAA
+English DTE	瀧	91EB	hh	91EB	0x0CAB
+English DTE	卓	91EC	hi	91EC	0x0CAC
+English DTE	啄	91ED	hk	91ED	0x0CAD
+English DTE	托	91EF	hl	91EF	0x0CAF
+English DTE	拓	91F1	hm	91F1	0x0CB1
+English DTE	沢	91F2	hn	91F2	0x0CB2
+English DTE	濯	91F3	ho	91F3	0x0CB3
+English DTE	琢	91F4	hp	91F4	0x0CB4
+English DTE	託	91F5	hq	91F5	0x0CB5
+English DTE	濁	91F7	hr	91F7	0x0CB7
+English DTE	茸	91F9	hs	91F9	0x0CB9
+English DTE	凧	91FA	ht	91FA	0x0CBA
+English DTE	蛸	91FB	hu	91FB	0x0CBB
+English DTE	但	9241	hw	9241	0x0CC1
+English DTE	辰	9243	hy	9243	0x0CC3
+English DTE	巽	9246	h~	9246	0x0CC6
+English DTE	竪	9247	i 	9247	0x0CC7
+English DTE	辿	9248	i!	9248	0x0CC8
+English DTE	棚	9249	i'	9249	0x0CC9
+English DTE	狸	924B	i(	924B	0x0CCB
+English DTE	鱈	924C	i,	924C	0x0CCC
+English DTE	樽	924D	i-	924D	0x0CCD
+English DTE	丹	924F	i.	924F	0x0CCF
+English DTE	嘆	9251	i<	9251	0x0CD1
+English DTE	坦	9252	i?	9252	0x0CD2
+English DTE	担	9253	iG	9253	0x0CD3
+English DTE	歎	9256	iM	9256	0x0CD6
+English DTE	淡	9257	ia	9257	0x0CD7
+English DTE	湛	9258	ib	9258	0x0CD8
+English DTE	炭	9259	ic	9259	0x0CD9
+English DTE	箪	925C	id	925C	0x0CDC
+English DTE	綻	925D	ie	925D	0x0CDD
+English DTE	耽	925E	if	925E	0x0CDE
+English DTE	胆	925F	ig	925F	0x0CDF
+English DTE	蛋	9260	ih	9260	0x0CE0
+English DTE	壇	9264	ii	9264	0x0CE4
+English DTE	暖	9267	ij	9267	0x0CE7
+English DTE	檀	9268	ik	9268	0x0CE8
+English DTE	弛	926F	il	926F	0x0CEF
+English DTE	恥	9270	im	9270	0x0CF0
+English DTE	智	9271	in	9271	0x0CF1
+English DTE	池	9272	io	9272	0x0CF2
+English DTE	痴	9273	ip	9273	0x0CF3
+English DTE	稚	9274	iq	9274	0x0CF4
+English DTE	蜘	9277	ir	9277	0x0CF7
+English DTE	馳	9279	is	9279	0x0CF9
+English DTE	畜	927B	it	927B	0x0CFB
+English DTE	竹	927C	iu	927C	0x0CFC
+English DTE	筑	927D	iv	927D	0x0CFD
+English DTE	蓄	927E	iw	927E	0x0CFE
+English DTE	逐	9280	ix	9280	0x0D00
+English DTE	嫡	9284	iy	9284	0x0D04
+English DTE	抽	928A	iz	928A	0x0D0A
+English DTE	昼	928B	j,	928B	0x0D0B
+English DTE	虫	928E	j.	928E	0x0D0E
+English DTE	衷	928F	ja	928F	0x0D0F
+English DTE	註	9290	je	9290	0x0D10
+English DTE	樗	9294	jg	9294	0x0D14
+English DTE	瀦	9295	ji	9295	0x0D15
+English DTE	苧	9297	jj	9297	0x0D17
+English DTE	著	9298	jo	9298	0x0D18
+English DTE	貯	9299	ju	9299	0x0D19
+English DTE	凋	929C	jy	929C	0x0D1C
+English DTE	喋	929D	k 	929D	0x0D1D
+English DTE	寵	929E	k!	929E	0x0D1E
+English DTE	帖	929F	k'	929F	0x0D1F
+English DTE	帳	92A0	k,	92A0	0x0D20
+English DTE	庁	92A1	k-	92A1	0x0D21
+English DTE	弔	92A2	k.	92A2	0x0D22
+English DTE	彫	92A4	k?	92A4	0x0D24
+English DTE	徴	92A5	ka	92A5	0x0D25
+English DTE	懲	92A6	kb	92A6	0x0D26
+English DTE	暢	92A8	kc	92A8	0x0D28
+English DTE	朝	92A9	ke	92A9	0x0D29
+English DTE	潮	92AA	kf	92AA	0x0D2A
+English DTE	牒	92AB	kh	92AB	0x0D2B
+English DTE	町	92AC	ki	92AC	0x0D2C
+English DTE	眺	92AD	kk	92AD	0x0D2D
+English DTE	聴	92AE	kl	92AE	0x0D2E
+English DTE	脹	92AF	km	92AF	0x0D2F
+English DTE	腸	92B0	kn	92B0	0x0D30
+English DTE	蝶	92B1	ko	92B1	0x0D31
+English DTE	跳	92B5	kp	92B5	0x0D35
+English DTE	銚	92B6	kr	92B6	0x0D36
+English DTE	頂	92B8	ks	92B8	0x0D38
+English DTE	勅	92BA	kt	92BA	0x0D3A
+English DTE	捗	92BB	ku	92BB	0x0D3B
+English DTE	朕	92BD	kw	92BD	0x0D3D
+English DTE	珍	92BF	ky	92BF	0x0D3F
+English DTE	賃	92C0	l 	92C0	0x0D40
+English DTE	鎮	92C1	l!	92C1	0x0D41
+English DTE	陳	92C2	"l"""	92C2	0x0D42
+English DTE	椎	92C5	l'	92C5	0x0D45
+English DTE	鎚	92C8	l(	92C8	0x0D48
+English DTE	塚	92CB	l)	92CB	0x0D4B
+English DTE	栂	92CC	l,	92CC	0x0D4C
+English DTE	掴	92CD	l-	92CD	0x0D4D
+English DTE	槻	92CE	l.	92CE	0x0D4E
+English DTE	佃	92CF	l:	92CF	0x0D4F
+English DTE	漬	92D0	l?	92D0	0x0D50
+English DTE	柘	92D1	lC	92D1	0x0D51
+English DTE	辻	92D2	la	92D2	0x0D52
+English DTE	蔦	92D3	lb	92D3	0x0D53
+English DTE	綴	92D4	lc	92D4	0x0D54
+English DTE	椿	92D6	ld	92D6	0x0D56
+English DTE	潰	92D7	le	92D7	0x0D57
+English DTE	坪	92D8	lf	92D8	0x0D58
+English DTE	壷	92D9	lg	92D9	0x0D59
+English DTE	嬬	92DA	lh	92DA	0x0D5A
+English DTE	紬	92DB	li	92DB	0x0D5B
+English DTE	爪	92DC	lk	92DC	0x0D5C
+English DTE	吊	92DD	ll	92DD	0x0D5D
+English DTE	釣	92DE	lm	92DE	0x0D5E
+English DTE	鶴	92DF	ln	92DF	0x0D5F
+English DTE	亭	92E0	lo	92E0	0x0D60
+English DTE	剃	92E4	lp	92E4	0x0D64
+English DTE	貞	92E5	lr	92E5	0x0D65
+English DTE	呈	92E6	ls	92E6	0x0D66
+English DTE	堤	92E7	lt	92E7	0x0D67
+English DTE	庭	92EB	lu	92EB	0x0D6B
+English DTE	廷	92EC	lv	92EC	0x0D6C
+English DTE	弟	92ED	lw	92ED	0x0D6D
+English DTE	悌	92EE	ly	92EE	0x0D6E
+English DTE	抵	92EF	lz	92EF	0x0D6F
+English DTE	挺	92F0	m 	92F0	0x0D70
+English DTE	梯	92F2	m!	92F2	0x0D72
+English DTE	汀	92F3	m'	92F3	0x0D73
+English DTE	碇	92F4	m(	92F4	0x0D74
+English DTE	禎	92F5	m)	92F5	0x0D75
+English DTE	締	92F7	m,	92F7	0x0D77
+English DTE	艇	92F8	m-	92F8	0x0D78
+English DTE	訂	92F9	m.	92F9	0x0D79
+English DTE	諦	92FA	m<	92FA	0x0D7A
+English DTE	蹄	92FB	m?	92FB	0x0D7B
+English DTE	逓	92FC	ma	92FC	0x0D7C
+English DTE	邸	9340	mb	9340	0x0D80
+English DTE	鄭	9341	md	9341	0x0D81
+English DTE	釘	9342	me	9342	0x0D82
+English DTE	鼎	9343	mf	9343	0x0D83
+English DTE	泥	9344	mi	9344	0x0D84
+English DTE	摘	9345	ml	9345	0x0D85
+English DTE	滴	9348	mm	9348	0x0D88
+English DTE	笛	934A	mn	934A	0x0D8A
+English DTE	鏑	934C	mo	934C	0x0D8C
+English DTE	溺	934D	mp	934D	0x0D8D
+English DTE	哲	934E	mr	934E	0x0D8E
+English DTE	轍	9351	ms	9351	0x0D91
+English DTE	迭	9352	mt	9352	0x0D92
+English DTE	店	9358	mu	9358	0x0D98
+English DTE	添	9359	my	9359	0x0D99
+English DTE	纏	935A	n 	935A	0x0D9A
+English DTE	甜	935B	n!	935B	0x0D9B
+English DTE	貼	935C	"n"""	935C	0x0D9C
+English DTE	顛	935E	n'	935E	0x0D9E
+English DTE	殿	9361	n(	9361	0x0DA1
+English DTE	澱	9362	n)	9362	0x0DA2
+English DTE	吐	9366	n,	9366	0x0DA6
+English DTE	堵	9367	n-	9367	0x0DA7
+English DTE	塗	9368	n.	9368	0x0DA8
+English DTE	屠	936A	n/	936A	0x0DAA
+English DTE	徒	936B	n:	936B	0x0DAB
+English DTE	斗	936C	n?	936C	0x0DAC
+English DTE	杜	936D	nC	936D	0x0DAD
+English DTE	菟	9370	nK	9370	0x0DB0
+English DTE	鍍	9374	nS	9374	0x0DB4
+English DTE	砥	9375	nT	9375	0x0DB5
+English DTE	砺	9376	na	9376	0x0DB6
+English DTE	凍	9380	nb	9380	0x0DC0
+English DTE	塘	9384	nc	9384	0x0DC4
+English DTE	套	9385	nd	9385	0x0DC5
+English DTE	宕	9386	ne	9386	0x0DC6
+English DTE	桃	938D	nf	938D	0x0DCD
+English DTE	湯	9392	ng	9392	0x0DD2
+English DTE	祷	9398	nh	9398	0x0DD8
+English DTE	筒	939B	ni	939B	0x0DDB
+English DTE	糖	939C	nj	939C	0x0DDC
+English DTE	董	939F	nk	939F	0x0DDF
+English DTE	蕩	93A0	nl	93A0	0x0DE0
+English DTE	藤	93A1	nm	93A1	0x0DE1
+English DTE	謄	93A3	nn	93A3	0x0DE3
+English DTE	豆	93A4	no	93A4	0x0DE4
+English DTE	踏	93A5	np	93A5	0x0DE5
+English DTE	透	93A7	nq	93A7	0x0DE7
+English DTE	鐙	93A8	nr	93A8	0x0DE8
+English DTE	陶	93A9	ns	93A9	0x0DE9
+English DTE	騰	93AB	nt	93AB	0x0DEB
+English DTE	憧	93B2	nu	93B2	0x0DF2
+English DTE	撞	93B3	nv	93B3	0x0DF3
+English DTE	瞳	93B5	nw	93B5	0x0DF5
+English DTE	童	93B6	nx	93B6	0x0DF6
+English DTE	胴	93B7	ny	93B7	0x0DF7
+English DTE	萄	93B8	nz	93B8	0x0DF8
+English DTE	峠	93BB	o 	93BB	0x0DFB
+English DTE	鴇	93BC	o!	93BC	0x0DFC
+English DTE	匿	93BD	o'	93BD	0x0DFD
+English DTE	徳	93BF	o(	93BF	0x0DFF
+English DTE	涜	93C0	o)	93C0	0x0E00
+English DTE	禿	93C3	o,	93C3	0x0E03
+English DTE	篤	93C4	o-	93C4	0x0E04
+English DTE	毒	93C5	o.	93C5	0x0E05
+English DTE	栃	93C8	o?	93C8	0x0E08
+English DTE	橡	93C9	oG	93C9	0x0E09
+English DTE	凸	93CA	oM	93CA	0x0E0A
+English DTE	椴	93CC	oS	93CC	0x0E0C
+English DTE	鳶	93CE	oZ	93CE	0x0E0E
+English DTE	寅	93D0	oa	93D0	0x0E10
+English DTE	酉	93D1	ob	93D1	0x0E11
+English DTE	瀞	93D2	oc	93D2	0x0E12
+English DTE	噸	93D3	od	93D3	0x0E13
+English DTE	屯	93D4	oe	93D4	0x0E14
+English DTE	惇	93D5	of	93D5	0x0E15
+English DTE	敦	93D6	og	93D6	0x0E16
+English DTE	沌	93D7	oh	93D7	0x0E17
+English DTE	豚	93D8	oi	93D8	0x0E18
+English DTE	遁	93D9	oj	93D9	0x0E19
+English DTE	頓	93DA	ok	93DA	0x0E1A
+English DTE	呑	93DB	ol	93DB	0x0E1B
+English DTE	曇	93DC	om	93DC	0x0E1C
+English DTE	那	93DF	on	93DF	0x0E1F
+English DTE	乍	93E1	oo	93E1	0x0E21
+English DTE	凪	93E2	op	93E2	0x0E22
+English DTE	薙	93E3	oq	93E3	0x0E23
+English DTE	灘	93E5	or	93E5	0x0E25
+English DTE	捺	93E6	os	93E6	0x0E26
+English DTE	鍋	93E7	ot	93E7	0x0E27
+English DTE	楢	93E8	ou	93E8	0x0E28
+English DTE	馴	93E9	ov	93E9	0x0E29
+English DTE	畷	93EB	ow	93EB	0x0E2B
+English DTE	楠	93ED	ox	93ED	0x0E2D
+English DTE	汝	93F0	oy	93F0	0x0E30
+English DTE	尼	93F2	oz	93F2	0x0E32
+English DTE	弐	93F3	o~	93F3	0x0E33
+English DTE	迩	93F4	p 	93F4	0x0E34
+English DTE	匂	93F5	p!	93F5	0x0E35
+English DTE	賑	93F6	p'	93F6	0x0E36
+English DTE	虹	93F8	p,	93F8	0x0E38
+English DTE	廿	93F9	p-	93F9	0x0E39
+English DTE	乳	93FB	p.	93FB	0x0E3B
+English DTE	尿	9441	p?	9441	0x0E41
+English DTE	韮	9442	pM	9442	0x0E42
+English DTE	妊	9444	pa	9444	0x0E44
+English DTE	濡	9447	pb	9447	0x0E47
+English DTE	禰	9448	pe	9448	0x0E48
+English DTE	祢	9449	pf	9449	0x0E49
+English DTE	寧	944A	pg	944A	0x0E4A
+English DTE	葱	944B	ph	944B	0x0E4B
+English DTE	猫	944C	pi	944C	0x0E4C
+English DTE	捻	9450	pl	9450	0x0E50
+English DTE	撚	9451	pm	9451	0x0E51
+English DTE	粘	9453	pn	9453	0x0E53
+English DTE	乃	9454	po	9454	0x0E54
+English DTE	廼	9455	pp	9455	0x0E55
+English DTE	之	9456	pr	9456	0x0E56
+English DTE	埜	9457	ps	9457	0x0E57
+English DTE	嚢	9458	pt	9458	0x0E58
+English DTE	膿	945E	pu	945E	0x0E5E
+English DTE	農	945F	pw	945F	0x0E5F
+English DTE	覗	9460	py	9460	0x0E60
+English DTE	蚤	9461	p~	9461	0x0E61
+English DTE	巴	9462	q 	9462	0x0E62
+English DTE	把	9463	q.	9463	0x0E63
+English DTE	播	9464	qu	9464	0x0E64
+English DTE	覇	9465	r 	9465	0x0E65
+English DTE	杷	9466	r!	9466	0x0E66
+English DTE	琶	9469	"r"""	9469	0x0E69
+English DTE	婆	946B	r'	946B	0x0E6B
+English DTE	罵	946C	r(	946C	0x0E6C
+English DTE	芭	946D	r)	946D	0x0E6D
+English DTE	俳	946F	r,	946F	0x0E6F
+English DTE	廃	9470	r-	9470	0x0E70
+English DTE	拝	9471	r.	9471	0x0E71
+English DTE	排	9472	r:	9472	0x0E72
+English DTE	杯	9474	r<	9474	0x0E74
+English DTE	盃	9475	r?	9475	0x0E75
+English DTE	牌	9476	rG	9476	0x0E76
+English DTE	肺	9478	rS	9478	0x0E78
+English DTE	輩	9479	ra	9479	0x0E79
+English DTE	培	947C	rb	947C	0x0E7C
+English DTE	媒	947D	rc	947D	0x0E7D
+English DTE	梅	947E	rd	947E	0x0E7E
+English DTE	楳	9480	re	9480	0x0E80
+English DTE	賠	9485	rf	9485	0x0E85
+English DTE	陪	9486	rg	9486	0x0E86
+English DTE	這	9487	rh	9487	0x0E87
+English DTE	蝿	9488	ri	9488	0x0E88
+English DTE	萩	948B	rj	948B	0x0E8B
+English DTE	剥	948D	rk	948D	0x0E8D
+English DTE	拍	948F	rl	948F	0x0E8F
+English DTE	柏	9490	rm	9490	0x0E90
+English DTE	箔	9493	rn	9493	0x0E93
+English DTE	粕	9494	ro	9494	0x0E94
+English DTE	曝	9498	rp	9498	0x0E98
+English DTE	漠	9499	rq	9499	0x0E99
+English DTE	莫	949C	rr	949C	0x0E9C
+English DTE	駁	949D	rs	949D	0x0E9D
+English DTE	麦	949E	rt	949E	0x0E9E
+English DTE	函	949F	ru	949F	0x0E9F
+English DTE	箱	94A0	rv	94A0	0x0EA0
+English DTE	硲	94A1	rw	94A1	0x0EA1
+English DTE	箸	94A2	rx	94A2	0x0EA2
+English DTE	肇	94A3	ry	94A3	0x0EA3
+English DTE	筈	94A4	s 	94A4	0x0EA4
+English DTE	櫨	94A5	s!	94A5	0x0EA5
+English DTE	幡	94A6	"s"""	94A6	0x0EA6
+English DTE	肌	94A7	s'	94A7	0x0EA7
+English DTE	畑	94A8	s(	94A8	0x0EA8
+English DTE	畠	94A9	s)	94A9	0x0EA9
+English DTE	八	94AA	s,	94AA	0x0EAA
+English DTE	鉢	94AB	s-	94AB	0x0EAB
+English DTE	溌	94AC	s.	94AC	0x0EAC
+English DTE	醗	94AE	s/	94AE	0x0EAE
+English DTE	伐	94B0	s:	94B0	0x0EB0
+English DTE	罰	94B1	s<	94B1	0x0EB1
+English DTE	筏	94B3	s>	94B3	0x0EB3
+English DTE	閥	94B4	s?	94B4	0x0EB4
+English DTE	鳩	94B5	sa	94B5	0x0EB5
+English DTE	噺	94B6	sb	94B6	0x0EB6
+English DTE	塙	94B7	sc	94B7	0x0EB7
+English DTE	蛤	94B8	sd	94B8	0x0EB8
+English DTE	伴	94BA	se	94BA	0x0EBA
+English DTE	叛	94BE	sf	94BE	0x0EBE
+English DTE	帆	94BF	sg	94BF	0x0EBF
+English DTE	搬	94C0	sh	94C0	0x0EC0
+English DTE	斑	94C1	si	94C1	0x0EC1
+English DTE	板	94C2	sk	94C2	0x0EC2
+English DTE	氾	94C3	sl	94C3	0x0EC3
+English DTE	汎	94C4	sm	94C4	0x0EC4
+English DTE	班	94C7	sn	94C7	0x0EC7
+English DTE	畔	94C8	so	94C8	0x0EC8
+English DTE	藩	94CB	sp	94CB	0x0ECB
+English DTE	販	94CC	sq	94CC	0x0ECC
+English DTE	釆	94CE	sr	94CE	0x0ECE
+English DTE	煩	94CF	ss	94CF	0x0ECF
+English DTE	頒	94D0	st	94D0	0x0ED0
+English DTE	飯	94D1	su	94D1	0x0ED1
+English DTE	挽	94D2	sw	94D2	0x0ED2
+English DTE	晩	94D3	sy	94D3	0x0ED3
+English DTE	磐	94D6	t 	94D6	0x0ED6
+English DTE	蕃	94D7	t!	94D7	0x0ED7
+English DTE	匪	94D9	t'	94D9	0x0ED9
+English DTE	卑	94DA	t(	94DA	0x0EDA
+English DTE	妃	94DC	t)	94DC	0x0EDC
+English DTE	庇	94DD	t,	94DD	0x0EDD
+English DTE	批	94E1	t-	94E1	0x0EE1
+English DTE	披	94E2	t.	94E2	0x0EE2
+English DTE	斐	94E3	t/	94E3	0x0EE3
+English DTE	泌	94E5	t:	94E5	0x0EE5
+English DTE	皮	94E7	t?	94E7	0x0EE7
+English DTE	碑	94E8	tS	94E8	0x0EE8
+English DTE	緋	94EA	ta	94EA	0x0EEA
+English DTE	罷	94EB	tb	94EB	0x0EEB
+English DTE	肥	94EC	tc	94EC	0x0EEC
+English DTE	被	94ED	td	94ED	0x0EED
+English DTE	誹	94EE	te	94EE	0x0EEE
+English DTE	樋	94F3	tf	94F3	0x0EF3
+English DTE	簸	94F4	tg	94F4	0x0EF4
+English DTE	枇	94F8	th	94F8	0x0EF8
+English DTE	毘	94F9	ti	94F9	0x0EF9
+English DTE	琵	94FA	tk	94FA	0x0EFA
+English DTE	眉	94FB	tl	94FB	0x0EFB
+English DTE	鼻	9540	tm	9540	0x0F00
+English DTE	柊	9541	tn	9541	0x0F01
+English DTE	稗	9542	to	9542	0x0F02
+English DTE	匹	9543	tp	9543	0x0F03
+English DTE	疋	9544	tr	9544	0x0F04
+English DTE	髭	9545	ts	9545	0x0F05
+English DTE	彦	9546	tt	9546	0x0F06
+English DTE	膝	9547	tu	9547	0x0F07
+English DTE	菱	9548	tw	9548	0x0F08
+English DTE	肘	9549	ty	9549	0x0F09
+English DTE	弼	954A	tz	954A	0x0F0A
+English DTE	畢	954C	t~	954C	0x0F0C
+English DTE	筆	954D	u 	954D	0x0F0D
+English DTE	逼	954E	u!	954E	0x0F0E
+English DTE	桧	954F	u'	954F	0x0F0F
+English DTE	媛	9551	u(	9551	0x0F11
+English DTE	紐	9552	u)	9552	0x0F12
+English DTE	謬	9554	u,	9554	0x0F14
+English DTE	俵	9555	u-	9555	0x0F15
+English DTE	彪	9556	u.	9556	0x0F16
+English DTE	漂	9559	u?	9559	0x0F19
+English DTE	瓢	955A	uI	955A	0x0F1A
+English DTE	票	955B	ua	955B	0x0F1B
+English DTE	廟	955F	ub	955F	0x0F1F
+English DTE	苗	9563	uc	9563	0x0F23
+English DTE	錨	9564	ud	9564	0x0F24
+English DTE	鋲	9565	ue	9565	0x0F25
+English DTE	蒜	9566	uf	9566	0x0F26
+English DTE	蛭	9567	ug	9567	0x0F27
+English DTE	鰭	9568	uh	9568	0x0F28
+English DTE	彬	956A	ui	956A	0x0F2A
+English DTE	斌	956B	uj	956B	0x0F2B
+English DTE	瀕	956D	uk	956D	0x0F2D
+English DTE	貧	956E	ul	956E	0x0F2E
+English DTE	賓	956F	um	956F	0x0F2F
+English DTE	頻	9570	un	9570	0x0F30
+English DTE	敏	9571	uo	9571	0x0F31
+English DTE	瓶	9572	up	9572	0x0F32
+English DTE	埠	9575	ur	9575	0x0F35
+English DTE	婦	9577	us	9577	0x0F37
+English DTE	冨	9579	ut	9579	0x0F39
+English DTE	布	957A	uu	957A	0x0F3A
+English DTE	扶	957D	uv	957D	0x0F3D
+English DTE	敷	957E	uw	957E	0x0F3E
+English DTE	斧	9580	ux	9580	0x0F40
+English DTE	腐	9585	uy	9585	0x0F45
+English DTE	膚	9586	uz	9586	0x0F46
+English DTE	芙	9587	v 	9587	0x0F47
+English DTE	賦	958A	v!	958A	0x0F4A
+English DTE	赴	958B	v,	958B	0x0F4B
+English DTE	楓	9596	v.	9596	0x0F56
+English DTE	葺	9598	v2	9598	0x0F58
+English DTE	蕗	9599	v?	9599	0x0F59
+English DTE	副	959B	va	959B	0x0F5B
+English DTE	腹	95A0	vb	95A0	0x0F60
+English DTE	淵	95A3	ve	95A3	0x0F63
+English DTE	弗	95A4	vi	95A4	0x0F64
+English DTE	沸	95A6	vo	95A6	0x0F66
+English DTE	仏	95A7	vr	95A7	0x0F67
+English DTE	鮒	95A9	vs	95A9	0x0F69
+English DTE	吻	95AB	vu	95AB	0x0F6B
+English DTE	噴	95AC	vy	95AC	0x0F6C
+English DTE	憤	95AE	w 	95AE	0x0F6E
+English DTE	扮	95AF	w!	95AF	0x0F6F
+English DTE	焚	95B0	w'	95B0	0x0F70
+English DTE	奮	95B1	w)	95B1	0x0F71
+English DTE	粉	95B2	w,	95B2	0x0F72
+English DTE	糞	95B3	w-	95B3	0x0F73
+English DTE	紛	95B4	w.	95B4	0x0F74
+English DTE	丙	95B8	w?	95B8	0x0F78
+English DTE	併	95B9	wa	95B9	0x0F79
+English DTE	塀	95BB	wb	95BB	0x0F7B
+English DTE	幣	95BC	wc	95BC	0x0F7C
+English DTE	弊	95BE	wd	95BE	0x0F7E
+English DTE	柄	95BF	we	95BF	0x0F7F
+English DTE	蔽	95C1	wg	95C1	0x0F81
+English DTE	陛	95C3	wh	95C3	0x0F83
+English DTE	僻	95C6	wi	95C6	0x0F86
+English DTE	癖	95C8	wk	95C8	0x0F88
+English DTE	碧	95C9	wl	95C9	0x0F89
+English DTE	瞥	95CB	wn	95CB	0x0F8B
+English DTE	蔑	95CC	wo	95CC	0x0F8C
+English DTE	箆	95CD	wp	95CD	0x0F8D
+English DTE	片	95D0	wr	95D0	0x0F90
+English DTE	篇	95D1	ws	95D1	0x0F91
+English DTE	遍	95D5	wt	95D5	0x0F95
+English DTE	娩	95D8	wz	95D8	0x0F98
+English DTE	鞭	95DA	w~	95DA	0x0F9A
+English DTE	舗	95DC	x 	95DC	0x0F9C
+English DTE	鋪	95DD	x!	95DD	0x0F9D
+English DTE	圃	95DE	x'	95DE	0x0F9E
+English DTE	甫	95E1	x(	95E1	0x0FA1
+English DTE	輔	95E3	x,	95E3	0x0FA3
+English DTE	穂	95E4	x-	95E4	0x0FA4
+English DTE	募	95E5	x.	95E5	0x0FA5
+English DTE	墓	95E6	x2	95E6	0x0FA6
+English DTE	慕	95E7	x3	95E7	0x0FA7
+English DTE	戊	95E8	x?	95E8	0x0FA8
+English DTE	簿	95EB	xa	95EB	0x0FAB
+English DTE	菩	95EC	xc	95EC	0x0FAC
+English DTE	倣	95ED	xe	95ED	0x0FAD
+English DTE	俸	95EE	xh	95EE	0x0FAE
+English DTE	呆	95F0	xi	95F0	0x0FB0
+English DTE	奉	95F2	xo	95F2	0x0FB2
+English DTE	峰	95F4	xp	95F4	0x0FB4
+English DTE	峯	95F5	xs	95F5	0x0FB5
+English DTE	庖	95F7	xt	95F7	0x0FB7
+English DTE	捧	95F9	xu	95F9	0x0FB9
+English DTE	朋	95FC	xw	95FC	0x0FBC
+English DTE	泡	9641	xy	9641	0x0FC1
+English DTE	縫	9644	y 	9644	0x0FC4
+English DTE	芳	9646	y!	9646	0x0FC6
+English DTE	萌	9647	"y"""	9647	0x0FC7
+English DTE	蓬	9648	y'	9648	0x0FC8
+English DTE	褒	964A	y(	964A	0x0FCA
+English DTE	鋒	964E	y)	964E	0x0FCE
+English DTE	飽	964F	y,	964F	0x0FCF
+English DTE	鳳	9650	y-	9650	0x0FD0
+English DTE	鵬	9651	y.	9651	0x0FD1
+English DTE	乏	9652	y0	9652	0x0FD2
+English DTE	剖	9655	y?	9655	0x0FD5
+English DTE	坊	9656	ya	9656	0x0FD6
+English DTE	妨	9657	yb	9657	0x0FD7
+English DTE	帽	9658	yc	9658	0x0FD8
+English DTE	忙	965A	yd	965A	0x0FDA
+English DTE	房	965B	ye	965B	0x0FDB
+English DTE	某	965E	yf	965E	0x0FDE
+English DTE	冒	9660	yg	9660	0x0FE0
+English DTE	紡	9661	yi	9661	0x0FE1
+English DTE	肪	9662	yk	9662	0x0FE2
+English DTE	膨	9663	yl	9663	0x0FE3
+English DTE	貿	9666	ym	9666	0x0FE6
+English DTE	鉾	9667	yn	9667	0x0FE7
+English DTE	頬	966A	yo	966A	0x0FEA
+English DTE	卜	966D	yp	966D	0x0FED
+English DTE	墨	966E	yr	966E	0x0FEE
+English DTE	撲	966F	ys	966F	0x0FEF
+English DTE	朴	9670	yt	9670	0x0FF0
+English DTE	睦	9672	yu	9672	0x0FF2
+English DTE	穆	9673	yw	9673	0x0FF3
+English DTE	釦	9674	yy	9674	0x0FF4
+English DTE	勃	9675	yz	9675	0x0FF5
+English DTE	没	9676	z 	9676	0x0FF6
+English DTE	殆	9677	z!	9677	0x0FF7
+English DTE	堀	9678	"z"""	9678	0x0FF8
+English DTE	幌	9679	z'	9679	0x0FF9
+English DTE	奔	967A	z,	967A	0x0FFA
+English DTE	翻	967C	z.	967C	0x0FFC
+English DTE	凡	967D	za	967D	0x0FFD
+English DTE	盆	967E	ze	967E	0x0FFE
+English DTE	摩	9680	zh	9680	0x1000
+English DTE	埋	9684	zi	9684	0x1004
+English DTE	昧	9686	zn	9686	0x1006
+English DTE	哩	9689	zo	9689	0x1009
+English DTE	槙	968A	zu	968A	0x100A
+English DTE	枕	968D	zy	968D	0x100D
+English DTE	又	9694	zz	9694	0x1014
+English DTE	迄	9698	~ 	9698	0x1018
+English DTE	侭	9699	~!	9699	0x1019
+English DTE	繭	969A	~,	969A	0x101A
+English DTE	麿	969B	~e	969B	0x101B

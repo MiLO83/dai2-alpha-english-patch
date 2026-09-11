@@ -23,6 +23,11 @@ def printable(text: str) -> bool:
         return False
     if any(ord(c) < 0x20 and c not in "\r\n\t" for c in text):
         return False
+    # This game stores its real Japanese UI text as full-width CP932. Half-width
+    # katakana in an otherwise kanji-looking suffix is a reliable sign that the
+    # scanner started inside binary record metadata rather than at a text field.
+    if any("\uff61" <= c <= "\uff9f" for c in text):
+        return False
     # Binary MIPS/data runs can accidentally decode as CP932. Real UI fields are
     # overwhelmingly Japanese/ASCII punctuation, not private/control characters.
     return all(c.isprintable() or c in "\r\n\t" for c in text)

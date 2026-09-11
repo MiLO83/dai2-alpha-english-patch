@@ -119,7 +119,8 @@ dialogue	"$n「我が同胞達だけを
 shall not go to Yomi...!」"	
 dialogue	"ククル「愚かなことを。
 　黄泉は我が故郷…お前の導きなどいらぬ！」"	"Kukuru「Foolishness.
-Yomi is my homeland... your guidance is unnecessary!」"	
+Yomi is my homeland... your guidance is unnecessary!」"	"Kukuru「Foolish.
+Yomi is my home... I need no guide!」"
 dialogue	$n「！」	$n「!」	
 dialogue	"ククル「ハニワ幻人よ、相手をしてやれ！
 　奴の首をヒミカ様に捧げよ！」"	"Kukuru「Haniwa illusionist, fight!
@@ -30092,7 +30093,9 @@ dialogue	"ヤザン「チッ、あのハゲ狸め。よりにもよって
 why these kids?」"	
 dialogue	"ゼオラ「…お言葉ですが、ヤザン大尉。
 　自分と$n曹長は『スクール』の
-　出身です」"		
+　出身です」"		"Zeora「With respect, Capt. Yazan.
+Sgt. $n and I came from
+the School.」"
 dialogue	"ゼオラ「大尉達のお力添えとなれる
 　自信は持っているつもりです」"	"Zeola「Confident I can
 assist the Captains」"	
@@ -114046,8 +114049,8 @@ ui	ザビーネ	Zabiene
 ui	シャル	Shal	
 ui	ガンダム試作１号機Ｆｂ	GundamPrototype1Fb	
 ui	６０ｍｍバルカン砲	60mmBulldogCannon	
-ui	ビーム・サーベル	BeamSaber	
-ui	ビーム・ライフル	BeamRifle	
+ui	ビーム・サーベル	BeamSaber	Beam Saber
+ui	ビーム・ライフル	BeamRifle	Beam Rifle
 ui	ビーム・ライフル（連射）	BeamRifle(Burst)	
 ui	ガンダム試作２号機	GundamPrototype2	
 ui	バルカン	Bulldog	
@@ -114781,7 +114784,9 @@ ui	"剛胆な性格で、自分の信念を貫く武人。義を重んじ、
 常に正々堂々とした行いを取るよう心がけているが、
 融通が利かないところもある。"	"Brave and determined, upholding his beliefs. Values honor and
 always acts with integrity, though sometimes
-inflexible."	
+inflexible."	"Bold and resolute, he follows his beliefs.
+He values honor and always acts fairly,
+but can be inflexible."
 ui	"心優しく、大人しい性格。控えめで照れ屋だが、芯
 はしっかりしており、いざという時の行動力は他人
 を驚かすほどである。"	"Kind and gentle, shy and easily embarrassed but
@@ -114796,7 +114801,9 @@ ui	"一本気で勝ち気な性格。宇宙パイロットを目指して
 訓練に明け暮れていたが、事故により挫折し、心に
 傷を負っている。"	"Stubborn and determined. Aimed to be a
 space pilot but failed due to an accident
-and carries a wound in his heart."	
+and carries a wound in his heart."	"Strong-willed, she trained as a space pilot.
+An accident ended her dream and left
+deep emotional scars."
 ui	劔劔匯?		
 ui	０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ／－（）	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ/-(())	
 ui	"エラー : %s<%d>
@@ -114843,7 +114850,8 @@ ui	武器のクリティカル率＋２０％	Weapon Critical +20%
 ui	高性能レーダー	High Performance Radar	
 ui	"マップ兵器及び射程１以外の
 武器の射程＋１"	"Map Weapon and Range 1 except
-Weapon Range +1"	
+Weapon Range +1"	"Non-MAP/non-range-1 weapons:
+Range +1"
 ui	ミノフスキークラフト	Minovsky Craft	
 ui	"移動タイプ「空」を得る。
 地形適応を空Ａにする。"	"「Air」Obtain.
@@ -115085,7 +115093,7 @@ ui	援護攻撃	Support Attack
 ui	"隣接小隊の小隊長の
 援護攻撃に入る。"	"Enters
 support attack of adjacent squad leader."	
-ui	援護防御	Support Defense	
+ui	援護防御	Support Defense	Support Def.
 ui	"同小隊の味方ユニットの
 援護防御に入る。"	"Enters support defense of squad ally.
 "	
@@ -115150,7 +115158,7 @@ ui	ラーニング	Learning
 ui	"戦闘時、小隊員でも経験値・ＰＰが
 小隊長の時と同じく入手出来る。"	"Combat: squad members get EXP and PP like squad leader.
 "	
-ui	連携攻撃	Combined Attack	
+ui	連携攻撃	Combined Attack	Combo Attack
 ui	"援護攻撃に参加すると
 攻撃が確実にクリティカルになる。"	"Participating in support attack
 guarantees critical hit."	
@@ -115206,7 +115214,7 @@ ui	感応	Sensitivity
 ui	"１ターンの間、指定した味方ユニットの
 命中率が１００％になる。"	"Specified ally's accuracy becomes 100% for one turn.
 "	
-ui	加速	Acceleration	
+ui	加速	Acceleration	Accel
 ui	加	Add	
 ui	一度だけ小隊移動力を＋３。移動するまで効果は継続。	Squad movement power +3 once. Effect lasts until move.	
 ui	覚醒	Awakening	
@@ -115289,7 +115297,7 @@ ui	我が手に太陽の輝きを－前編－	The Light of the Sun in My Hand - 
 ui	０６ａ	06a	
 ui	我が手に太陽の輝きを－後編－	The Light of the Sun in My Hand - Part 2	
 ui	０７ａ	07a	
-ui	ゴーショーグン発進せよ	Go Shogun, Launch!	
+ui	ゴーショーグン発進せよ	Go Shogun, Launch!	Go Shogun, Launch!
 ui	０８ａ	08a	
 ui	アンチボディ	Antibody	
 ui	０９ａ	09a	
@@ -115337,11 +115345,11 @@ ui	ゴーショーグン、合身ＧＯ！	Go Shogun, Combine GO!
 ui	２２ｂ	22b	
 ui	２２ｃ	22c	
 ui	２３ａ	23a	
-ui	勇者王誕生！	Birth of the Hero King!	
+ui	勇者王誕生！	Birth of the Hero King!	Brave King
 ui	２３ｂ	23b	
 ui	２３ｃ	23c	
 ui	２４ａ	24a	
-ui	大空魔竜ガイキング	Great Sky Demon Dragon Gaiking	
+ui	大空魔竜ガイキング	Great Sky Demon Dragon Gaiking	Daiku Maryu
 ui	２４ｂ	24b	
 ui	２４ｃ	24c	
 ui	２５ａ	25a	
@@ -115373,7 +115381,7 @@ ui	Ｇ奪回作戦	G Recovery Operation
 ui	３１ｂ	31b	
 ui	３１ｃ	31c	
 ui	３２ａ	32a	
-ui	軍神が災いを呼ぶ	God of War Brings Calamity	
+ui	軍神が災いを呼ぶ	God of War Brings Calamity	War God Brings Woe
 ui	３２ｂ	32b	
 ui	３２ｃ	32c	
 ui	３３ａ	33a	
@@ -116066,7 +116074,7 @@ ui	Ｅ	E
 ui	－－－－－－－－－－－	-------------------	
 ui	ビーム兵器	Beam Weapon	
 ui	移動後使用可能	Usable After Moving	Post-Move
-ui	移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	
+ui	移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	Post-Move / Beam
 ui	小隊攻撃可能武器	Squad Attack Weapon	
 ui	全体攻撃武器	Area Attack Weapon	
 ui	合体攻撃武器	Combine Attack Weapon	
@@ -117582,9 +117590,9 @@ ui	クスハ・ミズハ	Kusha Mizuha
 ui	アラド・バランガ	Arad Balanga	
 ui	アイビス・ダグラス	Ibis Douglas	
 ui	キャラクター事典	Character Dictionary	
-ui	ロボット大図鑑	Robot Encyclopedia	
+ui	ロボット大図鑑	Robot Encyclopedia	Robot Database
 ui	パイロット事典	Pilot Dictionary	
-ui	愛称	Alias	
+ui	愛称	Alias	AKA
 ui	声優	Voice Actor	
 ui	登場作品	Appearance Works	
 ui	Ｆ	F	
@@ -117629,17 +117637,17 @@ ui	主人公設定	Hero Setup
 ui	主人公設定の変更	Change Protagonist	
 ui	誕生日変更	Change birthday	
 ui	血液型変更	Change blood type	
-ui	スーパーロボット系男性	Super Robot - Male	
-ui	スーパーロボット系女性	Super Robot female	
-ui	リアルロボット系男性	Real Robot male	
-ui	リアルロボット系女性	Real Robot female	
+ui	スーパーロボット系男性	Super Robot - Male	Super Robot Male
+ui	スーパーロボット系女性	Super Robot female	Super Robot Female
+ui	リアルロボット系男性	Real Robot male	Real Robot Male
+ui	リアルロボット系女性	Real Robot female	Real Robot Female
 ui	誕生日	Birth	
 ui	血液型	B.Type	
 ui	月	Month	
 ui	日	Day	
 ui	型	Model	
 ui	ＡＢ	AB	
-ui	変更決定	Confirm change	
+ui	変更決定	Confirm change	Confirm
 ui	上記の設定で決定	Confirm with above settings	
 ui	キャラクターを選択して下さい	Please select a character	
 ui	設定項目を変更する	Change Settings	
@@ -117702,36 +117710,36 @@ ui	再生	Play
 ui	停止	Stop	
 ui	サウンドセレクト	Sound select	
 ui	デモセレクト	Demo select	
-ui	空飛ぶマジンガーＺ	Flying Mazinger Z	
-ui	Ｚのテーマ	Z Theme	
-ui	おれはグレートマジンガー	I am Great Mazinger	
-ui	ゲッターロボ！	Getter Robo!	
-ui	鋼鉄ジーグの歌	Song of Steel Zeg	
-ui	コン・バトラーＶのテーマ	Con Battra V Theme	
-ui	ボルテスＶの歌	Song of Voltes V	
-ui	立て！闘将ダイモス	Rise! Daimos	
-ui	カムヒア！ダイターン３	Come! Daitharn 3	
-ui	宇宙を駆ける～ゼータ発動	Racing through space - Zeta activated	
-ui	アニメじゃない	Not an anime	
-ui	ＳＡＬＬＹ	SALLY	
-ui	ＤＥＳＴＩＮＹ	DESTINY	
-ui	ＩＭＰＲＥＳＳＩＯＮ	IMPRESSION	
-ui	クロスボーン・ガンダム	Crossbone Gundam	
-ui	ＤＲＥＡＭ	DREAM	
-ui	Ｖｅｒ．α２	Ver. Alpha 2	
-ui	ＦＥＬＬＯＷＳＨＩＰ	FELLOWSHIP	
-ui	剣よ集え	Sword, gather	
-ui	百機夜行	Night of a Hundred Machines	
-ui	ＬＩＦＥ	LIFE	
-ui	この星の明日のために	For the future of this star	
-ui	正義は我にあり	Justice is mine	
-ui	ＰＥＲＩＬ	PERIL	
-ui	ＴＥＡＲＳ	TEARS	
-ui	ＳＴＲＩＮＧＳ	STRINGS	
-ui	忌むべき訪問者	Unwanted visitor	
-ui	ＮＵＭＢＥＲＳ	NUMBERS	
-ui	ＦＲＥＥ	FREE	
-ui	ＯＶＥＲ	OVER	
+ui	空飛ぶマジンガーＺ	Flying Mazinger Z	Flying Mazinger Z
+ui	Ｚのテーマ	Z Theme	Z Theme
+ui	おれはグレートマジンガー	I am Great Mazinger	I Am Great Mazinger
+ui	ゲッターロボ！	Getter Robo!	Getter Robo!
+ui	鋼鉄ジーグの歌	Song of Steel Zeg	Kotetsu Jeeg
+ui	コン・バトラーＶのテーマ	Con Battra V Theme	Combattler V Theme
+ui	ボルテスＶの歌	Song of Voltes V	Voltes V Song
+ui	立て！闘将ダイモス	Rise! Daimos	Rise! Daimos
+ui	カムヒア！ダイターン３	Come! Daitharn 3	Come! Daitarn 3
+ui	宇宙を駆ける～ゼータ発動	Racing through space - Zeta activated	Zeta Awakens
+ui	アニメじゃない	Not an anime	Not An Anime
+ui	ＳＡＬＬＹ	SALLY	Sally
+ui	ＤＥＳＴＩＮＹ	DESTINY	Destiny
+ui	ＩＭＰＲＥＳＳＩＯＮ	IMPRESSION	Impression
+ui	クロスボーン・ガンダム	Crossbone Gundam	Crossbone Gundam
+ui	ＤＲＥＡＭ	DREAM	Dream
+ui	Ｖｅｒ．α２	Ver. Alpha 2	Ver. Alpha 2
+ui	ＦＥＬＬＯＷＳＨＩＰ	FELLOWSHIP	Fellowship
+ui	剣よ集え	Sword, gather	Gather, Swords
+ui	百機夜行	Night of a Hundred Machines	Mecha Night
+ui	ＬＩＦＥ	LIFE	Life
+ui	この星の明日のために	For the future of this star	For Earth's Tomorrow
+ui	正義は我にあり	Justice is mine	Justice Mine
+ui	ＰＥＲＩＬ	PERIL	Peril
+ui	ＴＥＡＲＳ	TEARS	Tears
+ui	ＳＴＲＩＮＧＳ	STRINGS	Strings
+ui	忌むべき訪問者	Unwanted visitor	Dread Visitor
+ui	ＮＵＭＢＥＲＳ	NUMBERS	Numbers
+ui	ＦＲＥＥ	FREE	Free
+ui	ＯＶＥＲ	OVER	Over
 ui	バトルターン	Battle Turn	
 ui	美しき青きドナウ	Beautiful Blue Danube	
 ui	艦隊戦	Fleet Battle	

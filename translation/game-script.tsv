@@ -119,7 +119,8 @@ $F!」"
 shall not go to Yomi...!」"	
 "ククル「愚かなことを。
 　黄泉は我が故郷…お前の導きなどいらぬ！」"	"Kukuru「Foolishness.
-Yomi is my homeland... your guidance is unnecessary!」"	
+Yomi is my homeland... your guidance is unnecessary!」"	"Kukuru「Foolish.
+Yomi is my home... I need no guide!」"
 $n「！」	$n「!」	
 "ククル「ハニワ幻人よ、相手をしてやれ！
 　奴の首をヒミカ様に捧げよ！」"	"Kukuru「Haniwa illusionist, fight!
@@ -30092,7 +30093,9 @@ I'm also surprised」"
 why these kids?」"	
 "ゼオラ「…お言葉ですが、ヤザン大尉。
 　自分と$n曹長は『スクール』の
-　出身です」"		
+　出身です」"		"Zeora「With respect, Capt. Yazan.
+Sgt. $n and I came from
+the School.」"
 "ゼオラ「大尉達のお力添えとなれる
 　自信は持っているつもりです」"	"Zeola「Confident I can
 assist the Captains」"	

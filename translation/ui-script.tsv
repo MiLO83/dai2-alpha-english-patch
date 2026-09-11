@@ -378,8 +378,8 @@
 シャル	Shal	
 ガンダム試作１号機Ｆｂ	GundamPrototype1Fb	
 ６０ｍｍバルカン砲	60mmBulldogCannon	
-ビーム・サーベル	BeamSaber	
-ビーム・ライフル	BeamRifle	
+ビーム・サーベル	BeamSaber	Beam Saber
+ビーム・ライフル	BeamRifle	Beam Rifle
 ビーム・ライフル（連射）	BeamRifle(Burst)	
 ガンダム試作２号機	GundamPrototype2	
 バルカン	Bulldog	
@@ -1113,7 +1113,9 @@ Continue playing?
 常に正々堂々とした行いを取るよう心がけているが、
 融通が利かないところもある。"	"Brave and determined, upholding his beliefs. Values honor and
 always acts with integrity, though sometimes
-inflexible."	
+inflexible."	"Bold and resolute, he follows his beliefs.
+He values honor and always acts fairly,
+but can be inflexible."
 "心優しく、大人しい性格。控えめで照れ屋だが、芯
 はしっかりしており、いざという時の行動力は他人
 を驚かすほどである。"	"Kind and gentle, shy and easily embarrassed but
@@ -1128,7 +1130,9 @@ pilot but was always a failure."
 訓練に明け暮れていたが、事故により挫折し、心に
 傷を負っている。"	"Stubborn and determined. Aimed to be a
 space pilot but failed due to an accident
-and carries a wound in his heart."	
+and carries a wound in his heart."	"Strong-willed, she trained as a space pilot.
+An accident ended her dream and left
+deep emotional scars."
 劔劔匯?		
 ０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ／－（）	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ/-(())	
 "エラー : %s<%d>
@@ -1175,7 +1179,8 @@ Range 1 except weapon range +1"
 高性能レーダー	High Performance Radar	
 "マップ兵器及び射程１以外の
 武器の射程＋１"	"Map Weapon and Range 1 except
-Weapon Range +1"	
+Weapon Range +1"	"Non-MAP/non-range-1 weapons:
+Range +1"
 ミノフスキークラフト	Minovsky Craft	
 "移動タイプ「空」を得る。
 地形適応を空Ａにする。"	"「Air」Obtain.
@@ -1417,7 +1422,7 @@ Strikes first."
 "隣接小隊の小隊長の
 援護攻撃に入る。"	"Enters
 support attack of adjacent squad leader."	
-援護防御	Support Defense	
+援護防御	Support Defense	Support Def.
 "同小隊の味方ユニットの
 援護防御に入る。"	"Enters support defense of squad ally.
 "	
@@ -1482,7 +1487,7 @@ becomes 80% normal."
 "戦闘時、小隊員でも経験値・ＰＰが
 小隊長の時と同じく入手出来る。"	"Combat: squad members get EXP and PP like squad leader.
 "	
-連携攻撃	Combined Attack	
+連携攻撃	Combined Attack	Combo Attack
 "援護攻撃に参加すると
 攻撃が確実にクリティカルになる。"	"Participating in support attack
 guarantees critical hit."	
@@ -1538,7 +1543,7 @@ can resupply after moving."
 "１ターンの間、指定した味方ユニットの
 命中率が１００％になる。"	"Specified ally's accuracy becomes 100% for one turn.
 "	
-加速	Acceleration	
+加速	Acceleration	Accel
 加	Add	
 一度だけ小隊移動力を＋３。移動するまで効果は継続。	Squad movement power +3 once. Effect lasts until move.	
 覚醒	Awakening	
@@ -1621,7 +1626,7 @@ Effort, and Luck apply simultaneously."
 ０６ａ	06a	
 我が手に太陽の輝きを－後編－	The Light of the Sun in My Hand - Part 2	
 ０７ａ	07a	
-ゴーショーグン発進せよ	Go Shogun, Launch!	
+ゴーショーグン発進せよ	Go Shogun, Launch!	Go Shogun, Launch!
 ０８ａ	08a	
 アンチボディ	Antibody	
 ０９ａ	09a	
@@ -1669,11 +1674,11 @@ Effort, and Luck apply simultaneously."
 ２２ｂ	22b	
 ２２ｃ	22c	
 ２３ａ	23a	
-勇者王誕生！	Birth of the Hero King!	
+勇者王誕生！	Birth of the Hero King!	Brave King
 ２３ｂ	23b	
 ２３ｃ	23c	
 ２４ａ	24a	
-大空魔竜ガイキング	Great Sky Demon Dragon Gaiking	
+大空魔竜ガイキング	Great Sky Demon Dragon Gaiking	Daiku Maryu
 ２４ｂ	24b	
 ２４ｃ	24c	
 ２５ａ	25a	
@@ -1705,7 +1710,7 @@ Effort, and Luck apply simultaneously."
 ３１ｂ	31b	
 ３１ｃ	31c	
 ３２ａ	32a	
-軍神が災いを呼ぶ	God of War Brings Calamity	
+軍神が災いを呼ぶ	God of War Brings Calamity	War God Brings Woe
 ３２ｂ	32b	
 ３２ｃ	32c	
 ３３ａ	33a	
@@ -2398,7 +2403,7 @@ Silent BGM"
 －－－－－－－－－－－	-------------------	
 ビーム兵器	Beam Weapon	
 移動後使用可能	Usable After Moving	Post-Move
-移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	
+移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	Post-Move / Beam
 小隊攻撃可能武器	Squad Attack Weapon	
 全体攻撃武器	Area Attack Weapon	
 合体攻撃武器	Combine Attack Weapon	
@@ -3914,9 +3919,9 @@ Memory Card (PS2)."
 アラド・バランガ	Arad Balanga	
 アイビス・ダグラス	Ibis Douglas	
 キャラクター事典	Character Dictionary	
-ロボット大図鑑	Robot Encyclopedia	
+ロボット大図鑑	Robot Encyclopedia	Robot Database
 パイロット事典	Pilot Dictionary	
-愛称	Alias	
+愛称	Alias	AKA
 声優	Voice Actor	
 登場作品	Appearance Works	
 Ｆ	F	
@@ -3961,17 +3966,17 @@ Memory Card (PS2)."
 主人公設定の変更	Change Protagonist	
 誕生日変更	Change birthday	
 血液型変更	Change blood type	
-スーパーロボット系男性	Super Robot - Male	
-スーパーロボット系女性	Super Robot female	
-リアルロボット系男性	Real Robot male	
-リアルロボット系女性	Real Robot female	
+スーパーロボット系男性	Super Robot - Male	Super Robot Male
+スーパーロボット系女性	Super Robot female	Super Robot Female
+リアルロボット系男性	Real Robot male	Real Robot Male
+リアルロボット系女性	Real Robot female	Real Robot Female
 誕生日	Birth	
 血液型	B.Type	
 月	Month	
 日	Day	
 型	Model	
 ＡＢ	AB	
-変更決定	Confirm change	
+変更決定	Confirm change	Confirm
 上記の設定で決定	Confirm with above settings	
 キャラクターを選択して下さい	Please select a character	
 設定項目を変更する	Change Settings	
@@ -4034,36 +4039,36 @@ Memory Card (PS2)."
 停止	Stop	
 サウンドセレクト	Sound select	
 デモセレクト	Demo select	
-空飛ぶマジンガーＺ	Flying Mazinger Z	
-Ｚのテーマ	Z Theme	
-おれはグレートマジンガー	I am Great Mazinger	
-ゲッターロボ！	Getter Robo!	
-鋼鉄ジーグの歌	Song of Steel Zeg	
-コン・バトラーＶのテーマ	Con Battra V Theme	
-ボルテスＶの歌	Song of Voltes V	
-立て！闘将ダイモス	Rise! Daimos	
-カムヒア！ダイターン３	Come! Daitharn 3	
-宇宙を駆ける～ゼータ発動	Racing through space - Zeta activated	
-アニメじゃない	Not an anime	
-ＳＡＬＬＹ	SALLY	
-ＤＥＳＴＩＮＹ	DESTINY	
-ＩＭＰＲＥＳＳＩＯＮ	IMPRESSION	
-クロスボーン・ガンダム	Crossbone Gundam	
-ＤＲＥＡＭ	DREAM	
-Ｖｅｒ．α２	Ver. Alpha 2	
-ＦＥＬＬＯＷＳＨＩＰ	FELLOWSHIP	
-剣よ集え	Sword, gather	
-百機夜行	Night of a Hundred Machines	
-ＬＩＦＥ	LIFE	
-この星の明日のために	For the future of this star	
-正義は我にあり	Justice is mine	
-ＰＥＲＩＬ	PERIL	
-ＴＥＡＲＳ	TEARS	
-ＳＴＲＩＮＧＳ	STRINGS	
-忌むべき訪問者	Unwanted visitor	
-ＮＵＭＢＥＲＳ	NUMBERS	
-ＦＲＥＥ	FREE	
-ＯＶＥＲ	OVER	
+空飛ぶマジンガーＺ	Flying Mazinger Z	Flying Mazinger Z
+Ｚのテーマ	Z Theme	Z Theme
+おれはグレートマジンガー	I am Great Mazinger	I Am Great Mazinger
+ゲッターロボ！	Getter Robo!	Getter Robo!
+鋼鉄ジーグの歌	Song of Steel Zeg	Kotetsu Jeeg
+コン・バトラーＶのテーマ	Con Battra V Theme	Combattler V Theme
+ボルテスＶの歌	Song of Voltes V	Voltes V Song
+立て！闘将ダイモス	Rise! Daimos	Rise! Daimos
+カムヒア！ダイターン３	Come! Daitharn 3	Come! Daitarn 3
+宇宙を駆ける～ゼータ発動	Racing through space - Zeta activated	Zeta Awakens
+アニメじゃない	Not an anime	Not An Anime
+ＳＡＬＬＹ	SALLY	Sally
+ＤＥＳＴＩＮＹ	DESTINY	Destiny
+ＩＭＰＲＥＳＳＩＯＮ	IMPRESSION	Impression
+クロスボーン・ガンダム	Crossbone Gundam	Crossbone Gundam
+ＤＲＥＡＭ	DREAM	Dream
+Ｖｅｒ．α２	Ver. Alpha 2	Ver. Alpha 2
+ＦＥＬＬＯＷＳＨＩＰ	FELLOWSHIP	Fellowship
+剣よ集え	Sword, gather	Gather, Swords
+百機夜行	Night of a Hundred Machines	Mecha Night
+ＬＩＦＥ	LIFE	Life
+この星の明日のために	For the future of this star	For Earth's Tomorrow
+正義は我にあり	Justice is mine	Justice Mine
+ＰＥＲＩＬ	PERIL	Peril
+ＴＥＡＲＳ	TEARS	Tears
+ＳＴＲＩＮＧＳ	STRINGS	Strings
+忌むべき訪問者	Unwanted visitor	Dread Visitor
+ＮＵＭＢＥＲＳ	NUMBERS	Numbers
+ＦＲＥＥ	FREE	Free
+ＯＶＥＲ	OVER	Over
 バトルターン	Battle Turn	
 美しき青きドナウ	Beautiful Blue Danube	
 艦隊戦	Fleet Battle	

@@ -16,6 +16,38 @@ from allocate_whole_page_dte import paired_size
 JAPANESE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
 HEADERS = ("Original Japanese", "Automatic Translation", "English")
 SAFE_SINGLE_FIELDS = {"空", "陸", "海", "宇"}
+# Hero Setup composes dynamic values with three standalone Japanese suffixes.
+# These offsets are screen-local: render `5 / 27` and suppress the redundant
+# `型` after the already translated `B.Type` label.
+FIXED_ASCII_OVERRIDES = {
+    # This renderer does not display the single-byte ASCII slash here; use
+    # the game's visible fullwidth CP932 slash between the dynamic values.
+    0x359020: b"\x81\x5e",
+    0x359028: b"",
+    0x359030: b"",
+}
+# Sound Select contains fullwidth-Latin compound titles, but the generic
+# Japanese-string extractor recorded only their trailing words. Replacing the
+# extracted suffix creates a mixed native/DTE title. Encode each complete
+# field here so every selectable song uses one consistent small DTE font.
+FIXED_DTE_OVERRIDES = {
+    # Hero Setup label. A leading half-space selects the existing " A" and
+    # "KA" pairs, rendering the requested AKA compactly without a new glyph.
+    0x358358: (7, " AKA"),
+    0x359008: (7, " AKA"),
+    0x359DB0: (31, "Men Of Destiny"),
+    0x359DD0: (31, "Last Impression"),
+    0x359E20: (31, "In My Dream"),
+    0x359E40: (47, "Banpresto! Ver. Alpha 2"),
+    0x359E70: (31, "The Fellowship"),
+    0x359EB0: (31, "Risk Of My Life"),
+    0x359F00: (39, "Beating With Peril"),
+    0x359F50: (47, "Wipe Away Your Tears"),
+    0x359F80: (39, "Pull The Strings"),
+    0x359FC0: (31, "Alpha Numbers"),
+    0x359FE0: (47, "Please Feel Free"),
+    0x35A010: (23, "Game Over"),
+}
 
 
 def main() -> None:
@@ -56,7 +88,21 @@ def main() -> None:
         translation = chosen.get(row["source"], "")
         status = "untranslated"
         encoded = b""
-        if row["source"].startswith("０１２３４５６７８９ＡＢＣＤＥＦ"):
+        if offset in FIXED_ASCII_OVERRIDES:
+            encoded = FIXED_ASCII_OVERRIDES[offset]
+            data[offset:offset + capacity + 1] = encoded + bytes(capacity + 1 - len(encoded))
+            translation = encoded.decode("cp932")
+            status = "applied"
+        elif offset in FIXED_DTE_OVERRIDES:
+            fixed_capacity, translation = FIXED_DTE_OVERRIDES[offset]
+            if fixed_capacity != capacity:
+                raise SystemExit(f"fixed DTE capacity mismatch at 0x{offset:X}")
+            encoded, _ = encode_whole_page(translation, pairs)
+            if len(encoded) > capacity:
+                raise SystemExit(f"fixed DTE field overflows at 0x{offset:X}: {translation}")
+            data[offset:offset + capacity + 1] = encoded + bytes(capacity + 1 - len(encoded))
+            status = "applied"
+        elif row["source"].startswith("０１２３４５６７８９ＡＢＣＤＥＦ"):
             # Random-access character palette used by numeric formatting and
             # name entry. Pair-compressing it changes every indexed element.
             status = "dynamic-lookup"
@@ -86,6 +132,12 @@ def main() -> None:
             "offset": row["offset"], "capacity": capacity,
             "encoded_bytes": len(encoded), "status": status,
         })
+
+    for offset, (capacity, translation) in FIXED_DTE_OVERRIDES.items():
+        encoded, _ = encode_whole_page(translation, pairs)
+        if len(encoded) > capacity:
+            raise SystemExit(f"fixed DTE field overflows at 0x{offset:X}: {translation}")
+        data[offset:offset + capacity + 1] = encoded + bytes(capacity + 1 - len(encoded))
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_bytes(data)

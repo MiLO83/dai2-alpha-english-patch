@@ -2,11 +2,14 @@
 
 ## Current tested patch
 
-`SLPS-25228-English-current.xdelta` recreates fixed-v6 with DTE menus and
-dialogue, the numeric/name-entry lookup-table fix, `Stats`, and `Req. Skill`.
+`SLPS-25228-English-current.xdelta` recreates the v23 release candidate with
+DTE menus and dialogue, the numeric/name-entry lookup-table fix, expanded UI
+translations, the native English title logo, five line-aligned English intro
+cards, and the latest Hero Setup spacing fixes (`AKA`, `Confirm`, and the
+birthday separator).
 
-- Patch SHA-256: `ebc4e8244c047f772878cd6f408ef732e266bc4030b87135c74fa173b258e095`
-- Patched ISO SHA-256: `bb0e5f810e29e55291e28ded156d952919e8369a4d592cf1038155d97b89a8be`
+- Patch SHA-256: `4ed81c26f9d0cf931ca41ebb0f53cb663c2412e04f6931a84096de08f8a03f1a`
+- Patched ISO SHA-256: `ab1c79e9499f40851ec58a673ed8a1141e97d163134a36a86e76822c25044f6f`
 - Original ISO SHA-256: `1f63e4acb06a689221a021a693063291d9448bb71776e6bd3d2da050de3cefdd`
 
 Apply it with `./tools/apply-full-game-patch.sh`.

@@ -2624,7 +2624,7 @@ Silent BGM"
 第%s話	Episode %s	
 勝利条件	Win Condition	
 敗北条件	Lose Condition	
-熟練度獲得条件	Skill Gain Condition	
+熟練度獲得条件	Skill Gain Condition	Skill Point
 カトル「おつかれさまでした、みなさん」	「Thank you, everyone」	
 デュオ「や～れやれ、ようやく一休みかよ」	Duo「Yare yare, finally a break」	
 五飛「フッ、甘いな」	Gofu「Hmph, too easy」	
@@ -3331,7 +3331,8 @@ other upgrade parts."
 獲得資金＋２０％。	Funds +20%.	
 "マップ兵器及び射程１
 以外の武器の射程＋１。"	"Range of map weapons and weapons with range 1
-+1."	
++1."	"Non-MAP weapons with range 2+
+gain +1 range."
 小隊移動力＋１。	Squad mobility +1.	
 武器消費ＥＮ－１０％。	Weapon energy consumption -10%.	
 武器消費ＥＮ－２０％。	Weapon energy consumption -20%.	

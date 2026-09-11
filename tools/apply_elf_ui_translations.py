@@ -25,12 +25,17 @@ FIXED_ASCII_OVERRIDES = {
     0x359020: b"\x81\x5e",
     0x359028: b"",
     0x359030: b"",
+    # The episode number is inserted dynamically between these fragments.
+    0x342CC8: b"",
+    # Unit-count suffix following the dynamic Downed value on Pilot Skills.
+    0x339E48: b"",
 }
 # Sound Select contains fullwidth-Latin compound titles, but the generic
 # Japanese-string extractor recorded only their trailing words. Replacing the
 # extracted suffix creates a mixed native/DTE title. Encode each complete
 # field here so every selectable song uses one consistent small DTE font.
 FIXED_DTE_OVERRIDES = {
+    0x342CC0: (7, "Ep."),
     # Hero Setup label. A leading half-space selects the existing " A" and
     # "KA" pairs, rendering the requested AKA compactly without a new glyph.
     0x358358: (7, " AKA"),

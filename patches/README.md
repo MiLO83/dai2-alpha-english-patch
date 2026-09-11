@@ -2,14 +2,14 @@
 
 ## Current tested patch
 
-`SLPS-25228-English-current.xdelta` recreates the v23 release candidate with
+`SLPS-25228-English-current.xdelta` recreates the v25 release candidate with
 DTE menus and dialogue, the numeric/name-entry lookup-table fix, expanded UI
 translations, the native English title logo, five line-aligned English intro
-cards, and the latest Hero Setup spacing fixes (`AKA`, `Confirm`, and the
-birthday separator).
+cards, Hero Setup spacing fixes, translated operation-summary labels, and the
+latest Pilot Skills cleanup.
 
-- Patch SHA-256: `4ed81c26f9d0cf931ca41ebb0f53cb663c2412e04f6931a84096de08f8a03f1a`
-- Patched ISO SHA-256: `ab1c79e9499f40851ec58a673ed8a1141e97d163134a36a86e76822c25044f6f`
+- Patch SHA-256: `406865dc3a53ee19e476db21cf28d214d746c46fd31668bb9d939a8b5163f2af`
+- Patched ISO SHA-256: `13cb2edb5e824a6c47580be4eb4e023791e66b9372d5a9992855d2d413a6135a`
 - Original ISO SHA-256: `1f63e4acb06a689221a021a693063291d9448bb71776e6bd3d2da050de3cefdd`
 
 Apply it with `./tools/apply-full-game-patch.sh`.

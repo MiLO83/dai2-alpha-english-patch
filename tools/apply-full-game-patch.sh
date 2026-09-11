@@ -4,7 +4,7 @@ set -euo pipefail
 repo_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 patch_file="$repo_dir/patches/SLPS-25228-English-current.xdelta"
 expected_source="1f63e4acb06a689221a021a693063291d9448bb71776e6bd3d2da050de3cefdd"
-expected_output="ab1c79e9499f40851ec58a673ed8a1141e97d163134a36a86e76822c25044f6f"
+expected_output="13cb2edb5e824a6c47580be4eb4e023791e66b9372d5a9992855d2d413a6135a"
 
 if [[ $# -lt 1 || $# -gt 2 ]]; then
     echo "Usage: $0 ORIGINAL.iso [OUTPUT.iso]" >&2

@@ -21894,7 +21894,7 @@ dialogue	比瑪の生存。	Bima's survival.
 dialogue	:の少女救出。	Girl rescue.	
 dialogue	"
 ・５ターン以内に勝利条件を満たす。"	"
--Win within 5 turns."	
+-Win within 5 turns."	Win within 5 turns.
 dialogue	ナンガ＆ラッセ	Nanga & Lasse	
 dialogue	"勇「…どうやらプレートは
 　あの場所に落ち着いたようだな」"	"Yuu「...It seems the plate has
@@ -116295,7 +116295,7 @@ ui	パイロット未搭乗	Pilot not piloted
 ui	第%s話	Episode %s	
 ui	勝利条件	Win Condition	
 ui	敗北条件	Lose Condition	
-ui	熟練度獲得条件	Skill Gain Condition	
+ui	熟練度獲得条件	Skill Gain Condition	Skill Point
 ui	カトル「おつかれさまでした、みなさん」	「Thank you, everyone」	
 ui	デュオ「や～れやれ、ようやく一休みかよ」	Duo「Yare yare, finally a break」	
 ui	五飛「フッ、甘いな」	Gofu「Hmph, too easy」	
@@ -117002,7 +117002,8 @@ ui	獲得経験値＋２０％。	Experience +20%.
 ui	獲得資金＋２０％。	Funds +20%.	
 ui	"マップ兵器及び射程１
 以外の武器の射程＋１。"	"Range of map weapons and weapons with range 1
-+1."	
++1."	"Non-MAP weapons with range 2+
+gain +1 range."
 ui	小隊移動力＋１。	Squad mobility +1.	
 ui	武器消費ＥＮ－１０％。	Weapon energy consumption -10%.	
 ui	武器消費ＥＮ－２０％。	Weapon energy consumption -20%.	

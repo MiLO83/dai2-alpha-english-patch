@@ -15,6 +15,7 @@ from allocate_whole_page_dte import paired_size
 
 JAPANESE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
 HEADERS = ("Original Japanese", "Automatic Translation", "English")
+SAFE_SINGLE_FIELDS = {"空", "陸", "海", "宇"}
 
 
 def main() -> None:
@@ -59,7 +60,7 @@ def main() -> None:
             # Random-access character palette used by numeric formatting and
             # name entry. Pair-compressing it changes every indexed element.
             status = "dynamic-lookup"
-        elif len(row["source"]) == 1:
+        elif len(row["source"]) == 1 and row["source"] not in SAFE_SINGLE_FIELDS:
             status = "dynamic-fragment"
         elif current != original:
             status = "source-mismatch"

@@ -43,5 +43,18 @@ japanese	english	notes
 射撃	Ranged	Compact stat label
 防御	Def.	Compact stat label
 回避	Evade	Compact stat label
+底力	Guts	Compact pilot skill
+空	A	Terrain value: Air
+陸	L	Terrain value: Land
+海	W	Terrain value: Water
+宇	S	Terrain value: Space
+移動後使用可能	Post-Move	Weapon attribute value
+通常攻撃武器	Standard	Weapon type value
+防御率	DEF	Compact terrain-effect label
+回避率	EVA	Compact terrain-effect label
+ＨＰ回復率	HP Regen	Compact terrain-effect label
+ＥＮ回復率	EN Regen	Compact terrain-effect label
+主人公の設定を終了します。	Finish setup?	Hero setup confirmation prompt
+ＡＢ型	AB	Compact blood-type value
 設定項目を変更する	Change Settings	Protagonist prompt
 これでいい	Confirm	Protagonist prompt

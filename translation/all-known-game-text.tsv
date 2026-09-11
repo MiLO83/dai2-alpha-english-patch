@@ -115073,7 +115073,7 @@ ui	"実弾兵器を切り払い
 Damage 0"	
 ui	シールド防御	Shield Defense	
 ui	技能発動時、ダメージを４０％にする。	Skill activation reduces damage by 40%.	
-ui	底力	Tenacity	
+ui	底力	Tenacity	Guts
 ui	"ＨＰの減少に応じて命中率・回避率・
 装甲・クリティカル率が上昇する。"	"As HP decreases, accuracy, evasion,
 armor, and critical rate increase."	
@@ -116036,10 +116036,10 @@ ui	種別	Type
 ui	攻撃力	Power	
 ui	射程	Range	
 ui	命中	Hit	
-ui	空	Sky	
-ui	陸	Land	
-ui	海	Sea	
-ui	宇	Universe	
+ui	空	Sky	A
+ui	陸	Land	L
+ui	海	Sea	W
+ui	宇	Universe	S
 ui	弾数	Ammo	
 ui	消費ＥＮ	EN Cost	
 ui	必要気力	Morale	
@@ -116065,12 +116065,12 @@ ui	Ｃ	C
 ui	Ｅ	E	
 ui	－－－－－－－－－－－	-------------------	
 ui	ビーム兵器	Beam Weapon	
-ui	移動後使用可能	Usable After Moving	
+ui	移動後使用可能	Usable After Moving	Post-Move
 ui	移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	
 ui	小隊攻撃可能武器	Squad Attack Weapon	
 ui	全体攻撃武器	Area Attack Weapon	
 ui	合体攻撃武器	Combine Attack Weapon	
-ui	通常攻撃武器	Normal Attack Weapon	
+ui	通常攻撃武器	Normal Attack Weapon	Standard
 ui	ＭＡＰ兵器	MAP Weapon	
 ui	敵味方識別タイプ	Enemy/Friendly Identification Type	
 ui	敵味方無識別タイプ	Enemy/Friendly No Identification Type	
@@ -116409,10 +116409,10 @@ ui	地上	Ground
 ui	空中	Air	
 ui	攻撃	Attack	
 ui	小隊移動力	Squad Mobility	
-ui	防御率	Defense Rate	
-ui	回避率	Evasion Rate	
-ui	ＨＰ回復率	HP Recovery Rate	
-ui	ＥＮ回復率	EN Recovery Rate	
+ui	防御率	Defense Rate	DEF
+ui	回避率	Evasion Rate	EVA
+ui	ＨＰ回復率	HP Recovery Rate	HP Regen
+ui	ＥＮ回復率	EN Recovery Rate	EN Regen
 ui	小隊能力	Squad Ability	
 ui	変化無し	No Change	
 ui	グリッド表示	Grid Display	
@@ -116439,7 +116439,7 @@ ui	"番目の小隊員のくらうダメージは『%d』なので、防御を�
 ui	"番目の小隊員のくらうダメージは『%d』なので、防御もダメだ
 "	"The %dth squad member takes ""%d"" damage so defense is bad
 "	
-ui	主人公の設定を終了します。	Finish setting the protagonist.	
+ui	主人公の設定を終了します。	Finish setting the protagonist.	Finish setup?
 ui	変更した内容はクリアされます。	Changes will be cleared.	
 ui	出撃できる状態の小隊がいません。	No squad is ready for deployment.	
 ui	この小隊は編成できません。	This squad cannot be formed.	
@@ -117652,7 +117652,7 @@ ui	姓	Surname
 ui	Ａ型	A type	
 ui	Ｂ型	B type	
 ui	Ｏ型	O type	
-ui	ＡＢ型	AB type	
+ui	ＡＢ型	AB type	AB
 ui	を修得します。	will learn.	
 ui	はい／いいえ	Yes/No	
 ui	になります。	becomes.	

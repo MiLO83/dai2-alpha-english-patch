@@ -1405,7 +1405,7 @@ Also, all squad units gain HP recovery."
 Damage 0"	
 シールド防御	Shield Defense	
 技能発動時、ダメージを４０％にする。	Skill activation reduces damage by 40%.	
-底力	Tenacity	
+底力	Tenacity	Guts
 "ＨＰの減少に応じて命中率・回避率・
 装甲・クリティカル率が上昇する。"	"As HP decreases, accuracy, evasion,
 armor, and critical rate increase."	
@@ -2368,10 +2368,10 @@ Silent BGM"
 攻撃力	Power	
 射程	Range	
 命中	Hit	
-空	Sky	
-陸	Land	
-海	Sea	
-宇	Universe	
+空	Sky	A
+陸	Land	L
+海	Sea	W
+宇	Universe	S
 弾数	Ammo	
 消費ＥＮ	EN Cost	
 必要気力	Morale	
@@ -2397,12 +2397,12 @@ Silent BGM"
 Ｅ	E	
 －－－－－－－－－－－	-------------------	
 ビーム兵器	Beam Weapon	
-移動後使用可能	Usable After Moving	
+移動後使用可能	Usable After Moving	Post-Move
 移動後使用可能／ビーム兵器	Usable After Moving/Beam Weapon	
 小隊攻撃可能武器	Squad Attack Weapon	
 全体攻撃武器	Area Attack Weapon	
 合体攻撃武器	Combine Attack Weapon	
-通常攻撃武器	Normal Attack Weapon	
+通常攻撃武器	Normal Attack Weapon	Standard
 ＭＡＰ兵器	MAP Weapon	
 敵味方識別タイプ	Enemy/Friendly Identification Type	
 敵味方無識別タイプ	Enemy/Friendly No Identification Type	
@@ -2741,10 +2741,10 @@ Silent BGM"
 空中	Air	
 攻撃	Attack	
 小隊移動力	Squad Mobility	
-防御率	Defense Rate	
-回避率	Evasion Rate	
-ＨＰ回復率	HP Recovery Rate	
-ＥＮ回復率	EN Recovery Rate	
+防御率	Defense Rate	DEF
+回避率	Evasion Rate	EVA
+ＨＰ回復率	HP Recovery Rate	HP Regen
+ＥＮ回復率	EN Recovery Rate	EN Regen
 小隊能力	Squad Ability	
 変化無し	No Change	
 グリッド表示	Grid Display	
@@ -2771,7 +2771,7 @@ Silent BGM"
 "番目の小隊員のくらうダメージは『%d』なので、防御もダメだ
 "	"The %dth squad member takes ""%d"" damage so defense is bad
 "	
-主人公の設定を終了します。	Finish setting the protagonist.	
+主人公の設定を終了します。	Finish setting the protagonist.	Finish setup?
 変更した内容はクリアされます。	Changes will be cleared.	
 出撃できる状態の小隊がいません。	No squad is ready for deployment.	
 この小隊は編成できません。	This squad cannot be formed.	
@@ -3984,7 +3984,7 @@ Memory Card (PS2)."
 Ａ型	A type	
 Ｂ型	B type	
 Ｏ型	O type	
-ＡＢ型	AB type	
+ＡＢ型	AB type	AB
 を修得します。	will learn.	
 はい／いいえ	Yes/No	
 になります。	becomes.	

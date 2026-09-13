@@ -27,6 +27,11 @@ Keep the terminal open while using **Apply Patch** or **Generate Patch**.
    navigate the large table without loading 43,000 HTML rows simultaneously.
 5. Click **Save** to update the opened file or **Save As** for a new copy.
 
+The combined `all-known-game-text.tsv` is recommended because it exposes UI
+and dialogue rows together. If the older dialogue-only `game-script.tsv` is
+opened, Apply Patch automatically retains the packaged reviewed
+`ui-script.tsv` translations rather than reverting menus to Japanese.
+
 Chromium-based browsers support direct Save/Save As. Other browsers fall back
 to downloading a TSV. Recovery autosave uses private browser storage and asks
 before enabling or restoring it. Browsers control the wording of the final

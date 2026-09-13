@@ -42,12 +42,14 @@ def locate(clean: bytes, load: int, target: int):
         end=first
         while end+24 <= len(clean) and struct.unpack_from("<I", clean, end)[0] == 1:
             end += 24
-        # Known script-block tail: two zero words, then terminator 0x7e.
-        if end+24 > len(clean) or any(clean[end:end+8]) or struct.unpack_from("<I", clean, end+16)[0] != 0x7e:
+        # Preserve the complete 0x28-byte script-block tail. The words after
+        # 0x7e are part of the sequencer boundary even though they are zero;
+        # truncating them leaves a portrait onscreen with no dialogue box.
+        if end+0x28 > len(clean) or any(clean[end:end+8]) or struct.unpack_from("<I", clean, end+16)[0] != 0x7e:
             continue
         parents=[p for p in range(0,len(clean)-3,4) if struct.unpack_from("<I",clean,p)[0] == load+block]
         if len(parents) == 1:
-            found.append((block,end+32,parents[0],record))
+            found.append((block,end+0x28,parents[0],record))
     unique=list(dict.fromkeys(found))
     return unique[0] if len(unique)==1 else None
 
@@ -88,7 +90,7 @@ def main():
         string_pool={}
         for (bs,be,parent), records in sorted(blocks.items()):
             first=bs+8; cursor=first; new_records=bytearray()
-            while cursor < be-24:
+            while cursor < be-0x28:
                 rec=bytes(member[cursor:cursor+24]); new_records.extend(rec)
                 for page in records.get(cursor,[]):
                     if not page: continue
@@ -98,7 +100,7 @@ def main():
                     clone=bytearray(rec); struct.pack_into("<I",clone,8,load+string_pool[raw]); new_records.extend(clone); expanded+=1
                 cursor+=24
             new_block=align(len(member)); member.extend(b"\0"*(new_block-len(member)))
-            member.extend(member[bs:bs+8]+new_records+member[be-24:be])
+            member.extend(member[bs:bs+8]+new_records+member[be-0x28:be])
             if struct.unpack_from("<I",member,parent)[0] != load+bs:
                 raise SystemExit(f"{name}: parent pointer changed before page expansion")
             struct.pack_into("<I",member,parent,load+new_block); affected.add(name)

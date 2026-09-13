@@ -14,6 +14,18 @@ Only original tooling, translation data, and binary differences belong in this
 repository. Disc images, extracted game assets, and other copyrighted source
 material must not be committed.
 
+## Local translation editor
+
+Run `./tools/run-tsv-editor.sh`, then open
+`translation/all-known-game-text.tsv`. The browser editor provides Japanese
+and automatic-English reference panes plus three visible reviewed-English
+page panes. It saves TSV files, keeps an optional local recovery draft, builds
+a test ISO with **Apply Patch**, and creates an xdelta with **Generate Patch**.
+
+Optional Page 2 and Page 3 cells insert real sequential dialogue records while
+preserving speaker/portrait metadata. See `TSV-EDITOR-README.md` for the full
+workflow and safety limits.
+
 ## Local layout
 
 Place a legally dumped source image at:

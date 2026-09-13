@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge every known editable text table into one three-column master TSV."""
+"""Merge every known editable text table into one paged master TSV."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
-HEADERS = ("Scope", "Original Japanese", "Automatic Translation", "English")
+HEADERS = ("Scope", "Original Japanese", "Automatic Translation", "English", "English Page 2", "English Page 3")
 
 
 def main() -> None:
@@ -35,6 +35,8 @@ def main() -> None:
                     "Original Japanese": japanese,
                     "Automatic Translation": "",
                     "English": "",
+                    "English Page 2": "",
+                    "English Page 3": "",
                 })
                 # Never replace a populated reviewed or automatic cell with an
                 # empty duplicate from a different text domain.
@@ -42,6 +44,8 @@ def main() -> None:
                     current["Automatic Translation"] or row.get("Automatic Translation", "")
                 )
                 current["English"] = current["English"] or row.get("English", "")
+                current["English Page 2"] = current["English Page 2"] or row.get("English Page 2", "")
+                current["English Page 3"] = current["English Page 3"] or row.get("English Page 3", "")
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8-sig", newline="") as output:
         writer = csv.DictWriter(output, fieldnames=HEADERS, dialect="excel-tab")

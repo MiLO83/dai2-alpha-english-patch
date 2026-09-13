@@ -81,6 +81,8 @@ def main() -> None:
                         help="binary whose non-string lookup-table glyph codes must remain intact")
     parser.add_argument("--protect-binary-tail-offset", type=lambda value: int(value, 0), default=0,
                         help="first byte of --protect-binary-tail to scan (default: 0)")
+    parser.add_argument("--extra-text", type=Path,
+                        help="UTF-8 JSON-lines file of additional page strings requiring DTE pairs")
     args = parser.parse_args()
 
     with args.occurrences.open(encoding="utf-8", newline="") as source:
@@ -169,6 +171,14 @@ def main() -> None:
             continue
         selected[source_text] = translation
         pairs.update(needed)
+    if args.extra_text and args.extra_text.exists():
+        for line in args.extra_text.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                text = json.loads(line)
+                needed = required_pairs(text)
+                if needed is None:
+                    parser.error(f"inserted page cannot use whole-page DTE: {text!r}")
+                pairs.update(needed)
     if len(pairs) > len(codes):
         parser.error(f"all-dialogue DTE needs {len(pairs)} pairs but only {len(codes)} safe glyph codes exist")
 

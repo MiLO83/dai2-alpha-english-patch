@@ -5,11 +5,17 @@ your own unmodified Japanese `SLPS-25228` disc image.
 
 ## Quick start
 
+For the graphical workflow, run `./tools/run-tsv-editor.sh`, then open the TSV
+and use **Apply Patch** or **Generate Patch**. See `TSV-EDITOR-README.md`.
+
+For the command-line workflow:
+
 1. Put the clean disc image at `original/SLPS-25228.iso`.
 2. Edit `translation/all-known-game-text.tsv` as a UTF-8 tab-separated
    spreadsheet. It combines every known dialogue, UI, database, and title-card
    string.
-3. Put reviewed English in the `English` user-override column. `Scope` keeps
+3. Put reviewed English in `English`; optional `English Page 2` and
+   `English Page 3` cells insert sequential dialogue pages. `Scope` keeps
    identical Japanese strings in dialogue, UI, and title-card domains separate.
 4. Run `./tools/build-edited-iso.sh` from this directory.
 5. Open `build/SLPS-25228-English-edited.iso` in PCSX2.
@@ -39,6 +45,6 @@ The current patch targets v25 and includes the native English title logo,
 five English intro cards, Hero Setup layout corrections, translated operation
 summary labels, and the latest Pilot Skills cleanup.
 The spreadsheet builder uses the gameplay-tested overlay-local pointer-swap
-method. It fits additional scenario translations by reassigning confirmed
-pointers among differently sized slots inside the same overlay. Executable UI
-fields are patched in place and retain their original fixed allocations.
+method for Page 1. Optional Pages 2 and 3 clone validated dialogue records,
+expand the affected PS2 overlay allocation, and relocate STAGE.BIN through its
+ISO9660 directory entry. Executable UI fields remain fixed-width.

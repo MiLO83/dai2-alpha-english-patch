@@ -14,11 +14,13 @@ FORBIDDEN = {".iso", ".bin", ".p04", ".img", ".mdf", ".p2s"}
 
 
 def manifest() -> list[Path]:
-    files = [ROOT / "PACKAGE-README.md", ROOT / "README.md"]
+    files = [ROOT / "PACKAGE-README.md", ROOT / "README.md", ROOT / "TSV-EDITOR-README.md"]
     for directory in ("assets", "config", "data", "patches", "translation"):
         files.extend(path for path in (ROOT / directory).rglob("*") if path.is_file())
     files.extend(path for path in (ROOT / "tools").glob("*.py") if path.is_file())
     files.extend(path for path in (ROOT / "tools").glob("*.sh") if path.is_file())
+    files.extend(path for path in (ROOT / "tools").glob("*.html") if path.is_file())
+    files.extend(path for path in (ROOT / "tools").glob("*.js") if path.is_file())
     if (ROOT / "tools/xdelta3").is_file():
         files.append(ROOT / "tools/xdelta3")
     return sorted(set(files))

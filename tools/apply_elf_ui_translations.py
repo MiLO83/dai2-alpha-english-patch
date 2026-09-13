@@ -15,6 +15,7 @@ from allocate_whole_page_dte import paired_size
 
 JAPANESE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
 HEADERS = ("Original Japanese", "Automatic Translation", "English")
+PAGE_HEADERS = HEADERS + ("English Page 2", "English Page 3")
 SAFE_SINGLE_FIELDS = {"空", "陸", "海", "宇"}
 # Hero Setup composes dynamic values with three standalone Japanese suffixes.
 # These offsets are screen-local: render `5 / 27` and suppress the redundant
@@ -70,7 +71,7 @@ def main() -> None:
     with args.table.open(encoding="utf-8-sig", newline="") as source:
         reader = csv.DictReader(source, dialect="excel-tab")
         fields = tuple(reader.fieldnames or ())
-        if fields not in (HEADERS, ("Scope",) + HEADERS):
+        if fields not in (HEADERS, ("Scope",) + HEADERS, PAGE_HEADERS, ("Scope",) + PAGE_HEADERS):
             parser.error(f"{args.table} must contain Scope (optional), then: {', '.join(HEADERS)}")
         chosen = {
             row["Original Japanese"]: row["English"].strip() or row["Automatic Translation"].strip()

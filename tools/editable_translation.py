@@ -15,6 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 HEADERS = ("Original Japanese", "Automatic Translation", "English")
+PAGE_HEADERS = HEADERS + ("English Page 2", "English Page 3")
 SOURCE_ISO_SHA256 = "1f63e4acb06a689221a021a693063291d9448bb71776e6bd3d2da050de3cefdd"
 STAGE_EXTENT = (0x6EE0B800, 8_484_480, "d3aed6168c7c4d913d641b39ec93e0245811cf737f803866b8b62b1ff9b8ae87")
 FONT_EXTENT = (0x6DFA8800, 806_400, "123bbf7cdb61ca8adf38eb5f9049dbd3e85a1873821937d9838802f9ddde9cdc")
@@ -27,8 +28,8 @@ def read_tsv(path: Path, scope: str | None = None) -> list[dict[str, str]]:
     with path.open(encoding="utf-8-sig", newline="") as source:
         reader = csv.DictReader(source, dialect="excel-tab")
         fields = tuple(reader.fieldnames or ())
-        if fields not in (HEADERS, ("Scope",) + HEADERS):
-            raise SystemExit(f"{path}: expected Scope (optional), then: {', '.join(HEADERS)}")
+        if fields not in (HEADERS, ("Scope",) + HEADERS, PAGE_HEADERS, ("Scope",) + PAGE_HEADERS):
+            raise SystemExit(f"{path}: expected Scope (optional), then: {', '.join(PAGE_HEADERS)}")
         rows = list(reader)
         if fields[0] == "Scope" and scope:
             rows = [row for row in rows if row["Scope"] == scope]
@@ -49,13 +50,15 @@ def export_table(path: Path, overwrite: bool) -> None:
         unique.setdefault(row["source"], None)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8-sig", newline="") as output:
-        writer = csv.DictWriter(output, fieldnames=HEADERS, dialect="excel-tab")
+        writer = csv.DictWriter(output, fieldnames=PAGE_HEADERS, dialect="excel-tab")
         writer.writeheader()
         for japanese in unique:
             writer.writerow({
                 "Original Japanese": japanese,
                 "Automatic Translation": automatic.get(japanese, ""),
                 "English": "",
+                "English Page 2": "",
+                "English Page 3": "",
             })
     print(f"exported {len(unique)} unique strings to {path}")
     print(f"automatic={sum(bool(automatic.get(text)) for text in unique)} untranslated={sum(not automatic.get(text) for text in unique)}")
@@ -147,12 +150,20 @@ def build(table: Path, ui_table: Path, source_iso: Path, output_iso: Path, force
     patched_elf = work / "editable-SLPS_252.28"
     ui_report = work / "editable-ui-build-report.tsv"
     fallback_sources = work / "stage-fallback-sources.txt"
+    extra_pages = work / "extra-pages.jsonl"
+    with extra_pages.open("w", encoding="utf-8") as output:
+        for row in rows:
+            for column in ("English Page 2", "English Page 3"):
+                page = row.get(column, "").strip()
+                if page:
+                    validate_english(row["Original Japanese"], page, 0)
+                    output.write(json.dumps(page, ensure_ascii=False) + "\n")
     python = sys.executable
 
     run([python, "tools/allocate_all_dialogue_dte.py", str(occurrences), str(dte),
          str(selection), "--cache", str(cache), "--extra-occurrences", "data/ui-occurrences.tsv",
          "--reclaim-translated-source-glyphs", "--protect-binary-tail", str(clean_elf),
-         "--protect-binary-tail-offset", "0x330000"])
+         "--protect-binary-tail-offset", "0x330000", "--extra-text", str(extra_pages)])
     run([python, "tools/apply_translation_slot_swap.py", str(clean_stage),
          str(occurrences), str(stage), "--cache", str(cache), "--report", str(report),
          "--dte", str(dte)])
@@ -170,9 +181,20 @@ def build(table: Path, ui_table: Path, source_iso: Path, output_iso: Path, force
          str(selection), "--cache", str(cache), "--extra-occurrences", "data/ui-occurrences.tsv",
          "--reclaim-translated-source-glyphs", "--protect-source-list", str(fallback_sources),
          "--protect-binary-tail", str(clean_elf), "--protect-binary-tail-offset", "0x330000"])
+    if extra_pages.stat().st_size:
+        # The second allocation must include the page-only pairs too.
+        run([python, "tools/allocate_all_dialogue_dte.py", str(occurrences), str(dte),
+             str(selection), "--cache", str(cache), "--extra-occurrences", "data/ui-occurrences.tsv",
+             "--reclaim-translated-source-glyphs", "--protect-source-list", str(fallback_sources),
+             "--protect-binary-tail", str(clean_elf), "--protect-binary-tail-offset", "0x330000",
+             "--extra-text", str(extra_pages)])
     run([python, "tools/apply_translation_slot_swap.py", str(clean_stage),
          str(occurrences), str(stage), "--cache", str(cache), "--report", str(report),
          "--dte", str(dte)])
+    expanded_stage = work / "editable-STAGE-expanded.BIN"
+    run([python, "tools/expand_dialogue_pages.py", str(clean_stage), str(stage),
+         str(occurrences), str(table), str(dte), str(expanded_stage)])
+    stage = expanded_stage
     with report.open(encoding="utf-8", newline="") as source:
         failed_manual = [
             row for row in csv.DictReader(source, dialect="excel-tab")
@@ -202,12 +224,18 @@ def build(table: Path, ui_table: Path, source_iso: Path, output_iso: Path, force
                 f"{len(failed_ui_manual)} manual UI occurrence(s) could not be inserted; "
                 f"shorten/fix them and consult {ui_report}. First failures: {sample}"
             )
-    if output_iso.exists():
-        output_iso.unlink()
-    run([python, "tools/build_translation_iso.py", str(source_iso), str(output_iso),
-         "--elf", str(patched_elf), "--stage", str(stage), "--font", str(patched_font)] if ui_rows else
-        [python, "tools/build_translation_iso.py", str(source_iso), str(output_iso),
-         "--stage", str(stage), "--font", str(patched_font)])
+    if output_iso.exists(): output_iso.unlink()
+    if stage.stat().st_size == STAGE_EXTENT[1]:
+        run([python, "tools/build_translation_iso.py", str(source_iso), str(output_iso),
+             "--elf", str(patched_elf), "--stage", str(stage), "--font", str(patched_font)])
+    else:
+        allocation_elf = work / "editable-SLPS_252.28-expanded"
+        stage_iso = work / "editable-expanded-stage.iso"
+        run([python, "tools/patch_overlay_allocations.py", str(patched_elf), str(stage), str(allocation_elf)])
+        run([python, "tools/append_iso_extent.py", str(source_iso), str(stage), str(stage_iso),
+             "--directory-extent", "0x10B", "--iso-name", "STAGE.BIN;1"])
+        run([python, "tools/build_translation_iso.py", str(stage_iso), str(output_iso),
+             "--elf", str(allocation_elf), "--font", str(patched_font)])
     print(f"selection: manual={manual} automatic={automatic} original={original}; ui_rows={len(ui_rows)}")
     print(f"built {output_iso}")
 

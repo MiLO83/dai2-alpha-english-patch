@@ -3,18 +3,26 @@
 The recommended spreadsheet is `all-known-game-text.tsv`, which combines all
 known scenario, UI, database, and title-card strings. `glyph-byte-table.tsv`
 is the accompanying Japanese CP932 and English DTE byte/index reference.
-Its `Scope` column must remain `dialogue`, `ui`, or `title`; the other three
-columns are the Japanese source, automatic English, and user-reviewed English.
+Its `Scope` column must remain `dialogue`, `ui`, or `title`. The other columns
+are the Japanese source, automatic English, and three user-reviewed English
+page fields.
+
+For a local graphical editor, run `./tools/run-tsv-editor.sh`. It provides
+equal-width translation columns, direct open/save, recovery autosave, unsaved
+exit warnings, filtering and paging, plus buttons to build an ISO and generate
+an xdelta. See `TSV-EDITOR-README.md` for the complete workflow.
 
 Open `all-known-game-text.tsv` (recommended), or the older domain-specific
 `game-script.tsv` (scenario dialogue) and `ui-script.tsv` (menus,
 databases, names, descriptions, and executable messages) as UTF-8
 tab-separated files in LibreOffice Calc, Excel, or a text editor. Both contain
-exactly three columns:
+five translation columns (plus `Scope` in the combined table):
 
 1. `Original Japanese` identifies the game string and should not be edited.
 2. `Automatic Translation` contains the current machine-translated text.
 3. `English` is for reviewed or rewritten text.
+4. `English Page 2` is an optional inserted dialogue page.
+5. `English Page 3` is an optional final inserted dialogue page.
 
 For each table, the ISO builder chooses `English` when it is non-empty, otherwise
 `Automatic Translation`, otherwise it leaves the original Japanese string in
@@ -24,6 +32,13 @@ Keep `$` control codes, line breaks, and the `「」` dialogue delimiters in the
 same order as the Japanese cell. Dialogue supports at most three lines and 44
 ASCII characters per line in all-DTE mode. The builder validates manual rows
 and points to a detailed report if a manual edit cannot be inserted.
+
+Pages 2 and 3 are dialogue-only. They clone the original record so the same
+speaker, portrait, and event metadata is retained, and the game continues to
+the original next record after the final inserted page. The builder expands
+the affected overlay and relocates STAGE.BIN in the ISO; it does not impose the
+original file-size ceiling. A record that cannot be identified safely causes
+the build to stop.
 
 From the repository root, build with the defaults:
 

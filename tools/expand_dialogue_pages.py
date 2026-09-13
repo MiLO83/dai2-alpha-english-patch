@@ -89,18 +89,39 @@ def main():
             raise SystemExit(f"{name}: requested extra pages, but no safe dialogue record was found")
         string_pool={}
         for (bs,be,parent), records in sorted(blocks.items()):
-            first=bs+8; cursor=first; new_records=bytearray()
+            first=bs+8; cursor=first; planned=[]
             while cursor < be-0x28:
-                rec=bytes(member[cursor:cursor+24]); new_records.extend(rec)
+                rec=bytes(member[cursor:cursor+24]); planned.append((rec,None))
                 for page in records.get(cursor,[]):
                     if not page: continue
                     raw,_=encode_whole_page(page,pairs)
-                    if raw not in string_pool:
-                        pos=align(len(member),8); member.extend(b"\0"*(pos-len(member))); member.extend(raw+b"\0"); string_pool[raw]=pos
-                    clone=bytearray(rec); struct.pack_into("<I",clone,8,load+string_pool[raw]); new_records.extend(clone); expanded+=1
+                    planned.append((rec,raw)); expanded+=1
                 cursor+=24
+
+            # Match the game's proven block layout: the cloned event block is
+            # placed first, followed by its strings.  Putting strings before
+            # the block makes the sequencer show a portrait without opening
+            # the dialogue window even when all pointers are otherwise valid.
             new_block=align(len(member)); member.extend(b"\0"*(new_block-len(member)))
-            member.extend(member[bs:bs+8]+new_records+member[be-0x28:be])
+            block_size=8+24*len(planned)+0x28
+            member.extend(b"\0"*block_size)
+            new_records=bytearray()
+            for rec,raw in planned:
+                if raw is None:
+                    new_records.extend(rec)
+                    continue
+                if raw not in string_pool:
+                    pos=align(len(member),8)
+                    member.extend(b"\0"*(pos-len(member)))
+                    member.extend(raw+b"\0")
+                    string_pool[raw]=pos
+                clone=bytearray(rec)
+                struct.pack_into("<I",clone,8,load+string_pool[raw])
+                new_records.extend(clone)
+            block=member[bs:bs+8]+new_records+member[be-0x28:be]
+            if len(block) != block_size:
+                raise SystemExit(f"{name}: internal dialogue block size mismatch")
+            member[new_block:new_block+block_size]=block
             if struct.unpack_from("<I",member,parent)[0] != load+bs:
                 raise SystemExit(f"{name}: parent pointer changed before page expansion")
             struct.pack_into("<I",member,parent,load+new_block); affected.add(name)
